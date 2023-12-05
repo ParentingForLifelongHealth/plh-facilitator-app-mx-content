@@ -1,4 +1,4 @@
-# plh-facilitator-app-nx-content
+# plh-facilitator-app-mx-content
 This package contains data used in the Mexico PLH facilitator version of the app
 
 Linked directly to PLH facilitator https://github.com/IDEMSInternational/plh-facilitator-app-content
