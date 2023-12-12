@@ -1,0 +1,57 @@
+{
+  "flow_type": "data_list",
+  "flow_name": "tag_data",
+  "status": "released",
+  "data_list_name": "tag",
+  "rows": [
+    {
+      "id": "sessions",
+      "title": "Weekly Sessions",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Weekly Sessions"
+        }
+      }
+    },
+    {
+      "id": "programme",
+      "title": "Facilitator Guide",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Facilitator Guide"
+        }
+      }
+    },
+    {
+      "id": "safeguarding",
+      "title": "Safeguarding",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Safeguarding"
+        }
+      }
+    },
+    {
+      "id": "faq",
+      "title": "Frequently Asked Questions",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Frequently Asked Questions"
+        }
+      }
+    }
+  ],
+  "_xlsxPath": "data/FacilitatorApp MX content.xlsx"
+}
