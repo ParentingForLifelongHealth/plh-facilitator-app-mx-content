@@ -1,0 +1,44 @@
+{
+  "flow_type": "global",
+  "flow_name": "deployment_global_my",
+  "status": "released",
+  "override_target": "deployment_global",
+  "override_condition": "@fields._deployment_name == \"plh_facilitator_my\"",
+  "rows": [
+    {
+      "type": "declare_global_constant",
+      "name": "app_name",
+      "value": "FaciNK",
+      "_translations": {
+        "value": {}
+      }
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "home_icon_asset",
+      "value": "images/FaciNK_logo_white.png",
+      "_translations": {
+        "value": {}
+      }
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "share_medium",
+      "value": "WhatsApp",
+      "_translations": {
+        "value": {}
+      }
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "has_multiple_content_packages",
+      "value": false
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "has_multiple_parent_groups",
+      "value": false
+    }
+  ],
+  "_xlsxPath": "data/deployment_data_mx.xlsx"
+}

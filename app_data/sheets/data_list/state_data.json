@@ -1,0 +1,74 @@
+{
+  "flow_type": "data_list",
+  "flow_name": "state_data",
+  "status": "released",
+  "data_list_name": "state",
+  "rows": [
+    {
+      "id": "jhr",
+      "name": "jhr",
+      "text": "Johor"
+    },
+    {
+      "id": "kdh",
+      "name": "kdh",
+      "text": "Kedah"
+    },
+    {
+      "id": "ktn",
+      "name": "ktn",
+      "text": "Kelantan"
+    },
+    {
+      "id": "mlk",
+      "name": "mlk",
+      "text": "Malacca"
+    },
+    {
+      "id": "nsn",
+      "name": "nsn",
+      "text": "Negeri Sembilan"
+    },
+    {
+      "id": "phg",
+      "name": "phg",
+      "text": "Pahang"
+    },
+    {
+      "id": "png",
+      "name": "png",
+      "text": "Penang"
+    },
+    {
+      "id": "prk",
+      "name": "prk",
+      "text": "Perak"
+    },
+    {
+      "id": "pls",
+      "name": "pls",
+      "text": "Perlis"
+    },
+    {
+      "id": "sbh",
+      "name": "sbh",
+      "text": "Sabah"
+    },
+    {
+      "id": "swk",
+      "name": "swk",
+      "text": "Sarawak"
+    },
+    {
+      "id": "sgr",
+      "name": "sgr",
+      "text": "Selangor"
+    },
+    {
+      "id": "trg",
+      "name": "trg",
+      "text": "Terengganu"
+    }
+  ],
+  "_xlsxPath": "data/deployment_data_mx.xlsx"
+}

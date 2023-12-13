@@ -1,0 +1,21 @@
+{
+  "flow_type": "data_list",
+  "flow_name": "number_data",
+  "status": "released",
+  "data_list_name": "number",
+  "rows": [
+    {
+      "id": 1
+    },
+    {
+      "id": 2
+    },
+    {
+      "id": 3
+    },
+    {
+      "id": 4
+    }
+  ],
+  "_xlsxPath": "data/navigation_data.xlsx"
+}

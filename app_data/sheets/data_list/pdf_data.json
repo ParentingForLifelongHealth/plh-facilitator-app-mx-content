@@ -1,0 +1,8 @@
+{
+  "flow_type": "data_list",
+  "flow_name": "pdf_data",
+  "status": "released",
+  "data_list_name": "pdf",
+  "rows": [],
+  "_xlsxPath": "data/FacilitatorApp MX content.xlsx"
+}
