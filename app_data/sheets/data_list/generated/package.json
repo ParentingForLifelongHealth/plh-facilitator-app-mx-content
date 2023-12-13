@@ -1,0 +1,63 @@
+{
+  "flow_name": "package",
+  "flow_subtype": "generated",
+  "flow_type": "data_list",
+  "rows": [
+    {
+      "id": "sessions",
+      "title": "Weekly Sessions",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Weekly Sessions"
+        }
+      },
+      "name": "sessions",
+      "text": "Weekly Sessions"
+    },
+    {
+      "id": "programme",
+      "title": "Facilitator Guide",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Facilitator Guide"
+        }
+      },
+      "name": "programme",
+      "text": "Facilitator Guide"
+    },
+    {
+      "id": "safeguarding",
+      "title": "Safeguarding",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Safeguarding"
+        }
+      },
+      "name": "safeguarding",
+      "text": "Safeguarding"
+    },
+    {
+      "id": "faq",
+      "title": "Frequently Asked Questions",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Frequently Asked Questions"
+        }
+      },
+      "name": "faq",
+      "text": "Frequently Asked Questions"
+    }
+  ]
+}

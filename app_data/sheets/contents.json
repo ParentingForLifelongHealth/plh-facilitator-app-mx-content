@@ -20,6 +20,11 @@
       "data_list_name": "article",
       "_xlsxPath": "data/FacilitatorApp MX content.xlsx"
     },
+    "package": {
+      "flow_name": "package",
+      "flow_subtype": "generated",
+      "flow_type": "data_list"
+    },
     "launch_actions": {
       "flow_type": "data_list",
       "flow_subtype": "lifecycle_actions",
@@ -63,7 +68,13 @@
       "_xlsxPath": "data/FacilitatorApp MX content.xlsx"
     }
   },
-  "data_pipe": {},
+  "data_pipe": {
+    "create_package": {
+      "flow_type": "data_pipe",
+      "flow_name": "create_package",
+      "_xlsxPath": "data/content_data_pipes.xlsx"
+    }
+  },
   "generator": {
     "article_generator": {
       "flow_type": "generator",
