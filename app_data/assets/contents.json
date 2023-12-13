@@ -4,16 +4,16 @@
     "size_kb": 7
   },
   "android/icon-foreground.png": {
-    "md5Checksum": "12c68f0e8007b8d9c0bd02ea9e96f61b",
-    "size_kb": 7
+    "md5Checksum": "428f613e5c1f3bf405d19c27ab3cac8c",
+    "size_kb": 53.8
   },
   "android/icon.png": {
-    "md5Checksum": "12c68f0e8007b8d9c0bd02ea9e96f61b",
-    "size_kb": 7
+    "md5Checksum": "07f99016e1e1f24c43e1931e4367d44f",
+    "size_kb": 35
   },
   "android/splash.png": {
-    "md5Checksum": "12c68f0e8007b8d9c0bd02ea9e96f61b",
-    "size_kb": 7
+    "md5Checksum": "82ceab23f8629879edae5c5f03929cd0",
+    "size_kb": 63.2
   },
   "images/flags/gb.svg": {
     "md5Checksum": "fcfef6780b36bef537381474df9d0be9",
