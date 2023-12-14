@@ -4,60 +4,74 @@
   "flow_type": "data_list",
   "rows": [
     {
-      "id": "sessions",
-      "title": "Weekly Sessions",
+      "id": "kemas_group_a",
+      "title": "KEMAS Group A",
       "_translations": {
         "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "Weekly Sessions"
+          "eng": "KEMAS Group A"
         }
       },
-      "name": "sessions",
-      "text": "Weekly Sessions"
+      "name": "kemas_group_a",
+      "text": "KEMAS Group A"
     },
     {
-      "id": "programme",
-      "title": "Facilitator Guide",
+      "id": "kemas_group_b",
+      "title": "KEMAS Group B",
       "_translations": {
         "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "Facilitator Guide"
+          "eng": "KEMAS Group B"
         }
       },
-      "name": "programme",
-      "text": "Facilitator Guide"
+      "name": "kemas_group_b",
+      "text": "KEMAS Group B"
     },
     {
-      "id": "safeguarding",
-      "title": "Safeguarding",
+      "id": "kemas_group_c",
+      "title": "KEMAS Group C",
       "_translations": {
         "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "Safeguarding"
+          "eng": "KEMAS Group C"
         }
       },
-      "name": "safeguarding",
-      "text": "Safeguarding"
+      "name": "kemas_group_c",
+      "text": "KEMAS Group C"
     },
     {
-      "id": "faq",
-      "title": "Frequently Asked Questions",
+      "id": "kemas_group_d",
+      "title": "KEMAS Group D",
       "_translations": {
         "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "Frequently Asked Questions"
+          "eng": "KEMAS Group D"
         }
       },
-      "name": "faq",
-      "text": "Frequently Asked Questions"
+      "name": "kemas_group_d",
+      "text": "KEMAS Group D"
+    },
+    {
+      "id": "masw",
+      "title": "MASW",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "MASW"
+        }
+      },
+      "name": "masw",
+      "text": "MASW"
     }
   ]
 }

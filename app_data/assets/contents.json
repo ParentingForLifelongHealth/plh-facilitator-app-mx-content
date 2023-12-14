@@ -19,9 +19,21 @@
     "md5Checksum": "fcfef6780b36bef537381474df9d0be9",
     "size_kb": 0.5
   },
+  "images/flags/mx.svg": {
+    "md5Checksum": "e9e40ad9cc83bdc167c4d75c16582f30",
+    "size_kb": 91.3
+  },
   "images/flags/my.svg": {
     "md5Checksum": "c1d190c31dd3f86046d695f0aeedcd34",
     "size_kb": 1.4
+  },
+  "images/flags/tz.svg": {
+    "md5Checksum": "4cba6f3545595d585cf1c89394955c71",
+    "size_kb": 0.5
+  },
+  "images/flags/ug.svg": {
+    "md5Checksum": "b26f273c47046c6350612f18f1e50f6e",
+    "size_kb": 3.9
   },
   "images/icons/bar_chart_white.svg": {
     "md5Checksum": "8451f25924b358984ca7e74206548a8b",
