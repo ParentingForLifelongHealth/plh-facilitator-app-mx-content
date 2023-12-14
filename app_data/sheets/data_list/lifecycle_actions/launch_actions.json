@@ -28,7 +28,7 @@
       "id": "app_start_language_select",
       "priority": 2,
       "condition_list": [
-        "!@fields.language_selected && @fields.user_mode"
+        "!@fields.language_selected && @global.has_multiple_languages && @fields.user_mode"
       ],
       "action_list": [
         {
@@ -51,7 +51,7 @@
       "id": "app_start_accept_terms",
       "priority": 3,
       "condition_list": [
-        "!@fields.terms_v20231016_accepted && @fields.user_mode"
+        "!@fields.@global.deployment_terms_field && @fields.user_mode"
       ],
       "action_list": [
         {

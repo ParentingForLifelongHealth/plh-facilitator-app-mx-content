@@ -220,11 +220,11 @@
           "trigger": "click",
           "action_id": "set_field",
           "args": [
-            "terms_v20231016_accepted",
+            "@global.deployment_terms_field",
             true
           ],
-          "_raw": "click | set_field: terms_v20231016_accepted: true",
-          "_cleaned": "click | set_field: terms_v20231016_accepted: true"
+          "_raw": "click | set_field: @global.deployment_terms_field: true",
+          "_cleaned": "click | set_field: @global.deployment_terms_field: true"
         }
       ],
       "parameter_list": {
@@ -233,6 +233,36 @@
       "condition": "@local.checkbox",
       "_nested_name": "button_completed",
       "_dynamicFields": {
+        "action_list": {
+          "1": {
+            "args": {
+              "0": [
+                {
+                  "fullExpression": "@global.deployment_terms_field",
+                  "matchedExpression": "@global.deployment_terms_field",
+                  "type": "global",
+                  "fieldName": "deployment_terms_field"
+                }
+              ]
+            },
+            "_raw": [
+              {
+                "fullExpression": "click | set_field: @global.deployment_terms_field: true",
+                "matchedExpression": "@global.deployment_terms_field",
+                "type": "global",
+                "fieldName": "deployment_terms_field"
+              }
+            ],
+            "_cleaned": [
+              {
+                "fullExpression": "click | set_field: @global.deployment_terms_field: true",
+                "matchedExpression": "@global.deployment_terms_field",
+                "type": "global",
+                "fieldName": "deployment_terms_field"
+              }
+            ]
+          }
+        },
         "condition": [
           {
             "fullExpression": "@local.checkbox",
@@ -243,6 +273,11 @@
         ]
       },
       "_dynamicDependencies": {
+        "@global.deployment_terms_field": [
+          "action_list.1.args.0",
+          "action_list.1._raw",
+          "action_list.1._cleaned"
+        ],
         "@local.checkbox": [
           "condition"
         ]
@@ -251,11 +286,26 @@
     {
       "type": "text",
       "name": "spacer",
-      "value": "Last updated: 16 October 2023",
+      "value": "Last updated: @global.deployment_terms_text",
       "_translations": {
         "value": {}
       },
-      "_nested_name": "spacer"
+      "_nested_name": "spacer",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "Last updated: @global.deployment_terms_text",
+            "matchedExpression": "@global.deployment_terms_text",
+            "type": "global",
+            "fieldName": "deployment_terms_text"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@global.deployment_terms_text": [
+          "value"
+        ]
+      }
     }
   ],
   "_xlsxPath": "templates/legal_terms.xlsx"
