@@ -6,26 +6,15 @@
   "flow_subtype": "app_config_language_list",
   "rows": [
     {
-      "id": "gb_en",
-      "country_code": "gb",
-      "country_label": "United Kingdom",
-      "country_icon": "images/flags/gb.svg",
-      "language_code": "en",
-      "language_label": "English",
-      "name": "gb_en",
-      "text": "English",
-      "image": "images/flags/gb.svg"
-    },
-    {
-      "id": "my_ms",
-      "country_code": "my",
-      "country_label": "Malaysia",
-      "country_icon": "images/flags/my.svg",
-      "language_code": "ms",
-      "language_label": "Malay",
-      "name": "my_ms",
-      "text": "Malay",
-      "image": "images/flags/my.svg"
+      "id": "mx_es",
+      "country_code": "mx",
+      "country_label": "México",
+      "country_icon": "images/flags/mx.svg",
+      "language_code": "es",
+      "language_label": "Español",
+      "name": "mx_es",
+      "text": "Español",
+      "image": "images/flags/mx.svg"
     }
   ],
   "_xlsxPath": "data/deployment_data_mx.xlsx"

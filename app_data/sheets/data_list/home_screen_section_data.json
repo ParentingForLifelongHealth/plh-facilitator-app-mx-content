@@ -1,66 +1,76 @@
 {
   "flow_type": "data_list",
-  "flow_name": "tag_data",
+  "flow_name": "home_screen_section_data",
   "status": "released",
-  "data_list_name": "tag",
+  "data_list_name": "home_screen_section",
   "rows": [
     {
-      "id": "kemas_group_a",
-      "title": "KEMAS Group A",
+      "id": "programme",
+      "title": "Facilitator Guide",
       "_translations": {
         "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "KEMAS Group A"
+          "eng": "Facilitator Guide"
         }
       }
     },
     {
-      "id": "kemas_group_b",
-      "title": "KEMAS Group B",
+      "id": "sessions",
+      "tag_list": [
+        "kemas_group_b",
+        "kemas_group_d",
+        "masw"
+      ],
+      "title": "Weekly Sessions",
       "_translations": {
         "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "KEMAS Group B"
+          "eng": "Weekly Sessions"
         }
       }
     },
     {
-      "id": "kemas_group_c",
-      "title": "KEMAS Group C",
+      "id": "challenges",
+      "tag_list": [
+        "kemas_group_b",
+        "kemas_group_d",
+        "masw"
+      ],
+      "title": "Common Challenges for:",
       "_translations": {
         "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "KEMAS Group C"
+          "eng": "Common Challenges for:"
         }
       }
     },
     {
-      "id": "kemas_group_d",
-      "title": "KEMAS Group D",
+      "id": "faq",
+      "title": "Frequently Asked Questions",
       "_translations": {
         "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "KEMAS Group D"
+          "eng": "Frequently Asked Questions"
         }
       }
     },
     {
-      "id": "masw",
-      "title": "MASW",
+      "id": "safeguarding",
+      "title": "Safeguarding",
       "_translations": {
         "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "MASW"
+          "eng": "Safeguarding"
         }
       }
     }

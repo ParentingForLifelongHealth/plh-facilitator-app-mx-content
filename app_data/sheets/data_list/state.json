@@ -1,0 +1,89 @@
+{
+  "flow_type": "data_list",
+  "flow_name": "state",
+  "status": "released",
+  "data_list_name": "state",
+  "rows": [
+    {
+      "id": "johor",
+      "name": "Johor",
+      "text": "Johor"
+    },
+    {
+      "id": "kedah",
+      "name": "Kedah",
+      "text": "Kedah"
+    },
+    {
+      "id": "kelantan",
+      "name": "Kelantan",
+      "text": "Kelantan"
+    },
+    {
+      "id": "kuala_lumpur",
+      "name": "Kuala Lumpur",
+      "text": "Kuala Lumpur"
+    },
+    {
+      "id": "labuan",
+      "name": "Labuan",
+      "text": "Labuan"
+    },
+    {
+      "id": "malacca",
+      "name": "Malacca",
+      "text": "Malacca"
+    },
+    {
+      "id": "negeri_sembilan",
+      "name": "Negeri Sembilan",
+      "text": "Negeri Sembilan"
+    },
+    {
+      "id": "pahang",
+      "name": "Pahang",
+      "text": "Pahang"
+    },
+    {
+      "id": "penang",
+      "name": "Penang",
+      "text": "Penang"
+    },
+    {
+      "id": "perak",
+      "name": "Perak",
+      "text": "Perak"
+    },
+    {
+      "id": "perlis",
+      "name": "Perlis",
+      "text": "Perlis"
+    },
+    {
+      "id": "putrajaya",
+      "name": "Putrajaya",
+      "text": "Putrajaya"
+    },
+    {
+      "id": "sabah",
+      "name": "Sabah",
+      "text": "Sabah"
+    },
+    {
+      "id": "sarawak",
+      "name": "Sarawak",
+      "text": "Sarawak"
+    },
+    {
+      "id": "selangor",
+      "name": "Selangor",
+      "text": "Selangor"
+    },
+    {
+      "id": "terengganu",
+      "name": "Terengganu",
+      "text": "Terengganu"
+    }
+  ],
+  "_xlsxPath": "data/deployment_data_mx.xlsx"
+}

@@ -1585,6 +1585,193 @@
       }
     },
     {
+      "type": "text",
+      "name": "question_sent_messages",
+      "value": "I was able to send...",
+      "_translations": {
+        "value": {}
+      },
+      "_nested_name": "question_sent_messages"
+    },
+    {
+      "name": "all",
+      "value": "All of the messages",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "all"
+    },
+    {
+      "name": "some",
+      "value": "Some of the messages",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "some"
+    },
+    {
+      "name": "none",
+      "value": "None of the messages",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "none"
+    },
+    {
+      "name": "answer_list",
+      "value": [
+        "name: all | text: @local.all",
+        "name: some | text: @local.some",
+        "name: none | text: @local.none"
+      ],
+      "type": "set_variable",
+      "_nested_name": "answer_list",
+      "_dynamicFields": {
+        "value": {
+          "0": [
+            {
+              "fullExpression": "name: all | text: @local.all",
+              "matchedExpression": "@local.all",
+              "type": "local",
+              "fieldName": "all"
+            }
+          ],
+          "1": [
+            {
+              "fullExpression": "name: some | text: @local.some",
+              "matchedExpression": "@local.some",
+              "type": "local",
+              "fieldName": "some"
+            }
+          ],
+          "2": [
+            {
+              "fullExpression": "name: none | text: @local.none",
+              "matchedExpression": "@local.none",
+              "type": "local",
+              "fieldName": "none"
+            }
+          ]
+        }
+      },
+      "_dynamicDependencies": {
+        "@local.all": [
+          "value.0"
+        ],
+        "@local.some": [
+          "value.1"
+        ],
+        "@local.none": [
+          "value.2"
+        ]
+      }
+    },
+    {
+      "type": "radio_button_grid",
+      "name": "radio_button_grid_sent_messages",
+      "value": "@local.attendance_data_json[@local.report_id].sent_messages",
+      "_translations": {
+        "value": {}
+      },
+      "parameter_list": {
+        "item_width": "100%",
+        "answer_list": "@local.answer_list"
+      },
+      "_nested_name": "radio_button_grid_sent_messages",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@local.attendance_data_json[@local.report_id].sent_messages",
+            "matchedExpression": "@local.attendance_data_json",
+            "type": "local",
+            "fieldName": "attendance_data_json"
+          },
+          {
+            "fullExpression": "@local.attendance_data_json[@local.report_id].sent_messages",
+            "matchedExpression": "@local.report_id",
+            "type": "local",
+            "fieldName": "report_id"
+          }
+        ],
+        "parameter_list": {
+          "answer_list": [
+            {
+              "fullExpression": "@local.answer_list",
+              "matchedExpression": "@local.answer_list",
+              "type": "local",
+              "fieldName": "answer_list"
+            }
+          ]
+        }
+      },
+      "_dynamicDependencies": {
+        "@local.attendance_data_json": [
+          "value"
+        ],
+        "@local.report_id": [
+          "value"
+        ],
+        "@local.answer_list": [
+          "parameter_list.answer_list"
+        ]
+      }
+    },
+    {
+      "name": "set_messages",
+      "value": "@calc(@local.attendance_data_json[@local.report_id].sent_messages = @local.radio_button_grid_sent_messages)",
+      "_translations": {
+        "value": {}
+      },
+      "exclude_from_translation": true,
+      "type": "set_variable",
+      "_nested_name": "set_messages",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@calc(@local.attendance_data_json[@local.report_id].sent_messages = @local.radio_button_grid_sent_messages)",
+            "matchedExpression": "@local.attendance_data_json",
+            "type": "local",
+            "fieldName": "attendance_data_json"
+          },
+          {
+            "fullExpression": "@calc(@local.attendance_data_json[@local.report_id].sent_messages = @local.radio_button_grid_sent_messages)",
+            "matchedExpression": "@local.report_id",
+            "type": "local",
+            "fieldName": "report_id"
+          },
+          {
+            "fullExpression": "@calc(@local.attendance_data_json[@local.report_id].sent_messages = @local.radio_button_grid_sent_messages)",
+            "matchedExpression": "@local.radio_button_grid_sent_messages",
+            "type": "local",
+            "fieldName": "radio_button_grid_sent_messages"
+          },
+          {
+            "fullExpression": "@calc(@local.attendance_data_json[@local.report_id].sent_messages = @local.radio_button_grid_sent_messages)",
+            "matchedExpression": "@calc(@local.attendance_data_json[@local.report_id].sent_messages = @local.radio_button_grid_sent_messages)",
+            "type": "calc",
+            "fieldName": "@local.attendance_data_json[@local.report_id].sent_messages = @local.radio_button_grid_sent_messages"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.attendance_data_json": [
+          "value"
+        ],
+        "@local.report_id": [
+          "value"
+        ],
+        "@local.radio_button_grid_sent_messages": [
+          "value"
+        ],
+        "@calc(@local.attendance_data_json[@local.report_id].sent_messages = @local.radio_button_grid_sent_messages)": [
+          "value"
+        ]
+      }
+    },
+    {
       "name": "attendance_data_string",
       "value": "@calc(JSON.stringify(@local.attendance_data_json))",
       "_translations": {
