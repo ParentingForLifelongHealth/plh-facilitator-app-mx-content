@@ -216,7 +216,7 @@
       },
       "condition": "changed | set_field: user_state: @local.user_state",
       "parameter_list": {
-        "answer_list": "@data.state_data",
+        "answer_list": "@data.state",
         "placeholder": "@global.select_prompt"
       },
       "_nested_name": "user_state",
@@ -240,10 +240,10 @@
         "parameter_list": {
           "answer_list": [
             {
-              "fullExpression": "@data.state_data",
-              "matchedExpression": "@data.state_data",
+              "fullExpression": "@data.state",
+              "matchedExpression": "@data.state",
               "type": "data",
-              "fieldName": "state_data"
+              "fieldName": "state"
             }
           ],
           "placeholder": [
@@ -263,7 +263,7 @@
         "@local.user_state": [
           "condition"
         ],
-        "@data.state_data": [
+        "@data.state": [
           "parameter_list.answer_list"
         ],
         "@global.select_prompt": [

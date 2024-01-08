@@ -254,6 +254,11 @@
       "flow_name": "article",
       "_xlsxPath": "templates/article.xlsx"
     },
+    "article_launch_history": {
+      "flow_type": "template",
+      "flow_name": "article_launch_history",
+      "_xlsxPath": "templates/article.xlsx"
+    },
     "data_collection": {
       "flow_type": "template",
       "flow_name": "data_collection",
@@ -268,6 +273,11 @@
       "flow_type": "template",
       "flow_name": "delete_report",
       "_xlsxPath": "templates/data_collection.xlsx"
+    },
+    "download_header": {
+      "flow_type": "template",
+      "flow_name": "download_header",
+      "_xlsxPath": "templates/media.xlsx"
     },
     "enter_dev_mode": {
       "flow_type": "template",
@@ -645,6 +655,16 @@
     "home_screen": {
       "flow_type": "template",
       "flow_name": "home_screen",
+      "_xlsxPath": "templates/navigation.xlsx"
+    },
+    "home_screen_card": {
+      "flow_type": "template",
+      "flow_name": "home_screen_card",
+      "_xlsxPath": "templates/navigation.xlsx"
+    },
+    "home_screen_carousel": {
+      "flow_type": "template",
+      "flow_name": "home_screen_carousel",
       "_xlsxPath": "templates/navigation.xlsx"
     },
     "home_screen_grid": {

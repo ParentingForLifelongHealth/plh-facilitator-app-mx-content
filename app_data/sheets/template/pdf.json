@@ -88,7 +88,7 @@
         {
           "type": "template",
           "name": "header",
-          "value": "header",
+          "value": "download_header",
           "rows": [
             {
               "name": "title",
@@ -115,25 +115,25 @@
               }
             },
             {
-              "name": "icon_asset",
-              "value": "@local.pdf_data.icon_asset",
+              "name": "asset",
+              "value": "@local.pdf_data.pdf_asset",
               "_translations": {
                 "value": {}
               },
               "type": "set_variable",
-              "_nested_name": "top.header.icon_asset",
+              "_nested_name": "top.header.asset",
               "_dynamicFields": {
                 "value": [
                   {
-                    "fullExpression": "@local.pdf_data.icon_asset",
-                    "matchedExpression": "@local.pdf_data.icon_asset",
+                    "fullExpression": "@local.pdf_data.pdf_asset",
+                    "matchedExpression": "@local.pdf_data.pdf_asset",
                     "type": "local",
                     "fieldName": "pdf_data"
                   }
                 ]
               },
               "_dynamicDependencies": {
-                "@local.pdf_data.icon_asset": [
+                "@local.pdf_data.pdf_asset": [
                   "value"
                 ]
               }

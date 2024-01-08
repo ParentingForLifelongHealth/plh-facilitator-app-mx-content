@@ -777,6 +777,9 @@
       "_translations": {
         "value": {}
       },
+      "parameter_list": {
+        "style": "emphasised"
+      },
       "_nested_name": "question_session_time",
       "_dynamicFields": {
         "value": [
@@ -901,7 +904,7 @@
     {
       "type": "text",
       "name": "question_participants",
-      "value": "Which of the parents in your group participated?\n*Participation is defined as any parent who posts a comment, question, reply or reaction (such as a thumbs up) within the chat since you shared the first message from the weekly discussion.*",
+      "value": "**Which of the parents in your group participated?**\n*Participation is defined as any parent who posts a comment, question, reply or reaction (such as a thumbs up) within the chat since you shared the first message from the weekly discussion.*",
       "_translations": {
         "value": {}
       },
@@ -1590,6 +1593,9 @@
       "value": "I was able to send...",
       "_translations": {
         "value": {}
+      },
+      "parameter_list": {
+        "style": "emphasised"
       },
       "_nested_name": "question_sent_messages"
     },
