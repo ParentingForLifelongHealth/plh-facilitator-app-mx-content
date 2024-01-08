@@ -260,6 +260,145 @@
           }
         },
         {
+          "name": "condition_package",
+          "value": true,
+          "condition": "!@item.tag_list || !@global.has_multiple_content_packages",
+          "type": "set_variable",
+          "_nested_name": "items.condition_package",
+          "_dynamicFields": {
+            "condition": [
+              {
+                "fullExpression": "!@item.tag_list || !@global.has_multiple_content_packages",
+                "matchedExpression": "!@item.tag_list",
+                "type": "item",
+                "fieldName": "tag_list"
+              },
+              {
+                "fullExpression": "!@item.tag_list || !@global.has_multiple_content_packages",
+                "matchedExpression": "!@global.has_multiple_content_packages",
+                "type": "global",
+                "fieldName": "has_multiple_content_packages"
+              }
+            ]
+          },
+          "_dynamicDependencies": {
+            "!@item.tag_list": [
+              "condition"
+            ],
+            "!@global.has_multiple_content_packages": [
+              "condition"
+            ]
+          }
+        },
+        {
+          "name": "packages",
+          "value": "@item.tag_list",
+          "_translations": {
+            "value": {}
+          },
+          "condition": "!!@item.tag_list && @global.has_multiple_content_packages",
+          "type": "set_variable",
+          "_nested_name": "items.packages",
+          "_dynamicFields": {
+            "value": [
+              {
+                "fullExpression": "@item.tag_list",
+                "matchedExpression": "@item.tag_list",
+                "type": "item",
+                "fieldName": "tag_list"
+              }
+            ],
+            "condition": [
+              {
+                "fullExpression": "!!@item.tag_list && @global.has_multiple_content_packages",
+                "matchedExpression": "!@item.tag_list",
+                "type": "item",
+                "fieldName": "tag_list"
+              },
+              {
+                "fullExpression": "!!@item.tag_list && @global.has_multiple_content_packages",
+                "matchedExpression": "@global.has_multiple_content_packages",
+                "type": "global",
+                "fieldName": "has_multiple_content_packages"
+              }
+            ]
+          },
+          "_dynamicDependencies": {
+            "@item.tag_list": [
+              "value"
+            ],
+            "!@item.tag_list": [
+              "condition"
+            ],
+            "@global.has_multiple_content_packages": [
+              "condition"
+            ]
+          }
+        },
+        {
+          "name": "condition_package",
+          "value": "@calc(@local.packages.includes(@fields.current_package))",
+          "_translations": {
+            "value": {}
+          },
+          "condition": "!!@item.tag_list && @global.has_multiple_content_packages",
+          "type": "set_variable",
+          "_nested_name": "items.condition_package",
+          "_dynamicFields": {
+            "value": [
+              {
+                "fullExpression": "@calc(@local.packages.includes(@fields.current_package))",
+                "matchedExpression": "@local.packages.includes",
+                "type": "local",
+                "fieldName": "packages"
+              },
+              {
+                "fullExpression": "@calc(@local.packages.includes(@fields.current_package))",
+                "matchedExpression": "@fields.current_package",
+                "type": "fields",
+                "fieldName": "current_package"
+              },
+              {
+                "fullExpression": "@calc(@local.packages.includes(@fields.current_package))",
+                "matchedExpression": "@calc(@local.packages.includes(@fields.current_package))",
+                "type": "calc",
+                "fieldName": "@local.packages.includes(@fields.current_package)"
+              }
+            ],
+            "condition": [
+              {
+                "fullExpression": "!!@item.tag_list && @global.has_multiple_content_packages",
+                "matchedExpression": "!@item.tag_list",
+                "type": "item",
+                "fieldName": "tag_list"
+              },
+              {
+                "fullExpression": "!!@item.tag_list && @global.has_multiple_content_packages",
+                "matchedExpression": "@global.has_multiple_content_packages",
+                "type": "global",
+                "fieldName": "has_multiple_content_packages"
+              }
+            ]
+          },
+          "_dynamicDependencies": {
+            "@local.packages.includes": [
+              "value"
+            ],
+            "@fields.current_package": [
+              "value"
+            ],
+            "@calc(@local.packages.includes(@fields.current_package))": [
+              "value"
+            ],
+            "!@item.tag_list": [
+              "condition"
+            ],
+            "@global.has_multiple_content_packages": [
+              "condition"
+            ]
+          }
+        },
+        {
           "type": "button",
           "name": "button_@item.id",
           "value": "@item.name",
@@ -301,7 +440,7 @@
           "parameter_list": {
             "style": "card"
           },
-          "condition": "!@local.already_reported & @item.type == \"in_person\"",
+          "condition": "!@local.already_reported && @item.type == \"in_person\" && @local.condition_package",
           "exclude_from_translation": true,
           "_nested_name": "items.button_@item.id",
           "_dynamicFields": {
@@ -353,16 +492,22 @@
             },
             "condition": [
               {
-                "fullExpression": "!@local.already_reported & @item.type == \"in_person\"",
+                "fullExpression": "!@local.already_reported && @item.type == \"in_person\" && @local.condition_package",
                 "matchedExpression": "!@local.already_reported",
                 "type": "local",
                 "fieldName": "already_reported"
               },
               {
-                "fullExpression": "!@local.already_reported & @item.type == \"in_person\"",
+                "fullExpression": "!@local.already_reported && @item.type == \"in_person\" && @local.condition_package",
                 "matchedExpression": "@item.type",
                 "type": "item",
                 "fieldName": "type"
+              },
+              {
+                "fullExpression": "!@local.already_reported && @item.type == \"in_person\" && @local.condition_package",
+                "matchedExpression": "@local.condition_package",
+                "type": "local",
+                "fieldName": "condition_package"
               }
             ],
             "_nested_name": [
@@ -389,6 +534,9 @@
               "condition"
             ],
             "@item.type": [
+              "condition"
+            ],
+            "@local.condition_package": [
               "condition"
             ]
           }
