@@ -9,7 +9,6 @@
       "home_screen_section_list": [
         "safeguarding"
       ],
-      "icon_asset": "images/what_is_safeguarding.svg",
       "related_article_id_1": "during_disclosed_abuse",
       "related_article_id_2": "after_disclosed_abuse",
       "related_article_id_3": "how_to_report_abuse",
@@ -39,7 +38,6 @@
       "home_screen_section_list": [
         "safeguarding"
       ],
-      "icon_asset": "images/during_disclosed_abuse.svg",
       "related_article_id_1": "after_disclosed_abuse",
       "related_article_id_2": "how_to_report_abuse",
       "related_article_id_3": "contact_for_reporting_abuse",
@@ -68,7 +66,6 @@
       "home_screen_section_list": [
         "safeguarding"
       ],
-      "icon_asset": "images/after_disclosed_abuse.svg",
       "related_article_id_1": "how_to_report_abuse",
       "related_article_id_2": "contact_for_reporting_abuse",
       "related_article_id_3": "crisis_hotlines",
@@ -97,7 +94,6 @@
       "home_screen_section_list": [
         "safeguarding"
       ],
-      "icon_asset": "images/how_to_report_abuse.svg",
       "related_article_id_1": "contact_for_reporting_abuse",
       "related_article_id_2": "crisis_hotlines",
       "title": "How should I report abuse?",
@@ -111,13 +107,13 @@
           "eng": "How should I report abuse?"
         },
         "introduction": {
-          "eng": "✅ Follow your organisation’s protocol.\n\n📝 If your organisation needs assistance in developing or improving their policies and procedures, please reference the following resources:\n\n**Malaysian resources**\n1️⃣ [Ministry of Women, Family and Community Development](https://www.kpwkm.gov.my/kpwkm/index.php?r=portal/about&id=b0J5ZFBERFhsalo2U05TWk1nSzVDQT09) \n\n2️⃣ [Women’s Aid Organisation](https://wao.org.my/)\n\n3️⃣ [Protect and Save the Children](https://www.psthechildren.org.my/resources.html) \n\n\n**International resources**\n1️⃣ [World Health Organization Guidelines Responding to Children and Adolescents who have Been Sexually Abused](https://www.who.int/publications/i/item/9789241550147) \n\n2️⃣ [Keeping Children Safe](https://www.keepingchildrensafe.global/)\n\n3️⃣ [Caring for Child Survivors of Sexual Abuse](https://www.unicef.org/documents/caring-child-survivors-sexual-abuse) \n\n4️⃣ [Strengthening Linkages between Clinical and Social Services for Children and Adolescents who have Experienced Sexual Violence: A Companion Guide](https://www.togetherforgirls.org/en/resources/strengthening-linkages-between-clinical-and-social-community-services-for-children-and-adolescents-who-have-experienced-sexual-violence-a-companion-guide) \n\n5️⃣ [Together for Girls: Every Hour Matters](https://www.togetherforgirls.org/en/campaigns/every-hour-matters)"
+          "eng": "✅ Follow your organisation’s protocol.\n\n📝 If your organisation needs assistance in developing or improving their policies and procedures, please reference the following resources:\n\n**Mexican resources**\n1️⃣ [Ministry of Women, Family and Community Development](https://www.kpwkm.gov.my/kpwkm/index.php?r=portal/about&id=b0J5ZFBERFhsalo2U05TWk1nSzVDQT09) \n\n2️⃣ [Women’s Aid Organisation](https://wao.org.my/)\n\n3️⃣ [Protect and Save the Children](https://www.psthechildren.org.my/resources.html) \n\n\n**International resources**\n1️⃣ [World Health Organization Guidelines Responding to Children and Adolescents who have Been Sexually Abused](https://www.who.int/publications/i/item/9789241550147) \n\n2️⃣ [Keeping Children Safe](https://www.keepingchildrensafe.global/)\n\n3️⃣ [Caring for Child Survivors of Sexual Abuse](https://www.unicef.org/documents/caring-child-survivors-sexual-abuse) \n\n4️⃣ [Strengthening Linkages between Clinical and Social Services for Children and Adolescents who have Experienced Sexual Violence: A Companion Guide](https://www.togetherforgirls.org/en/resources/strengthening-linkages-between-clinical-and-social-community-services-for-children-and-adolescents-who-have-experienced-sexual-violence-a-companion-guide) \n\n5️⃣ [Together for Girls: Every Hour Matters](https://www.togetherforgirls.org/en/campaigns/every-hour-matters)"
         },
         "related_articles_title": {
           "eng": "Additional Safeguarding Resources"
         }
       },
-      "introduction": "✅ Follow your organisation’s protocol.\n\n📝 If your organisation needs assistance in developing or improving their policies and procedures, please reference the following resources:\n\n**Malaysian resources**\n1️⃣ [Ministry of Women, Family and Community Development](https://www.kpwkm.gov.my/kpwkm/index.php?r=portal/about&id=b0J5ZFBERFhsalo2U05TWk1nSzVDQT09) \n\n2️⃣ [Women’s Aid Organisation](https://wao.org.my/)\n\n3️⃣ [Protect and Save the Children](https://www.psthechildren.org.my/resources.html) \n\n\n**International resources**\n1️⃣ [World Health Organization Guidelines Responding to Children and Adolescents who have Been Sexually Abused](https://www.who.int/publications/i/item/9789241550147) \n\n2️⃣ [Keeping Children Safe](https://www.keepingchildrensafe.global/)\n\n3️⃣ [Caring for Child Survivors of Sexual Abuse](https://www.unicef.org/documents/caring-child-survivors-sexual-abuse) \n\n4️⃣ [Strengthening Linkages between Clinical and Social Services for Children and Adolescents who have Experienced Sexual Violence: A Companion Guide](https://www.togetherforgirls.org/en/resources/strengthening-linkages-between-clinical-and-social-community-services-for-children-and-adolescents-who-have-experienced-sexual-violence-a-companion-guide) \n\n5️⃣ [Together for Girls: Every Hour Matters](https://www.togetherforgirls.org/en/campaigns/every-hour-matters)",
+      "introduction": "✅ Follow your organisation’s protocol.\n\n📝 If your organisation needs assistance in developing or improving their policies and procedures, please reference the following resources:\n\n**Mexican resources**\n1️⃣ [Ministry of Women, Family and Community Development](https://www.kpwkm.gov.my/kpwkm/index.php?r=portal/about&id=b0J5ZFBERFhsalo2U05TWk1nSzVDQT09) \n\n2️⃣ [Women’s Aid Organisation](https://wao.org.my/)\n\n3️⃣ [Protect and Save the Children](https://www.psthechildren.org.my/resources.html) \n\n\n**International resources**\n1️⃣ [World Health Organization Guidelines Responding to Children and Adolescents who have Been Sexually Abused](https://www.who.int/publications/i/item/9789241550147) \n\n2️⃣ [Keeping Children Safe](https://www.keepingchildrensafe.global/)\n\n3️⃣ [Caring for Child Survivors of Sexual Abuse](https://www.unicef.org/documents/caring-child-survivors-sexual-abuse) \n\n4️⃣ [Strengthening Linkages between Clinical and Social Services for Children and Adolescents who have Experienced Sexual Violence: A Companion Guide](https://www.togetherforgirls.org/en/resources/strengthening-linkages-between-clinical-and-social-community-services-for-children-and-adolescents-who-have-experienced-sexual-violence-a-companion-guide) \n\n5️⃣ [Together for Girls: Every Hour Matters](https://www.togetherforgirls.org/en/campaigns/every-hour-matters)",
       "related_articles_title": "Additional Safeguarding Resources"
     },
     {
@@ -125,7 +121,6 @@
       "home_screen_section_list": [
         "safeguarding"
       ],
-      "icon_asset": "images/faq_h_still_struggling.svg",
       "related_article_id_1": "how_to_report_abuse",
       "related_article_id_2": "crisis_hotlines",
       "title": "Abuse, Neglect and Violence Hotline",
@@ -160,7 +155,6 @@
     },
     {
       "id": "crisis_hotlines",
-      "icon_asset": "images/crisis_hotlines.svg",
       "related_article_id_1": "how_to_report_abuse",
       "related_article_id_2": "contact_for_reporting_abuse",
       "title": "Crisis Hotlines",
@@ -198,12 +192,6 @@
       "home_screen_section_list": [
         "sessions"
       ],
-      "tag_list": [
-        "masw",
-        "kemas_group_b",
-        "kemas_group_d"
-      ],
-      "icon_asset": "images/week_0_introduction.svg",
       "related_article_id_1": "faq_text_support",
       "related_article_id_2": "faq_ground_rules",
       "related_article_id_3": "faq_misbehaviour",
@@ -240,7 +228,7 @@
           "eng": "Message 1: Introduction"
         },
         "message_text_1": {
-          "eng": "😃 Hi there! Welcome to our Naungan Kasih WhatsApp Group! \n\nToday we are introducing ourselves and our goals for the programme! ⭐ \n\nMy name is [INSERT NAME] and my goal is to learn more about how to help my child go to bed by 8 every night.⏰🌙 \n\nPlease share your name and your goal for Naungan Kasih using text or audio message."
+          "eng": "😃 Hi there! Welcome to our Crianza con Conciencia+ WhatsApp Group! \n\nToday we are introducing ourselves and our goals for the programme! ⭐ \n\nMy name is [INSERT NAME] and my goal is to learn more about how to help my child go to bed by 8 every night.⏰🌙 \n\nPlease share your name and your goal for Crianza con Conciencia+ using text or audio message."
         },
         "message_guidance_1": {
           "eng": "Remember to fill in your name where it says [INSERT NAME] before sending your message. \n\nAllow some time for parents to share. Try to praise each response.\nFor example, you can say “Thanks for the response, [Insert Name]!” or “Great goal, [Insert Name]”! You can also use simple emojis like 👍or 🙂"
@@ -249,7 +237,7 @@
           "eng": "Message 2: Setting time to chat"
         },
         "message_text_2": {
-          "eng": "Every week, we will catch up at [INSERT TIME] on [INSERT DAY] to chat about our Naungan Kasih journey. \n\n👋Please join to share how things are going, any challenges you experience, or just say hi! 😊\n\n⏰Does this time and day work for everyone?"
+          "eng": "Every week, we will catch up at [INSERT TIME] on [INSERT DAY] to chat about our Crianza con Conciencia+ journey. \n\n👋Please join to share how things are going, any challenges you experience, or just say hi! 😊\n\n⏰Does this time and day work for everyone?"
         },
         "message_guidance_2": {
           "eng": "Add the time and day of the week before sending the message."
@@ -268,30 +256,23 @@
       "section_title_1": "Add Ground Rules to the WhatsApp Group Description",
       "section_text_1": "Remember to add the ground rules to the WhatsApp Group Description. \r\r​​To add the ground rules to the Group Description, copy the following ground rules or use the ones agreed during the onboarding session: \r\r“To make this a safe space for everyone, here are some ground rules:\n \n✅ What is said in the group stays in the group. You need to know that this group is private.\n✅ Accept each other. Everyone is different and has different experiences.\n✅ Share only what you feel comfortable sharing.\n✅ Feel free to ask questions!\n✅ Respect privacy of personal pictures and videos that are sent to the chat group. \n✅ I am only here as an observer. I will not respond to questions about your parenting habits in this group or personally. However, if there is a message that will benefit the entire group, then I will share a general message here.”\n\nOpen the WhatsApp group chat. \r\rTap the group name. \r\rTap the existing description, or tap Add Group Description. \nPaste the ground rules. \r\rTap Save.",
       "message_title_1": "Message 1: Introduction",
-      "message_text_1": "😃 Hi there! Welcome to our Naungan Kasih WhatsApp Group! \n\nToday we are introducing ourselves and our goals for the programme! ⭐ \n\nMy name is [INSERT NAME] and my goal is to learn more about how to help my child go to bed by 8 every night.⏰🌙 \n\nPlease share your name and your goal for Naungan Kasih using text or audio message.",
+      "message_text_1": "😃 Hi there! Welcome to our Crianza con Conciencia+ WhatsApp Group! \n\nToday we are introducing ourselves and our goals for the programme! ⭐ \n\nMy name is [INSERT NAME] and my goal is to learn more about how to help my child go to bed by 8 every night.⏰🌙 \n\nPlease share your name and your goal for Crianza con Conciencia+ using text or audio message.",
       "message_guidance_1": "Remember to fill in your name where it says [INSERT NAME] before sending your message. \n\nAllow some time for parents to share. Try to praise each response.\nFor example, you can say “Thanks for the response, [Insert Name]!” or “Great goal, [Insert Name]”! You can also use simple emojis like 👍or 🙂",
       "message_title_2": "Message 2: Setting time to chat",
-      "message_text_2": "Every week, we will catch up at [INSERT TIME] on [INSERT DAY] to chat about our Naungan Kasih journey. \n\n👋Please join to share how things are going, any challenges you experience, or just say hi! 😊\n\n⏰Does this time and day work for everyone?",
+      "message_text_2": "Every week, we will catch up at [INSERT TIME] on [INSERT DAY] to chat about our Crianza con Conciencia+ journey. \n\n👋Please join to share how things are going, any challenges you experience, or just say hi! 😊\n\n⏰Does this time and day work for everyone?",
       "message_guidance_2": "Add the time and day of the week before sending the message.",
       "message_title_3": "Message 3: Closing",
       "message_text_3": "😃Thank you so much for being part of our WhatsApp chat group! \n\nAs your home practice, try to spend at least 5 minutes of One-on-One Time with your child each day. \n\nWe can share about how it goes during our next chat session. \n\n👋See you next week.",
       "related_articles_title": "Support"
     },
     {
-      "id": "week_1_one_on_one",
+      "id": "week_1_mh_stress_self_talk",
       "home_screen_section_list": [
         "sessions"
       ],
-      "tag_list": [
-        "masw",
-        "kemas_group_b",
-        "kemas_group_d"
-      ],
-      "icon_asset": "images/week_1_one_on_one.svg",
       "related_article_id_1": "faq_no_participation_general",
-      "related_article_id_2": "one_on_one_challenges",
-      "related_article_id_3": "faq_misbehaviour",
-      "title": "Week 1: One-on-One Time",
+      "related_article_id_2": "faq_misbehaviour",
+      "title": "Week 1: Self-Talk",
       "_translations": {
         "title": {},
         "introduction": {},
@@ -301,94 +282,6 @@
         "message_title_2": {},
         "message_text_2": {},
         "message_guidance_2": {},
-        "message_title_3": {},
-        "message_text_3": {},
-        "message_guidance_3": {},
-        "message_title_4": {},
-        "message_text_4": {},
-        "related_articles_title": {}
-      },
-      "_translatedFields": {
-        "title": {
-          "eng": "Week 1: One-on-One Time"
-        },
-        "introduction": {
-          "eng": "This session allows parents to discuss their home activity of spending at least 5 minutes of one-on-one time. \nRemember, the key building blocks for One-on-One time are Day, Play, and Stay:\n\n**DAY** Try to do it every day\nSpend 5 minutes (or more!) One-on-One time with your child each day.\n\n**PLAY** Let them choose the activity\nTell your child that you would like to spend some time with them and that they can choose what to do or talk about. They might think this is weird at first but will come to enjoy this time with you!\n\n**STAY** Focus on your child \nSwitch off TV and put aside phones. Look at your child or teen. Nod or say “I see” to show you are really paying attention. Accept what they say without judging them.\n\nThe home activity is for parents to spend at least 5 minutes of one-on-one time with their child each day."
-        },
-        "message_title_1": {
-          "eng": "Message 1: Reminder"
-        },
-        "message_text_1": {
-          "eng": "💚Hello everyone! Our next chat session will be later today at [INSERT TIME]. Chat soon!"
-        },
-        "message_guidance_1": {
-          "eng": "Send this message in the morning on the day of the chat session. Insert the time for the chat before sending the message."
-        },
-        "message_title_2": {
-          "eng": "Message 2: Welcome"
-        },
-        "message_text_2": {
-          "eng": "Hi everyone! 😃 \n\nOur second chat session will start now.. 🌱\r\rHow is everybody doing? Please feel free to share how you are feeling through messages or emojis. ⭐"
-        },
-        "message_guidance_2": {
-          "eng": "Allow time for parents to share how they are feeling. You should also share how you are feeling. For example, “I am happy to be part of the chat today."
-        },
-        "message_title_3": {
-          "eng": "Message 3: Home Activity"
-        },
-        "message_text_3": {
-          "eng": "🌷Thank you for sharing! Just showing up today shows that you care! \n\nOur home activity for the week was spending 5 minutes of One-on-One Time with your child each day. \n\nHow did it go for you? ⭐"
-        },
-        "message_guidance_3": {
-          "eng": "Respond to the parents with an appropriate emoji or with an appropriate response from the common challenges."
-        },
-        "message_title_4": {
-          "eng": "Message 4: Closing"
-        },
-        "message_text_4": {
-          "eng": "Thanks for sharing so many wonderful responses! 🎉 \n\nWe are all learning here so please remember that the most important thing is that you give it your best. \n\nIt is what you do at home with your child that makes a difference! 😃"
-        },
-        "related_articles_title": {
-          "eng": "Responding to Parents"
-        }
-      },
-      "introduction": "This session allows parents to discuss their home activity of spending at least 5 minutes of one-on-one time. \nRemember, the key building blocks for One-on-One time are Day, Play, and Stay:\n\n**DAY** Try to do it every day\nSpend 5 minutes (or more!) One-on-One time with your child each day.\n\n**PLAY** Let them choose the activity\nTell your child that you would like to spend some time with them and that they can choose what to do or talk about. They might think this is weird at first but will come to enjoy this time with you!\n\n**STAY** Focus on your child \nSwitch off TV and put aside phones. Look at your child or teen. Nod or say “I see” to show you are really paying attention. Accept what they say without judging them.\n\nThe home activity is for parents to spend at least 5 minutes of one-on-one time with their child each day.",
-      "message_title_1": "Message 1: Reminder",
-      "message_text_1": "💚Hello everyone! Our next chat session will be later today at [INSERT TIME]. Chat soon!",
-      "message_guidance_1": "Send this message in the morning on the day of the chat session. Insert the time for the chat before sending the message.",
-      "message_title_2": "Message 2: Welcome",
-      "message_text_2": "Hi everyone! 😃 \n\nOur second chat session will start now.. 🌱\r\rHow is everybody doing? Please feel free to share how you are feeling through messages or emojis. ⭐",
-      "message_guidance_2": "Allow time for parents to share how they are feeling. You should also share how you are feeling. For example, “I am happy to be part of the chat today.",
-      "message_title_3": "Message 3: Home Activity",
-      "message_text_3": "🌷Thank you for sharing! Just showing up today shows that you care! \n\nOur home activity for the week was spending 5 minutes of One-on-One Time with your child each day. \n\nHow did it go for you? ⭐",
-      "message_guidance_3": "Respond to the parents with an appropriate emoji or with an appropriate response from the common challenges.",
-      "message_title_4": "Message 4: Closing",
-      "message_text_4": "Thanks for sharing so many wonderful responses! 🎉 \n\nWe are all learning here so please remember that the most important thing is that you give it your best. \n\nIt is what you do at home with your child that makes a difference! 😃",
-      "related_articles_title": "Responding to Parents"
-    },
-    {
-      "id": "week_2_check_in",
-      "home_screen_section_list": [
-        "sessions"
-      ],
-      "tag_list": [
-        "masw",
-        "kemas_group_b",
-        "kemas_group_d"
-      ],
-      "icon_asset": "images/week_2_check_in.svg",
-      "related_article_id_1": "faq_no_participation_general",
-      "related_article_id_2": "faq_ground_rules",
-      "related_article_id_3": "faq_small_group_active",
-      "title": "Week 2: Check-in",
-      "_translations": {
-        "title": {},
-        "introduction": {},
-        "message_title_1": {},
-        "message_text_1": {},
-        "message_guidance_1": {},
-        "message_title_2": {},
-        "message_text_2": {},
         "message_title_3": {},
         "message_text_3": {},
         "message_guidance_3": {},
@@ -397,199 +290,85 @@
         "message_guidance_4": {},
         "message_title_5": {},
         "message_text_5": {},
+        "message_guidance_5": {},
         "related_articles_title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "Week 2: Check-in"
+          "eng": "Week 1: Self-Talk"
         },
         "introduction": {
-          "eng": "The primary objective for this week is to check-in on the parents’ ParentText progress. \n \rParents can share their experiences with the skills they've learned, discuss challenges, or explore solutions as a group."
+          "eng": "This session allows parents to notice how the things they think and say to themself impact their stress (“self-talk”)  and encourage positive self-talk to help manage stress. \nThis skill is useful when parents are feeling overwhelmed, upset, or ashamed. There are three things to remember:\n\n1- Encourage parents to practise this skill daily; it takes repetition to master.\n\n2- Help parents understand that having negative thoughts and attitudes about their parenting is normal. Negative self-talk is a natural part of parenting. The important thing is to learn how to become more aware about when they are doing it. Like the redirect parenting skill - Catch it early before it gets worse!\n\nHelp them feel supported in the process of changing this behaviour by reminding them that this is a natural part of parenting, and that the skill may take some practise before it becomes second nature.\n\n3- Children and teens learn from their parents’ example. How parents talk to themselves, teaches their kids how to talk to themselves. \n\nThe home activity is for parents to notice when they engage in negative self-talk at least three times, and what the opposite the opposite, positive version of the same talk might be."
         },
         "message_title_1": {
-          "eng": "Message 1: Reminder"
+          "eng": "Message 1: Chat Reminder"
         },
         "message_text_1": {
-          "eng": "Hello! Our weekly chat is coming up! Our next chat session will be later today at [INSERT TIME]. We will catch up on how things are going with your home activities. \n\nSee you then! 👋"
+          "eng": "💚Hello everyone! Our next chat session will be later today at [INSERT TIME]. Chat soon!"
         },
         "message_guidance_1": {
           "eng": "Send this message in the morning on the day of the chat session. Insert the time for the chat before sending the message."
         },
         "message_title_2": {
-          "eng": "Message 2: Welcome"
+          "eng": "Message 2: Welcome and Topic Introduction"
         },
         "message_text_2": {
-          "eng": "Hello! Before we start our chat session, I just wanted to congratulate you for making it this far into the programme! ✨"
-        },
-        "message_title_3": {
-          "eng": "Message 3: Check-in"
-        },
-        "message_text_3": {
-          "eng": "How is everybody doing? 😃Happy? 😣\nStressed? Angry? 😒Annoyed? 💙Peaceful? Whatever emotion you feel…it’s okay! Please share with the group how you are feeling today."
-        },
-        "message_guidance_3": {
-          "eng": "Allow time for parents to share how they are feeling. You should also share how you are feeling. For example, “I am happy to be part of this chat today”"
-        },
-        "message_title_4": {
-          "eng": "Message 4: Home Activity"
-        },
-        "message_text_4": {
-          "eng": "Thanks for sharing! ✨\n\nLet’s chat about how your ParentText home activities are going. Please feel free to share what went well or if you found anything difficult. 💛"
-        },
-        "message_guidance_4": {
-          "eng": "Acknowledge the experiences parents share with an appropriate emoji or with a response from the common challenges."
-        },
-        "message_title_5": {
-          "eng": "Message 5: Closing"
-        },
-        "message_text_5": {
-          "eng": "Thank you for sharing, and working as hard as you do as parents. \n\nYour dedication to making your children's lives better just by being here. \nYou are doing great! 🏆"
-        },
-        "related_articles_title": {
-          "eng": "FAQ"
-        }
-      },
-      "introduction": "The primary objective for this week is to check-in on the parents’ ParentText progress. \n \rParents can share their experiences with the skills they've learned, discuss challenges, or explore solutions as a group.",
-      "message_title_1": "Message 1: Reminder",
-      "message_text_1": "Hello! Our weekly chat is coming up! Our next chat session will be later today at [INSERT TIME]. We will catch up on how things are going with your home activities. \n\nSee you then! 👋",
-      "message_guidance_1": "Send this message in the morning on the day of the chat session. Insert the time for the chat before sending the message.",
-      "message_title_2": "Message 2: Welcome",
-      "message_text_2": "Hello! Before we start our chat session, I just wanted to congratulate you for making it this far into the programme! ✨",
-      "message_title_3": "Message 3: Check-in",
-      "message_text_3": "How is everybody doing? 😃Happy? 😣\nStressed? Angry? 😒Annoyed? 💙Peaceful? Whatever emotion you feel…it’s okay! Please share with the group how you are feeling today.",
-      "message_guidance_3": "Allow time for parents to share how they are feeling. You should also share how you are feeling. For example, “I am happy to be part of this chat today”",
-      "message_title_4": "Message 4: Home Activity",
-      "message_text_4": "Thanks for sharing! ✨\n\nLet’s chat about how your ParentText home activities are going. Please feel free to share what went well or if you found anything difficult. 💛",
-      "message_guidance_4": "Acknowledge the experiences parents share with an appropriate emoji or with a response from the common challenges.",
-      "message_title_5": "Message 5: Closing",
-      "message_text_5": "Thank you for sharing, and working as hard as you do as parents. \n\nYour dedication to making your children's lives better just by being here. \nYou are doing great! 🏆",
-      "related_articles_title": "FAQ"
-    },
-    {
-      "id": "week_3_check_in",
-      "home_screen_section_list": [
-        "sessions"
-      ],
-      "tag_list": [
-        "masw",
-        "kemas_group_b",
-        "kemas_group_d"
-      ],
-      "icon_asset": "images/week_3_check_in.svg",
-      "related_article_id_1": "faq_h_no_volunteers",
-      "related_article_id_2": "faq_h_still_struggling",
-      "related_article_id_3": "faq_h_sad_to_end",
-      "title": "Week 3: Check-in & Identifying Group Admin",
-      "_translations": {
-        "title": {},
-        "introduction": {},
-        "sections_title": {},
-        "section_title_1": {},
-        "section_text_1": {},
-        "message_title_1": {},
-        "message_text_1": {},
-        "message_guidance_1": {},
-        "message_title_2": {},
-        "message_text_2": {},
-        "message_guidance_2": {},
-        "message_title_3": {},
-        "message_text_3": {},
-        "message_guidance_3": {},
-        "message_title_4": {},
-        "message_text_4": {},
-        "message_title_5": {},
-        "message_text_5": {},
-        "related_articles_title": {}
-      },
-      "_translatedFields": {
-        "title": {
-          "eng": "Week 3: Check-in & Identifying Group Admin"
-        },
-        "introduction": {
-          "eng": "This week, you will connect again with the parents to get updates on how they are engaging with Naungan Kasih ParentText. \r\rParents can share their experiences with the skills they have picked up, discuss any challenges, and explore solutions together as a group."
-        },
-        "sections_title": {
-          "eng": "Important Information"
-        },
-        "section_title_1": {
-          "eng": "Identifying Group Admin"
-        },
-        "section_text_1": {
-          "eng": "This week you will also ask the group to choose two group admin to keep the WhatsApp Support Group ongoing. \n\nThe WhatsApp groups are designed to support parent engagement in the ParentText chatbot. \n\nSelect the 2 parents who receive the most votes to lead the group."
-        },
-        "message_title_1": {
-          "eng": "Message 1: Reminder"
-        },
-        "message_text_1": {
-          "eng": "Hello! I am looking forward to chatting with you later today at [INSERT TIME]. We will catch up on how things are going with your home activities. Chat soon! 👋"
-        },
-        "message_guidance_1": {
-          "eng": "Send this message in the morning on the day of the chat session. Insert the time for the chat before sending the message."
-        },
-        "message_title_2": {
-          "eng": "Message 2: Welcome"
-        },
-        "message_text_2": {
-          "eng": "🔔Hello! Can you believe that this is already our 4th chat session? Time has flown by so quickly!\n\nHow are you doing today? Excited to share? Anxious about parenting? Curious? Whatever emotion you’re experiencing is okay. \n\nShare an emoji that best shows how you are feeling today. 😃😒😔😣"
+          "eng": "Hello, everyone! 😃\nWelcome to our second chat session! Today, our topic is managing stress! 🌱\nStress is a normal part of being human, and parenting can add an extra layer of challenges. It's crucial to handle our stress well; otherwise, it can build up and affect our health, energy, and overall happiness. 😢\nEveryone encounters stress. Think about your stress level today, using a scale from 1 (\"No stress\") to 10 (\"Extremely stressed\"), and feel free to share it with the group in the chat. Remember, every response is appreciated! We're all collaborating as a team! 💫"
         },
         "message_guidance_2": {
-          "eng": "Allow time for parents to share how they are feeling and also share how you feel."
+          "eng": "Respond to the parents with a message of support for responding to the question. Feel free to encourage or share an answer to prompt parents to answer."
         },
         "message_title_3": {
-          "eng": "Message 3: Home Activity"
+          "eng": "Message 3: Understanding Positive Self Talk"
         },
         "message_text_3": {
-          "eng": "Thanks for sharing! ✨\n\nHow are you doing with your ParentText home activities?\n\nRemember, we are here to celebrate the good things together and help each other find solutions when things go wrong. Who would like to share first?"
+          "eng": "Thank you all for sharing your honest responses! 🎉\nWe're all learning, and what matters most is that you're doing your best!\n💡 This week, we're going to practise a skill that can help manage stress: self-talk.\n🎤 Self-talk is the way we talk to ourselves in our head or out loud during stressful situations. Self-talk includes both things we say out loud to ourselves and thoughts we have in our minds.\nIt's quite easy to be unkind to ourselves, especially when we're tired, upset, or overwhelmed.\nCan anyone share an example of negative self-talk?"
         },
         "message_guidance_3": {
-          "eng": "Acknowledge the experiences parents share with an appropriate emoji or with a response from the common challenges."
+          "eng": "Allow parents to respond with an example, and choose an example that is 1) negative, and 2) referring to the parent."
         },
         "message_title_4": {
-          "eng": "Message 4: Group Admin"
+          "eng": "Message 4: Self-Talk and Children"
         },
         "message_text_4": {
-          "eng": "Thank you for sharing. 🏅\n\nNext week will be my last chat session with you. But you can keep this WhatsApp group open* as a place to continue to support each other! 💚\n\nIs anyone willing to take over as a group admin? \n\nPlease send me a direct message if you are interested. It would be great to get *two volunteers*. 👀"
+          "eng": "Thanks for sharing that example!\nLearning this skill will aid us in handling stress and feeling better when tough situations happen. Our kids pick up on how we talk to ourselves, even when we're not actively aware of it.\n🌷Have you ever considered how you talk to yourself during or after challenging events? Is it mostly positive, negative, or somewhere in between?"
+        },
+        "message_guidance_4": {
+          "eng": "Prompt parents to reply to these two questions. The goal is for parents to identify if they engage in negative self-talk and to learn that it is a common problem that many parents struggle with."
         },
         "message_title_5": {
-          "eng": "Message 5: Closing"
+          "eng": "Practice Activity: Re-wording Negative Self-Talk"
         },
         "message_text_5": {
-          "eng": "🎉Thank you! \r\rRemember, it is what you do at home with your child that makes the difference! 💚\n\rChat to you next week! 👀"
+          "eng": "📝 This week, let's notice negative self-talk when it happens, and switch it to positive self-talk. Example:\n**Negative Self-Talk:** \"I was a bad parent today. I yelled at my teen for an honest mistake.\"\n**Positive Self-Talk:** \"Today was tough because I've been overwhelmed. I yelled at my teen, knowing it was an honest mistake. Next time, I'll pause before responding, ensuring I'm calm and in control.\"\n💡 Notice how, in positive self-talk, the parent is more supportive and understanding rather than just labelling themselves a bad parent!\n🏠 Now, it's your turn! Share a recent negative self-talk in the chat and provide a positive version.\nBy week's end, try to catch three instances of negative self-talk. Consider what a more positive version might be and see how it feels!\nAny questions?"
+        },
+        "message_guidance_5": {
+          "eng": "Briefly read the participants’ responses and make sure they are not insulting themselves and generally follow the example above. Any instances of intent of self harm or harm of children should be reported appropriately."
         },
         "related_articles_title": {
-          "eng": "FAQ"
+          "eng": "Responding to Parents"
         }
       },
-      "introduction": "This week, you will connect again with the parents to get updates on how they are engaging with Naungan Kasih ParentText. \r\rParents can share their experiences with the skills they have picked up, discuss any challenges, and explore solutions together as a group.",
-      "sections_title": "Important Information",
-      "section_title_1": "Identifying Group Admin",
-      "section_text_1": "This week you will also ask the group to choose two group admin to keep the WhatsApp Support Group ongoing. \n\nThe WhatsApp groups are designed to support parent engagement in the ParentText chatbot. \n\nSelect the 2 parents who receive the most votes to lead the group.",
-      "message_title_1": "Message 1: Reminder",
-      "message_text_1": "Hello! I am looking forward to chatting with you later today at [INSERT TIME]. We will catch up on how things are going with your home activities. Chat soon! 👋",
+      "introduction": "This session allows parents to notice how the things they think and say to themself impact their stress (“self-talk”)  and encourage positive self-talk to help manage stress. \nThis skill is useful when parents are feeling overwhelmed, upset, or ashamed. There are three things to remember:\n\n1- Encourage parents to practise this skill daily; it takes repetition to master.\n\n2- Help parents understand that having negative thoughts and attitudes about their parenting is normal. Negative self-talk is a natural part of parenting. The important thing is to learn how to become more aware about when they are doing it. Like the redirect parenting skill - Catch it early before it gets worse!\n\nHelp them feel supported in the process of changing this behaviour by reminding them that this is a natural part of parenting, and that the skill may take some practise before it becomes second nature.\n\n3- Children and teens learn from their parents’ example. How parents talk to themselves, teaches their kids how to talk to themselves. \n\nThe home activity is for parents to notice when they engage in negative self-talk at least three times, and what the opposite the opposite, positive version of the same talk might be.",
+      "message_title_1": "Message 1: Chat Reminder",
+      "message_text_1": "💚Hello everyone! Our next chat session will be later today at [INSERT TIME]. Chat soon!",
       "message_guidance_1": "Send this message in the morning on the day of the chat session. Insert the time for the chat before sending the message.",
-      "message_title_2": "Message 2: Welcome",
-      "message_text_2": "🔔Hello! Can you believe that this is already our 4th chat session? Time has flown by so quickly!\n\nHow are you doing today? Excited to share? Anxious about parenting? Curious? Whatever emotion you’re experiencing is okay. \n\nShare an emoji that best shows how you are feeling today. 😃😒😔😣",
-      "message_guidance_2": "Allow time for parents to share how they are feeling and also share how you feel.",
-      "message_title_3": "Message 3: Home Activity",
-      "message_text_3": "Thanks for sharing! ✨\n\nHow are you doing with your ParentText home activities?\n\nRemember, we are here to celebrate the good things together and help each other find solutions when things go wrong. Who would like to share first?",
-      "message_guidance_3": "Acknowledge the experiences parents share with an appropriate emoji or with a response from the common challenges.",
-      "message_title_4": "Message 4: Group Admin",
-      "message_text_4": "Thank you for sharing. 🏅\n\nNext week will be my last chat session with you. But you can keep this WhatsApp group open* as a place to continue to support each other! 💚\n\nIs anyone willing to take over as a group admin? \n\nPlease send me a direct message if you are interested. It would be great to get *two volunteers*. 👀",
-      "message_title_5": "Message 5: Closing",
-      "message_text_5": "🎉Thank you! \r\rRemember, it is what you do at home with your child that makes the difference! 💚\n\rChat to you next week! 👀",
-      "related_articles_title": "FAQ"
+      "message_title_2": "Message 2: Welcome and Topic Introduction",
+      "message_text_2": "Hello, everyone! 😃\nWelcome to our second chat session! Today, our topic is managing stress! 🌱\nStress is a normal part of being human, and parenting can add an extra layer of challenges. It's crucial to handle our stress well; otherwise, it can build up and affect our health, energy, and overall happiness. 😢\nEveryone encounters stress. Think about your stress level today, using a scale from 1 (\"No stress\") to 10 (\"Extremely stressed\"), and feel free to share it with the group in the chat. Remember, every response is appreciated! We're all collaborating as a team! 💫",
+      "message_guidance_2": "Respond to the parents with a message of support for responding to the question. Feel free to encourage or share an answer to prompt parents to answer.",
+      "message_title_3": "Message 3: Understanding Positive Self Talk",
+      "message_text_3": "Thank you all for sharing your honest responses! 🎉\nWe're all learning, and what matters most is that you're doing your best!\n💡 This week, we're going to practise a skill that can help manage stress: self-talk.\n🎤 Self-talk is the way we talk to ourselves in our head or out loud during stressful situations. Self-talk includes both things we say out loud to ourselves and thoughts we have in our minds.\nIt's quite easy to be unkind to ourselves, especially when we're tired, upset, or overwhelmed.\nCan anyone share an example of negative self-talk?",
+      "message_guidance_3": "Allow parents to respond with an example, and choose an example that is 1) negative, and 2) referring to the parent.",
+      "message_title_4": "Message 4: Self-Talk and Children",
+      "message_text_4": "Thanks for sharing that example!\nLearning this skill will aid us in handling stress and feeling better when tough situations happen. Our kids pick up on how we talk to ourselves, even when we're not actively aware of it.\n🌷Have you ever considered how you talk to yourself during or after challenging events? Is it mostly positive, negative, or somewhere in between?",
+      "message_guidance_4": "Prompt parents to reply to these two questions. The goal is for parents to identify if they engage in negative self-talk and to learn that it is a common problem that many parents struggle with.",
+      "message_title_5": "Practice Activity: Re-wording Negative Self-Talk",
+      "message_text_5": "📝 This week, let's notice negative self-talk when it happens, and switch it to positive self-talk. Example:\n**Negative Self-Talk:** \"I was a bad parent today. I yelled at my teen for an honest mistake.\"\n**Positive Self-Talk:** \"Today was tough because I've been overwhelmed. I yelled at my teen, knowing it was an honest mistake. Next time, I'll pause before responding, ensuring I'm calm and in control.\"\n💡 Notice how, in positive self-talk, the parent is more supportive and understanding rather than just labelling themselves a bad parent!\n🏠 Now, it's your turn! Share a recent negative self-talk in the chat and provide a positive version.\nBy week's end, try to catch three instances of negative self-talk. Consider what a more positive version might be and see how it feels!\nAny questions?",
+      "message_guidance_5": "Briefly read the participants’ responses and make sure they are not insulting themselves and generally follow the example above. Any instances of intent of self harm or harm of children should be reported appropriately.",
+      "related_articles_title": "Responding to Parents"
     },
     {
       "id": "week_4_final_chat_sessions",
-      "home_screen_section_list": [
-        "sessions"
-      ],
-      "tag_list": [
-        "masw",
-        "kemas_group_b",
-        "kemas_group_d"
-      ],
-      "icon_asset": "images/week_4_final_chat_sessions.svg",
       "related_article_id_1": "faq_h_no_volunteers",
       "related_article_id_2": "faq_h_still_struggling",
       "related_article_id_3": "faq_h_sad_to_end",
@@ -616,7 +395,7 @@
           "eng": "Week 4: Final Chat Session"
         },
         "introduction": {
-          "eng": "This week is your final chat session with the group. It can be an emotional time for parents…and for you. You should congratulate yourself for taking the parents through the Naungan Kasih journey and celebrate with them the positive changes in their lives and for their children. \n\nDuring this chat session, you will share the names of the two group admin to keep the WhatsApp Support Group ongoing, and handover the WhatsApp group administration rights to them. \n\nRemember, the WhatsApp groups are designed to support parent engagement in the ParentText chatbot. \n\nBefore this chat session, you should have selected the two parents to lead the group. Enter the name of the parents after sharing the Group Message 3. If no one volunteered, see FAQ below. \n\nFor next steps after selecting the group admin, see “Handing over to Group Admin” on the homepage. \n\nYou can choose to stay or leave the WhatsApp Group after the program ends."
+          "eng": "This week is your final chat session with the group. It can be an emotional time for parents…and for you. You should congratulate yourself for taking the parents through the Crianza con Conciencia+ journey and celebrate with them the positive changes in their lives and for their children. \n\nDuring this chat session, you will share the names of the two group admin to keep the WhatsApp Support Group ongoing, and handover the WhatsApp group administration rights to them. \n\nRemember, the WhatsApp groups are designed to support parent engagement in the Crianza con Conciencia+ chatbot. \n\nBefore this chat session, you should have selected the two parents to lead the group. Enter the name of the parents after sharing the Group Message 3. If no one volunteered, see FAQ below. \n\nFor next steps after selecting the group admin, see “Handing over to Group Admin” on the homepage. \n\nYou can choose to stay or leave the WhatsApp Group after the program ends."
         },
         "message_title_1": {
           "eng": "Message 1: Reminder"
@@ -631,7 +410,7 @@
           "eng": "Message 2: Welcome"
         },
         "message_text_2": {
-          "eng": "👋Hi everyone, welcome to the final chat session together on Naungan Kasih. \n\n✨ Take a moment to think back to the beginning of the programme. How have you and your child changed?"
+          "eng": "👋Hi everyone, welcome to the final chat session together on Crianza con Conciencia+. \n\n✨ Take a moment to think back to the beginning of the programme. How have you and your child changed?"
         },
         "message_guidance_2": {
           "eng": "Allow parents to share about the changes that they have experienced during the programme. You can give brief words of encouragement like “Wonderful!” or “I am happy to hear that!” or even share celebration emojis like 🎉or ⭐."
@@ -652,35 +431,29 @@
           "eng": "Message 5: Goodbye"
         },
         "message_text_5": {
-          "eng": "I will now be exiting this WhatsApp Group. 👋\n\nYou are the best parents to your children *You can still complete your final ParentText Goals and Skills if you have not done so yet*. 🌱\n\nWe all face difficult situations sometimes, and these final parts of ParentText will help you and your child to get through them well. \n\nYou’ve got this! ⭐You are doing a wonderful job as a parent. It has been a pleasure to be on this journey with you!"
+          "eng": "I will now be exiting this WhatsApp Group. 👋\n\nYou are the best parents to your children *You can still complete your final Crianza con Conciencia+ Goals and Skills if you have not done so yet*. 🌱\n\nWe all face difficult situations sometimes, and these final parts of Crianza con Conciencia+ will help you and your child to get through them well. \n\nYou’ve got this! ⭐You are doing a wonderful job as a parent. It has been a pleasure to be on this journey with you!"
         },
         "related_articles_title": {
           "eng": "FAQ"
         }
       },
-      "introduction": "This week is your final chat session with the group. It can be an emotional time for parents…and for you. You should congratulate yourself for taking the parents through the Naungan Kasih journey and celebrate with them the positive changes in their lives and for their children. \n\nDuring this chat session, you will share the names of the two group admin to keep the WhatsApp Support Group ongoing, and handover the WhatsApp group administration rights to them. \n\nRemember, the WhatsApp groups are designed to support parent engagement in the ParentText chatbot. \n\nBefore this chat session, you should have selected the two parents to lead the group. Enter the name of the parents after sharing the Group Message 3. If no one volunteered, see FAQ below. \n\nFor next steps after selecting the group admin, see “Handing over to Group Admin” on the homepage. \n\nYou can choose to stay or leave the WhatsApp Group after the program ends.",
+      "introduction": "This week is your final chat session with the group. It can be an emotional time for parents…and for you. You should congratulate yourself for taking the parents through the Crianza con Conciencia+ journey and celebrate with them the positive changes in their lives and for their children. \n\nDuring this chat session, you will share the names of the two group admin to keep the WhatsApp Support Group ongoing, and handover the WhatsApp group administration rights to them. \n\nRemember, the WhatsApp groups are designed to support parent engagement in the Crianza con Conciencia+ chatbot. \n\nBefore this chat session, you should have selected the two parents to lead the group. Enter the name of the parents after sharing the Group Message 3. If no one volunteered, see FAQ below. \n\nFor next steps after selecting the group admin, see “Handing over to Group Admin” on the homepage. \n\nYou can choose to stay or leave the WhatsApp Group after the program ends.",
       "message_title_1": "Message 1: Reminder",
       "message_text_1": "Hello! Our last chat session will be later today at [INSERT TIME]. See you then! 👋",
       "message_guidance_1": "Send this message in the morning on the day of the chat session. Insert the time for the chat before sending the message.",
       "message_title_2": "Message 2: Welcome",
-      "message_text_2": "👋Hi everyone, welcome to the final chat session together on Naungan Kasih. \n\n✨ Take a moment to think back to the beginning of the programme. How have you and your child changed?",
+      "message_text_2": "👋Hi everyone, welcome to the final chat session together on Crianza con Conciencia+. \n\n✨ Take a moment to think back to the beginning of the programme. How have you and your child changed?",
       "message_guidance_2": "Allow parents to share about the changes that they have experienced during the programme. You can give brief words of encouragement like “Wonderful!” or “I am happy to hear that!” or even share celebration emojis like 🎉or ⭐.",
       "message_title_3": "Message 3: Thank You",
       "message_text_3": "Thank you for sharing your experiences. It is wonderful to see how much you have changed over the course of the programme. Remember that your parenting journey continues! 💚",
       "message_title_4": "Message 4: Group Admin",
       "message_text_4": "Although this is my last chat session with you, you are in good hands with your new chat group admin: [INSERT NAMES OF MODERATORS] 💙",
       "message_title_5": "Message 5: Goodbye",
-      "message_text_5": "I will now be exiting this WhatsApp Group. 👋\n\nYou are the best parents to your children *You can still complete your final ParentText Goals and Skills if you have not done so yet*. 🌱\n\nWe all face difficult situations sometimes, and these final parts of ParentText will help you and your child to get through them well. \n\nYou’ve got this! ⭐You are doing a wonderful job as a parent. It has been a pleasure to be on this journey with you!",
+      "message_text_5": "I will now be exiting this WhatsApp Group. 👋\n\nYou are the best parents to your children *You can still complete your final Crianza con Conciencia+ Goals and Skills if you have not done so yet*. 🌱\n\nWe all face difficult situations sometimes, and these final parts of Crianza con Conciencia+ will help you and your child to get through them well. \n\nYou’ve got this! ⭐You are doing a wonderful job as a parent. It has been a pleasure to be on this journey with you!",
       "related_articles_title": "FAQ"
     },
     {
       "id": "faq_h_prompts",
-      "tag_list": [
-        "masw",
-        "kemas_group_b",
-        "kemas_group_d"
-      ],
-      "icon_asset": "images/faq_text_support.svg",
       "title": "Chat session prompts for new group admin",
       "_translations": {
         "title": {},
@@ -697,28 +470,22 @@
           "eng": "After your call with the new group admin, you can share these prompts to support them with leading the chat sessions."
         },
         "message_text_1": {
-          "eng": "🎉Let us celebrate our successes! What was something positive you experienced when you tried one of the ParentText skills with your child?"
+          "eng": "🎉Let us celebrate our successes! What was something positive you experienced when you tried one of the Crianza con Conciencia+ skills with your child?"
         },
         "message_text_2": {
-          "eng": "🌱Trying out new skills can be hard at first. What was something *difficult* that you experienced when you tried a ParentText skill with your child at home?"
+          "eng": "🌱Trying out new skills can be hard at first. What was something *difficult* that you experienced when you tried a Crianza con Conciencia+ skill with your child at home?"
         },
         "message_text_3": {
-          "eng": "💙You are welcome to use this WhatsApp space to share any questions or experiences you have on your ParentText journey. Remember, I may not always be able to respond, but this is our group – *together we can find all the answers we need*!"
+          "eng": "💙You are welcome to use this WhatsApp space to share any questions or experiences you have on your Crianza con Conciencia+ journey. Remember, I may not always be able to respond, but this is our group – *together we can find all the answers we need*!"
         }
       },
       "introduction": "After your call with the new group admin, you can share these prompts to support them with leading the chat sessions.",
-      "message_text_1": "🎉Let us celebrate our successes! What was something positive you experienced when you tried one of the ParentText skills with your child?",
-      "message_text_2": "🌱Trying out new skills can be hard at first. What was something *difficult* that you experienced when you tried a ParentText skill with your child at home?",
-      "message_text_3": "💙You are welcome to use this WhatsApp space to share any questions or experiences you have on your ParentText journey. Remember, I may not always be able to respond, but this is our group – *together we can find all the answers we need*!"
+      "message_text_1": "🎉Let us celebrate our successes! What was something positive you experienced when you tried one of the Crianza con Conciencia+ skills with your child?",
+      "message_text_2": "🌱Trying out new skills can be hard at first. What was something *difficult* that you experienced when you tried a Crianza con Conciencia+ skill with your child at home?",
+      "message_text_3": "💙You are welcome to use this WhatsApp space to share any questions or experiences you have on your Crianza con Conciencia+ journey. Remember, I may not always be able to respond, but this is our group – *together we can find all the answers we need*!"
     },
     {
       "id": "faq_h_after_group_ended",
-      "tag_list": [
-        "masw",
-        "kemas_group_b",
-        "kemas_group_d"
-      ],
-      "icon_asset": "images/faq_text_support.svg",
       "title": "If parents or group admin reach out to you after the group has ended.",
       "_translations": {
         "title": {},
@@ -730,29 +497,28 @@
           "eng": "If parents or group admin reach out to you after the group has ended."
         },
         "introduction": {
-          "eng": "If parents or group admins reach out to you after the group has ended, it means that you have been helpful to them, which is amazing! \n\nParents may see you as a source of support outside of school and Naungan Kasih, but it is important to keep things balanced. \n\nShare this message to gently guide the parents to other places for support."
+          "eng": "If parents or group admins reach out to you after the group has ended, it means that you have been helpful to them, which is amazing! \n\nParents may see you as a source of support outside of school and Crianza con Conciencia+, but it is important to keep things balanced. \n\nShare this message to gently guide the parents to other places for support."
         },
         "message_text_1": {
-          "eng": "Hi!😃Thank you for your message. \n\nMy role with ParentText was limited. I unfortunately will not be further involved with the programme. \n\nIf your WhatsApp Support group is still active, feel free to post your questions in the group. Other parents may be able to support you with helpful suggestions. 💡\n\nYou can replay the Goal or Skill you are interested in by typing {MENU}."
+          "eng": "Hi!😃Thank you for your message. \n\nMy role with Crianza con Conciencia+ was limited. I unfortunately will not be further involved with the programme. \n\nIf your WhatsApp Support group is still active, feel free to post your questions in the group. Other parents may be able to support you with helpful suggestions. 💡\n\nYou can replay the Goal or Skill you are interested in by typing {MENU}."
         }
       },
-      "introduction": "If parents or group admins reach out to you after the group has ended, it means that you have been helpful to them, which is amazing! \n\nParents may see you as a source of support outside of school and Naungan Kasih, but it is important to keep things balanced. \n\nShare this message to gently guide the parents to other places for support.",
-      "message_text_1": "Hi!😃Thank you for your message. \n\nMy role with ParentText was limited. I unfortunately will not be further involved with the programme. \n\nIf your WhatsApp Support group is still active, feel free to post your questions in the group. Other parents may be able to support you with helpful suggestions. 💡\n\nYou can replay the Goal or Skill you are interested in by typing {MENU}."
+      "introduction": "If parents or group admins reach out to you after the group has ended, it means that you have been helpful to them, which is amazing! \n\nParents may see you as a source of support outside of school and Crianza con Conciencia+, but it is important to keep things balanced. \n\nShare this message to gently guide the parents to other places for support.",
+      "message_text_1": "Hi!😃Thank you for your message. \n\nMy role with Crianza con Conciencia+ was limited. I unfortunately will not be further involved with the programme. \n\nIf your WhatsApp Support group is still active, feel free to post your questions in the group. Other parents may be able to support you with helpful suggestions. 💡\n\nYou can replay the Goal or Skill you are interested in by typing {MENU}."
     },
     {
       "id": "faq_text_support",
       "home_screen_section_list": [
         "faq"
       ],
-      "icon_asset": "images/faq_text_support.svg",
-      "title": "A parent needs support accessing ParentText and I'm not sure how to answer their question.",
+      "title": "A parent needs support accessing Crianza con Conciencia+ and I'm not sure how to answer their question.",
       "_translations": {
         "title": {},
         "introduction": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "A parent needs support accessing ParentText and I'm not sure how to answer their question."
+          "eng": "A parent needs support accessing Crianza con Conciencia+ and I'm not sure how to answer their question."
         },
         "introduction": {
           "eng": "Reach out for support to @global.supervisor_name."
@@ -765,12 +531,6 @@
       "home_screen_section_list": [
         "faq"
       ],
-      "tag_list": [
-        "masw",
-        "kemas_group_b",
-        "kemas_group_d"
-      ],
-      "icon_asset": "images/faq_ground_rules.svg",
       "title": "A parent cannot commit to the ground rules.",
       "_translations": {
         "title": {},
@@ -808,7 +568,7 @@
           "eng": "Send this message to the parent after removing them from the WhatsApp Group"
         },
         "message_text_3": {
-          "eng": "Hello ⭐\n\n👀 I have noticed despite reminders, the ground rules aren't being followed.\n\n💚You can continue learning from ParentText, but unfortunately I have removed you from the WhatsApp group to maintain a positive environment for everyone."
+          "eng": "Hello ⭐\n\n👀 I have noticed despite reminders, the ground rules aren't being followed.\n\n💚You can continue learning from Crianza con Conciencia+, but unfortunately I have removed you from the WhatsApp group to maintain a positive environment for everyone."
         },
         "message_guidance_3": {
           "eng": "Notify your supervisor once you remove them. \n\rYou can block the parent if they continue to reach out to you."
@@ -826,7 +586,7 @@
       "message_title_2": "Send this reminder message to the parent who broke the ground rule",
       "message_text_2": "Hello ⭐\n\n👀 Creating a positive environment in our WhatsApp group is important, and that relies on everyone following the ground rules.\n\n🌱 I believe in the strength of our community. \n\nHowever, if difficulties continue, I may have to consider removing you from the group. \n\nLet's work together to maintain a respectful and supportive atmosphere. \n\nSee you in the next chat session.",
       "message_title_3": "Send this message to the parent after removing them from the WhatsApp Group",
-      "message_text_3": "Hello ⭐\n\n👀 I have noticed despite reminders, the ground rules aren't being followed.\n\n💚You can continue learning from ParentText, but unfortunately I have removed you from the WhatsApp group to maintain a positive environment for everyone.",
+      "message_text_3": "Hello ⭐\n\n👀 I have noticed despite reminders, the ground rules aren't being followed.\n\n💚You can continue learning from Crianza con Conciencia+, but unfortunately I have removed you from the WhatsApp group to maintain a positive environment for everyone.",
       "message_guidance_3": "Notify your supervisor once you remove them. \n\rYou can block the parent if they continue to reach out to you.",
       "message_title_4": "Send this message to the group after removing the parent who broke the ground rule",
       "message_text_4": "Hello Everyone ⭐,\n\n👀 We want our group to be positive for everyone, and that means following the rules.\n\n💚 Unfortunately, someone had to be removed because they weren't following the rules despite reminders.\n\nLet's keep things respectful and supportive.\r\rSee you in the next chat session!"
@@ -836,12 +596,6 @@
       "home_screen_section_list": [
         "faq"
       ],
-      "tag_list": [
-        "masw",
-        "kemas_group_b",
-        "kemas_group_d"
-      ],
-      "icon_asset": "images/faq_misbehaviour.svg",
       "title": "A parent is personally messaging me or calling me with lots of questions on their parenting habits or child’s misbehaviours.",
       "_translations": {
         "title": {},
@@ -854,7 +608,7 @@
           "eng": "A parent is personally messaging me or calling me with lots of questions on their parenting habits or child’s misbehaviours."
         },
         "introduction": {
-          "eng": "Parents may see you as someone they can turn to for help beyond school and Naungan Kasih, especially when they need advice on their child’s behaviour. \n\nEven though you want to help, it is important to find a balance for your well-being. \n\nShare the following message to gently remind the parents about your role in Naungan Kasih. \r\rIf the parents continue to persist, notify @global.supervisor_name."
+          "eng": "Parents may see you as someone they can turn to for help beyond school and Crianza con Conciencia+, especially when they need advice on their child’s behaviour. \n\nEven though you want to help, it is important to find a balance for your well-being. \n\nShare the following message to gently remind the parents about your role in Crianza con Conciencia+. \r\rIf the parents continue to persist, notify @global.supervisor_name."
         },
         "message_title_1": {
           "eng": "Send This Message to the Parent"
@@ -863,7 +617,7 @@
           "eng": "Hi!😃Thank you for your message. \n\nMy role in this activity is limited to sharing messages in the group only. I unfortunately do not have the capacity to respond to each individual message.😔\n\n🔑 If you are comfortable posting your questions in the group, please feel free to do so during our chat sessions! 💡"
         }
       },
-      "introduction": "Parents may see you as someone they can turn to for help beyond school and Naungan Kasih, especially when they need advice on their child’s behaviour. \n\nEven though you want to help, it is important to find a balance for your well-being. \n\nShare the following message to gently remind the parents about your role in Naungan Kasih. \r\rIf the parents continue to persist, notify @global.supervisor_name.",
+      "introduction": "Parents may see you as someone they can turn to for help beyond school and Crianza con Conciencia+, especially when they need advice on their child’s behaviour. \n\nEven though you want to help, it is important to find a balance for your well-being. \n\nShare the following message to gently remind the parents about your role in Crianza con Conciencia+. \r\rIf the parents continue to persist, notify @global.supervisor_name.",
       "message_title_1": "Send This Message to the Parent",
       "message_text_1": "Hi!😃Thank you for your message. \n\nMy role in this activity is limited to sharing messages in the group only. I unfortunately do not have the capacity to respond to each individual message.😔\n\n🔑 If you are comfortable posting your questions in the group, please feel free to do so during our chat sessions! 💡"
     },
@@ -872,12 +626,6 @@
       "home_screen_section_list": [
         "faq"
       ],
-      "tag_list": [
-        "masw",
-        "kemas_group_b",
-        "kemas_group_d"
-      ],
-      "icon_asset": "images/faq_h_still_struggling.svg",
       "title": "Only a small group of parents are actively participating in the chat sessions, while other parents are not responding.",
       "_translations": {
         "title": {},
@@ -935,12 +683,6 @@
     },
     {
       "id": "faq_h_no_volunteers",
-      "tag_list": [
-        "masw",
-        "kemas_group_b",
-        "kemas_group_d"
-      ],
-      "icon_asset": "images/faq_h_no_volunteers.svg",
       "title": "No one volunteered to be group admin",
       "_translations": {
         "title": {},
@@ -959,21 +701,15 @@
           "eng": "Alternate Closing Message"
         },
         "message_text_1": {
-          "eng": "Thank you for sharing your thoughts 💙\n\nSince we don’t have any volunteers for group admin, I will be closing this WhatsApp Support Group at the end of the Programme. \n\nRemember, you can still continue your ParentText journey with your family!"
+          "eng": "Thank you for sharing your thoughts 💙\n\nSince we don’t have any volunteers for group admin, I will be closing this WhatsApp Support Group at the end of the Programme. \n\nRemember, you can still continue your Crianza con Conciencia+ journey with your family!"
         }
       },
       "introduction": "It may be difficult to find volunteers to become group admin. If no one volunteers to lead the group, you can send the message below to close the group. \n\nWait a couple days before closing because someone might still volunteer!",
       "message_title_1": "Alternate Closing Message",
-      "message_text_1": "Thank you for sharing your thoughts 💙\n\nSince we don’t have any volunteers for group admin, I will be closing this WhatsApp Support Group at the end of the Programme. \n\nRemember, you can still continue your ParentText journey with your family!"
+      "message_text_1": "Thank you for sharing your thoughts 💙\n\nSince we don’t have any volunteers for group admin, I will be closing this WhatsApp Support Group at the end of the Programme. \n\nRemember, you can still continue your Crianza con Conciencia+ journey with your family!"
     },
     {
       "id": "faq_h_still_struggling",
-      "tag_list": [
-        "masw",
-        "kemas_group_b",
-        "kemas_group_d"
-      ],
-      "icon_asset": "images/faq_h_still_struggling.svg",
       "title": "Participants share that the programme was not helpful or that they are still struggling",
       "_translations": {
         "title": {},
@@ -1001,12 +737,6 @@
     },
     {
       "id": "faq_h_sad_to_end",
-      "tag_list": [
-        "masw",
-        "kemas_group_b",
-        "kemas_group_d"
-      ],
-      "icon_asset": "images/faq_h_sad_to_end.svg",
       "title": "Parents are feeling concerned, stressed or sad as the programme comes to an end.",
       "_translations": {
         "title": {},
@@ -1025,24 +755,18 @@
           "eng": "Message of Support"
         },
         "message_text_1": {
-          "eng": "Hello 👋\n\nThank you for sharing your feelings. \nIt’s okay to have fears or feel sad when something you’ve been a part of is ending. \n\nRemember, \n\n1️⃣Even though Naungan Kasih is ending, your journey can continue. You have gained some ⭐amazing ⭐parenting skills that you can carry with you. \n\n2️⃣The WhatsApp group can be a source of support well beyond the programme. Keep sharing your success and struggles in the WhatsApp Support Group, or with your peers. \n\n3️⃣If you ever want to go back to any parenting skills or goals, you can type MENU. Practise makes perfect ✨\n\nYou did great throughout the ParentText journey!"
+          "eng": "Hello 👋\n\nThank you for sharing your feelings. \nIt’s okay to have fears or feel sad when something you’ve been a part of is ending. \n\nRemember, \n\n1️⃣Even though Crianza con Conciencia+ is ending, your journey can continue. You have gained some ⭐amazing ⭐parenting skills that you can carry with you. \n\n2️⃣The WhatsApp group can be a source of support well beyond the programme. Keep sharing your success and struggles in the WhatsApp Support Group, or with your peers. \n\n3️⃣If you ever want to go back to any parenting skills or goals, you can type MENU. Practise makes perfect ✨\n\nYou did great throughout the Crianza con Conciencia+ journey!"
         }
       },
       "introduction": "It is normal for parents to feel sad or emotional when the programme ends and you leave the group. This means that parents found the chat sessions helpful and enjoyed participating. What a gift you have given them! Congratulations! \n\nTo support them with this transition, consider sending the message below.",
       "message_title_1": "Message of Support",
-      "message_text_1": "Hello 👋\n\nThank you for sharing your feelings. \nIt’s okay to have fears or feel sad when something you’ve been a part of is ending. \n\nRemember, \n\n1️⃣Even though Naungan Kasih is ending, your journey can continue. You have gained some ⭐amazing ⭐parenting skills that you can carry with you. \n\n2️⃣The WhatsApp group can be a source of support well beyond the programme. Keep sharing your success and struggles in the WhatsApp Support Group, or with your peers. \n\n3️⃣If you ever want to go back to any parenting skills or goals, you can type MENU. Practise makes perfect ✨\n\nYou did great throughout the ParentText journey!"
+      "message_text_1": "Hello 👋\n\nThank you for sharing your feelings. \nIt’s okay to have fears or feel sad when something you’ve been a part of is ending. \n\nRemember, \n\n1️⃣Even though Crianza con Conciencia+ is ending, your journey can continue. You have gained some ⭐amazing ⭐parenting skills that you can carry with you. \n\n2️⃣The WhatsApp group can be a source of support well beyond the programme. Keep sharing your success and struggles in the WhatsApp Support Group, or with your peers. \n\n3️⃣If you ever want to go back to any parenting skills or goals, you can type MENU. Practise makes perfect ✨\n\nYou did great throughout the Crianza con Conciencia+ journey!"
     },
     {
       "id": "faq_no_participation_general",
       "home_screen_section_list": [
         "faq"
       ],
-      "tag_list": [
-        "masw",
-        "kemas_group_b",
-        "kemas_group_d"
-      ],
-      "icon_asset": "images/faq_no_participation_wk2.svg",
       "title": "What if no one participates?",
       "_translations": {
         "title": {},
@@ -1064,7 +788,7 @@
           "eng": "Directly ask a specific parent to share"
         },
         "message_text_1": {
-          "eng": "[Enter a Parent's Name], we'd love to hear about your week with ParentText. Would you be interested in sharing how it went?"
+          "eng": "[Enter a Parent's Name], we'd love to hear about your week with Crianza con Conciencia+. Would you be interested in sharing how it went?"
         },
         "message_guidance_1": {
           "eng": "Before hitting send, please make sure to tag a specific parent by typing @Parent’s Name"
@@ -1078,360 +802,22 @@
       },
       "introduction": "Engaging parents in the group chat can sometimes be hard. Some parents may need a nudge to share their experiences or they might be busy with their schedules. \n\nIf your chat goes silent after the prompt, consider sharing these ideas or suggestions:",
       "message_title_1": "Directly ask a specific parent to share",
-      "message_text_1": "[Enter a Parent's Name], we'd love to hear about your week with ParentText. Would you be interested in sharing how it went?",
+      "message_text_1": "[Enter a Parent's Name], we'd love to hear about your week with Crianza con Conciencia+. Would you be interested in sharing how it went?",
       "message_guidance_1": "Before hitting send, please make sure to tag a specific parent by typing @Parent’s Name",
       "message_title_2": "Check if it is a good time for WhatsApp Chat",
       "message_text_2": "Hello Parents, 👋\n\n⏱️I value your time and want to ensure our chat is convenient for everyone. \n\n⭐Does this time work well for our conversations? \n\n🔔Is there another time that works for you? \n\nYour input matters!"
     },
     {
-      "id": "overview_nk_a",
+      "id": "overview_cc",
       "home_screen_section_list": [
         "programme"
       ],
-      "tag_list": [
-        "kemas_group_a"
-      ],
-      "icon_asset": "images/overview_nk.svg",
-      "resource_data_1": "pdf",
-      "resource_id_1": "group_a_overview",
-      "related_article_id_1": "onboarding_a",
-      "related_article_id_2": "how_to_report_a_c",
-      "title": "Overview of the Naungan Kasih Programme",
-      "_translations": {
-        "title": {},
-        "introduction": {},
-        "sections_title": {},
-        "section_title_1": {},
-        "section_text_1": {},
-        "section_title_2": {},
-        "section_text_2": {},
-        "section_title_3": {},
-        "section_text_3": {},
-        "section_title_4": {},
-        "section_text_4": {},
-        "resource_title_1": {},
-        "related_articles_title": {}
-      },
-      "_translatedFields": {
-        "title": {
-          "eng": "Overview of the Naungan Kasih Programme"
-        },
-        "introduction": {
-          "eng": "Welcome to the Naungan Kasih Positive Parenting Programme! \n\nThank you for your commitment and dedication to supporting children and families in your community. \nYou are a shining star!"
-        },
-        "sections_title": {
-          "eng": "Welcome"
-        },
-        "section_title_1": {
-          "eng": "What’s inside the Facilitator Guide?"
-        },
-        "section_text_1": {
-          "eng": "This guide is for YOU!! \nA comprehensive guide to help you deliver Naungan Kasih to families around you. \nSteps on how to introduce caregivers to the programme, and support them\nSpecific information on the programme’s content."
-        },
-        "section_title_2": {
-          "eng": "What to remember?"
-        },
-        "section_text_2": {
-          "eng": "It is important to follow this manual as closely as possible. However, manuals are only a guide to support you after what you have learned in the training workshop. \nWhat you deliver – the content of the manual – is only 20% of the programme. The rest 80%? It’s all about HOW you facilitate the programme and behave towards the parents."
-        },
-        "section_title_3": {
-          "eng": "Skills you need"
-        },
-        "section_text_3": {
-          "eng": "The core skills of a good facilitator are a mirror for parents to learn how to bring about the change we want to see in parents and the community. These include understanding stages of child development, praising and encouraging parents, using active listening skills, being consistent and compassionate, exploring problems, and finding solutions together."
-        },
-        "section_title_4": {
-          "eng": "⭐Remember"
-        },
-        "section_text_4": {
-          "eng": "Just as we say to the parents, “It is what you do at home that makes the difference,” the same thing applies to you: “It is how you interact with the parents in your group that makes the difference.” \n\nIf you take the time to deliver a session before it begins, you will be more confident. If there is anything that you cannot remember or feel unsure of, contact another facilitator to practise with. \n\nAccess the Facilitator Guide for your group by clicking on the icon above."
-        },
-        "resource_title_1": {
-          "eng": "Overview Guide"
-        },
-        "related_articles_title": {
-          "eng": "Related information"
-        }
-      },
-      "introduction": "Welcome to the Naungan Kasih Positive Parenting Programme! \n\nThank you for your commitment and dedication to supporting children and families in your community. \nYou are a shining star!",
-      "sections_title": "Welcome",
-      "section_title_1": "What’s inside the Facilitator Guide?",
-      "section_text_1": "This guide is for YOU!! \nA comprehensive guide to help you deliver Naungan Kasih to families around you. \nSteps on how to introduce caregivers to the programme, and support them\nSpecific information on the programme’s content.",
-      "section_title_2": "What to remember?",
-      "section_text_2": "It is important to follow this manual as closely as possible. However, manuals are only a guide to support you after what you have learned in the training workshop. \nWhat you deliver – the content of the manual – is only 20% of the programme. The rest 80%? It’s all about HOW you facilitate the programme and behave towards the parents.",
-      "section_title_3": "Skills you need",
-      "section_text_3": "The core skills of a good facilitator are a mirror for parents to learn how to bring about the change we want to see in parents and the community. These include understanding stages of child development, praising and encouraging parents, using active listening skills, being consistent and compassionate, exploring problems, and finding solutions together.",
-      "section_title_4": "⭐Remember",
-      "section_text_4": "Just as we say to the parents, “It is what you do at home that makes the difference,” the same thing applies to you: “It is how you interact with the parents in your group that makes the difference.” \n\nIf you take the time to deliver a session before it begins, you will be more confident. If there is anything that you cannot remember or feel unsure of, contact another facilitator to practise with. \n\nAccess the Facilitator Guide for your group by clicking on the icon above.",
-      "resource_title_1": "Overview Guide",
-      "related_articles_title": "Related information"
-    },
-    {
-      "id": "overview_nk_b",
-      "home_screen_section_list": [
-        "programme"
-      ],
-      "tag_list": [
-        "kemas_group_b"
-      ],
-      "icon_asset": "images/overview_nk.svg",
-      "resource_data_1": "pdf",
-      "resource_id_1": "group_b_overview",
-      "related_article_id_1": "onboarding_b",
-      "related_article_id_2": "how_to_weekly_session",
-      "related_article_id_3": "how_to_report_b_d_masw",
-      "title": "Overview of the Naungan Kasih Programme",
-      "_translations": {
-        "title": {},
-        "introduction": {},
-        "sections_title": {},
-        "section_title_1": {},
-        "section_text_1": {},
-        "section_title_2": {},
-        "section_text_2": {},
-        "section_title_3": {},
-        "section_text_3": {},
-        "section_title_4": {},
-        "section_text_4": {},
-        "resource_title_1": {},
-        "related_articles_title": {}
-      },
-      "_translatedFields": {
-        "title": {
-          "eng": "Overview of the Naungan Kasih Programme"
-        },
-        "introduction": {
-          "eng": "Welcome to the Naungan Kasih Positive Parenting Programme! \n\nThank you for your commitment and dedication to supporting children and families in your community. \nYou are a shining star!"
-        },
-        "sections_title": {
-          "eng": "Welcome"
-        },
-        "section_title_1": {
-          "eng": "What’s inside the Facilitator Guide?"
-        },
-        "section_text_1": {
-          "eng": "This guide is for YOU!! \nA comprehensive guide to help you deliver Naungan Kasih to families around you. \nSteps on how to introduce caregivers to the programme, and support them\nSpecific information on the programme’s content."
-        },
-        "section_title_2": {
-          "eng": "What to remember?"
-        },
-        "section_text_2": {
-          "eng": "It is important to follow this manual as closely as possible. However, manuals are only a guide to support you after what you have learned in the training workshop. \nWhat you deliver – the content of the manual – is only 20% of the programme. The rest 80%? It’s all about HOW you facilitate the programme and behave towards the parents."
-        },
-        "section_title_3": {
-          "eng": "Skills you need"
-        },
-        "section_text_3": {
-          "eng": "The core skills of a good facilitator are a mirror for parents to learn how to bring about the change we want to see in parents and the community. These include understanding stages of child development, praising and encouraging parents, using active listening skills, being consistent and compassionate, exploring problems, and finding solutions together."
-        },
-        "section_title_4": {
-          "eng": "⭐Remember"
-        },
-        "section_text_4": {
-          "eng": "Just as we say to the parents, “It is what you do at home that makes the difference,” the same thing applies to you: “It is how you interact with the parents in your group that makes the difference.” \n\nIf you take the time to deliver a session before it begins, you will be more confident. If there is anything that you cannot remember or feel unsure of, contact another facilitator to practise with. \n\nAccess the Facilitator Guide for your group by clicking on the icon above."
-        },
-        "resource_title_1": {
-          "eng": "Overview Guide"
-        },
-        "related_articles_title": {
-          "eng": "Related information"
-        }
-      },
-      "introduction": "Welcome to the Naungan Kasih Positive Parenting Programme! \n\nThank you for your commitment and dedication to supporting children and families in your community. \nYou are a shining star!",
-      "sections_title": "Welcome",
-      "section_title_1": "What’s inside the Facilitator Guide?",
-      "section_text_1": "This guide is for YOU!! \nA comprehensive guide to help you deliver Naungan Kasih to families around you. \nSteps on how to introduce caregivers to the programme, and support them\nSpecific information on the programme’s content.",
-      "section_title_2": "What to remember?",
-      "section_text_2": "It is important to follow this manual as closely as possible. However, manuals are only a guide to support you after what you have learned in the training workshop. \nWhat you deliver – the content of the manual – is only 20% of the programme. The rest 80%? It’s all about HOW you facilitate the programme and behave towards the parents.",
-      "section_title_3": "Skills you need",
-      "section_text_3": "The core skills of a good facilitator are a mirror for parents to learn how to bring about the change we want to see in parents and the community. These include understanding stages of child development, praising and encouraging parents, using active listening skills, being consistent and compassionate, exploring problems, and finding solutions together.",
-      "section_title_4": "⭐Remember",
-      "section_text_4": "Just as we say to the parents, “It is what you do at home that makes the difference,” the same thing applies to you: “It is how you interact with the parents in your group that makes the difference.” \n\nIf you take the time to deliver a session before it begins, you will be more confident. If there is anything that you cannot remember or feel unsure of, contact another facilitator to practise with. \n\nAccess the Facilitator Guide for your group by clicking on the icon above.",
-      "resource_title_1": "Overview Guide",
-      "related_articles_title": "Related information"
-    },
-    {
-      "id": "overview_nk_c",
-      "home_screen_section_list": [
-        "programme"
-      ],
-      "tag_list": [
-        "kemas_group_c"
-      ],
-      "icon_asset": "images/overview_nk.svg",
-      "resource_data_1": "pdf",
-      "resource_id_1": "group_c_overview",
-      "related_article_id_1": "onboarding_c",
-      "related_article_id_2": "how_to_report_a_c",
-      "title": "Overview of the Naungan Kasih Programme",
-      "_translations": {
-        "title": {},
-        "introduction": {},
-        "sections_title": {},
-        "section_title_1": {},
-        "section_text_1": {},
-        "section_title_2": {},
-        "section_text_2": {},
-        "section_title_3": {},
-        "section_text_3": {},
-        "section_title_4": {},
-        "section_text_4": {},
-        "resource_title_1": {},
-        "related_articles_title": {}
-      },
-      "_translatedFields": {
-        "title": {
-          "eng": "Overview of the Naungan Kasih Programme"
-        },
-        "introduction": {
-          "eng": "Welcome to the Naungan Kasih Positive Parenting Programme! \n\nThank you for your commitment and dedication to supporting children and families in your community. \nYou are a shining star!"
-        },
-        "sections_title": {
-          "eng": "Welcome"
-        },
-        "section_title_1": {
-          "eng": "What’s inside the Facilitator Guide?"
-        },
-        "section_text_1": {
-          "eng": "This guide is for YOU!! \nA comprehensive guide to help you deliver Naungan Kasih to families around you. \nSteps on how to introduce caregivers to the programme, and support them\nSpecific information on the programme’s content."
-        },
-        "section_title_2": {
-          "eng": "What to remember?"
-        },
-        "section_text_2": {
-          "eng": "It is important to follow this manual as closely as possible. However, manuals are only a guide to support you after what you have learned in the training workshop. \nWhat you deliver – the content of the manual – is only 20% of the programme. The rest 80%? It’s all about HOW you facilitate the programme and behave towards the parents."
-        },
-        "section_title_3": {
-          "eng": "Skills you need"
-        },
-        "section_text_3": {
-          "eng": "The core skills of a good facilitator are a mirror for parents to learn how to bring about the change we want to see in parents and the community. These include understanding stages of child development, praising and encouraging parents, using active listening skills, being consistent and compassionate, exploring problems, and finding solutions together."
-        },
-        "section_title_4": {
-          "eng": "⭐Remember"
-        },
-        "section_text_4": {
-          "eng": "Just as we say to the parents, “It is what you do at home that makes the difference,” the same thing applies to you: “It is how you interact with the parents in your group that makes the difference.” \n\nIf you take the time to deliver a session before it begins, you will be more confident. If there is anything that you cannot remember or feel unsure of, contact another facilitator to practise with. \n\nAccess the Facilitator Guide for your group by clicking on the icon above."
-        },
-        "resource_title_1": {
-          "eng": "Overview Guide"
-        },
-        "related_articles_title": {
-          "eng": "Related information"
-        }
-      },
-      "introduction": "Welcome to the Naungan Kasih Positive Parenting Programme! \n\nThank you for your commitment and dedication to supporting children and families in your community. \nYou are a shining star!",
-      "sections_title": "Welcome",
-      "section_title_1": "What’s inside the Facilitator Guide?",
-      "section_text_1": "This guide is for YOU!! \nA comprehensive guide to help you deliver Naungan Kasih to families around you. \nSteps on how to introduce caregivers to the programme, and support them\nSpecific information on the programme’s content.",
-      "section_title_2": "What to remember?",
-      "section_text_2": "It is important to follow this manual as closely as possible. However, manuals are only a guide to support you after what you have learned in the training workshop. \nWhat you deliver – the content of the manual – is only 20% of the programme. The rest 80%? It’s all about HOW you facilitate the programme and behave towards the parents.",
-      "section_title_3": "Skills you need",
-      "section_text_3": "The core skills of a good facilitator are a mirror for parents to learn how to bring about the change we want to see in parents and the community. These include understanding stages of child development, praising and encouraging parents, using active listening skills, being consistent and compassionate, exploring problems, and finding solutions together.",
-      "section_title_4": "⭐Remember",
-      "section_text_4": "Just as we say to the parents, “It is what you do at home that makes the difference,” the same thing applies to you: “It is how you interact with the parents in your group that makes the difference.” \n\nIf you take the time to deliver a session before it begins, you will be more confident. If there is anything that you cannot remember or feel unsure of, contact another facilitator to practise with. \n\nAccess the Facilitator Guide for your group by clicking on the icon above.",
-      "resource_title_1": "Overview Guide",
-      "related_articles_title": "Related information"
-    },
-    {
-      "id": "overview_nk_d",
-      "home_screen_section_list": [
-        "programme"
-      ],
-      "tag_list": [
-        "kemas_group_d"
-      ],
-      "icon_asset": "images/overview_nk.svg",
-      "resource_data_1": "pdf",
-      "resource_id_1": "group_d_overview",
-      "related_article_id_1": "onboarding_d",
-      "related_article_id_2": "how_to_weekly_session",
-      "related_article_id_3": "how_to_report_b_d_masw",
-      "title": "Overview of the Naungan Kasih Programme",
-      "_translations": {
-        "title": {},
-        "introduction": {},
-        "sections_title": {},
-        "section_title_1": {},
-        "section_text_1": {},
-        "section_title_2": {},
-        "section_text_2": {},
-        "section_title_3": {},
-        "section_text_3": {},
-        "section_title_4": {},
-        "section_text_4": {},
-        "resource_title_1": {},
-        "related_articles_title": {}
-      },
-      "_translatedFields": {
-        "title": {
-          "eng": "Overview of the Naungan Kasih Programme"
-        },
-        "introduction": {
-          "eng": "Welcome to the Naungan Kasih Positive Parenting Programme! \n\nThank you for your commitment and dedication to supporting children and families in your community. \nYou are a shining star!"
-        },
-        "sections_title": {
-          "eng": "Welcome"
-        },
-        "section_title_1": {
-          "eng": "What’s inside the Facilitator Guide?"
-        },
-        "section_text_1": {
-          "eng": "This guide is for YOU!! \nA comprehensive guide to help you deliver Naungan Kasih to families around you. \nSteps on how to introduce caregivers to the programme, and support them\nSpecific information on the programme’s content."
-        },
-        "section_title_2": {
-          "eng": "What to remember?"
-        },
-        "section_text_2": {
-          "eng": "It is important to follow this manual as closely as possible. However, manuals are only a guide to support you after what you have learned in the training workshop. \nWhat you deliver – the content of the manual – is only 20% of the programme. The rest 80%? It’s all about HOW you facilitate the programme and behave towards the parents."
-        },
-        "section_title_3": {
-          "eng": "Skills you need"
-        },
-        "section_text_3": {
-          "eng": "The core skills of a good facilitator are a mirror for parents to learn how to bring about the change we want to see in parents and the community. These include understanding stages of child development, praising and encouraging parents, using active listening skills, being consistent and compassionate, exploring problems, and finding solutions together."
-        },
-        "section_title_4": {
-          "eng": "⭐Remember"
-        },
-        "section_text_4": {
-          "eng": "Just as we say to the parents, “It is what you do at home that makes the difference,” the same thing applies to you: “It is how you interact with the parents in your group that makes the difference.” \n\nIf you take the time to deliver a session before it begins, you will be more confident. If there is anything that you cannot remember or feel unsure of, contact another facilitator to practise with. \n\nAccess the Facilitator Guide for your group by clicking on the icon above."
-        },
-        "resource_title_1": {
-          "eng": "Overview Guide"
-        },
-        "related_articles_title": {
-          "eng": "Related information"
-        }
-      },
-      "introduction": "Welcome to the Naungan Kasih Positive Parenting Programme! \n\nThank you for your commitment and dedication to supporting children and families in your community. \nYou are a shining star!",
-      "sections_title": "Welcome",
-      "section_title_1": "What’s inside the Facilitator Guide?",
-      "section_text_1": "This guide is for YOU!! \nA comprehensive guide to help you deliver Naungan Kasih to families around you. \nSteps on how to introduce caregivers to the programme, and support them\nSpecific information on the programme’s content.",
-      "section_title_2": "What to remember?",
-      "section_text_2": "It is important to follow this manual as closely as possible. However, manuals are only a guide to support you after what you have learned in the training workshop. \nWhat you deliver – the content of the manual – is only 20% of the programme. The rest 80%? It’s all about HOW you facilitate the programme and behave towards the parents.",
-      "section_title_3": "Skills you need",
-      "section_text_3": "The core skills of a good facilitator are a mirror for parents to learn how to bring about the change we want to see in parents and the community. These include understanding stages of child development, praising and encouraging parents, using active listening skills, being consistent and compassionate, exploring problems, and finding solutions together.",
-      "section_title_4": "⭐Remember",
-      "section_text_4": "Just as we say to the parents, “It is what you do at home that makes the difference,” the same thing applies to you: “It is how you interact with the parents in your group that makes the difference.” \n\nIf you take the time to deliver a session before it begins, you will be more confident. If there is anything that you cannot remember or feel unsure of, contact another facilitator to practise with. \n\nAccess the Facilitator Guide for your group by clicking on the icon above.",
-      "resource_title_1": "Overview Guide",
-      "related_articles_title": "Related information"
-    },
-    {
-      "id": "overview_nk_masw",
-      "home_screen_section_list": [
-        "programme"
-      ],
-      "tag_list": [
-        "masw"
-      ],
-      "icon_asset": "images/overview_nk.svg",
       "resource_data_1": "pdf",
       "resource_id_1": "group_masw_overview",
       "related_article_id_1": "onboarding_masw",
       "related_article_id_2": "how_to_weekly_session",
       "related_article_id_3": "how_to_report_b_d_masw",
-      "title": "Overview of the Naungan Kasih Programme",
+      "title": "Overview of the Crianza con Conciencia+ Programme",
       "_translations": {
         "title": {},
         "introduction": {},
@@ -1449,10 +835,10 @@
       },
       "_translatedFields": {
         "title": {
-          "eng": "Overview of the Naungan Kasih Programme"
+          "eng": "Overview of the Crianza con Conciencia+ Programme"
         },
         "introduction": {
-          "eng": "Welcome to the Naungan Kasih Positive Parenting Programme! \n\nThank you for your commitment and dedication to supporting children and families in your community. \nYou are a shining star!"
+          "eng": "Welcome to the Crianza con Conciencia+ Positive Parenting Programme! \n\nThank you for your commitment and dedication to supporting children and families in your community. \nYou are a shining star!"
         },
         "sections_title": {
           "eng": "Welcome"
@@ -1461,7 +847,7 @@
           "eng": "What’s inside the Facilitator Guide?"
         },
         "section_text_1": {
-          "eng": "This guide is for YOU!! \nA comprehensive guide to help you deliver Naungan Kasih to families around you. \nSteps on how to introduce caregivers to the programme, and support them\nSpecific information on the programme’s content."
+          "eng": "This guide is for YOU!! \nA comprehensive guide to help you deliver Crianza con Conciencia+ to families around you. \nSteps on how to introduce caregivers to the programme, and support them\nSpecific information on the programme’s content."
         },
         "section_title_2": {
           "eng": "What to remember?"
@@ -1488,10 +874,10 @@
           "eng": "Related information"
         }
       },
-      "introduction": "Welcome to the Naungan Kasih Positive Parenting Programme! \n\nThank you for your commitment and dedication to supporting children and families in your community. \nYou are a shining star!",
+      "introduction": "Welcome to the Crianza con Conciencia+ Positive Parenting Programme! \n\nThank you for your commitment and dedication to supporting children and families in your community. \nYou are a shining star!",
       "sections_title": "Welcome",
       "section_title_1": "What’s inside the Facilitator Guide?",
-      "section_text_1": "This guide is for YOU!! \nA comprehensive guide to help you deliver Naungan Kasih to families around you. \nSteps on how to introduce caregivers to the programme, and support them\nSpecific information on the programme’s content.",
+      "section_text_1": "This guide is for YOU!! \nA comprehensive guide to help you deliver Crianza con Conciencia+ to families around you. \nSteps on how to introduce caregivers to the programme, and support them\nSpecific information on the programme’s content.",
       "section_title_2": "What to remember?",
       "section_text_2": "It is important to follow this manual as closely as possible. However, manuals are only a guide to support you after what you have learned in the training workshop. \nWhat you deliver – the content of the manual – is only 20% of the programme. The rest 80%? It’s all about HOW you facilitate the programme and behave towards the parents.",
       "section_title_3": "Skills you need",
@@ -1499,159 +885,6 @@
       "section_title_4": "⭐Remember",
       "section_text_4": "Just as we say to the parents, “It is what you do at home that makes the difference,” the same thing applies to you: “It is how you interact with the parents in your group that makes the difference.” \n\nIf you take the time to deliver a session before it begins, you will be more confident. If there is anything that you cannot remember or feel unsure of, contact another facilitator to practise with. \n\nAccess the Facilitator Guide for your group by clicking on the icon above.",
       "resource_title_1": "Overview Guide",
-      "related_articles_title": "Related information"
-    },
-    {
-      "id": "onboarding_a",
-      "home_screen_section_list": [
-        "programme"
-      ],
-      "tag_list": [
-        "kemas_group_a"
-      ],
-      "icon_asset": "images/onboarding.svg",
-      "resource_data_1": "pdf",
-      "resource_id_1": "group_a_onboarding",
-      "related_article_id_1": "how_to_report_a_c",
-      "title": "Guide for In-Person Onboarding",
-      "_translations": {
-        "title": {},
-        "introduction": {},
-        "resource_title_1": {},
-        "related_articles_title": {}
-      },
-      "_translatedFields": {
-        "title": {
-          "eng": "Guide for In-Person Onboarding"
-        },
-        "introduction": {
-          "eng": "The Onboarding Session sets the tone for the entire Naungan Kasih programme. It is important to create a space that is welcoming and safe for the participants to feel at ease and familiarise themselves with the programme."
-        },
-        "resource_title_1": {
-          "eng": "Onboarding Guide"
-        },
-        "related_articles_title": {
-          "eng": "Related information"
-        }
-      },
-      "introduction": "The Onboarding Session sets the tone for the entire Naungan Kasih programme. It is important to create a space that is welcoming and safe for the participants to feel at ease and familiarise themselves with the programme.",
-      "resource_title_1": "Onboarding Guide",
-      "related_articles_title": "Related information"
-    },
-    {
-      "id": "onboarding_b",
-      "home_screen_section_list": [
-        "programme"
-      ],
-      "tag_list": [
-        "kemas_group_b"
-      ],
-      "icon_asset": "images/onboarding.svg",
-      "resource_data_1": "pdf",
-      "resource_id_1": "group_b_onboarding",
-      "related_article_id_1": "how_to_weekly_session",
-      "related_article_id_2": "how_to_report_b_d_masw",
-      "title": "Guide for In-Person Onboarding",
-      "_translations": {
-        "title": {},
-        "introduction": {},
-        "resource_title_1": {},
-        "related_articles_title": {}
-      },
-      "_translatedFields": {
-        "title": {
-          "eng": "Guide for In-Person Onboarding"
-        },
-        "introduction": {
-          "eng": "The Onboarding Session sets the tone for the entire Naungan Kasih programme. It is important to create a space that is welcoming and safe for the participants to feel at ease and familiarise themselves with the programme."
-        },
-        "resource_title_1": {
-          "eng": "Onboarding Guide"
-        },
-        "related_articles_title": {
-          "eng": "Related information"
-        }
-      },
-      "introduction": "The Onboarding Session sets the tone for the entire Naungan Kasih programme. It is important to create a space that is welcoming and safe for the participants to feel at ease and familiarise themselves with the programme.",
-      "resource_title_1": "Onboarding Guide",
-      "related_articles_title": "Related information"
-    },
-    {
-      "id": "onboarding_c",
-      "home_screen_section_list": [
-        "programme"
-      ],
-      "tag_list": [
-        "kemas_group_c"
-      ],
-      "icon_asset": "images/onboarding.svg",
-      "resource_data_1": "pdf",
-      "resource_id_1": "group_c_onboarding",
-      "related_article_id_1": "closing_c",
-      "related_article_id_2": "how_to_weekly_session",
-      "related_article_id_3": "how_to_report_a_c",
-      "title": "Guide for In-Person Onboarding",
-      "_translations": {
-        "title": {},
-        "introduction": {},
-        "resource_title_1": {},
-        "related_articles_title": {}
-      },
-      "_translatedFields": {
-        "title": {
-          "eng": "Guide for In-Person Onboarding"
-        },
-        "introduction": {
-          "eng": "The Onboarding Session sets the tone for the entire Naungan Kasih programme. It is important to create a space that is welcoming and safe for the participants to feel at ease and familiarise themselves with the programme."
-        },
-        "resource_title_1": {
-          "eng": "Onboarding Guide"
-        },
-        "related_articles_title": {
-          "eng": "Related information"
-        }
-      },
-      "introduction": "The Onboarding Session sets the tone for the entire Naungan Kasih programme. It is important to create a space that is welcoming and safe for the participants to feel at ease and familiarise themselves with the programme.",
-      "resource_title_1": "Onboarding Guide",
-      "related_articles_title": "Related information"
-    },
-    {
-      "id": "onboarding_d",
-      "home_screen_section_list": [
-        "programme"
-      ],
-      "tag_list": [
-        "kemas_group_d"
-      ],
-      "icon_asset": "images/onboarding.svg",
-      "resource_data_1": "pdf",
-      "resource_id_1": "group_d_onboarding",
-      "related_article_id_1": "closing_d",
-      "related_article_id_2": "how_to_weekly_session",
-      "related_article_id_3": "how_to_report_b_d_masw",
-      "title": "Guide for In-Person Onboarding",
-      "_translations": {
-        "title": {},
-        "introduction": {},
-        "resource_title_1": {},
-        "related_articles_title": {}
-      },
-      "_translatedFields": {
-        "title": {
-          "eng": "Guide for In-Person Onboarding"
-        },
-        "introduction": {
-          "eng": "The Onboarding Session sets the tone for the entire Naungan Kasih programme. It is important to create a space that is welcoming and safe for the participants to feel at ease and familiarise themselves with the programme."
-        },
-        "resource_title_1": {
-          "eng": "Onboarding Guide"
-        },
-        "related_articles_title": {
-          "eng": "Related information"
-        }
-      },
-      "introduction": "The Onboarding Session sets the tone for the entire Naungan Kasih programme. It is important to create a space that is welcoming and safe for the participants to feel at ease and familiarise themselves with the programme.",
-      "resource_title_1": "Onboarding Guide",
       "related_articles_title": "Related information"
     },
     {
@@ -1659,10 +892,6 @@
       "home_screen_section_list": [
         "programme"
       ],
-      "tag_list": [
-        "masw"
-      ],
-      "icon_asset": "images/onboarding.svg",
       "resource_data_1": "pdf",
       "resource_id_1": "group_masw_onboarding",
       "related_article_id_1": "closing_masw",
@@ -1680,7 +909,7 @@
           "eng": "Guide for In-Person Onboarding"
         },
         "introduction": {
-          "eng": "The Onboarding Session sets the tone for the entire Naungan Kasih programme. It is important to create a space that is welcoming and safe for the participants to feel at ease and familiarise themselves with the programme."
+          "eng": "The Onboarding Session sets the tone for the entire Crianza con Conciencia+ programme. It is important to create a space that is welcoming and safe for the participants to feel at ease and familiarise themselves with the programme."
         },
         "resource_title_1": {
           "eng": "Onboarding Guide"
@@ -1689,7 +918,7 @@
           "eng": "Related information"
         }
       },
-      "introduction": "The Onboarding Session sets the tone for the entire Naungan Kasih programme. It is important to create a space that is welcoming and safe for the participants to feel at ease and familiarise themselves with the programme.",
+      "introduction": "The Onboarding Session sets the tone for the entire Crianza con Conciencia+ programme. It is important to create a space that is welcoming and safe for the participants to feel at ease and familiarise themselves with the programme.",
       "resource_title_1": "Onboarding Guide",
       "related_articles_title": "Related information"
     },
@@ -1698,12 +927,6 @@
       "home_screen_section_list": [
         "programme"
       ],
-      "tag_list": [
-        "kemas_group_b",
-        "kemas_group_d",
-        "masw"
-      ],
-      "icon_asset": "images/faq_h_sharing_emotions_new.svg",
       "related_article_id_1": "what_is_safeguarding",
       "related_article_id_2": "group_admin_onboarding",
       "title": "How to Conduct Weekly WhatsApp Group Sessions",
@@ -1726,7 +949,7 @@
           "eng": "How to Conduct Weekly WhatsApp Group Sessions"
         },
         "introduction": {
-          "eng": "The Naungan Kasih programme includes WhatsApp Groups with parents with pre-scripted messages that you share each week from FaciNK. \n\nThe aim of this group is to provide parents with extra support during their Naungan Kasih journey."
+          "eng": "The Crianza con Conciencia+ programme includes WhatsApp Groups with parents with pre-scripted messages that you share each week from FaciNK. \n\nThe aim of this group is to provide parents with extra support during their Crianza con Conciencia+ journey."
         },
         "sections_title": {
           "eng": "How to:"
@@ -1735,19 +958,19 @@
           "eng": "Create a WhatsApp Group"
         },
         "section_text_1": {
-          "eng": "**Make sure you have done the following before the onboarding session starts:** \n\n- Save the names and WhatsApp numbers of the parents assigned to you on your phone (if available), so you can easily confirm details during the onboarding session. \n\n- Create your WhatsApp group (with temporary group name, icon, description). The name of each WhatsApp group has the same structure:\n“Naungan Kasih”\nYour group (B or D) \nA name selected by the group \n\nWhen you create your temporary group name, you will use the first 2 parts: \"Naungan Kasih” + your group. \n\nFor example, if you have a WhatsApp group for group B, your temporary group name will be “Naungan Kasih_GroupB”. \n\nYou can keep your temporary group name or you can add a name to the temporary group name. For example, “Naungan Kasih_GroupA_HappyFamilies”."
+          "eng": "**Make sure you have done the following before the onboarding session starts:** \n\n- Save the names and WhatsApp numbers of the parents assigned to you on your phone (if available), so you can easily confirm details during the onboarding session. \n\n- Create your WhatsApp group (with temporary group name, icon, description). The name of each WhatsApp group has the same structure:\n“Crianza con Conciencia+”\nYour group (B or D) \nA name selected by the group \n\nWhen you create your temporary group name, you will use the first 2 parts: \"Crianza con Conciencia+” + your group. \n\nFor example, if you have a WhatsApp group for group B, your temporary group name will be “Crianza con Conciencia+_GroupB”. \n\nYou can keep your temporary group name or you can add a name to the temporary group name. For example, “Crianza con Conciencia+_GroupA_HappyFamilies”."
         },
         "section_title_2": {
           "eng": "Conduct Weekly Session"
         },
         "section_text_2": {
-          "eng": "**Before conducting weekly sessions, make sure you:** \n\nCreate a WhatsApp Group during the onboarding session. \nIdentify the ground rules for the WhatsApp Group\n\n**Structure for the weekly chat session**: \r\rWeek 0 (immediately after the onboarding session): Welcome, introductions, and reminder of home practice. \r\rWeek 1: One-on-one time: Checking in on the home activity of spending 5 minutes of one-on-one time with their child. \n\nWeek 2: Check-in: Connecting with parents on their progress with ParentText. \n\nWeek 3: Check-in: Connecting with parents on their progress with ParentText, and identifying group admin to hand over the group after Week 4. \n\nWeek 4: Final Chat Sessions: Sharing new group admin details, and closing.\n\n**When to send the messages** \n\nYou and your group will decide a time to chat during the onboarding session. \r\rEach chat session has a reminder message (Message 1) that you should send a few hours before the chat session. \n\nSend the remaining messages during the scheduled chat time."
+          "eng": "**Before conducting weekly sessions, make sure you:** \n\nCreate a WhatsApp Group during the onboarding session. \nIdentify the ground rules for the WhatsApp Group\n\n**Structure for the weekly chat session**: \r\rWeek 0 (immediately after the onboarding session): Welcome, introductions, and reminder of home practice. \r\rWeek 1: One-on-one time: Checking in on the home activity of spending 5 minutes of one-on-one time with their child. \n\nWeek 2: Check-in: Connecting with parents on their progress with Crianza con Conciencia+. \n\nWeek 3: Check-in: Connecting with parents on their progress with Crianza con Conciencia+, and identifying group admin to hand over the group after Week 4. \n\nWeek 4: Final Chat Sessions: Sharing new group admin details, and closing.\n\n**When to send the messages** \n\nYou and your group will decide a time to chat during the onboarding session. \r\rEach chat session has a reminder message (Message 1) that you should send a few hours before the chat session. \n\nSend the remaining messages during the scheduled chat time."
         },
         "section_title_3": {
           "eng": "Share the messages in weekly session"
         },
         "section_text_3": {
-          "eng": "Look for the \"Weekly Sessions\" section on FaciNK homepage\n\nFind the specific week you want to share and click on it.\n\nOnce you're on the content for that week, locate the \"Share\" icon. It should look like an arrow pointing upward or a box with an arrow, and it's used to share content. Click on the \"Share\" icon.\n\nIn the menu that appears, select \"WhatsApp\" as your sharing option.\n\nChoose your Naungan Kasih Support Group from the list. \n\nBefore you hit the \"Send\" button, make sure to add or change any necessary information like your name. \n\nFinally, click the \"Send\" button to share the content with your Naungan Kasih Support Group."
+          "eng": "Look for the \"Weekly Sessions\" section on FaciNK homepage\n\nFind the specific week you want to share and click on it.\n\nOnce you're on the content for that week, locate the \"Share\" icon. It should look like an arrow pointing upward or a box with an arrow, and it's used to share content. Click on the \"Share\" icon.\n\nIn the menu that appears, select \"WhatsApp\" as your sharing option.\n\nChoose your Crianza con Conciencia+ Support Group from the list. \n\nBefore you hit the \"Send\" button, make sure to add or change any necessary information like your name. \n\nFinally, click the \"Send\" button to share the content with your Crianza con Conciencia+ Support Group."
         },
         "section_title_4": {
           "eng": "Get Help with WhatsApp Support Group"
@@ -1759,29 +982,20 @@
           "eng": "For more information:"
         }
       },
-      "introduction": "The Naungan Kasih programme includes WhatsApp Groups with parents with pre-scripted messages that you share each week from FaciNK. \n\nThe aim of this group is to provide parents with extra support during their Naungan Kasih journey.",
+      "introduction": "The Crianza con Conciencia+ programme includes WhatsApp Groups with parents with pre-scripted messages that you share each week from FaciNK. \n\nThe aim of this group is to provide parents with extra support during their Crianza con Conciencia+ journey.",
       "sections_title": "How to:",
       "section_title_1": "Create a WhatsApp Group",
-      "section_text_1": "**Make sure you have done the following before the onboarding session starts:** \n\n- Save the names and WhatsApp numbers of the parents assigned to you on your phone (if available), so you can easily confirm details during the onboarding session. \n\n- Create your WhatsApp group (with temporary group name, icon, description). The name of each WhatsApp group has the same structure:\n“Naungan Kasih”\nYour group (B or D) \nA name selected by the group \n\nWhen you create your temporary group name, you will use the first 2 parts: \"Naungan Kasih” + your group. \n\nFor example, if you have a WhatsApp group for group B, your temporary group name will be “Naungan Kasih_GroupB”. \n\nYou can keep your temporary group name or you can add a name to the temporary group name. For example, “Naungan Kasih_GroupA_HappyFamilies”.",
+      "section_text_1": "**Make sure you have done the following before the onboarding session starts:** \n\n- Save the names and WhatsApp numbers of the parents assigned to you on your phone (if available), so you can easily confirm details during the onboarding session. \n\n- Create your WhatsApp group (with temporary group name, icon, description). The name of each WhatsApp group has the same structure:\n“Crianza con Conciencia+”\nYour group (B or D) \nA name selected by the group \n\nWhen you create your temporary group name, you will use the first 2 parts: \"Crianza con Conciencia+” + your group. \n\nFor example, if you have a WhatsApp group for group B, your temporary group name will be “Crianza con Conciencia+_GroupB”. \n\nYou can keep your temporary group name or you can add a name to the temporary group name. For example, “Crianza con Conciencia+_GroupA_HappyFamilies”.",
       "section_title_2": "Conduct Weekly Session",
-      "section_text_2": "**Before conducting weekly sessions, make sure you:** \n\nCreate a WhatsApp Group during the onboarding session. \nIdentify the ground rules for the WhatsApp Group\n\n**Structure for the weekly chat session**: \r\rWeek 0 (immediately after the onboarding session): Welcome, introductions, and reminder of home practice. \r\rWeek 1: One-on-one time: Checking in on the home activity of spending 5 minutes of one-on-one time with their child. \n\nWeek 2: Check-in: Connecting with parents on their progress with ParentText. \n\nWeek 3: Check-in: Connecting with parents on their progress with ParentText, and identifying group admin to hand over the group after Week 4. \n\nWeek 4: Final Chat Sessions: Sharing new group admin details, and closing.\n\n**When to send the messages** \n\nYou and your group will decide a time to chat during the onboarding session. \r\rEach chat session has a reminder message (Message 1) that you should send a few hours before the chat session. \n\nSend the remaining messages during the scheduled chat time.",
+      "section_text_2": "**Before conducting weekly sessions, make sure you:** \n\nCreate a WhatsApp Group during the onboarding session. \nIdentify the ground rules for the WhatsApp Group\n\n**Structure for the weekly chat session**: \r\rWeek 0 (immediately after the onboarding session): Welcome, introductions, and reminder of home practice. \r\rWeek 1: One-on-one time: Checking in on the home activity of spending 5 minutes of one-on-one time with their child. \n\nWeek 2: Check-in: Connecting with parents on their progress with Crianza con Conciencia+. \n\nWeek 3: Check-in: Connecting with parents on their progress with Crianza con Conciencia+, and identifying group admin to hand over the group after Week 4. \n\nWeek 4: Final Chat Sessions: Sharing new group admin details, and closing.\n\n**When to send the messages** \n\nYou and your group will decide a time to chat during the onboarding session. \r\rEach chat session has a reminder message (Message 1) that you should send a few hours before the chat session. \n\nSend the remaining messages during the scheduled chat time.",
       "section_title_3": "Share the messages in weekly session",
-      "section_text_3": "Look for the \"Weekly Sessions\" section on FaciNK homepage\n\nFind the specific week you want to share and click on it.\n\nOnce you're on the content for that week, locate the \"Share\" icon. It should look like an arrow pointing upward or a box with an arrow, and it's used to share content. Click on the \"Share\" icon.\n\nIn the menu that appears, select \"WhatsApp\" as your sharing option.\n\nChoose your Naungan Kasih Support Group from the list. \n\nBefore you hit the \"Send\" button, make sure to add or change any necessary information like your name. \n\nFinally, click the \"Send\" button to share the content with your Naungan Kasih Support Group.",
+      "section_text_3": "Look for the \"Weekly Sessions\" section on FaciNK homepage\n\nFind the specific week you want to share and click on it.\n\nOnce you're on the content for that week, locate the \"Share\" icon. It should look like an arrow pointing upward or a box with an arrow, and it's used to share content. Click on the \"Share\" icon.\n\nIn the menu that appears, select \"WhatsApp\" as your sharing option.\n\nChoose your Crianza con Conciencia+ Support Group from the list. \n\nBefore you hit the \"Send\" button, make sure to add or change any necessary information like your name. \n\nFinally, click the \"Send\" button to share the content with your Crianza con Conciencia+ Support Group.",
       "section_title_4": "Get Help with WhatsApp Support Group",
       "section_text_4": "If you require help while moderating your WhatsApp Support Group, the weekly sessions provide a list of FAQ and potential solutions.\n\nIf you need support responding to a challenge shared by the parent during your weekly chat session, see “Common Challenges” on the homepage. \n\nFollow the same instructions as Sharing Weekly Messages to share the solutions to the challenges. \n\nIf you encounter a challenge not covered in the weekly session, kindly contact your supervisor for further guidance.",
       "related_articles_title": "For more information:"
     },
     {
       "id": "group_admin_onboarding",
-      "home_screen_section_list": [
-        "programme"
-      ],
-      "tag_list": [
-        "masw",
-        "kemas_group_b",
-        "kemas_group_d"
-      ],
-      "icon_asset": "images/peer_moderator_onboarding.svg",
       "related_article_id_1": "faq_h_after_group_ended",
       "related_article_id_2": "faq_h_prompts",
       "title": "How to hand over to Group Admin",
@@ -1809,7 +1023,7 @@
           "eng": "What to cover in the WhatsApp Call?"
         },
         "section_text_1": {
-          "eng": "Thank the parent for volunteering to lead the WhatsApp group.  \n\nWhile engaging with other parents in the group, keep the following in mind:\n🔵Greet parents when engaging with them.\n🔵Respect what participants share and be aware of different ages, genders, values and circumstances.\n🔵Encourage parents to share and respond to each other - and praise them for it.\n🔵Remind parents of ground rules when needed.\n🔵Model the behaviour you want to see among the parents.\n\nIf the parent needs any prompts for discussion, share the following: \n\nLet us celebrate our successes! What was something positive you experienced when you tried one of the ParentText skills with your child?\n\nTrying out new skills can be hard at first. What was something difficult that you experienced when you tried a ParentText skill with your child at home?\nRemind the parent that they are not obligated to respond to messages all times. Participants may send messages at any time during the week. To keep your workload manageable, you can respond to messages once or twice a day, depending on your schedule. \n\nAsk them if they have any questions. \n\nRemind the parent that unfortunately, you will no longer be able to participate in the WhatsApp group."
+          "eng": "Thank the parent for volunteering to lead the WhatsApp group.  \n\nWhile engaging with other parents in the group, keep the following in mind:\n🔵Greet parents when engaging with them.\n🔵Respect what participants share and be aware of different ages, genders, values and circumstances.\n🔵Encourage parents to share and respond to each other - and praise them for it.\n🔵Remind parents of ground rules when needed.\n🔵Model the behaviour you want to see among the parents.\n\nIf the parent needs any prompts for discussion, share the following: \n\nLet us celebrate our successes! What was something positive you experienced when you tried one of the Crianza con Conciencia+ skills with your child?\n\nTrying out new skills can be hard at first. What was something difficult that you experienced when you tried a Crianza con Conciencia+ skill with your child at home?\nRemind the parent that they are not obligated to respond to messages all times. Participants may send messages at any time during the week. To keep your workload manageable, you can respond to messages once or twice a day, depending on your schedule. \n\nAsk them if they have any questions. \n\nRemind the parent that unfortunately, you will no longer be able to participate in the WhatsApp group."
         },
         "message_title_1": {
           "eng": "Send this message after your WhatsApp Call"
@@ -1835,7 +1049,7 @@
       },
       "introduction": "Once 2 volunteers to be group admin are selected, schedule a WhatsApp call with the them.\n\nWhen you’re done with the call, you can send the guidelines as messages to remind them what you discussed.",
       "section_title_1": "What to cover in the WhatsApp Call?",
-      "section_text_1": "Thank the parent for volunteering to lead the WhatsApp group.  \n\nWhile engaging with other parents in the group, keep the following in mind:\n🔵Greet parents when engaging with them.\n🔵Respect what participants share and be aware of different ages, genders, values and circumstances.\n🔵Encourage parents to share and respond to each other - and praise them for it.\n🔵Remind parents of ground rules when needed.\n🔵Model the behaviour you want to see among the parents.\n\nIf the parent needs any prompts for discussion, share the following: \n\nLet us celebrate our successes! What was something positive you experienced when you tried one of the ParentText skills with your child?\n\nTrying out new skills can be hard at first. What was something difficult that you experienced when you tried a ParentText skill with your child at home?\nRemind the parent that they are not obligated to respond to messages all times. Participants may send messages at any time during the week. To keep your workload manageable, you can respond to messages once or twice a day, depending on your schedule. \n\nAsk them if they have any questions. \n\nRemind the parent that unfortunately, you will no longer be able to participate in the WhatsApp group.",
+      "section_text_1": "Thank the parent for volunteering to lead the WhatsApp group.  \n\nWhile engaging with other parents in the group, keep the following in mind:\n🔵Greet parents when engaging with them.\n🔵Respect what participants share and be aware of different ages, genders, values and circumstances.\n🔵Encourage parents to share and respond to each other - and praise them for it.\n🔵Remind parents of ground rules when needed.\n🔵Model the behaviour you want to see among the parents.\n\nIf the parent needs any prompts for discussion, share the following: \n\nLet us celebrate our successes! What was something positive you experienced when you tried one of the Crianza con Conciencia+ skills with your child?\n\nTrying out new skills can be hard at first. What was something difficult that you experienced when you tried a Crianza con Conciencia+ skill with your child at home?\nRemind the parent that they are not obligated to respond to messages all times. Participants may send messages at any time during the week. To keep your workload manageable, you can respond to messages once or twice a day, depending on your schedule. \n\nAsk them if they have any questions. \n\nRemind the parent that unfortunately, you will no longer be able to participate in the WhatsApp group.",
       "message_title_1": "Send this message after your WhatsApp Call",
       "message_text_1": "Hi! Thank you for volunteering to lead the group discussions. \n\n*While engaging with other parents in the group, keep the following in mind*: \n\n👋Greet parents when engaging with them.\n\n💛Respect what participants share and be aware of different ages, genders, values and circumstances. \n\n🏅Encourage parents to share and respond to each other - and praise them for it.\n\n🔔Remind parents of ground rules when needed.\n\n🔑Model the behaviour you want to see among the parents.",
       "message_title_2": "When should the group admin respond to messages?",
@@ -1845,201 +1059,7 @@
       "related_articles_title": "FAQ"
     },
     {
-      "id": "closing_c",
-      "home_screen_section_list": [
-        "programme"
-      ],
-      "tag_list": [
-        "kemas_group_c"
-      ],
-      "icon_asset": "images/faq_h_recommended_food.svg",
-      "resource_data_1": "pdf",
-      "resource_id_1": "group_c_closing",
-      "title": "Guide for Parent Reflection and Celebration",
-      "_translations": {
-        "title": {},
-        "introduction": {},
-        "resource_title_1": {}
-      },
-      "_translatedFields": {
-        "title": {
-          "eng": "Guide for Parent Reflection and Celebration"
-        },
-        "introduction": {
-          "eng": "Parent Reflection and Celebration is the last in-person session of Naungan Kasih. In this session, you, along with the parents, will celebrate parents’ completion of Naungan Kasih and give them an opportunity to share their experiences."
-        },
-        "resource_title_1": {
-          "eng": "Closing Guide"
-        }
-      },
-      "introduction": "Parent Reflection and Celebration is the last in-person session of Naungan Kasih. In this session, you, along with the parents, will celebrate parents’ completion of Naungan Kasih and give them an opportunity to share their experiences.",
-      "resource_title_1": "Closing Guide"
-    },
-    {
-      "id": "closing_d",
-      "home_screen_section_list": [
-        "programme"
-      ],
-      "tag_list": [
-        "kemas_group_d"
-      ],
-      "icon_asset": "images/faq_h_recommended_food.svg",
-      "resource_data_1": "pdf",
-      "resource_id_1": "group_d_closing",
-      "related_article_id_1": "group_admin_onboarding",
-      "title": "Guide for Parent Reflection and Celebration",
-      "_translations": {
-        "title": {},
-        "introduction": {},
-        "resource_title_1": {},
-        "related_articles_title": {}
-      },
-      "_translatedFields": {
-        "title": {
-          "eng": "Guide for Parent Reflection and Celebration"
-        },
-        "introduction": {
-          "eng": "Parent Reflection and Celebration is the last in-person session of Naungan Kasih. In this session, you, along with the parents, will celebrate parents’ completion of Naungan Kasih and give them an opportunity to share their experiences."
-        },
-        "resource_title_1": {
-          "eng": "Closing Guide"
-        },
-        "related_articles_title": {
-          "eng": "Related information"
-        }
-      },
-      "introduction": "Parent Reflection and Celebration is the last in-person session of Naungan Kasih. In this session, you, along with the parents, will celebrate parents’ completion of Naungan Kasih and give them an opportunity to share their experiences.",
-      "resource_title_1": "Closing Guide",
-      "related_articles_title": "Related information"
-    },
-    {
-      "id": "closing_masw",
-      "home_screen_section_list": [
-        "programme"
-      ],
-      "tag_list": [
-        "masw"
-      ],
-      "icon_asset": "images/faq_h_recommended_food.svg",
-      "resource_data_1": "pdf",
-      "resource_id_1": "group_masw_closing",
-      "related_article_id_1": "group_admin_onboarding",
-      "title": "Guide for Parent Reflection and Celebration",
-      "_translations": {
-        "title": {},
-        "introduction": {},
-        "resource_title_1": {},
-        "related_articles_title": {}
-      },
-      "_translatedFields": {
-        "title": {
-          "eng": "Guide for Parent Reflection and Celebration"
-        },
-        "introduction": {
-          "eng": "Parent Reflection and Celebration is the last in-person session of Naungan Kasih. In this session, you, along with the parents, will celebrate parents’ completion of Naungan Kasih and give them an opportunity to share their experiences."
-        },
-        "resource_title_1": {
-          "eng": "Closing Manual"
-        },
-        "related_articles_title": {
-          "eng": "Related information"
-        }
-      },
-      "introduction": "Parent Reflection and Celebration is the last in-person session of Naungan Kasih. In this session, you, along with the parents, will celebrate parents’ completion of Naungan Kasih and give them an opportunity to share their experiences.",
-      "resource_title_1": "Closing Manual",
-      "related_articles_title": "Related information"
-    },
-    {
-      "id": "how_to_report_a_c",
-      "home_screen_section_list": [
-        "programme"
-      ],
-      "tag_list": [
-        "kemas_group_a",
-        "kemas_group_c"
-      ],
-      "icon_asset": "images/faq_h_no_books.svg",
-      "title": "How to Report on Programme Delivery",
-      "_translations": {
-        "title": {},
-        "introduction": {},
-        "sections_title": {},
-        "section_title_1": {},
-        "section_text_1": {},
-        "section_title_2": {},
-        "section_text_2": {},
-        "section_title_3": {},
-        "section_text_3": {},
-        "section_title_4": {},
-        "section_text_4": {},
-        "section_title_5": {},
-        "section_text_5": {}
-      },
-      "_translatedFields": {
-        "title": {
-          "eng": "How to Report on Programme Delivery"
-        },
-        "introduction": {
-          "eng": "The FaciNK also makes reporting on the delivery of Naungan Kasih much easier than paper forms.\n\nAfter adding each parent’s name to the App, you will be able to report on their participation during the in-person session. \n\nYou will also report on your own experience including the time spent conducting each session and whether you were able to do all the activities in the session."
-        },
-        "sections_title": {
-          "eng": "How to:"
-        },
-        "section_title_1": {
-          "eng": "Set up your profile"
-        },
-        "section_text_1": {
-          "eng": "Select the profile icon from the bottom navigation bar. \n\nChoose “About you” \n\nType your name under “Your name” \n\nSelect your state from the dropdown menu \n\rTap Save"
-        },
-        "section_title_2": {
-          "eng": "Add a Parent"
-        },
-        "section_text_2": {
-          "eng": "Select the profile icon from the bottom navigation bar. \n\nChoose “Add Parent”\n\nEnter parent details in the form. To enter the parent’s unique identifier (UID), ask them to text “ID” on ParentText. Copy the 6-digit number into the parent profile."
-        },
-        "section_title_3": {
-          "eng": "Add a Co-Parent"
-        },
-        "section_text_3": {
-          "eng": "If two parents from the same family are participating in the programme, together, you must link their accounts. \n\nOnce you have added the first parent profile, to add a second parent, select “Add Parent”\n\nEnter parent details in the form. To enter the parent’s unique identifier (UID), ask them to text “ID” on ParentText. Copy the 6-digit number into the parent profile. \n\nSelect “Add Co-Parent”\n\nSelect the co-parent from available parent user profiles. \n\nSelect “Save”\n\n*Both parent profiles will be updated to note the co-parent.*"
-        },
-        "section_title_4": {
-          "eng": "Report Attendance"
-        },
-        "section_text_4": {
-          "eng": "Select the pencil icon from the bottom navigation bar. \n\nChoose which session you are reporting on. \n\nComplete the report \n\n⏰Specify the time spent on preparation, travel, and actual session delivery. \n\n✅Check the activities you completed (in-person) \n\n🔵Selecting the parents who participated in the session:\nFor in-person sessions, “participation” is defined as parents who attended the session, in part or whole. \n\nIf you do not see a parent’s name, then you need to add that parent to the App (see above)."
-        },
-        "section_title_5": {
-          "eng": "Edit an Attendance Report"
-        },
-        "section_text_5": {
-          "eng": "Only edit an attendance report if you have made a mistake.\n\nSelect the pencil icon from the bottom of the navigation bar. \n\nSelect the session that you want to edit.\n\nYour previous selections will appear. You can now edit your selections and select “Save”"
-        }
-      },
-      "introduction": "The FaciNK also makes reporting on the delivery of Naungan Kasih much easier than paper forms.\n\nAfter adding each parent’s name to the App, you will be able to report on their participation during the in-person session. \n\nYou will also report on your own experience including the time spent conducting each session and whether you were able to do all the activities in the session.",
-      "sections_title": "How to:",
-      "section_title_1": "Set up your profile",
-      "section_text_1": "Select the profile icon from the bottom navigation bar. \n\nChoose “About you” \n\nType your name under “Your name” \n\nSelect your state from the dropdown menu \n\rTap Save",
-      "section_title_2": "Add a Parent",
-      "section_text_2": "Select the profile icon from the bottom navigation bar. \n\nChoose “Add Parent”\n\nEnter parent details in the form. To enter the parent’s unique identifier (UID), ask them to text “ID” on ParentText. Copy the 6-digit number into the parent profile.",
-      "section_title_3": "Add a Co-Parent",
-      "section_text_3": "If two parents from the same family are participating in the programme, together, you must link their accounts. \n\nOnce you have added the first parent profile, to add a second parent, select “Add Parent”\n\nEnter parent details in the form. To enter the parent’s unique identifier (UID), ask them to text “ID” on ParentText. Copy the 6-digit number into the parent profile. \n\nSelect “Add Co-Parent”\n\nSelect the co-parent from available parent user profiles. \n\nSelect “Save”\n\n*Both parent profiles will be updated to note the co-parent.*",
-      "section_title_4": "Report Attendance",
-      "section_text_4": "Select the pencil icon from the bottom navigation bar. \n\nChoose which session you are reporting on. \n\nComplete the report \n\n⏰Specify the time spent on preparation, travel, and actual session delivery. \n\n✅Check the activities you completed (in-person) \n\n🔵Selecting the parents who participated in the session:\nFor in-person sessions, “participation” is defined as parents who attended the session, in part or whole. \n\nIf you do not see a parent’s name, then you need to add that parent to the App (see above).",
-      "section_title_5": "Edit an Attendance Report",
-      "section_text_5": "Only edit an attendance report if you have made a mistake.\n\nSelect the pencil icon from the bottom of the navigation bar. \n\nSelect the session that you want to edit.\n\nYour previous selections will appear. You can now edit your selections and select “Save”"
-    },
-    {
       "id": "how_to_report_b_d_masw",
-      "home_screen_section_list": [
-        "programme"
-      ],
-      "tag_list": [
-        "kemas_group_b",
-        "kemas_group_d",
-        "masw"
-      ],
-      "icon_asset": "images/faq_h_no_books.svg",
       "related_article_id_1": "how_to_weekly_session",
       "title": "How to Report on Programme Delivery",
       "_translations": {
@@ -2063,7 +1083,7 @@
           "eng": "How to Report on Programme Delivery"
         },
         "introduction": {
-          "eng": "The FaciNK also makes reporting on the delivery of Naungan Kasih much easier than paper forms.\n\nAfter adding each parent’s name to the App, you will be able to report on their participation during in-person and WhatsApp group sessions.\n\nYou will also report on your own experience including the time spent conducting each session and whether you were able to do all the activities in the session."
+          "eng": "The FaciNK also makes reporting on the delivery of Crianza con Conciencia+ much easier than paper forms.\n\nAfter adding each parent’s name to the App, you will be able to report on their participation during in-person and WhatsApp group sessions.\n\nYou will also report on your own experience including the time spent conducting each session and whether you were able to do all the activities in the session."
         },
         "sections_title": {
           "eng": "How to:"
@@ -2078,13 +1098,13 @@
           "eng": "Add a Parent"
         },
         "section_text_2": {
-          "eng": "Select the profile icon from the bottom navigation bar. \n\nChoose “Add Parent”\n\nEnter parent details in the form. To enter the parent’s unique identifier (UID), ask them to text “ID” on ParentText. Copy the 6-digit number into the parent profile."
+          "eng": "Select the profile icon from the bottom navigation bar. \n\nChoose “Add Parent”\n\nEnter parent details in the form. To enter the parent’s unique identifier (UID), ask them to text “ID” on Crianza con Conciencia+. Copy the 6-digit number into the parent profile."
         },
         "section_title_3": {
           "eng": "Add a Co-Parent"
         },
         "section_text_3": {
-          "eng": "If two parents from the same family are participating in the programme, together, you must link their accounts. \n\nOnce you have added the first parent profile, to add a second parent, select “Add Parent”\n\nEnter parent details in the form. To enter the parent’s unique identifier (UID), ask them to text “ID” on ParentText. Copy the 6-digit number into the parent profile. \n\nSelect “Add Co-Parent”\n\nSelect the co-parent from available parent user profiles. \n\nSelect “Save”\n\n*Both parent profiles will be updated to note the co-parent.*"
+          "eng": "If two parents from the same family are participating in the programme, together, you must link their accounts. \n\nOnce you have added the first parent profile, to add a second parent, select “Add Parent”\n\nEnter parent details in the form. To enter the parent’s unique identifier (UID), ask them to text “ID” on Crianza con Conciencia+. Copy the 6-digit number into the parent profile. \n\nSelect “Add Co-Parent”\n\nSelect the co-parent from available parent user profiles. \n\nSelect “Save”\n\n*Both parent profiles will be updated to note the co-parent.*"
         },
         "section_title_4": {
           "eng": "Report Attendance"
@@ -2102,14 +1122,14 @@
           "eng": "Other information:"
         }
       },
-      "introduction": "The FaciNK also makes reporting on the delivery of Naungan Kasih much easier than paper forms.\n\nAfter adding each parent’s name to the App, you will be able to report on their participation during in-person and WhatsApp group sessions.\n\nYou will also report on your own experience including the time spent conducting each session and whether you were able to do all the activities in the session.",
+      "introduction": "The FaciNK also makes reporting on the delivery of Crianza con Conciencia+ much easier than paper forms.\n\nAfter adding each parent’s name to the App, you will be able to report on their participation during in-person and WhatsApp group sessions.\n\nYou will also report on your own experience including the time spent conducting each session and whether you were able to do all the activities in the session.",
       "sections_title": "How to:",
       "section_title_1": "Set up your profile",
       "section_text_1": "Select the profile icon from the bottom navigation bar. \n\nChoose “About you” \n\nType your name under “Your name” \n\nSelect your state from the dropdown menu \n\rTap Save",
       "section_title_2": "Add a Parent",
-      "section_text_2": "Select the profile icon from the bottom navigation bar. \n\nChoose “Add Parent”\n\nEnter parent details in the form. To enter the parent’s unique identifier (UID), ask them to text “ID” on ParentText. Copy the 6-digit number into the parent profile.",
+      "section_text_2": "Select the profile icon from the bottom navigation bar. \n\nChoose “Add Parent”\n\nEnter parent details in the form. To enter the parent’s unique identifier (UID), ask them to text “ID” on Crianza con Conciencia+. Copy the 6-digit number into the parent profile.",
       "section_title_3": "Add a Co-Parent",
-      "section_text_3": "If two parents from the same family are participating in the programme, together, you must link their accounts. \n\nOnce you have added the first parent profile, to add a second parent, select “Add Parent”\n\nEnter parent details in the form. To enter the parent’s unique identifier (UID), ask them to text “ID” on ParentText. Copy the 6-digit number into the parent profile. \n\nSelect “Add Co-Parent”\n\nSelect the co-parent from available parent user profiles. \n\nSelect “Save”\n\n*Both parent profiles will be updated to note the co-parent.*",
+      "section_text_3": "If two parents from the same family are participating in the programme, together, you must link their accounts. \n\nOnce you have added the first parent profile, to add a second parent, select “Add Parent”\n\nEnter parent details in the form. To enter the parent’s unique identifier (UID), ask them to text “ID” on Crianza con Conciencia+. Copy the 6-digit number into the parent profile. \n\nSelect “Add Co-Parent”\n\nSelect the co-parent from available parent user profiles. \n\nSelect “Save”\n\n*Both parent profiles will be updated to note the co-parent.*",
       "section_title_4": "Report Attendance",
       "section_text_4": "Select the pencil icon from the bottom navigation bar. \n\nSelect whether you are reporting on an in-person or WhatsApp session with your parents. \n\nChoose which session you are reporting on. \n\n\nComplete the report \n\n⏰Specify the time spent on preparation, travel, and actual session delivery. \n\n✅Check the activities you completed (in-person) or number of messages you sent (WhatsApp Group)\n\n🔵Selecting the parents who participated in the session:\n\nFor in-person sessions, “participation” is defined as parents who attended the session, in part or whole. \nFor the WhatsApp group, “participation” is defined as parents who have sent at least 1 message during the chat session. \n\nIf you do not see a parent’s name, then you need to add that parent to the App (see above).",
       "section_title_5": "Edit an Attendance Report",
@@ -2118,15 +1138,6 @@
     },
     {
       "id": "one_on_one_challenges",
-      "home_screen_section_list": [
-        "challenges"
-      ],
-      "tag_list": [
-        "kemas_group_b",
-        "kemas_group_d",
-        "masw"
-      ],
-      "icon_asset": "images/faq_h_no_one_on_one_time.svg",
       "title": "Spending one-on-one time",
       "_translations": {
         "title": {},
@@ -2194,15 +1205,6 @@
     },
     {
       "id": "praise_challenges",
-      "home_screen_section_list": [
-        "challenges"
-      ],
-      "tag_list": [
-        "kemas_group_b",
-        "kemas_group_d",
-        "masw"
-      ],
-      "icon_asset": "images/praise_challenges.svg",
       "title": "Praising your child",
       "_translations": {
         "title": {},
@@ -2219,7 +1221,7 @@
           "eng": "Praising your child"
         },
         "introduction": {
-          "eng": "It is normal for parents to feel uncomfortable or have challenges when praising their children. They may at first think that praise will either inflate their children or is not part of their culture. \n\nIt is important to remember that there are many different ways to praise children. Naungan Kasih focuses mainly on praise as a method to reinforce positive behaviour. We praise the behaviour more than just the child!\n\nHere are some common challenges and possible solutions for praising your child. \n\rYou can share the following messages as responses during your weekly chat when parents share challenges with this topic."
+          "eng": "It is normal for parents to feel uncomfortable or have challenges when praising their children. They may at first think that praise will either inflate their children or is not part of their culture. \n\nIt is important to remember that there are many different ways to praise children. Crianza con Conciencia+ focuses mainly on praise as a method to reinforce positive behaviour. We praise the behaviour more than just the child!\n\nHere are some common challenges and possible solutions for praising your child. \n\rYou can share the following messages as responses during your weekly chat when parents share challenges with this topic."
         },
         "message_title_1": {
           "eng": "I forgot to praise my child."
@@ -2240,7 +1242,7 @@
           "eng": "🔔Start small! You don’t have to select anything big to praise. \n\n💡Find a simple behaviour that your child does that you are happy about and tell them. Even something that they already do. \n\n♥️ It will make a difference!"
         }
       },
-      "introduction": "It is normal for parents to feel uncomfortable or have challenges when praising their children. They may at first think that praise will either inflate their children or is not part of their culture. \n\nIt is important to remember that there are many different ways to praise children. Naungan Kasih focuses mainly on praise as a method to reinforce positive behaviour. We praise the behaviour more than just the child!\n\nHere are some common challenges and possible solutions for praising your child. \n\rYou can share the following messages as responses during your weekly chat when parents share challenges with this topic.",
+      "introduction": "It is normal for parents to feel uncomfortable or have challenges when praising their children. They may at first think that praise will either inflate their children or is not part of their culture. \n\nIt is important to remember that there are many different ways to praise children. Crianza con Conciencia+ focuses mainly on praise as a method to reinforce positive behaviour. We praise the behaviour more than just the child!\n\nHere are some common challenges and possible solutions for praising your child. \n\rYou can share the following messages as responses during your weekly chat when parents share challenges with this topic.",
       "message_title_1": "I forgot to praise my child.",
       "message_text_1": "💚It can be difficult to juggle all the different things we need to do. \n\n🌱Next time you spend one-on-one time, try and think of one thing you can praise them for. \n\n☀️You can even say, “Thank you for\nspending time with me!”",
       "message_title_2": "I felt embarrassed or weird when praising my child.",
@@ -2253,12 +1255,6 @@
       "home_screen_section_list": [
         "challenges"
       ],
-      "tag_list": [
-        "kemas_group_b",
-        "kemas_group_d",
-        "masw"
-      ],
-      "icon_asset": "images/faq_h_sharing_emotions_new.svg",
       "title": "Talking about feelings",
       "_translations": {
         "title": {},
@@ -2323,518 +1319,6 @@
       "message_text_4": "🔔Maybe you can have a chat with them about why it could be a good idea. \n\n💡Encourage them to give it a try! Talking openly about feelings can help everyone understand each other better.",
       "message_title_5": "I don’t know how to name some of the feelings I am experiencing.",
       "message_text_5": "✨Naming feelings can be tough. \n\n🔄Try combining words you know, like happy or sad, and think about where you feel it in your body. \n\n🔴For example, if your chest feels tight, it might be stress. \n\n🔶It's okay not to have all the words – describe it the best you can."
-    },
-    {
-      "id": "child_development_challenges",
-      "home_screen_section_list": [
-        "challenges"
-      ],
-      "tag_list": [
-        "kemas_group_b",
-        "kemas_group_d",
-        "masw"
-      ],
-      "icon_asset": "images/child_development_challenges.svg",
-      "title": "Supporting child’s development",
-      "_translations": {
-        "title": {},
-        "introduction": {},
-        "message_title_1": {},
-        "message_text_1": {},
-        "message_title_2": {},
-        "message_text_2": {},
-        "message_guidance_2": {},
-        "message_title_3": {},
-        "message_text_3": {},
-        "message_guidance_3": {},
-        "message_title_4": {},
-        "message_text_4": {},
-        "message_title_5": {},
-        "message_text_5": {}
-      },
-      "_translatedFields": {
-        "title": {
-          "eng": "Supporting child’s development"
-        },
-        "introduction": {
-          "eng": "Here are some common challenges and possible solutions for supporting parents to help their children develop in a healthy way. \n\rYou can share the following messages as responses during your weekly chat when parents share challenges with this topic."
-        },
-        "message_title_1": {
-          "eng": "I don’t have time to interact with my child."
-        },
-        "message_text_1": {
-          "eng": "It is okay to feel that way. But there are many small ways to spend time with your child!\n\n⏰ You can interact with your child while doing something else. Like, try asking your child to describe the colours and objects they see around them while you are walking together or while commuting on a bus.\n\n😃 Your child will appreciate the attention you are giving, even for a short while."
-        },
-        "message_title_2": {
-          "eng": "My child is not interested in spending time with me."
-        },
-        "message_text_2": {
-          "eng": "😣 You may be hurt because your child does not want to spend time with you.\n\n⏰ Sometimes, your child just needs time to engage with you. It helps to remain calm, patient, and kind while you try to connect with your child.\n\n🌱 As children grow, they may want independence from you. That’s normal! You can support them to find friends based on their interests."
-        },
-        "message_guidance_2": {
-          "eng": "My child keeps getting hurt from exploring or making new friends."
-        },
-        "message_title_3": {
-          "eng": "🧸 It must be hard to see your child getting injured or feeling sad. \n\n🌷Children learn and grow from making mistakes. It is an important part of child development. They will be safe as long as you are aware of their activities and you can prevent anything dangerous.\n\n⭐ Build your child’s confidence about their abilities, values, and appearance so that they are comfortable trying new things.\n\n🎨 Encourage them to safely try out fun activities with other kids or adults. Praise them when they do it well!\n\n💚 Let your child know that you trust them to be safe and follow the rules that you have set."
-        },
-        "message_text_3": {
-          "eng": "My children will think I am not strong if I share my own mistakes."
-        },
-        "message_guidance_3": {
-          "eng": "💚It’s completely normal to feel worried about how your children might see you if you share your mistakes. \n\n🏆Sharing your mistakes shows your child how you have learned and grown from your mistake, and they can do the same. \n\n⭐It shows your children how you are stronger after learning your mistakes."
-        },
-        "message_title_4": {
-          "eng": "I don’t know what to do during play time with my child."
-        },
-        "message_text_4": {
-          "eng": "💙I understand that figuring out what to do during playtime with your child can be challenging. \n\n🌱It's a common concern, and you're not alone. \n\n💡If you need ideas for activities, simply type PLAY in ParentText"
-        },
-        "message_title_5": {
-          "eng": "I don’t understand the GROW development assessment."
-        },
-        "message_text_5": {
-          "eng": "I understand that the GROW development assessment might be confusing at first. \r\rThe GROW assessment helps parents, like you, track how their child is growing. \n\nIt shows where they're doing well and where they might need extra help. \n\nRemember, the questions in ParentText about your child's development are not for diagnosing issues. If you're worried, it's best to consult a professional."
-        }
-      },
-      "introduction": "Here are some common challenges and possible solutions for supporting parents to help their children develop in a healthy way. \n\rYou can share the following messages as responses during your weekly chat when parents share challenges with this topic.",
-      "message_title_1": "I don’t have time to interact with my child.",
-      "message_text_1": "It is okay to feel that way. But there are many small ways to spend time with your child!\n\n⏰ You can interact with your child while doing something else. Like, try asking your child to describe the colours and objects they see around them while you are walking together or while commuting on a bus.\n\n😃 Your child will appreciate the attention you are giving, even for a short while.",
-      "message_title_2": "My child is not interested in spending time with me.",
-      "message_text_2": "😣 You may be hurt because your child does not want to spend time with you.\n\n⏰ Sometimes, your child just needs time to engage with you. It helps to remain calm, patient, and kind while you try to connect with your child.\n\n🌱 As children grow, they may want independence from you. That’s normal! You can support them to find friends based on their interests.",
-      "message_guidance_2": "My child keeps getting hurt from exploring or making new friends.",
-      "message_title_3": "🧸 It must be hard to see your child getting injured or feeling sad. \n\n🌷Children learn and grow from making mistakes. It is an important part of child development. They will be safe as long as you are aware of their activities and you can prevent anything dangerous.\n\n⭐ Build your child’s confidence about their abilities, values, and appearance so that they are comfortable trying new things.\n\n🎨 Encourage them to safely try out fun activities with other kids or adults. Praise them when they do it well!\n\n💚 Let your child know that you trust them to be safe and follow the rules that you have set.",
-      "message_text_3": "My children will think I am not strong if I share my own mistakes.",
-      "message_guidance_3": "💚It’s completely normal to feel worried about how your children might see you if you share your mistakes. \n\n🏆Sharing your mistakes shows your child how you have learned and grown from your mistake, and they can do the same. \n\n⭐It shows your children how you are stronger after learning your mistakes.",
-      "message_title_4": "I don’t know what to do during play time with my child.",
-      "message_text_4": "💙I understand that figuring out what to do during playtime with your child can be challenging. \n\n🌱It's a common concern, and you're not alone. \n\n💡If you need ideas for activities, simply type PLAY in ParentText",
-      "message_title_5": "I don’t understand the GROW development assessment.",
-      "message_text_5": "I understand that the GROW development assessment might be confusing at first. \r\rThe GROW assessment helps parents, like you, track how their child is growing. \n\nIt shows where they're doing well and where they might need extra help. \n\nRemember, the questions in ParentText about your child's development are not for diagnosing issues. If you're worried, it's best to consult a professional."
-    },
-    {
-      "id": "learning_challenges",
-      "home_screen_section_list": [
-        "challenges"
-      ],
-      "tag_list": [
-        "kemas_group_b",
-        "kemas_group_d",
-        "masw"
-      ],
-      "icon_asset": "images/learning_challenges.svg",
-      "title": "Supporting children's reading and maths learning",
-      "_translations": {
-        "title": {},
-        "introduction": {},
-        "message_title_1": {},
-        "message_text_1": {},
-        "message_title_2": {},
-        "message_text_2": {},
-        "message_title_3": {},
-        "message_text_3": {},
-        "message_title_4": {},
-        "message_text_4": {}
-      },
-      "_translatedFields": {
-        "title": {
-          "eng": "Supporting children's reading and maths learning"
-        },
-        "introduction": {
-          "eng": "Here are some common challenges and possible solutions for supporting parents to help their children’s learning in reading and maths. \n\rYou can share the following messages as responses during your weekly chat when parents share challenges with this topic."
-        },
-        "message_title_1": {
-          "eng": "I did not find time to help my child learn."
-        },
-        "message_text_1": {
-          "eng": "It can be difficult to find time to help your child learn, but there are two important things to remember:\n\n1️⃣ Your child can learn a lot just by joining in activities you do in your normal routine. Going shopping for food, sorting clothes, and cooking are great opportunities to talk to your child and for them to learn. \n🍅 Describe what you are doing and ask questions. If you can, play counting games, and point out numbers, shapes and letters that you see. For example, square signs and round signs, and numbers and letters on labels. 🔷 🔵\n\n2️⃣ You can help your child learn by spending just a short amount of time specifically on a learning activity. For example, can you find 5 minutes in the evening to look at pictures together or read a children’s book? 📖"
-        },
-        "message_title_2": {
-          "eng": "I didn’t have any books to read with my child."
-        },
-        "message_text_2": {
-          "eng": "💡 That’s normal! Many parents don’t have books in the house. \n\n👀 You can also use anything that has pictures to interact with your child - magazines, newspapers, and even signs on the road."
-        },
-        "message_title_3": {
-          "eng": "My child does not want to learn."
-        },
-        "message_text_3": {
-          "eng": "🎨 Try to make learning activities fun! Your child will be more likely to want to learn when the activity is fun with less pressure. \n\n⚽ Follow your child’s interests, even if you’re just talking together. This will help them learn. \n\n📱 For playful, educational ideas, type {PLAY} at any time in your ParentText!"
-        },
-        "message_title_4": {
-          "eng": "I am feeling overwhelmed."
-        },
-        "message_text_4": {
-          "eng": "💙 I’m sorry you’re feeling overwhelmed. \n\n💡 Try doing short, simple, and fun things that can fit in with your routine. \n\n🌈 For example, point at things like letters, numbers, colours, and objects and tell Your Child what they are. Start slowly and simply. \n\n🍚 If you’re busy, just involve your child in what you are doing."
-        }
-      },
-      "introduction": "Here are some common challenges and possible solutions for supporting parents to help their children’s learning in reading and maths. \n\rYou can share the following messages as responses during your weekly chat when parents share challenges with this topic.",
-      "message_title_1": "I did not find time to help my child learn.",
-      "message_text_1": "It can be difficult to find time to help your child learn, but there are two important things to remember:\n\n1️⃣ Your child can learn a lot just by joining in activities you do in your normal routine. Going shopping for food, sorting clothes, and cooking are great opportunities to talk to your child and for them to learn. \n🍅 Describe what you are doing and ask questions. If you can, play counting games, and point out numbers, shapes and letters that you see. For example, square signs and round signs, and numbers and letters on labels. 🔷 🔵\n\n2️⃣ You can help your child learn by spending just a short amount of time specifically on a learning activity. For example, can you find 5 minutes in the evening to look at pictures together or read a children’s book? 📖",
-      "message_title_2": "I didn’t have any books to read with my child.",
-      "message_text_2": "💡 That’s normal! Many parents don’t have books in the house. \n\n👀 You can also use anything that has pictures to interact with your child - magazines, newspapers, and even signs on the road.",
-      "message_title_3": "My child does not want to learn.",
-      "message_text_3": "🎨 Try to make learning activities fun! Your child will be more likely to want to learn when the activity is fun with less pressure. \n\n⚽ Follow your child’s interests, even if you’re just talking together. This will help them learn. \n\n📱 For playful, educational ideas, type {PLAY} at any time in your ParentText!",
-      "message_title_4": "I am feeling overwhelmed.",
-      "message_text_4": "💙 I’m sorry you’re feeling overwhelmed. \n\n💡 Try doing short, simple, and fun things that can fit in with your routine. \n\n🌈 For example, point at things like letters, numbers, colours, and objects and tell Your Child what they are. Start slowly and simply. \n\n🍚 If you’re busy, just involve your child in what you are doing."
-    },
-    {
-      "id": "structure_challenges",
-      "home_screen_section_list": [
-        "challenges"
-      ],
-      "tag_list": [
-        "kemas_group_b",
-        "kemas_group_d",
-        "masw"
-      ],
-      "icon_asset": "images/faq_h_no_books.svg",
-      "title": "Helping your child give structure",
-      "_translations": {
-        "title": {},
-        "introduction": {},
-        "message_title_1": {},
-        "message_text_1": {},
-        "message_title_2": {},
-        "message_text_2": {},
-        "message_title_3": {},
-        "message_text_3": {},
-        "message_title_4": {},
-        "message_text_4": {},
-        "message_title_5": {},
-        "message_text_5": {}
-      },
-      "_translatedFields": {
-        "title": {
-          "eng": "Helping your child give structure"
-        },
-        "introduction": {
-          "eng": "Here are some common challenges and possible solutions that parents may experience when giving their children structure. \n\rYou can share the following messages as responses during your weekly chat when parents share challenges with this topic."
-        },
-        "message_title_1": {
-          "eng": "My child did not follow instructions even when I followed the tips."
-        },
-        "message_text_1": {
-          "eng": "💙I understand it can be challenging when your child doesn't follow instructions. Remember, children need time to learn these skills. Be patient with the process, and don't hesitate to try again.🌱"
-        },
-        "message_title_2": {
-          "eng": "I gave a negative instead of a positive\ninstruction."
-        },
-        "message_text_2": {
-          "eng": "💛It takes time to get used to giving positive\ninstructions – but it’s worth trying again! Try\nthinking about the behaviour you would like to see your child to more often and think of positive ways to give that instruction.🌷"
-        },
-        "message_title_3": {
-          "eng": "My child did not hear me or ignored\nme."
-        },
-        "message_text_3": {
-          "eng": "⭐It can be tough when your child doesn't listen. \n\n👀Try getting their attention by looking at them or gently touching their shoulder before telling them something. That might help them hear you better."
-        },
-        "message_title_4": {
-          "eng": "My child had difficulty following my\ninstructions."
-        },
-        "message_text_4": {
-          "eng": "It's hard when your child struggles to follow what you ask. \n\n1️⃣Try giving just one instruction at a time, something they can easily do. And remember to give them enough time to do it. This can make following instructions easier for them."
-        },
-        "message_title_5": {
-          "eng": "We were not able to stick to the rule or routine"
-        },
-        "message_text_5": {
-          "eng": "Try making a rule or routine that's easy to follow, like cleaning up toys after playing. This way, it's simpler for everyone to keep up with it."
-        }
-      },
-      "introduction": "Here are some common challenges and possible solutions that parents may experience when giving their children structure. \n\rYou can share the following messages as responses during your weekly chat when parents share challenges with this topic.",
-      "message_title_1": "My child did not follow instructions even when I followed the tips.",
-      "message_text_1": "💙I understand it can be challenging when your child doesn't follow instructions. Remember, children need time to learn these skills. Be patient with the process, and don't hesitate to try again.🌱",
-      "message_title_2": "I gave a negative instead of a positive\ninstruction.",
-      "message_text_2": "💛It takes time to get used to giving positive\ninstructions – but it’s worth trying again! Try\nthinking about the behaviour you would like to see your child to more often and think of positive ways to give that instruction.🌷",
-      "message_title_3": "My child did not hear me or ignored\nme.",
-      "message_text_3": "⭐It can be tough when your child doesn't listen. \n\n👀Try getting their attention by looking at them or gently touching their shoulder before telling them something. That might help them hear you better.",
-      "message_title_4": "My child had difficulty following my\ninstructions.",
-      "message_text_4": "It's hard when your child struggles to follow what you ask. \n\n1️⃣Try giving just one instruction at a time, something they can easily do. And remember to give them enough time to do it. This can make following instructions easier for them.",
-      "message_title_5": "We were not able to stick to the rule or routine",
-      "message_text_5": "Try making a rule or routine that's easy to follow, like cleaning up toys after playing. This way, it's simpler for everyone to keep up with it."
-    },
-    {
-      "id": "routine_challenges",
-      "home_screen_section_list": [
-        "challenges"
-      ],
-      "tag_list": [
-        "kemas_group_b",
-        "kemas_group_d",
-        "masw"
-      ],
-      "icon_asset": "images/faq_h_recommended_food.svg",
-      "title": "Setting household rules and routines",
-      "_translations": {
-        "title": {},
-        "introduction": {},
-        "message_title_1": {},
-        "message_text_1": {},
-        "message_title_2": {},
-        "message_text_2": {},
-        "message_title_3": {},
-        "message_text_3": {},
-        "message_title_4": {},
-        "message_text_4": {},
-        "message_title_5": {},
-        "message_text_5": {}
-      },
-      "_translatedFields": {
-        "title": {
-          "eng": "Setting household rules and routines"
-        },
-        "introduction": {
-          "eng": "Establishing regular household rules and routines can be difficult for parents at first. \n\nIt is important that they focus on positive behaviours like “Play inside the garden” instead of “Don’t play in the street.” This may not feel natural at first for parents so they will need some encouragement and support.\n\nParents may also not feel comfortable involving their children in establishing a rule or routine. You can remind them that this will make it more likely that their child will follow the rule and will also help their child learn responsibilities.\n\nHere are some common challenges and possible solutions for setting household rules and routines. \n\rYou can share the following messages as responses during your weekly chat when parents share challenges with this topic."
-        },
-        "message_title_1": {
-          "eng": "My child struggled to go along with the bedtime routine."
-        },
-        "message_text_1": {
-          "eng": "It takes time for children to learn new routines and change their behaviour. Be patient and keep the bedtime routine consistent."
-        },
-        "message_title_2": {
-          "eng": "My child and I could not agree on a rule."
-        },
-        "message_text_2": {
-          "eng": "Think about whether the rule is reasonable. Can your child do it? \n\nIt helps when making rules as a family to think about your child, how old they are\nand what really matters to them."
-        },
-        "message_title_3": {
-          "eng": "My child felt it was unfair that I don’t have to follow the rule we set."
-        },
-        "message_text_3": {
-          "eng": "We should always remember that children learn best from us. The more we follow the rules, the more they will follow the rules too. \n\nYou can adjust the rule to make sure that it is realistic for everyone to follow it, considering their and your responsibilities (for example school or work activities)."
-        },
-        "message_title_4": {
-          "eng": "Parent should be the one setting the rule, not the child."
-        },
-        "message_text_4": {
-          "eng": "When we establish rules together with our\nchildren, that helps the family to understand each other better.\n\n The rules will be more realistic and children will be more willing and able to follow the rules."
-        },
-        "message_title_5": {
-          "eng": "We made the rule but my child does not follow it."
-        },
-        "message_text_5": {
-          "eng": "I get that it's challenging when your child isn't following the rule you set. 😔\n\nThink about your rule – is it fair and realistic? What can your child actually do? Adjust the rule, if necessary. \n\nPraise your child when they do follow the rule."
-        }
-      },
-      "introduction": "Establishing regular household rules and routines can be difficult for parents at first. \n\nIt is important that they focus on positive behaviours like “Play inside the garden” instead of “Don’t play in the street.” This may not feel natural at first for parents so they will need some encouragement and support.\n\nParents may also not feel comfortable involving their children in establishing a rule or routine. You can remind them that this will make it more likely that their child will follow the rule and will also help their child learn responsibilities.\n\nHere are some common challenges and possible solutions for setting household rules and routines. \n\rYou can share the following messages as responses during your weekly chat when parents share challenges with this topic.",
-      "message_title_1": "My child struggled to go along with the bedtime routine.",
-      "message_text_1": "It takes time for children to learn new routines and change their behaviour. Be patient and keep the bedtime routine consistent.",
-      "message_title_2": "My child and I could not agree on a rule.",
-      "message_text_2": "Think about whether the rule is reasonable. Can your child do it? \n\nIt helps when making rules as a family to think about your child, how old they are\nand what really matters to them.",
-      "message_title_3": "My child felt it was unfair that I don’t have to follow the rule we set.",
-      "message_text_3": "We should always remember that children learn best from us. The more we follow the rules, the more they will follow the rules too. \n\nYou can adjust the rule to make sure that it is realistic for everyone to follow it, considering their and your responsibilities (for example school or work activities).",
-      "message_title_4": "Parent should be the one setting the rule, not the child.",
-      "message_text_4": "When we establish rules together with our\nchildren, that helps the family to understand each other better.\n\n The rules will be more realistic and children will be more willing and able to follow the rules.",
-      "message_title_5": "We made the rule but my child does not follow it.",
-      "message_text_5": "I get that it's challenging when your child isn't following the rule you set. 😔\n\nThink about your rule – is it fair and realistic? What can your child actually do? Adjust the rule, if necessary. \n\nPraise your child when they do follow the rule."
-    },
-    {
-      "id": "consequence_challenges",
-      "home_screen_section_list": [
-        "challenges"
-      ],
-      "tag_list": [
-        "kemas_group_b",
-        "kemas_group_d",
-        "masw"
-      ],
-      "icon_asset": "images/consequences_challenges.svg",
-      "title": "Giving consequences",
-      "_translations": {
-        "title": {},
-        "introduction": {},
-        "message_title_1": {},
-        "message_text_1": {},
-        "message_title_2": {},
-        "message_text_2": {},
-        "message_title_3": {},
-        "message_text_3": {}
-      },
-      "_translatedFields": {
-        "title": {
-          "eng": "Giving consequences"
-        },
-        "introduction": {
-          "eng": "Giving appropriate and fair consequences when their children misbehave is an important skill for parents to learn. It will help avoid more harmful discipline practices.\n\nConsequences are most effective when used to support following instructions or household rules and routines that have already been discussed with children.\n\nHere are some common challenges and possible solutions for giving consequences.\n\rYou can share the following messages as responses during your weekly chat when parents share challenges with this topic."
-        },
-        "message_title_1": {
-          "eng": "I am too angry to find anything positive to say to my child after they have misbehaved."
-        },
-        "message_text_1": {
-          "eng": "Take a deep breath, take some space, and then pick something very small and concrete that you wish your child could do more of that you can praise in your child."
-        },
-        "message_title_2": {
-          "eng": "My child doesn’t seem to have changed their behaviour despite the consequence I put in place."
-        },
-        "message_text_2": {
-          "eng": "It takes time for anyone’s behaviour to change. Remember to consistently apply the consequence – you need to do it every time – and to put it into place immediately."
-        },
-        "message_title_3": {
-          "eng": "My child is misbehaving all the time."
-        },
-        "message_text_3": {
-          "eng": "You may need to spend more One-on-One Time with your child and give more positive attention to them when they are behaving well. This takes time so be patient!"
-        }
-      },
-      "introduction": "Giving appropriate and fair consequences when their children misbehave is an important skill for parents to learn. It will help avoid more harmful discipline practices.\n\nConsequences are most effective when used to support following instructions or household rules and routines that have already been discussed with children.\n\nHere are some common challenges and possible solutions for giving consequences.\n\rYou can share the following messages as responses during your weekly chat when parents share challenges with this topic.",
-      "message_title_1": "I am too angry to find anything positive to say to my child after they have misbehaved.",
-      "message_text_1": "Take a deep breath, take some space, and then pick something very small and concrete that you wish your child could do more of that you can praise in your child.",
-      "message_title_2": "My child doesn’t seem to have changed their behaviour despite the consequence I put in place.",
-      "message_text_2": "It takes time for anyone’s behaviour to change. Remember to consistently apply the consequence – you need to do it every time – and to put it into place immediately.",
-      "message_title_3": "My child is misbehaving all the time.",
-      "message_text_3": "You may need to spend more One-on-One Time with your child and give more positive attention to them when they are behaving well. This takes time so be patient!"
-    },
-    {
-      "id": "behave_challenges",
-      "home_screen_section_list": [
-        "challenges"
-      ],
-      "tag_list": [
-        "kemas_group_b",
-        "kemas_group_d",
-        "masw"
-      ],
-      "icon_asset": "images/behave_challenges.svg",
-      "title": "Supporting positive child behaviour",
-      "_translations": {
-        "title": {},
-        "introduction": {},
-        "message_title_1": {},
-        "message_text_1": {},
-        "message_title_2": {},
-        "message_text_2": {},
-        "message_title_3": {},
-        "message_text_3": {},
-        "message_title_4": {},
-        "message_text_4": {},
-        "message_title_5": {},
-        "message_text_5": {}
-      },
-      "_translatedFields": {
-        "title": {
-          "eng": "Supporting positive child behaviour"
-        },
-        "introduction": {
-          "eng": "Here are some common challenges and possible solutions for supporting positive child behaviour. \n\rYou can share the following messages as responses during your weekly chat when parents share challenges with this topic."
-        },
-        "message_title_1": {
-          "eng": "Other members of the family do not agree about using ignore for tantrums or other demanding behaviours."
-        },
-        "message_text_1": {
-          "eng": "🚩Sometimes others will not agree with us or have other methods of parenting. \n\n💡It might be helpful to explain to other family members how to use ignore and why it might help reduce your children’s demanding behaviours. \n\n✨You can only control your behaviour so remember that these changes start with you and with time others might see that they really work!"
-        },
-        "message_title_2": {
-          "eng": "I can’t ignore my child’s behaviour because they are hitting/biting/pushing."
-        },
-        "message_text_2": {
-          "eng": "🔑Ignore only works for negative attention seeking and demanding behaviours like whining, pestering, and tantrums.\n\nUsing consequences is more effective for\naggressive behaviours like hitting. Your child might need a break from an activity to cool down if they are being aggressive. \n\n⏸ You can teach them to Take a Pause!"
-        },
-        "message_title_3": {
-          "eng": "I can’t ignore my child’s behaviour because I am afraid they will hurt themselves."
-        },
-        "message_text_3": {
-          "eng": "❗It is important to keep your child safe. If they get out of control during a tantrum, you might need to take them to a place where they cannot hurt themselves. \n\nYou also might need to gently but firmly hold your child while continuing to ignore them verbally. \n\nRemember that we are ignoring the behaviour but not the child!"
-        },
-        "message_title_4": {
-          "eng": "Ignoring the behaviour just seems to make it worse!"
-        },
-        "message_text_4": {
-          "eng": "👀It is completely natural for your child to test you. They have learned that by increasing their demanding behaviour they might get what they want. \n\n💚Be patient and continue to practise ignoring. Eventually, your child will learn that this behaviour does not work."
-        },
-        "message_title_5": {
-          "eng": "I am having to ignore my child’s behaviour a lot of the time. It just does not work!"
-        },
-        "message_text_5": {
-          "eng": "This may be either because 1️⃣ you are not being consistent with ignoring, 2️⃣ the behaviour is not one that you can ignore, or 3️⃣ your child needs more positive attention at other times. \n\nRemember to spend plenty of One-on-One Time with your children."
-        }
-      },
-      "introduction": "Here are some common challenges and possible solutions for supporting positive child behaviour. \n\rYou can share the following messages as responses during your weekly chat when parents share challenges with this topic.",
-      "message_title_1": "Other members of the family do not agree about using ignore for tantrums or other demanding behaviours.",
-      "message_text_1": "🚩Sometimes others will not agree with us or have other methods of parenting. \n\n💡It might be helpful to explain to other family members how to use ignore and why it might help reduce your children’s demanding behaviours. \n\n✨You can only control your behaviour so remember that these changes start with you and with time others might see that they really work!",
-      "message_title_2": "I can’t ignore my child’s behaviour because they are hitting/biting/pushing.",
-      "message_text_2": "🔑Ignore only works for negative attention seeking and demanding behaviours like whining, pestering, and tantrums.\n\nUsing consequences is more effective for\naggressive behaviours like hitting. Your child might need a break from an activity to cool down if they are being aggressive. \n\n⏸ You can teach them to Take a Pause!",
-      "message_title_3": "I can’t ignore my child’s behaviour because I am afraid they will hurt themselves.",
-      "message_text_3": "❗It is important to keep your child safe. If they get out of control during a tantrum, you might need to take them to a place where they cannot hurt themselves. \n\nYou also might need to gently but firmly hold your child while continuing to ignore them verbally. \n\nRemember that we are ignoring the behaviour but not the child!",
-      "message_title_4": "Ignoring the behaviour just seems to make it worse!",
-      "message_text_4": "👀It is completely natural for your child to test you. They have learned that by increasing their demanding behaviour they might get what they want. \n\n💚Be patient and continue to practise ignoring. Eventually, your child will learn that this behaviour does not work.",
-      "message_title_5": "I am having to ignore my child’s behaviour a lot of the time. It just does not work!",
-      "message_text_5": "This may be either because 1️⃣ you are not being consistent with ignoring, 2️⃣ the behaviour is not one that you can ignore, or 3️⃣ your child needs more positive attention at other times. \n\nRemember to spend plenty of One-on-One Time with your children."
-    },
-    {
-      "id": "safety_challenges",
-      "home_screen_section_list": [
-        "challenges"
-      ],
-      "tag_list": [
-        "kemas_group_b",
-        "kemas_group_d",
-        "masw"
-      ],
-      "icon_asset": "images/during_disclosed_abuse.svg",
-      "title": "Keeping the child safe and healthy",
-      "_translations": {
-        "title": {},
-        "introduction": {},
-        "message_title_1": {},
-        "message_text_1": {},
-        "message_title_2": {},
-        "message_text_2": {},
-        "message_title_3": {},
-        "message_text_3": {},
-        "message_title_4": {},
-        "message_text_4": {},
-        "message_title_5": {},
-        "message_text_5": {}
-      },
-      "_translatedFields": {
-        "title": {
-          "eng": "Keeping the child safe and healthy"
-        },
-        "introduction": {
-          "eng": "Here are some common challenges and possible solutions for keeping children safe and healthy. \n\rYou can share the following messages as responses during your weekly chat when parents share challenges with this topic."
-        },
-        "message_title_1": {
-          "eng": "My child is always on a gadget, even when I am working or doing house chores."
-        },
-        "message_text_1": {
-          "eng": "📺 It must be exhausting to always tell your child to turn off or put away the gadgets.\n\n📝 You can set rules with your child. Tell them that they cannot be on gadgets when you are busy. Your busy time is your child’s quiet play time with toys or reading time with books.\n\n🌷 Tell your child that sharing what they watch on T.V. or what they do on gadgets is a rule. \n\n👂 Be patient and kind while listening to them. Manage your anger if you find that they did something wrong online. Take a deep breath.\n\n💛 Praise your child when they follow the rules!"
-        },
-        "message_title_2": {
-          "eng": "My child is refusing to eat vegetables and fruits, especially when they are out of the house."
-        },
-        "message_text_2": {
-          "eng": "🍅 It is common for children to refuse vegetables and fruits, especially when tastier but less healthy food options are available all around us.\n\n🌱 You could encourage your child to eat slightly sweeter fruits and vegetables for a start, such as mango childs and sweet potatoes. You can gradually introduce other vegetables and fruits.\n\n🎈 Praise you child even when they take one mouthful of vegetables or fruits!"
-        },
-        "message_title_3": {
-          "eng": "I am worried because my child returns home late at night after playing."
-        },
-        "message_text_3": {
-          "eng": "🚩I understand it can be unsafe when your child comes home late after playing outside.\n\n⏰Consider establishing a household rule for when your child should come home. Work together with your child to set fair consequences if they don't follow the rule.\n\n💚To support you in setting rules with your child, think about making \"Give My Child Structure\" your next parenting goal once you complete your current one."
-        },
-        "message_title_4": {
-          "eng": "My child told me that school or the house of someone I trust is an unsafe place. 🚩 I was shocked and did not know what to do!"
-        },
-        "message_text_4": {
-          "eng": "😔 It is shocking to learn that people who we trust may cause discomfort to our children.\n\n👂 Listen to your child if they want to talk about why it seems dangerous or uncomfortable. Trust what they say - they will not say such things for no reason!\n\n🔔Talk with someone and get support. Type {HELP} if you need more assistance.\n\n💙 Remember to take a pause when you are stressed."
-        },
-        "message_title_5": {
-          "eng": "I am shy to talk to my young child about bodies and safe touch."
-        },
-        "message_text_5": {
-          "eng": "💙 It is slightly uncomfortable to talk to our children about male and female body parts.\n\n💡But it helps to keep our children safe. Your child will know that they can come to you about any questions related to the body.\n\n💚 While it may be uncomfortable to talk about some body parts, especially private parts, your child will know how to talk about it if anything happens.\n\n🔑 Answer any questions from your child honestly. You can do this to keep our children safe!🌷"
-        }
-      },
-      "introduction": "Here are some common challenges and possible solutions for keeping children safe and healthy. \n\rYou can share the following messages as responses during your weekly chat when parents share challenges with this topic.",
-      "message_title_1": "My child is always on a gadget, even when I am working or doing house chores.",
-      "message_text_1": "📺 It must be exhausting to always tell your child to turn off or put away the gadgets.\n\n📝 You can set rules with your child. Tell them that they cannot be on gadgets when you are busy. Your busy time is your child’s quiet play time with toys or reading time with books.\n\n🌷 Tell your child that sharing what they watch on T.V. or what they do on gadgets is a rule. \n\n👂 Be patient and kind while listening to them. Manage your anger if you find that they did something wrong online. Take a deep breath.\n\n💛 Praise your child when they follow the rules!",
-      "message_title_2": "My child is refusing to eat vegetables and fruits, especially when they are out of the house.",
-      "message_text_2": "🍅 It is common for children to refuse vegetables and fruits, especially when tastier but less healthy food options are available all around us.\n\n🌱 You could encourage your child to eat slightly sweeter fruits and vegetables for a start, such as mango childs and sweet potatoes. You can gradually introduce other vegetables and fruits.\n\n🎈 Praise you child even when they take one mouthful of vegetables or fruits!",
-      "message_title_3": "I am worried because my child returns home late at night after playing.",
-      "message_text_3": "🚩I understand it can be unsafe when your child comes home late after playing outside.\n\n⏰Consider establishing a household rule for when your child should come home. Work together with your child to set fair consequences if they don't follow the rule.\n\n💚To support you in setting rules with your child, think about making \"Give My Child Structure\" your next parenting goal once you complete your current one.",
-      "message_title_4": "My child told me that school or the house of someone I trust is an unsafe place. 🚩 I was shocked and did not know what to do!",
-      "message_text_4": "😔 It is shocking to learn that people who we trust may cause discomfort to our children.\n\n👂 Listen to your child if they want to talk about why it seems dangerous or uncomfortable. Trust what they say - they will not say such things for no reason!\n\n🔔Talk with someone and get support. Type {HELP} if you need more assistance.\n\n💙 Remember to take a pause when you are stressed.",
-      "message_title_5": "I am shy to talk to my young child about bodies and safe touch.",
-      "message_text_5": "💙 It is slightly uncomfortable to talk to our children about male and female body parts.\n\n💡But it helps to keep our children safe. Your child will know that they can come to you about any questions related to the body.\n\n💚 While it may be uncomfortable to talk about some body parts, especially private parts, your child will know how to talk about it if anything happens.\n\n🔑 Answer any questions from your child honestly. You can do this to keep our children safe!🌷"
     }
   ],
   "_xlsxPath": "data/FacilitatorApp MX content.xlsx"

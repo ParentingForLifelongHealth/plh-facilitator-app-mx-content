@@ -1,33 +1,34 @@
 {
-  "flow_name": "pdf_group_b_onboarding",
+  "flow_name": "article_week_1_mh_stress_self_talk",
   "flow_subtype": "generated",
   "flow_type": "template",
   "rows": [
     {
       "type": "template",
-      "name": "pdf",
-      "value": "pdf",
+      "name": "article",
+      "value": "article",
       "rows": [
         {
           "name": "data",
-          "value": "pdf",
+          "value": "article",
           "_translations": {
             "value": {}
           },
+          "exclude_from_translation": true,
           "type": "set_variable",
-          "_nested_name": "pdf.data"
+          "_nested_name": "article.data"
         },
         {
-          "name": "pdf_id",
-          "value": "group_b_onboarding",
+          "name": "article_id",
+          "value": "week_1_mh_stress_self_talk",
           "_translations": {
             "value": {}
           },
           "type": "set_variable",
-          "_nested_name": "pdf.pdf_id"
+          "_nested_name": "article.article_id"
         }
       ],
-      "_nested_name": "pdf"
+      "_nested_name": "article"
     }
   ]
 }

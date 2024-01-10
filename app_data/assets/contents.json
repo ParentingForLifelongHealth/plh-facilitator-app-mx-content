@@ -4,16 +4,16 @@
     "size_kb": 7
   },
   "android/icon-foreground.png": {
-    "md5Checksum": "428f613e5c1f3bf405d19c27ab3cac8c",
-    "size_kb": 53.8
+    "md5Checksum": "c1fdfb9487d4c3d032ddd2e46cd3ac32",
+    "size_kb": 26.1
   },
   "android/icon.png": {
-    "md5Checksum": "07f99016e1e1f24c43e1931e4367d44f",
-    "size_kb": 35
+    "md5Checksum": "f9d143dfe52075e4ae5e3630f33aae09",
+    "size_kb": 100.6
   },
   "android/splash.png": {
-    "md5Checksum": "82ceab23f8629879edae5c5f03929cd0",
-    "size_kb": 63.2
+    "md5Checksum": "5c2cf4dfa421bce1c99eabf15ad660b8",
+    "size_kb": 290.4
   },
   "images/flags/gb.svg": {
     "md5Checksum": "fcfef6780b36bef537381474df9d0be9",
@@ -66,6 +66,18 @@
   "images/icons/reader_blue.svg": {
     "md5Checksum": "841a27e6e013d797d2bcf20391632cee",
     "size_kb": 1.4
+  },
+  "images/logos/FormandoConCiencia_on_dark.svg": {
+    "md5Checksum": "4a91fc4a3adaffed384acef462e9ee0b",
+    "size_kb": 2.1
+  },
+  "images/logos/FormandoConCiencia_on_light.svg": {
+    "md5Checksum": "400093d7b960e52dfd8a7d384aada693",
+    "size_kb": 2
+  },
+  "images/logos/FormandoConCiencia_white.svg": {
+    "md5Checksum": "5c3a85cb1e38c02348a6b42b92f7c06a",
+    "size_kb": 1.9
   },
   "odk_forms/eplh_pilot_facilitator_weekly_survey_combined.json": {
     "md5Checksum": "50b917f456001fbc0cb4d693931f3051",

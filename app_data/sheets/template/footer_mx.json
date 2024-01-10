@@ -1,13 +1,15 @@
 {
   "flow_type": "template",
-  "flow_name": "footer",
+  "flow_name": "footer_mx",
   "status": "released",
+  "override_target": "footer",
+  "override_condition": "@fields._deployment_name == \"plh_facilitator_mx\"",
   "rows": [
     {
       "name": "button_list",
       "value": [
         "image: @data.app_section.data_collection.icon_asset | target_template: @data.app_section.data_collection.template",
-        "image: @data.app_section.home.icon_asset | target_template: @data.app_section.home.template",
+        "image: images/logos/FormandoConCiencia_white.svg | target_template: @data.app_section.home.template",
         "image: @data.app_section.profile.icon_asset | target_template: @data.app_section.profile.template"
       ],
       "type": "set_variable",
@@ -30,13 +32,7 @@
           ],
           "1": [
             {
-              "fullExpression": "image: @data.app_section.home.icon_asset | target_template: @data.app_section.home.template",
-              "matchedExpression": "@data.app_section.home.icon_asset",
-              "type": "data",
-              "fieldName": "app_section"
-            },
-            {
-              "fullExpression": "image: @data.app_section.home.icon_asset | target_template: @data.app_section.home.template",
+              "fullExpression": "image: images/logos/FormandoConCiencia_white.svg | target_template: @data.app_section.home.template",
               "matchedExpression": "@data.app_section.home.template",
               "type": "data",
               "fieldName": "app_section"
@@ -64,9 +60,6 @@
         ],
         "@data.app_section.data_collection.template": [
           "value.0"
-        ],
-        "@data.app_section.home.icon_asset": [
-          "value.1"
         ],
         "@data.app_section.home.template": [
           "value.1"
@@ -105,8 +98,5 @@
       }
     }
   ],
-  "_xlsxPath": "templates/footer.xlsx",
-  "_overrides": {
-    "footer_mx": "@fields._deployment_name == \"plh_facilitator_mx\""
-  }
+  "_xlsxPath": "templates/footer_mx.xlsx"
 }

@@ -20,85 +20,13 @@
     {
       "id": "week_1",
       "type": "virtual",
-      "tag_list": [
-        "kemas_group_b",
-        "kemas_group_d"
-      ],
-      "name": "Week 1: Introductions",
+      "name": "Week 1: Self-Talk",
       "_translations": {
         "name": {}
       },
       "_translatedFields": {
         "name": {
-          "eng": "Week 1: Introductions"
-        }
-      }
-    },
-    {
-      "id": "week_2",
-      "type": "virtual",
-      "tag_list": [
-        "kemas_group_b",
-        "kemas_group_d"
-      ],
-      "name": "Week 2: One-on-One Time",
-      "_translations": {
-        "name": {}
-      },
-      "_translatedFields": {
-        "name": {
-          "eng": "Week 2: One-on-One Time"
-        }
-      }
-    },
-    {
-      "id": "week_3",
-      "type": "virtual",
-      "tag_list": [
-        "kemas_group_b",
-        "kemas_group_d"
-      ],
-      "name": "Week 3: Sharing Emotions",
-      "_translations": {
-        "name": {}
-      },
-      "_translatedFields": {
-        "name": {
-          "eng": "Week 3: Sharing Emotions"
-        }
-      }
-    },
-    {
-      "id": "week_4",
-      "type": "virtual",
-      "tag_list": [
-        "kemas_group_b",
-        "kemas_group_d"
-      ],
-      "name": "Week 4: Final Chat Session",
-      "_translations": {
-        "name": {}
-      },
-      "_translatedFields": {
-        "name": {
-          "eng": "Week 4: Final Chat Session"
-        }
-      }
-    },
-    {
-      "id": "closing",
-      "type": "in_person",
-      "tag_list": [
-        "kemas_group_c",
-        "kemas_group_d"
-      ],
-      "name": "Closing",
-      "_translations": {
-        "name": {}
-      },
-      "_translatedFields": {
-        "name": {
-          "eng": "Closing"
+          "eng": "Week 1: Self-Talk"
         }
       }
     }
