@@ -18,11 +18,6 @@
     },
     {
       "id": "sessions",
-      "tag_list": [
-        "kemas_group_b",
-        "kemas_group_d",
-        "masw"
-      ],
       "title": "Weekly Sessions",
       "_translations": {
         "title": {}
@@ -30,23 +25,6 @@
       "_translatedFields": {
         "title": {
           "eng": "Weekly Sessions"
-        }
-      }
-    },
-    {
-      "id": "challenges",
-      "tag_list": [
-        "kemas_group_b",
-        "kemas_group_d",
-        "masw"
-      ],
-      "title": "Common Challenges for:",
-      "_translations": {
-        "title": {}
-      },
-      "_translatedFields": {
-        "title": {
-          "eng": "Common Challenges for:"
         }
       }
     },

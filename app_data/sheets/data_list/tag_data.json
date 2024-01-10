@@ -3,67 +3,6 @@
   "flow_name": "tag_data",
   "status": "released",
   "data_list_name": "tag",
-  "rows": [
-    {
-      "id": "kemas_group_a",
-      "title": "KEMAS Group A",
-      "_translations": {
-        "title": {}
-      },
-      "_translatedFields": {
-        "title": {
-          "eng": "KEMAS Group A"
-        }
-      }
-    },
-    {
-      "id": "kemas_group_b",
-      "title": "KEMAS Group B",
-      "_translations": {
-        "title": {}
-      },
-      "_translatedFields": {
-        "title": {
-          "eng": "KEMAS Group B"
-        }
-      }
-    },
-    {
-      "id": "kemas_group_c",
-      "title": "KEMAS Group C",
-      "_translations": {
-        "title": {}
-      },
-      "_translatedFields": {
-        "title": {
-          "eng": "KEMAS Group C"
-        }
-      }
-    },
-    {
-      "id": "kemas_group_d",
-      "title": "KEMAS Group D",
-      "_translations": {
-        "title": {}
-      },
-      "_translatedFields": {
-        "title": {
-          "eng": "KEMAS Group D"
-        }
-      }
-    },
-    {
-      "id": "masw",
-      "title": "MASW",
-      "_translations": {
-        "title": {}
-      },
-      "_translatedFields": {
-        "title": {
-          "eng": "MASW"
-        }
-      }
-    }
-  ],
+  "rows": [],
   "_xlsxPath": "data/FacilitatorApp MX content.xlsx"
 }
