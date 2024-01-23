@@ -3,6 +3,85 @@
   "flow_name": "tag_data",
   "status": "released",
   "data_list_name": "tag",
-  "rows": [],
+  "rows": [
+    {
+      "id": "cdmx_dif",
+      "supervisor_contact": "your DIF supervisor",
+      "title": "Mexico City - DIF",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Mexico City - DIF"
+        }
+      }
+    },
+    {
+      "id": "cdmx_bs",
+      "supervisor_contact": "your Bienestar supervisor",
+      "title": "Mexico City - Bienestar",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Mexico City - Bienestar"
+        }
+      }
+    },
+    {
+      "id": "edomx_bs",
+      "supervisor_contact": "your Bienestar supervisor",
+      "title": "Estado de Mexico - Bienestar",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Estado de Mexico - Bienestar"
+        }
+      }
+    },
+    {
+      "id": "chih_dif",
+      "supervisor_contact": "your DIF supervisor",
+      "title": "Chihuahua - DIF",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Chihuahua - DIF"
+        }
+      }
+    },
+    {
+      "id": "bc_dif",
+      "supervisor_contact": "your DIF supervisor",
+      "title": "Baja California - DIF",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Baja California - DIF"
+        }
+      }
+    },
+    {
+      "id": "mich_dif",
+      "supervisor_contact": "your DIF supervisor",
+      "title": "Michoacán - DIF",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Michoacán - DIF"
+        }
+      }
+    }
+  ],
   "_xlsxPath": "data/FacilitatorApp MX content.xlsx"
 }

@@ -51,6 +51,18 @@
           "eng": "Safeguarding"
         }
       }
+    },
+    {
+      "id": "challenges",
+      "title": "Common Challenges",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Common Challenges"
+        }
+      }
     }
   ],
   "_xlsxPath": "data/FacilitatorApp MX content.xlsx"

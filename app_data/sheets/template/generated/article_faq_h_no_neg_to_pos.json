@@ -1,5 +1,5 @@
 {
-  "flow_name": "article_week_0_introduction",
+  "flow_name": "article_faq_h_no_neg_to_pos",
   "flow_subtype": "generated",
   "flow_type": "template",
   "rows": [
@@ -20,7 +20,7 @@
         },
         {
           "name": "article_id",
-          "value": "week_0_introduction",
+          "value": "faq_h_no_neg_to_pos",
           "_translations": {
             "value": {}
           },
