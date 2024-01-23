@@ -1103,6 +1103,43 @@
       "section_text_2": "Remind parents that this space is a supportive community. Encourage parents to share words of encouragement and positive things they say to themselves. This helps create a supportive environment for everyone."
     },
     {
+      "id": "faq_h_self_harm",
+      "title": "Caregivers express intentions of self-harm or harm to their girls, boys, and teens during the session.",
+      "_translations": {
+        "title": {},
+        "introduction": {},
+        "section_text_1": {},
+        "message_title_1": {},
+        "message_text_1": {},
+        "message_guidance_1": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Caregivers express intentions of self-harm or harm to their girls, boys, and teens during the session."
+        },
+        "introduction": {
+          "eng": "If a parent is showing intention to self-harm or harm to their girls and boys, remember, they may are experiencing an intense emotion. Remember, the best thing you can do is follow safeguarding protocols and refer them to services that can provide the help they need.\n\nReport to your supervisor after sending the following message privately to the parent:"
+        },
+        "section_text_1": {
+          "eng": ""
+        },
+        "message_title_1": {
+          "eng": "Send this message"
+        },
+        "message_text_1": {
+          "eng": "Dear [INSERT NAME], \n\nThis space is here to support you. If you or someone else is in immediate danger, consider calling La Línea de la Vida at 800 911 2000 or SAPTEL at 55 5259 8121 for assistance.\r\rYou can also type HELP in ParentText to find more resources for support. \r\rYour safety and well-being is important to us, and we are here to help."
+        },
+        "message_guidance_1": {
+          "eng": "Write the name of the parent before sending the message."
+        }
+      },
+      "introduction": "If a parent is showing intention to self-harm or harm to their girls and boys, remember, they may are experiencing an intense emotion. Remember, the best thing you can do is follow safeguarding protocols and refer them to services that can provide the help they need.\n\nReport to your supervisor after sending the following message privately to the parent:",
+      "section_text_1": "",
+      "message_title_1": "Send this message",
+      "message_text_1": "Dear [INSERT NAME], \n\nThis space is here to support you. If you or someone else is in immediate danger, consider calling La Línea de la Vida at 800 911 2000 or SAPTEL at 55 5259 8121 for assistance.\r\rYou can also type HELP in ParentText to find more resources for support. \r\rYour safety and well-being is important to us, and we are here to help.",
+      "message_guidance_1": "Write the name of the parent before sending the message."
+    },
+    {
       "id": "faq_h_no_neg_to_pos",
       "title": "Parents could not turn negative self-talk into positive self-talk",
       "_translations": {
