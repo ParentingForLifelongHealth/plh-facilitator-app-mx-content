@@ -1,5 +1,5 @@
 {
-  "flow_name": "article_week_4_final_chat_sessions",
+  "flow_name": "article_routine_challenges",
   "flow_subtype": "generated",
   "flow_type": "template",
   "rows": [
@@ -20,7 +20,7 @@
         },
         {
           "name": "article_id",
-          "value": "week_4_final_chat_sessions",
+          "value": "routine_challenges",
           "_translations": {
             "value": {}
           },

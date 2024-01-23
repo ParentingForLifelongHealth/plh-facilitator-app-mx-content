@@ -26,12 +26,6 @@
       "data_list_name": "article",
       "_xlsxPath": "data/FacilitatorApp MX content.xlsx"
     },
-    "closing_extra_data": {
-      "flow_type": "data_list",
-      "flow_name": "closing_extra_data",
-      "data_list_name": "closing_extra",
-      "_xlsxPath": "data/FacilitatorApp MX content.xlsx"
-    },
     "package": {
       "flow_name": "package",
       "flow_subtype": "generated",
@@ -342,6 +336,31 @@
       "flow_subtype": "generated",
       "flow_type": "template"
     },
+    "article_day_1_introduction": {
+      "flow_name": "article_day_1_introduction",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "article_day_2_check_in": {
+      "flow_name": "article_day_2_check_in",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "article_day_3_mh_stress_self_talk": {
+      "flow_name": "article_day_3_mh_stress_self_talk",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "article_day_4_check_in": {
+      "flow_name": "article_day_4_check_in",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "article_day_6_final_chat_sessions_5ux": {
+      "flow_name": "article_day_6_final_chat_sessions_5ux",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
     "article_during_disclosed_abuse": {
       "flow_name": "article_during_disclosed_abuse",
       "flow_subtype": "generated",
@@ -357,13 +376,13 @@
       "flow_subtype": "generated",
       "flow_type": "template"
     },
-    "article_faq_h_no_volunteers": {
-      "flow_name": "article_faq_h_no_volunteers",
+    "article_faq_h_no_neg_to_pos": {
+      "flow_name": "article_faq_h_no_neg_to_pos",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
-    "article_faq_h_prompts": {
-      "flow_name": "article_faq_h_prompts",
+    "article_faq_h_parents_insult": {
+      "flow_name": "article_faq_h_parents_insult",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
@@ -397,8 +416,13 @@
       "flow_subtype": "generated",
       "flow_type": "template"
     },
-    "article_group_admin_onboarding": {
-      "flow_name": "article_group_admin_onboarding",
+    "article_how_to_chat_session": {
+      "flow_name": "article_how_to_chat_session",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "article_how_to_report": {
+      "flow_name": "article_how_to_report",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
@@ -407,18 +431,8 @@
       "flow_subtype": "generated",
       "flow_type": "template"
     },
-    "article_how_to_report_b_d_masw": {
-      "flow_name": "article_how_to_report_b_d_masw",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "article_how_to_weekly_session": {
-      "flow_name": "article_how_to_weekly_session",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "article_onboarding_masw": {
-      "flow_name": "article_onboarding_masw",
+    "article_onboarding_ cc": {
+      "flow_name": "article_onboarding_ cc",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
@@ -437,23 +451,13 @@
       "flow_subtype": "generated",
       "flow_type": "template"
     },
+    "article_routine_challenges": {
+      "flow_name": "article_routine_challenges",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
     "article_talk_feelings_challenges": {
       "flow_name": "article_talk_feelings_challenges",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "article_week_0_introduction": {
-      "flow_name": "article_week_0_introduction",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "article_week_1_mh_stress_self_talk": {
-      "flow_name": "article_week_1_mh_stress_self_talk",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "article_week_4_final_chat_sessions": {
-      "flow_name": "article_week_4_final_chat_sessions",
       "flow_subtype": "generated",
       "flow_type": "template"
     },

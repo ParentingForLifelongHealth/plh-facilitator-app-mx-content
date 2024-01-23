@@ -37,7 +37,7 @@
     {
       "type": "declare_global_constant",
       "name": "has_multiple_content_packages",
-      "value": false,
+      "value": true,
       "exclude_from_translation": true
     },
     {

@@ -1,5 +1,5 @@
 {
-  "flow_name": "article_onboarding_masw",
+  "flow_name": "article_faq_h_parents_insult",
   "flow_subtype": "generated",
   "flow_type": "template",
   "rows": [
@@ -20,7 +20,7 @@
         },
         {
           "name": "article_id",
-          "value": "onboarding_masw",
+          "value": "faq_h_parents_insult",
           "_translations": {
             "value": {}
           },
