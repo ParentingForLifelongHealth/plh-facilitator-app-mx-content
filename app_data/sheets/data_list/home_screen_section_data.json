@@ -18,13 +18,13 @@
     },
     {
       "id": "sessions",
-      "title": "Weekly Sessions",
+      "title": "Chat Sessions",
       "_translations": {
         "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "Weekly Sessions"
+          "eng": "Chat Sessions"
         }
       }
     },

@@ -1,5 +1,5 @@
 {
-  "flow_name": "article_day_2_check_in",
+  "flow_name": "article_day_3_check_in",
   "flow_subtype": "generated",
   "flow_type": "template",
   "rows": [
@@ -20,7 +20,7 @@
         },
         {
           "name": "article_id",
-          "value": "day_2_check_in",
+          "value": "day_3_check_in",
           "_translations": {
             "value": {}
           },
