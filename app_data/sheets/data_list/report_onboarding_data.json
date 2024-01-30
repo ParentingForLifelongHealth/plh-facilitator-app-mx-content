@@ -1,0 +1,217 @@
+{
+  "flow_type": "data_list",
+  "flow_name": "report_onboarding_data",
+  "status": "released",
+  "data_list_name": "report_onboarding",
+  "rows": [
+    {
+      "id": "welcome",
+      "type": "title",
+      "text": "Welcome",
+      "_translations": {
+        "text": {}
+      },
+      "_translatedFields": {
+        "text": {
+          "eng": "Welcome"
+        }
+      }
+    },
+    {
+      "id": "welcome_name_game",
+      "type": "toggle",
+      "text": "Name Game",
+      "_translations": {
+        "text": {}
+      },
+      "_translatedFields": {
+        "text": {
+          "eng": "Name Game"
+        }
+      }
+    },
+    {
+      "id": "welcome_overview",
+      "type": "toggle",
+      "text": "Overview of Crianza con Conciencia+ programme",
+      "_translations": {
+        "text": {}
+      },
+      "_translatedFields": {
+        "text": {
+          "eng": "Overview of Crianza con Conciencia+ programme"
+        }
+      }
+    },
+    {
+      "id": "welcome_ground_rules",
+      "type": "toggle",
+      "text": "Ground Rules",
+      "_translations": {
+        "text": {}
+      },
+      "_translatedFields": {
+        "text": {
+          "eng": "Ground Rules"
+        }
+      }
+    },
+    {
+      "id": "start",
+      "type": "title",
+      "text": "Getting Started with ParentText",
+      "_translations": {
+        "text": {}
+      },
+      "_translatedFields": {
+        "text": {
+          "eng": "Getting Started with ParentText"
+        }
+      }
+    },
+    {
+      "id": "start_ID_capture",
+      "type": "toggle",
+      "text": "Captured IDs into the app",
+      "_translations": {
+        "text": {}
+      },
+      "_translatedFields": {
+        "text": {
+          "eng": "Captured IDs into the app"
+        }
+      }
+    },
+    {
+      "id": "start_phone_capture",
+      "type": "toggle",
+      "text": "Captured participant phone numbers for a group WhatsApp",
+      "_translations": {
+        "text": {}
+      },
+      "_translatedFields": {
+        "text": {
+          "eng": "Captured participant phone numbers for a group WhatsApp"
+        }
+      }
+    },
+    {
+      "id": "start_phone_functions",
+      "type": "toggle",
+      "text": "Exploring basic phone functions to interact with ParentText chatbot",
+      "_translations": {
+        "text": {}
+      },
+      "_translatedFields": {
+        "text": {
+          "eng": "Exploring basic phone functions to interact with ParentText chatbot"
+        }
+      }
+    },
+    {
+      "id": "start_flow_completion",
+      "type": "toggle",
+      "text": "Joint completion of Onboarding, Welcome Flow, and Spending one-on-one time with your boy or girl in ParentText",
+      "_translations": {
+        "text": {}
+      },
+      "_translatedFields": {
+        "text": {
+          "eng": "Joint completion of Onboarding, Welcome Flow, and Spending one-on-one time with your boy or girl in ParentText"
+        }
+      }
+    },
+    {
+      "id": "start_challenges",
+      "type": "toggle",
+      "text": "Resolving challenges with ParentText (if any)",
+      "_translations": {
+        "text": {}
+      },
+      "_translatedFields": {
+        "text": {
+          "eng": "Resolving challenges with ParentText (if any)"
+        }
+      }
+    },
+    {
+      "id": "activity",
+      "type": "title",
+      "text": "Relationship Building Activity",
+      "_translations": {
+        "text": {}
+      },
+      "_translatedFields": {
+        "text": {
+          "eng": "Relationship Building Activity"
+        }
+      }
+    },
+    {
+      "id": "activity_1",
+      "type": "toggle",
+      "text": "TBD",
+      "_translations": {
+        "text": {}
+      },
+      "_translatedFields": {
+        "text": {
+          "eng": "TBD"
+        }
+      }
+    },
+    {
+      "id": "activity_2",
+      "type": "toggle",
+      "text": "TBD",
+      "_translations": {
+        "text": {}
+      },
+      "_translatedFields": {
+        "text": {
+          "eng": "TBD"
+        }
+      }
+    },
+    {
+      "id": "close",
+      "type": "title",
+      "text": "Closing",
+      "_translations": {
+        "text": {}
+      },
+      "_translatedFields": {
+        "text": {
+          "eng": "Closing"
+        }
+      }
+    },
+    {
+      "id": "close_reflection",
+      "type": "toggle",
+      "text": "Reflection",
+      "_translations": {
+        "text": {}
+      },
+      "_translatedFields": {
+        "text": {
+          "eng": "Reflection"
+        }
+      }
+    },
+    {
+      "id": "close_goodbye",
+      "type": "toggle",
+      "text": "Goodbye Activity",
+      "_translations": {
+        "text": {}
+      },
+      "_translatedFields": {
+        "text": {
+          "eng": "Goodbye Activity"
+        }
+      }
+    }
+  ],
+  "_xlsxPath": "data/FacilitatorApp MX content.xlsx"
+}

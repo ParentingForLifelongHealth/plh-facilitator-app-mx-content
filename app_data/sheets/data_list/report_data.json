@@ -20,13 +20,13 @@
     {
       "id": "week_1",
       "type": "virtual",
-      "name": "Week 1: Self-Talk",
+      "name": "Day 5: Self-Talk",
       "_translations": {
         "name": {}
       },
       "_translatedFields": {
         "name": {
-          "eng": "Week 1: Self-Talk"
+          "eng": "Day 5: Self-Talk"
         }
       }
     }

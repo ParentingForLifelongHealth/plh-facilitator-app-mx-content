@@ -5,7 +5,7 @@
   "rows": [
     {
       "id": "cdmx_dif",
-      "supervisor_contact": "your DIF supervisor",
+      "supervisor_name": "your DIF supervisor",
       "title": "Mexico City - DIF",
       "_translations": {
         "title": {}
@@ -20,7 +20,7 @@
     },
     {
       "id": "cdmx_bs",
-      "supervisor_contact": "your Bienestar supervisor",
+      "supervisor_name": "your Bienestar supervisor",
       "title": "Mexico City - Bienestar",
       "_translations": {
         "title": {}
@@ -35,7 +35,7 @@
     },
     {
       "id": "edomx_bs",
-      "supervisor_contact": "your Bienestar supervisor",
+      "supervisor_name": "your Bienestar supervisor",
       "title": "Estado de Mexico - Bienestar",
       "_translations": {
         "title": {}
@@ -50,7 +50,7 @@
     },
     {
       "id": "chih_dif",
-      "supervisor_contact": "your DIF supervisor",
+      "supervisor_name": "your DIF supervisor",
       "title": "Chihuahua - DIF",
       "_translations": {
         "title": {}
@@ -65,7 +65,7 @@
     },
     {
       "id": "bc_dif",
-      "supervisor_contact": "your DIF supervisor",
+      "supervisor_name": "your DIF supervisor",
       "title": "Baja California - DIF",
       "_translations": {
         "title": {}
@@ -80,7 +80,7 @@
     },
     {
       "id": "mich_dif",
-      "supervisor_contact": "your DIF supervisor",
+      "supervisor_name": "your DIF supervisor",
       "title": "Michoacán - DIF",
       "_translations": {
         "title": {}

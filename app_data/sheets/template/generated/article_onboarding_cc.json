@@ -1,5 +1,5 @@
 {
-  "flow_name": "article_onboarding_ cc",
+  "flow_name": "article_onboarding_cc",
   "flow_subtype": "generated",
   "flow_type": "template",
   "rows": [
@@ -20,7 +20,7 @@
         },
         {
           "name": "article_id",
-          "value": "onboarding_ cc",
+          "value": "onboarding_cc",
           "_translations": {
             "value": {}
           },
