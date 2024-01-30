@@ -20,7 +20,7 @@ config.android = {
 
 config.git = {
   content_repo: "https://github.com/IDEMSInternational/plh-facilitator-app-mx-content.git",
-  content_tag_latest: "1.1.15",
+  content_tag_latest: "1.1.16",
 };
 
 config.api.db_name = "plh_facilitator_mx"
@@ -28,10 +28,10 @@ config.api.db_name = "plh_facilitator_mx"
 config.app_data.output_path = "./app_data";
 
 config.app_config.APP_LANGUAGES.default = "mx_es";
-config.app_config.APP_SIDEMENU_DEFAULTS.title = "Formando ConCiencia";
-config.app_config.APP_HEADER_DEFAULTS.title = "Formando ConCiencia";
-config.app_config.NOTIFICATION_DEFAULTS.title = "Nuevo mensaje de Formando ConCiencia";
-config.app_config.NOTIFICATION_DEFAULTS.text = "Tienes un mensaje nuevo de Formando ConCiencia";
+config.app_config.APP_SIDEMENU_DEFAULTS.title = "Formando Conciencia+";
+config.app_config.APP_HEADER_DEFAULTS.title = "Formando Conciencia+";
+config.app_config.NOTIFICATION_DEFAULTS.title = "Nuevo mensaje de Formando Conciencia+";
+config.app_config.NOTIFICATION_DEFAULTS.text = "Tienes un mensaje nuevo de Formando Conciencia+";
 config.app_config.APP_THEMES.available = ["default", "professional"];
 config.app_config.APP_THEMES.defaultThemeName = "professional";
 config.app_config.APP_UPDATES.enabled = true;
