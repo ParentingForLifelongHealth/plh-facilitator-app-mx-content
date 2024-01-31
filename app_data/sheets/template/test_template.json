@@ -1,0 +1,199 @@
+{
+  "flow_type": "template",
+  "flow_name": "test_template",
+  "status": "released",
+  "comments": "These are finalised and working, but marked as draft to not sync into the apps",
+  "rows": [
+    {
+      "type": "items",
+      "value": "@data.test",
+      "rows": [
+        {
+          "type": "text",
+          "name": "text_@item.id",
+          "value": "@item.supervisor_name",
+          "_translations": {
+            "value": {}
+          },
+          "_nested_name": "items.text_@item.id",
+          "_dynamicFields": {
+            "name": [
+              {
+                "fullExpression": "text_@item.id",
+                "matchedExpression": "@item.id",
+                "type": "item",
+                "fieldName": "id"
+              }
+            ],
+            "value": [
+              {
+                "fullExpression": "@item.supervisor_name",
+                "matchedExpression": "@item.supervisor_name",
+                "type": "item",
+                "fieldName": "supervisor_name"
+              }
+            ],
+            "_nested_name": [
+              {
+                "fullExpression": "items.text_@item.id",
+                "matchedExpression": "@item.id",
+                "type": "item",
+                "fieldName": "id"
+              }
+            ]
+          },
+          "_dynamicDependencies": {
+            "@item.id": [
+              "name",
+              "_nested_name"
+            ],
+            "@item.supervisor_name": [
+              "value"
+            ]
+          }
+        },
+        {
+          "type": "display_group",
+          "name": "dg",
+          "rows": [
+            {
+              "type": "text",
+              "name": "text",
+              "value": "text",
+              "_translations": {
+                "value": {}
+              },
+              "_nested_name": "items.dg.text"
+            },
+            {
+              "type": "text",
+              "name": "dg_@item.id",
+              "value": "@item.supervisor_name",
+              "_translations": {
+                "value": {}
+              },
+              "_nested_name": "items.dg.dg_@item.id",
+              "_dynamicFields": {
+                "name": [
+                  {
+                    "fullExpression": "dg_@item.id",
+                    "matchedExpression": "@item.id",
+                    "type": "item",
+                    "fieldName": "id"
+                  }
+                ],
+                "value": [
+                  {
+                    "fullExpression": "@item.supervisor_name",
+                    "matchedExpression": "@item.supervisor_name",
+                    "type": "item",
+                    "fieldName": "supervisor_name"
+                  }
+                ],
+                "_nested_name": [
+                  {
+                    "fullExpression": "items.dg.dg_@item.id",
+                    "matchedExpression": "@item.id",
+                    "type": "item",
+                    "fieldName": "id"
+                  }
+                ]
+              },
+              "_dynamicDependencies": {
+                "@item.id": [
+                  "name",
+                  "_nested_name"
+                ],
+                "@item.supervisor_name": [
+                  "value"
+                ]
+              }
+            }
+          ],
+          "_nested_name": "items.dg"
+        },
+        {
+          "type": "display_group",
+          "name": "dg_dashed_box",
+          "rows": [
+            {
+              "type": "text",
+              "name": "text",
+              "value": "text",
+              "_translations": {
+                "value": {}
+              },
+              "_nested_name": "items.dg_dashed_box.text"
+            },
+            {
+              "type": "text",
+              "name": "dg_dashed_box_@item.id",
+              "value": "@item.supervisor_name",
+              "_translations": {
+                "value": {}
+              },
+              "parameter_list": {
+                "style": "dashed_box"
+              },
+              "_nested_name": "items.dg_dashed_box.dg_dashed_box_@item.id",
+              "_dynamicFields": {
+                "name": [
+                  {
+                    "fullExpression": "dg_dashed_box_@item.id",
+                    "matchedExpression": "@item.id",
+                    "type": "item",
+                    "fieldName": "id"
+                  }
+                ],
+                "value": [
+                  {
+                    "fullExpression": "@item.supervisor_name",
+                    "matchedExpression": "@item.supervisor_name",
+                    "type": "item",
+                    "fieldName": "supervisor_name"
+                  }
+                ],
+                "_nested_name": [
+                  {
+                    "fullExpression": "items.dg_dashed_box.dg_dashed_box_@item.id",
+                    "matchedExpression": "@item.id",
+                    "type": "item",
+                    "fieldName": "id"
+                  }
+                ]
+              },
+              "_dynamicDependencies": {
+                "@item.id": [
+                  "name",
+                  "_nested_name"
+                ],
+                "@item.supervisor_name": [
+                  "value"
+                ]
+              }
+            }
+          ],
+          "_nested_name": "items.dg_dashed_box"
+        }
+      ],
+      "name": "items",
+      "_nested_name": "items",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@data.test",
+            "matchedExpression": "@data.test",
+            "type": "data",
+            "fieldName": "test"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@data.test": [
+          "value"
+        ]
+      }
+    }
+  ],
+  "_xlsxPath": "templates/test_package_dependant_supervisor_contact.xlsx"
+}

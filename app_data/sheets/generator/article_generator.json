@@ -16,7 +16,7 @@
       "rows": [
         {
           "name": "data",
-          "value": "article",
+          "value": "article_data",
           "exclude_from_translation": true
         },
         {

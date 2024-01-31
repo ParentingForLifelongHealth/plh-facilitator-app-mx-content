@@ -21,10 +21,9 @@
       "_xlsxPath": "data/navigation_data.xlsx"
     },
     "article_data": {
-      "flow_type": "data_list",
       "flow_name": "article_data",
-      "data_list_name": "article",
-      "_xlsxPath": "data/FacilitatorApp MX content.xlsx"
+      "flow_subtype": "generated",
+      "flow_type": "data_list"
     },
     "package": {
       "flow_name": "package",
@@ -116,9 +115,20 @@
       "flow_name": "tag_data",
       "data_list_name": "tag",
       "_xlsxPath": "data/FacilitatorApp MX content.xlsx"
+    },
+    "test_data": {
+      "flow_type": "data_list",
+      "flow_name": "test_data",
+      "data_list_name": "test",
+      "_xlsxPath": "templates/test_package_dependant_supervisor_contact.xlsx"
     }
   },
   "data_pipe": {
+    "article_filter": {
+      "flow_type": "data_pipe",
+      "flow_name": "article_filter",
+      "_xlsxPath": "data/FacilitatorApp MX content.xlsx"
+    },
     "create_package": {
       "flow_type": "data_pipe",
       "flow_name": "create_package",
@@ -341,28 +351,13 @@
       "flow_subtype": "generated",
       "flow_type": "template"
     },
-    "article_day_3_check_in": {
-      "flow_name": "article_day_3_check_in",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
     "article_day_3_mh_stress_self_talk": {
       "flow_name": "article_day_3_mh_stress_self_talk",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
-    "article_day_4_check_in": {
-      "flow_name": "article_day_4_check_in",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
     "article_day_5_goodbye": {
       "flow_name": "article_day_5_goodbye",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "article_day_6_final_chat_sessions_5ux": {
-      "flow_name": "article_day_6_final_chat_sessions_5ux",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
@@ -376,28 +371,13 @@
       "flow_subtype": "generated",
       "flow_type": "template"
     },
-    "article_faq_h_after_group_ended": {
-      "flow_name": "article_faq_h_after_group_ended",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
     "article_faq_h_no_neg_to_pos": {
       "flow_name": "article_faq_h_no_neg_to_pos",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
-    "article_faq_h_no_volunteers": {
-      "flow_name": "article_faq_h_no_volunteers",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
     "article_faq_h_parents_insult": {
       "flow_name": "article_faq_h_parents_insult",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "article_faq_h_prompts": {
-      "flow_name": "article_faq_h_prompts",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
@@ -433,11 +413,6 @@
     },
     "article_faq_text_support": {
       "flow_name": "article_faq_text_support",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "article_group_admin_onboarding": {
-      "flow_name": "article_group_admin_onboarding",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
@@ -664,6 +639,12 @@
       "flow_type": "template",
       "flow_name": "section_header",
       "_xlsxPath": "templates/navigation.xlsx"
+    },
+    "test_template": {
+      "flow_type": "template",
+      "flow_name": "test_template",
+      "comments": "These are finalised and working, but marked as draft to not sync into the apps",
+      "_xlsxPath": "templates/test_package_dependant_supervisor_contact.xlsx"
     },
     "virtual_form": {
       "flow_type": "template",

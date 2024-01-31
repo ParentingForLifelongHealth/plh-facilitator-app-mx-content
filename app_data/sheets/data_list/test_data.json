@@ -1,0 +1,31 @@
+{
+  "flow_type": "data_list",
+  "flow_name": "test_data",
+  "status": "released",
+  "data_list_name": "test",
+  "rows": [
+    {
+      "id": "id_1",
+      "supervisor_name": "Notify @data.tag.{@fields.current_package}.supervisor_name"
+    },
+    {
+      "id": "id_2",
+      "supervisor_name": "Notify @data.tag.@fields.current_package.supervisor_name"
+    },
+    {
+      "id": "id_3",
+      "current_package": "@fields.current_package",
+      "supervisor_name": "Notify @data.tag.@fields.current_package.supervisor_name"
+    },
+    {
+      "id": "id_4",
+      "supervisor_name": "Notify @data.tag[@fields.current_package].supervisor_name"
+    },
+    {
+      "id": "id_5",
+      "current_package": "@fields.current_package",
+      "supervisor_name": "Notify @data.tag[@fields.current_package].supervisor_name"
+    }
+  ],
+  "_xlsxPath": "templates/test_package_dependant_supervisor_contact.xlsx"
+}
