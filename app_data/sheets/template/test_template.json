@@ -115,6 +115,9 @@
         {
           "type": "display_group",
           "name": "dg_dashed_box",
+          "parameter_list": {
+            "style": "dashed_box"
+          },
           "rows": [
             {
               "type": "text",
@@ -131,9 +134,6 @@
               "value": "@item.supervisor_name",
               "_translations": {
                 "value": {}
-              },
-              "parameter_list": {
-                "style": "dashed_box"
               },
               "_nested_name": "items.dg_dashed_box.dg_dashed_box_@item.id",
               "_dynamicFields": {

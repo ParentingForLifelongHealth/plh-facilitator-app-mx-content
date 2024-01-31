@@ -53,13 +53,13 @@
           "eng": "What should I do during the disclosure of abuse, neglect, or exploitation?"
         },
         "introduction": {
-          "eng": "**During disclosure:**\n\n💚 Provide a safe environment in which the participant can share their story.\n\n👂 Listen carefully to the participant and take notes: what/when/where/who.\n\n❗ Determine if the participant is in immediate danger and what help is available.\n\n💙 Make sure that the participant feels that you believe him/her.\n\n🌷 Let them know they have done the right thing by sharing their story with you.\n\n✨ Be supportive and free of judgment in your responses – avoid blaming at all times!\n\n➡️ Let the participant know that you will share what he/she told you with your supervisor to find a way to support and protect him/her.\n\n📝 Explain what you are going to do next.\n\n ✅ Notify @data.tag[@fields.current_package].supervisor_name"
+          "eng": "**During disclosure:**\n\n💚 Provide a safe environment in which the participant can share their story.\n\n👂 Listen carefully to the participant and take notes: what/when/where/who.\n\n❗ Determine if the participant is in immediate danger and what help is available.\n\n💙 Make sure that the participant feels that you believe him/her.\n\n🌷 Let them know they have done the right thing by sharing their story with you.\n\n✨ Be supportive and free of judgment in your responses – avoid blaming at all times!\n\n➡️ Let the participant know that you will share what he/she told you with your supervisor to find a way to support and protect him/her.\n\n📝 Explain what you are going to do next.\n\n ✅ Notify @global.supervisor_name"
         },
         "related_articles_title": {
           "eng": "Additional Safeguarding Resources"
         }
       },
-      "introduction": "**During disclosure:**\n\n💚 Provide a safe environment in which the participant can share their story.\n\n👂 Listen carefully to the participant and take notes: what/when/where/who.\n\n❗ Determine if the participant is in immediate danger and what help is available.\n\n💙 Make sure that the participant feels that you believe him/her.\n\n🌷 Let them know they have done the right thing by sharing their story with you.\n\n✨ Be supportive and free of judgment in your responses – avoid blaming at all times!\n\n➡️ Let the participant know that you will share what he/she told you with your supervisor to find a way to support and protect him/her.\n\n📝 Explain what you are going to do next.\n\n ✅ Notify @data.tag[@fields.current_package].supervisor_name",
+      "introduction": "**During disclosure:**\n\n💚 Provide a safe environment in which the participant can share their story.\n\n👂 Listen carefully to the participant and take notes: what/when/where/who.\n\n❗ Determine if the participant is in immediate danger and what help is available.\n\n💙 Make sure that the participant feels that you believe him/her.\n\n🌷 Let them know they have done the right thing by sharing their story with you.\n\n✨ Be supportive and free of judgment in your responses – avoid blaming at all times!\n\n➡️ Let the participant know that you will share what he/she told you with your supervisor to find a way to support and protect him/her.\n\n📝 Explain what you are going to do next.\n\n ✅ Notify @global.supervisor_name",
       "related_articles_title": "Additional Safeguarding Resources"
     },
     {
@@ -426,10 +426,10 @@
           "eng": "A parent needs support accessing Crianza con Conciencia+, and I'm not sure how to answer their question."
         },
         "introduction": {
-          "eng": "Reach out for support to @data.tag[@fields.current_package].supervisor_name."
+          "eng": "Reach out for support to @global.supervisor_name."
         }
       },
-      "introduction": "Reach out for support to @data.tag[@fields.current_package].supervisor_name."
+      "introduction": "Reach out for support to @global.supervisor_name."
     },
     {
       "id": "faq_ground_rules",
@@ -515,7 +515,7 @@
           "eng": "A parent is personally messaging me or calling me with lots of questions on their parenting habits or girl, boy or teen’s misbehaviours."
         },
         "introduction": {
-          "eng": "Parents may see you as someone they can turn to for help beyond school and Crianza con Conciencia+, especially when they need advice on their boy, girl, or teen’s  behaviour. \n\nEven though you want to help, finding a balance for your well-being is important. \n\nShare the following message to gently remind the parents about your role in Crianza con Conciencia+. \n\nIf the parents continue to persist, notify @data.tag[@fields.current_package].supervisor_name."
+          "eng": "Parents may see you as someone they can turn to for help beyond school and Crianza con Conciencia+, especially when they need advice on their boy, girl, or teen’s  behaviour. \n\nEven though you want to help, finding a balance for your well-being is important. \n\nShare the following message to gently remind the parents about your role in Crianza con Conciencia+. \n\nIf the parents continue to persist, notify @global.supervisor_name."
         },
         "message_title_1": {
           "eng": "Send This Message to the Parent"
@@ -524,7 +524,7 @@
           "eng": "Hi!😃Thank you for your message. \n\nMy role in this activity is limited to only sharing messages in the group. I unfortunately do not have the capacity to respond to each individual message.😔\n\n🔑 If you are comfortable posting your questions in the group, please feel free to do so during our chat sessions! 💡\n\nYou can also type MENU in ParentText to get more support about the courses."
         }
       },
-      "introduction": "Parents may see you as someone they can turn to for help beyond school and Crianza con Conciencia+, especially when they need advice on their boy, girl, or teen’s  behaviour. \n\nEven though you want to help, finding a balance for your well-being is important. \n\nShare the following message to gently remind the parents about your role in Crianza con Conciencia+. \n\nIf the parents continue to persist, notify @data.tag[@fields.current_package].supervisor_name.",
+      "introduction": "Parents may see you as someone they can turn to for help beyond school and Crianza con Conciencia+, especially when they need advice on their boy, girl, or teen’s  behaviour. \n\nEven though you want to help, finding a balance for your well-being is important. \n\nShare the following message to gently remind the parents about your role in Crianza con Conciencia+. \n\nIf the parents continue to persist, notify @global.supervisor_name.",
       "message_title_1": "Send This Message to the Parent",
       "message_text_1": "Hi!😃Thank you for your message. \n\nMy role in this activity is limited to only sharing messages in the group. I unfortunately do not have the capacity to respond to each individual message.😔\n\n🔑 If you are comfortable posting your questions in the group, please feel free to do so during our chat sessions! 💡\n\nYou can also type MENU in ParentText to get more support about the courses."
     },
