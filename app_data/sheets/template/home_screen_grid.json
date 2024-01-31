@@ -270,7 +270,7 @@
           "rows": [
             {
               "type": "items",
-              "value": "@data.article",
+              "value": "@data.article_data",
               "rows": [
                 {
                   "name": "sections",
@@ -807,15 +807,15 @@
               "_dynamicFields": {
                 "value": [
                   {
-                    "fullExpression": "@data.article",
-                    "matchedExpression": "@data.article",
+                    "fullExpression": "@data.article_data",
+                    "matchedExpression": "@data.article_data",
                     "type": "data",
-                    "fieldName": "article"
+                    "fieldName": "article_data"
                   }
                 ]
               },
               "_dynamicDependencies": {
-                "@data.article": [
+                "@data.article_data": [
                   "value"
                 ]
               }
