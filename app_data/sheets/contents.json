@@ -115,12 +115,6 @@
       "flow_name": "tag_data",
       "data_list_name": "tag",
       "_xlsxPath": "data/FacilitatorApp MX content.xlsx"
-    },
-    "test_data": {
-      "flow_type": "data_list",
-      "flow_name": "test_data",
-      "data_list_name": "test",
-      "_xlsxPath": "templates/test_package_dependant_supervisor_contact.xlsx"
     }
   },
   "data_pipe": {
@@ -230,6 +224,25 @@
       "flow_type": "global",
       "flow_name": "profile_global",
       "_xlsxPath": "data/profile_data.xlsx"
+    },
+    "supervisor_name": {
+      "flow_type": "global",
+      "flow_name": "supervisor_name",
+      "_xlsxPath": "data/dynamic_global_mx.xlsx"
+    },
+    "supervisor_name_bs": {
+      "flow_type": "global",
+      "flow_name": "supervisor_name_bs",
+      "override_target": "supervisor_name",
+      "override_condition": "@fields.current_package == \"cdmx_bs\" || @fields.current_package == \"edomx_bs\"",
+      "_xlsxPath": "data/dynamic_global_mx.xlsx"
+    },
+    "supervisor_name_dif": {
+      "flow_type": "global",
+      "flow_name": "supervisor_name_dif",
+      "override_target": "supervisor_name",
+      "override_condition": "@fields.current_package == \"cdmx_dif\" || @fields.current_package == \"chih_dif\" || @fields.current_package == \"bc_dif\" || @fields.current_package == \"mich_dif\"",
+      "_xlsxPath": "data/dynamic_global_mx.xlsx"
     }
   },
   "template": {
@@ -639,12 +652,6 @@
       "flow_type": "template",
       "flow_name": "section_header",
       "_xlsxPath": "templates/navigation.xlsx"
-    },
-    "test_template": {
-      "flow_type": "template",
-      "flow_name": "test_template",
-      "comments": "These are finalised and working, but marked as draft to not sync into the apps",
-      "_xlsxPath": "templates/test_package_dependant_supervisor_contact.xlsx"
     },
     "virtual_form": {
       "flow_type": "template",

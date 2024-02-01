@@ -9,7 +9,7 @@
       "name": "button_list",
       "value": [
         "image: @data.app_section.data_collection.icon_asset | target_template: @data.app_section.data_collection.template",
-        "image: images/logos/FormandoConCiencia_white.svg | target_template: @data.app_section.home.template",
+        "image: images/logos/bird_white.svg | target_template: @data.app_section.home.template",
         "image: @data.app_section.profile.icon_asset | target_template: @data.app_section.profile.template"
       ],
       "type": "set_variable",
@@ -32,7 +32,7 @@
           ],
           "1": [
             {
-              "fullExpression": "image: images/logos/FormandoConCiencia_white.svg | target_template: @data.app_section.home.template",
+              "fullExpression": "image: images/logos/bird_white.svg | target_template: @data.app_section.home.template",
               "matchedExpression": "@data.app_section.home.template",
               "type": "data",
               "fieldName": "app_section"

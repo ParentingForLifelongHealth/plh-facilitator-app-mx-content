@@ -115,6 +115,10 @@
     "md5Checksum": "b26f273c47046c6350612f18f1e50f6e",
     "size_kb": 3.9
   },
+  "images/flags/zm.svg": {
+    "md5Checksum": "8d658b4d10c327c9d9c74cb524806d60",
+    "size_kb": 5.4
+  },
   "images/how_to_chat_session.svg": {
     "md5Checksum": "ba6e2f12a3176f7d3fa502e49a3e8260",
     "size_kb": 11
@@ -159,18 +163,6 @@
     "md5Checksum": "841a27e6e013d797d2bcf20391632cee",
     "size_kb": 1.4
   },
-  "images/logos/FormandoConCiencia_on_dark.svg": {
-    "md5Checksum": "4a91fc4a3adaffed384acef462e9ee0b",
-    "size_kb": 2.1
-  },
-  "images/logos/FormandoConCiencia_on_light.svg": {
-    "md5Checksum": "400093d7b960e52dfd8a7d384aada693",
-    "size_kb": 2
-  },
-  "images/logos/FormandoConCiencia_white.svg": {
-    "md5Checksum": "5c3a85cb1e38c02348a6b42b92f7c06a",
-    "size_kb": 1.9
-  },
   "images/logos/IDEMS.png": {
     "md5Checksum": "dd7be17e1082bfc5fb5800ac17754d0c",
     "size_kb": 84.6
@@ -199,6 +191,18 @@
     "md5Checksum": "45484deed688ed9d0a8e328039402c89",
     "size_kb": 120.8
   },
+  "images/logos/bird_on_dark.svg": {
+    "md5Checksum": "4a91fc4a3adaffed384acef462e9ee0b",
+    "size_kb": 2.1
+  },
+  "images/logos/bird_on_light.svg": {
+    "md5Checksum": "400093d7b960e52dfd8a7d384aada693",
+    "size_kb": 2
+  },
+  "images/logos/bird_white.svg": {
+    "md5Checksum": "5c3a85cb1e38c02348a6b42b92f7c06a",
+    "size_kb": 1.9
+  },
   "images/logos/lego.png": {
     "md5Checksum": "573d6506d6597a7e8c95c64724e34518",
     "size_kb": 10.4
@@ -206,6 +210,10 @@
   "images/logos/masw.png": {
     "md5Checksum": "11804b9025653042bb57786188c1d573",
     "size_kb": 7.1
+  },
+  "images/logos/nip.png": {
+    "md5Checksum": "88bae191d1fc9f29ee49c1721e46f181",
+    "size_kb": 11.9
   },
   "images/logos/thsn.png": {
     "md5Checksum": "d982884da389684da2937e4c10b16d2b",
