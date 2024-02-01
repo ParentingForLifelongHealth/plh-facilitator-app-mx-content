@@ -7,25 +7,25 @@
     {
       "id": "organisation_1",
       "name": "UNICEF",
-      "image_asset": "images/logos/unicef_logo.jpg",
+      "image_asset": "images/logos/UNICEF.jpg",
       "group": "partners"
     },
     {
       "id": "organisation_2",
       "name": "NIP",
-      "image_asset": "images/logos/nip_logo.png",
+      "image_asset": "images/logos/nip.png",
       "group": "partners"
     },
     {
       "id": "organisation_3",
       "name": "PLH",
-      "image_asset": "images/logos/plh_logo.png",
+      "image_asset": "images/logos/PLH.png",
       "group": "partners"
     },
     {
       "id": "organisation_4",
       "name": "IDEMS",
-      "image_asset": "images/logos/idems_logo.jpg",
+      "image_asset": "images/logos/IDEMS.png",
       "group": "partners"
     }
   ],

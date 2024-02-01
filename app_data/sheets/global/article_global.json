@@ -17,14 +17,6 @@
     },
     {
       "type": "declare_global_constant",
-      "name": "supervisor_name",
-      "value": "your supervisor",
-      "_translations": {
-        "value": {}
-      }
-    },
-    {
-      "type": "declare_global_constant",
       "name": "supervisor_contact",
       "value": "[PHONE NUMBER]",
       "_translations": {

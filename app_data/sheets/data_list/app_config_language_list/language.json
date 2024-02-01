@@ -15,6 +15,17 @@
       "name": "mx_es",
       "text": "Español",
       "image": "images/flags/mx.svg"
+    },
+    {
+      "id": "gb_en",
+      "country_code": "gb",
+      "country_label": "United Kingdom",
+      "country_icon": "images/flags/gb.svg",
+      "language_code": "en",
+      "language_label": "English",
+      "name": "gb_en",
+      "text": "English",
+      "image": "images/flags/gb.svg"
     }
   ],
   "_xlsxPath": "data/deployment_data_mx.xlsx"

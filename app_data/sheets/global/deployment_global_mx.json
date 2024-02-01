@@ -8,7 +8,7 @@
     {
       "type": "declare_global_constant",
       "name": "app_name",
-      "value": "Formando ConConciencia",
+      "value": "Formando Conciencia+",
       "_translations": {
         "value": {}
       },
@@ -68,15 +68,7 @@
     {
       "type": "declare_global_constant",
       "name": "has_multiple_languages",
-      "value": false
-    },
-    {
-      "type": "declare_global_constant",
-      "name": "supervisor_name",
-      "value": "@data.tag[@fields.current_package].supervisor_name",
-      "_translations": {
-        "value": {}
-      }
+      "value": true
     }
   ],
   "_xlsxPath": "data/deployment_data_mx.xlsx"
