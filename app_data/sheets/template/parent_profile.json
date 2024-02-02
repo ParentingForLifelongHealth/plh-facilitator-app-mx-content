@@ -24,7 +24,9 @@
       "name": "title",
       "value": "Parent profile",
       "_translations": {
-        "value": {}
+        "value": {
+          "mx_es": true
+        }
       },
       "_nested_name": "title"
     },
@@ -531,7 +533,9 @@
       "name": "text_first_name",
       "value": "First name",
       "_translations": {
-        "value": {}
+        "value": {
+          "mx_es": true
+        }
       },
       "parameter_list": {
         "style": "emphasised"
@@ -654,7 +658,9 @@
       "name": "text_last_name",
       "value": "Last name",
       "_translations": {
-        "value": {}
+        "value": {
+          "mx_es": true
+        }
       },
       "parameter_list": {
         "style": "emphasised"
@@ -777,7 +783,9 @@
       "name": "text_external_id",
       "value": "ParentText ID",
       "_translations": {
-        "value": {}
+        "value": {
+          "mx_es": true
+        }
       },
       "parameter_list": {
         "style": "emphasised"
@@ -1403,7 +1411,9 @@
           "name": "parent",
           "value": "Parent",
           "_translations": {
-            "value": {}
+            "value": {
+              "mx_es": true
+            }
           },
           "type": "set_variable",
           "_nested_name": "dg_when_external_id_accepted.parent"

@@ -12,8 +12,12 @@
       "target_template": "data_collection",
       "title": "Attendance",
       "_translations": {
-        "title": {},
-        "description": {}
+        "title": {
+          "mx_es": true
+        },
+        "description": {
+          "mx_es": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -33,8 +37,12 @@
       "target_template": "home_screen",
       "title": "Home",
       "_translations": {
-        "title": {},
-        "description": {}
+        "title": {
+          "mx_es": true
+        },
+        "description": {
+          "mx_es": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -54,8 +62,12 @@
       "target_template": "profile",
       "title": "Profile",
       "_translations": {
-        "title": {},
-        "description": {}
+        "title": {
+          "mx_es": true
+        },
+        "description": {
+          "mx_es": true
+        }
       },
       "_translatedFields": {
         "title": {

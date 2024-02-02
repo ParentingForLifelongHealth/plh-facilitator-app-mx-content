@@ -15,9 +15,15 @@
       "attached_single_doc": "https://docs.google.com/document/d/1eREUx1d-XpC_bu79lr8rWunOzPPQ2qSi55JH_0pHGK0",
       "title": "What is Safeguarding?",
       "_translations": {
-        "title": {},
-        "introduction": {},
-        "related_articles_title": {}
+        "title": {
+          "mx_es": true
+        },
+        "introduction": {
+          "mx_es": true
+        },
+        "related_articles_title": {
+          "mx_es": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -44,9 +50,15 @@
       "related_article_id_3": "contact_for_reporting_abuse",
       "title": "What should I do during the disclosure of abuse, neglect, or exploitation?",
       "_translations": {
-        "title": {},
-        "introduction": {},
-        "related_articles_title": {}
+        "title": {
+          "mx_es": true
+        },
+        "introduction": {
+          "mx_es": true
+        },
+        "related_articles_title": {
+          "mx_es": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -73,9 +85,15 @@
       "related_article_id_3": "crisis_hotlines",
       "title": "What can I do after a participant discloses abuse, neglect or exploitation?",
       "_translations": {
-        "title": {},
-        "introduction": {},
-        "related_articles_title": {}
+        "title": {
+          "mx_es": true
+        },
+        "introduction": {
+          "mx_es": true
+        },
+        "related_articles_title": {
+          "mx_es": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -102,9 +120,15 @@
       "related_article_id_3": "after_disclosed_abuse",
       "title": "How should I report abuse?",
       "_translations": {
-        "title": {},
-        "introduction": {},
-        "related_articles_title": {}
+        "title": {
+          "mx_es": true
+        },
+        "introduction": {
+          "mx_es": true
+        },
+        "related_articles_title": {
+          "mx_es": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -130,11 +154,21 @@
       "related_article_id_2": "crisis_hotlines",
       "title": "Abuse, Neglect and Violence Hotline",
       "_translations": {
-        "title": {},
-        "introduction": {},
-        "related_articles_title": {},
-        "message_title_1": {},
-        "message_text_1": {}
+        "title": {
+          "mx_es": true
+        },
+        "introduction": {
+          "mx_es": true
+        },
+        "related_articles_title": {
+          "mx_es": true
+        },
+        "message_title_1": {
+          "mx_es": true
+        },
+        "message_text_1": {
+          "mx_es": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -165,11 +199,21 @@
       "related_article_id_2": "contact_for_reporting_abuse",
       "title": "Crisis Hotlines",
       "_translations": {
-        "title": {},
-        "introduction": {},
-        "related_articles_title": {},
-        "message_title_1": {},
-        "message_text_1": {}
+        "title": {
+          "mx_es": true
+        },
+        "introduction": {
+          "mx_es": true
+        },
+        "related_articles_title": {
+          "mx_es": true
+        },
+        "message_title_1": {
+          "mx_es": true
+        },
+        "message_text_1": {
+          "mx_es": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -204,19 +248,45 @@
       "related_article_id_3": "faq_misbehaviour",
       "title": "After Onboarding Session",
       "_translations": {
-        "title": {},
-        "introduction": {},
-        "related_articles_title": {},
-        "message_title_1": {},
-        "message_text_1": {},
-        "section_title_1": {},
-        "section_text_1": {},
-        "message_guidance_1": {},
-        "message_title_2": {},
-        "message_text_2": {},
-        "message_guidance_2": {},
-        "message_title_3": {},
-        "message_text_3": {}
+        "title": {
+          "mx_es": true
+        },
+        "introduction": {
+          "mx_es": true
+        },
+        "related_articles_title": {
+          "mx_es": true
+        },
+        "message_title_1": {
+          "mx_es": true
+        },
+        "message_text_1": {
+          "mx_es": true
+        },
+        "section_title_1": {
+          "mx_es": true
+        },
+        "section_text_1": {
+          "mx_es": true
+        },
+        "message_guidance_1": {
+          "mx_es": true
+        },
+        "message_title_2": {
+          "mx_es": true
+        },
+        "message_text_2": {
+          "mx_es": true
+        },
+        "message_guidance_2": {
+          "mx_es": true
+        },
+        "message_title_3": {
+          "mx_es": true
+        },
+        "message_text_3": {
+          "mx_es": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -283,23 +353,53 @@
       "related_article_id_3": "faq_h_no_neg_to_pos",
       "title": "Day 3: Self-Talk",
       "_translations": {
-        "title": {},
+        "title": {
+          "mx_es": true
+        },
         "introduction": {},
-        "related_articles_title": {},
-        "message_title_1": {},
-        "message_text_1": {},
-        "message_guidance_1": {},
-        "message_title_2": {},
+        "related_articles_title": {
+          "mx_es": true
+        },
+        "message_title_1": {
+          "mx_es": true
+        },
+        "message_text_1": {
+          "mx_es": true
+        },
+        "message_guidance_1": {
+          "mx_es": true
+        },
+        "message_title_2": {
+          "mx_es": true
+        },
         "message_text_2": {},
-        "message_guidance_2": {},
-        "message_title_3": {},
-        "message_text_3": {},
-        "message_guidance_3": {},
-        "message_title_4": {},
-        "message_text_4": {},
-        "message_title_5": {},
-        "message_text_5": {},
-        "message_guidance_5": {}
+        "message_guidance_2": {
+          "mx_es": true
+        },
+        "message_title_3": {
+          "mx_es": true
+        },
+        "message_text_3": {
+          "mx_es": true
+        },
+        "message_guidance_3": {
+          "mx_es": true
+        },
+        "message_title_4": {
+          "mx_es": true
+        },
+        "message_text_4": {
+          "mx_es": true
+        },
+        "message_title_5": {
+          "mx_es": true
+        },
+        "message_text_5": {
+          "mx_es": true
+        },
+        "message_guidance_5": {
+          "mx_es": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -384,7 +484,9 @@
       "_translations": {
         "title": {},
         "introduction": {},
-        "related_articles_title": {},
+        "related_articles_title": {
+          "mx_es": true
+        },
         "message_title_1": {},
         "message_text_1": {}
       },
@@ -418,8 +520,12 @@
       "icon_asset": "images/faq_text_support.svg",
       "title": "A parent needs support accessing Crianza con Conciencia+, and I'm not sure how to answer their question.",
       "_translations": {
-        "title": {},
-        "introduction": {}
+        "title": {
+          "mx_es": true
+        },
+        "introduction": {
+          "mx_es": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -439,17 +545,39 @@
       "icon_asset": "images/faq_ground_rules.svg",
       "title": "A parent cannot commit to the ground rules.",
       "_translations": {
-        "title": {},
-        "introduction": {},
-        "message_title_1": {},
-        "message_text_1": {},
-        "message_title_2": {},
-        "message_text_2": {},
-        "message_title_3": {},
-        "message_text_3": {},
-        "message_guidance_3": {},
-        "message_title_4": {},
-        "message_text_4": {}
+        "title": {
+          "mx_es": true
+        },
+        "introduction": {
+          "mx_es": true
+        },
+        "message_title_1": {
+          "mx_es": true
+        },
+        "message_text_1": {
+          "mx_es": true
+        },
+        "message_title_2": {
+          "mx_es": true
+        },
+        "message_text_2": {
+          "mx_es": true
+        },
+        "message_title_3": {
+          "mx_es": true
+        },
+        "message_text_3": {
+          "mx_es": true
+        },
+        "message_guidance_3": {
+          "mx_es": true
+        },
+        "message_title_4": {
+          "mx_es": true
+        },
+        "message_text_4": {
+          "mx_es": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -505,10 +633,16 @@
       "icon_asset": "images/faq_misbehaviour.svg",
       "title": "A parent is personally messaging me or calling me with lots of questions on their parenting habits or girl, boy or teen’s misbehaviours.",
       "_translations": {
-        "title": {},
+        "title": {
+          "mx_es": true
+        },
         "introduction": {},
-        "message_title_1": {},
-        "message_text_1": {}
+        "message_title_1": {
+          "mx_es": true
+        },
+        "message_text_1": {
+          "mx_es": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -536,18 +670,42 @@
       "icon_asset": "images/faq_small_group_active.svg",
       "title": "Only a small group of parents are actively participating in the chat sessions, while other parents are not responding.",
       "_translations": {
-        "title": {},
-        "introduction": {},
-        "message_title_1": {},
-        "message_text_1": {},
-        "message_title_2": {},
-        "message_text_2": {},
-        "message_title_3": {},
-        "message_text_3": {},
-        "message_title_4": {},
-        "message_text_4": {},
-        "message_title_5": {},
-        "message_text_5": {}
+        "title": {
+          "mx_es": true
+        },
+        "introduction": {
+          "mx_es": true
+        },
+        "message_title_1": {
+          "mx_es": true
+        },
+        "message_text_1": {
+          "mx_es": true
+        },
+        "message_title_2": {
+          "mx_es": true
+        },
+        "message_text_2": {
+          "mx_es": true
+        },
+        "message_title_3": {
+          "mx_es": true
+        },
+        "message_text_3": {
+          "mx_es": true
+        },
+        "message_title_4": {
+          "mx_es": true
+        },
+        "message_text_4": {
+          "mx_es": true
+        },
+        "message_title_5": {
+          "mx_es": true
+        },
+        "message_text_5": {
+          "mx_es": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -604,10 +762,18 @@
       "icon_asset": "images/faq_h_still_struggling.svg",
       "title": "Participants share that the programme was not helpful or that they are still struggling",
       "_translations": {
-        "title": {},
-        "introduction": {},
-        "message_title_1": {},
-        "message_text_1": {}
+        "title": {
+          "mx_es": true
+        },
+        "introduction": {
+          "mx_es": true
+        },
+        "message_title_1": {
+          "mx_es": true
+        },
+        "message_text_1": {
+          "mx_es": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -632,10 +798,18 @@
       "icon_asset": "images/faq_h_sad_to_end.svg",
       "title": "Parents are feeling concerned, stressed or sad as the programme comes to an end.",
       "_translations": {
-        "title": {},
-        "introduction": {},
-        "message_title_1": {},
-        "message_text_1": {}
+        "title": {
+          "mx_es": true
+        },
+        "introduction": {
+          "mx_es": true
+        },
+        "message_title_1": {
+          "mx_es": true
+        },
+        "message_text_1": {
+          "mx_es": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -663,13 +837,27 @@
       "icon_asset": "images/faq_no_participation_general.svg",
       "title": "What if no one participates?",
       "_translations": {
-        "title": {},
-        "introduction": {},
-        "message_title_1": {},
-        "message_text_1": {},
-        "message_guidance_1": {},
-        "message_title_2": {},
-        "message_text_2": {}
+        "title": {
+          "mx_es": true
+        },
+        "introduction": {
+          "mx_es": true
+        },
+        "message_title_1": {
+          "mx_es": true
+        },
+        "message_text_1": {
+          "mx_es": true
+        },
+        "message_guidance_1": {
+          "mx_es": true
+        },
+        "message_title_2": {
+          "mx_es": true
+        },
+        "message_text_2": {
+          "mx_es": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -712,19 +900,45 @@
       "related_article_id_3": "how_to_report",
       "title": "Overview of the Crianza con Conciencia+ Programme",
       "_translations": {
-        "title": {},
-        "introduction": {},
-        "related_articles_title": {},
-        "section_title_1": {},
-        "section_text_1": {},
-        "sections_title": {},
-        "section_title_2": {},
-        "section_text_2": {},
-        "section_title_3": {},
-        "section_text_3": {},
-        "section_title_4": {},
-        "section_text_4": {},
-        "resource_title_1": {}
+        "title": {
+          "mx_es": true
+        },
+        "introduction": {
+          "mx_es": true
+        },
+        "related_articles_title": {
+          "mx_es": true
+        },
+        "section_title_1": {
+          "mx_es": true
+        },
+        "section_text_1": {
+          "mx_es": true
+        },
+        "sections_title": {
+          "mx_es": true
+        },
+        "section_title_2": {
+          "mx_es": true
+        },
+        "section_text_2": {
+          "mx_es": true
+        },
+        "section_title_3": {
+          "mx_es": true
+        },
+        "section_text_3": {
+          "mx_es": true
+        },
+        "section_title_4": {
+          "mx_es": true
+        },
+        "section_text_4": {
+          "mx_es": true
+        },
+        "resource_title_1": {
+          "mx_es": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -789,9 +1003,15 @@
       "icon_asset": "images/onboarding_cc.svg",
       "title": "Guide for In-Person Onboarding",
       "_translations": {
-        "title": {},
-        "introduction": {},
-        "resource_title_1": {}
+        "title": {
+          "mx_es": true
+        },
+        "introduction": {
+          "mx_es": true
+        },
+        "resource_title_1": {
+          "mx_es": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -817,10 +1037,16 @@
       "related_article_id_1": "what_is_safeguarding",
       "title": "How to Conduct WhatsApp Group Chat Sessions",
       "_translations": {
-        "title": {},
-        "introduction": {},
+        "title": {
+          "mx_es": true
+        },
+        "introduction": {
+          "mx_es": true
+        },
         "related_articles_title": {},
-        "section_title_1": {},
+        "section_title_1": {
+          "mx_es": true
+        },
         "section_text_1": {},
         "sections_title": {},
         "section_title_2": {},
@@ -899,10 +1125,16 @@
         "section_text_2": {},
         "section_title_3": {},
         "section_text_3": {},
-        "section_title_4": {},
+        "section_title_4": {
+          "mx_es": true
+        },
         "section_text_4": {},
-        "section_title_5": {},
-        "section_text_5": {}
+        "section_title_5": {
+          "mx_es": true
+        },
+        "section_text_5": {
+          "mx_es": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -1007,7 +1239,9 @@
       "_translations": {
         "title": {},
         "introduction": {},
-        "message_title_1": {},
+        "message_title_1": {
+          "mx_es": true
+        },
         "message_text_1": {},
         "message_guidance_1": {}
       },
@@ -1040,7 +1274,9 @@
       "_translations": {
         "title": {},
         "introduction": {},
-        "message_title_1": {},
+        "message_title_1": {
+          "mx_es": true
+        },
         "message_text_1": {}
       },
       "_translatedFields": {

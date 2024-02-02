@@ -9,7 +9,9 @@
       "type": "in_person",
       "name": "Onboarding",
       "_translations": {
-        "name": {}
+        "name": {
+          "mx_es": true
+        }
       },
       "_translatedFields": {
         "name": {

@@ -47,7 +47,9 @@
       "name": "parent",
       "value": "Parent",
       "_translations": {
-        "value": {}
+        "value": {
+          "mx_es": true
+        }
       },
       "type": "set_variable",
       "_nested_name": "parent"
@@ -560,7 +562,9 @@
       "name": "add_parent",
       "value": "Add a new parent",
       "_translations": {
-        "value": {}
+        "value": {
+          "mx_es": true
+        }
       },
       "action_list": [
         {

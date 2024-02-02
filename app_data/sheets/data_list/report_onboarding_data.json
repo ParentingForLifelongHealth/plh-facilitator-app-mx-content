@@ -9,7 +9,9 @@
       "type": "title",
       "text": "Welcome",
       "_translations": {
-        "text": {}
+        "text": {
+          "mx_es": true
+        }
       },
       "_translatedFields": {
         "text": {

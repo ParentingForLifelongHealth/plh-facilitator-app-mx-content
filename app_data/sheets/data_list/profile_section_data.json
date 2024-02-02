@@ -10,8 +10,12 @@
       "show": true,
       "title": "About you",
       "_translations": {
-        "title": {},
-        "description": {}
+        "title": {
+          "mx_es": true
+        },
+        "description": {
+          "mx_es": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -29,8 +33,12 @@
       "show": true,
       "title": "Your Facilitator ID",
       "_translations": {
-        "title": {},
-        "description": {}
+        "title": {
+          "mx_es": true
+        },
+        "description": {
+          "mx_es": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -48,8 +56,12 @@
       "show": "!@fields.allow_multiple_parent_groups",
       "title": "Your Parent Group",
       "_translations": {
-        "title": {},
-        "description": {}
+        "title": {
+          "mx_es": true
+        },
+        "description": {
+          "mx_es": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -67,8 +79,12 @@
       "show": "@fields.allow_multiple_parent_groups",
       "title": "Your Parent Groups",
       "_translations": {
-        "title": {},
-        "description": {}
+        "title": {
+          "mx_es": true
+        },
+        "description": {
+          "mx_es": true
+        }
       },
       "_translatedFields": {
         "title": {
