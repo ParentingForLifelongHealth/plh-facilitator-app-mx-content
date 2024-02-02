@@ -6,22 +6,22 @@
   "rows": [
     {
       "id": "mexico_city",
-      "name": "Mexico City",
+      "name": "mexico_city",
       "text": "Ciudad de México"
     },
     {
       "id": "chihuahua",
-      "name": "Chihuahua",
+      "name": "chihuahua",
       "text": "Chihuahua"
     },
     {
-      "id": "michoacán",
-      "name": "Michoacán",
+      "id": "michoacan",
+      "name": "michoacan",
       "text": "Michoacán"
     },
     {
       "id": "baja_california",
-      "name": "Baja California",
+      "name": "baja_california",
       "text": "Baja California"
     }
   ],
