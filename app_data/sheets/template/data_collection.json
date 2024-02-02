@@ -54,7 +54,9 @@
       "name": "question_text",
       "value": "What type of session are you submitting a report for?",
       "_translations": {
-        "value": {}
+        "value": {
+          "mx_es": true
+        }
       },
       "_nested_name": "question_text"
     },
@@ -67,7 +69,9 @@
           "name": "button_in_person",
           "value": "In-Person",
           "_translations": {
-            "value": {}
+            "value": {
+              "mx_es": true
+            }
           },
           "action_list": [
             {
@@ -283,7 +287,9 @@
           "name": "text_previous",
           "value": "Previous reports",
           "_translations": {
-            "value": {}
+            "value": {
+              "mx_es": true
+            }
           },
           "parameter_list": {
             "style": "emphasised"

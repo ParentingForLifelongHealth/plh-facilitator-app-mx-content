@@ -71,7 +71,9 @@
               "name": "text_group",
               "value": "Group @item.id",
               "_translations": {
-                "value": {}
+                "value": {
+                  "mx_es": true
+                }
               },
               "parameter_list": {
                 "style": "emphasised"
@@ -231,7 +233,9 @@
       "name": "add_group",
       "value": "Add a new group",
       "_translations": {
-        "value": {}
+        "value": {
+          "mx_es": true
+        }
       },
       "action_list": [
         {

@@ -8,7 +8,9 @@
       "id": "partners",
       "name": "Partners",
       "_translations": {
-        "name": {}
+        "name": {
+          "mx_es": true
+        }
       },
       "_translatedFields": {
         "name": {

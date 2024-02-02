@@ -107,7 +107,9 @@
       "name": "report_type_name",
       "value": "In-Person",
       "_translations": {
-        "value": {}
+        "value": {
+          "mx_es": true
+        }
       },
       "type": "set_variable",
       "_nested_name": "report_type_name"
@@ -749,7 +751,9 @@
       "name": "placeholder",
       "value": "minutes",
       "_translations": {
-        "value": {}
+        "value": {
+          "mx_es": true
+        }
       },
       "type": "set_variable",
       "_nested_name": "placeholder"
@@ -759,7 +763,9 @@
       "name": "question_prep_time",
       "value": "How many minutes did it take you to prepare for the session?",
       "_translations": {
-        "value": {}
+        "value": {
+          "mx_es": true
+        }
       },
       "parameter_list": {
         "style": "emphasised"
@@ -875,7 +881,9 @@
       "name": "question_travel_time",
       "value": "How many minutes did it take you to travel to the location where the session was delivered?",
       "_translations": {
-        "value": {}
+        "value": {
+          "mx_es": true
+        }
       },
       "parameter_list": {
         "style": "emphasised"
@@ -991,7 +999,9 @@
       "name": "question_session_time",
       "value": "How many minutes did it take you to deliver the session?",
       "_translations": {
-        "value": {}
+        "value": {
+          "mx_es": true
+        }
       },
       "parameter_list": {
         "style": "emphasised"
@@ -1107,7 +1117,9 @@
       "name": "question_participants",
       "value": "Which of the parents in your group attended your in-person session?",
       "_translations": {
-        "value": {}
+        "value": {
+          "mx_es": true
+        }
       },
       "parameter_list": {
         "style": "emphasised"
@@ -1118,7 +1130,9 @@
       "name": "parent",
       "value": "Parent",
       "_translations": {
-        "value": {}
+        "value": {
+          "mx_es": true
+        }
       },
       "type": "set_variable",
       "_nested_name": "parent"
@@ -1924,7 +1938,9 @@
       "name": "text_instruction",
       "value": "Please check all the activities you completed during this session:",
       "_translations": {
-        "value": {}
+        "value": {
+          "mx_es": true
+        }
       },
       "parameter_list": {
         "style": "emphasised"

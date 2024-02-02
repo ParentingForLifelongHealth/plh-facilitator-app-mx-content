@@ -62,7 +62,9 @@
       "name": "deployment_terms_text",
       "value": "14 December 2023",
       "_translations": {
-        "value": {}
+        "value": {
+          "mx_es": true
+        }
       }
     },
     {

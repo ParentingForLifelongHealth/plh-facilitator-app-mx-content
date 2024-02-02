@@ -126,7 +126,9 @@
           "name": "button_completed",
           "value": "Save",
           "_translations": {
-            "value": {}
+            "value": {
+              "mx_es": true
+            }
           },
           "action_list": [
             {

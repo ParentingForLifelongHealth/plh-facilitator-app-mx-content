@@ -8,7 +8,9 @@
       "name": "text",
       "value": "Whether meeting with your parents over @global.share_medium through a chat session or in-person, you'll want to report attendance using this form.",
       "_translations": {
-        "value": {}
+        "value": {
+          "mx_es": true
+        }
       },
       "_nested_name": "text",
       "_dynamicFields": {

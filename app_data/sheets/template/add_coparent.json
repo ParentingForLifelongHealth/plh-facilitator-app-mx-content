@@ -8,7 +8,9 @@
       "name": "title",
       "value": "Select co-parent from existing parents",
       "_translations": {
-        "value": {}
+        "value": {
+          "mx_es": true
+        }
       },
       "_nested_name": "title"
     },
@@ -134,7 +136,9 @@
       "name": "parent",
       "value": "Parent",
       "_translations": {
-        "value": {}
+        "value": {
+          "mx_es": true
+        }
       },
       "type": "set_variable",
       "_nested_name": "parent"

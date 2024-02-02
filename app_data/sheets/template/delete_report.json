@@ -167,7 +167,9 @@
       "name": "title",
       "value": "Delete report",
       "_translations": {
-        "value": {}
+        "value": {
+          "mx_es": true
+        }
       },
       "_nested_name": "title"
     },
@@ -176,7 +178,9 @@
       "name": "text_warning",
       "value": "Are you sure you want to delete the **@local.report_name** report? This cannot be undone.",
       "_translations": {
-        "value": {}
+        "value": {
+          "mx_es": true
+        }
       },
       "_nested_name": "text_warning",
       "_dynamicFields": {
@@ -287,7 +291,9 @@
           "name": "button_no",
           "value": "No",
           "_translations": {
-            "value": {}
+            "value": {
+              "mx_es": true
+            }
           },
           "action_list": [
             {
@@ -313,7 +319,9 @@
           "name": "button_delete",
           "value": "Yes",
           "_translations": {
-            "value": {}
+            "value": {
+              "mx_es": true
+            }
           },
           "action_list": [
             {

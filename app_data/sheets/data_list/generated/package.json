@@ -7,7 +7,9 @@
       "id": "cdmx_dif",
       "title": "Mexico City - DIF",
       "_translations": {
-        "title": {}
+        "title": {
+          "mx_es": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -21,7 +23,9 @@
       "id": "cdmx_bs",
       "title": "Mexico City - Bienestar",
       "_translations": {
-        "title": {}
+        "title": {
+          "mx_es": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -35,7 +39,9 @@
       "id": "edomx_bs",
       "title": "Estado de Mexico - Bienestar",
       "_translations": {
-        "title": {}
+        "title": {
+          "mx_es": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -49,7 +55,9 @@
       "id": "chih_dif",
       "title": "Chihuahua - DIF",
       "_translations": {
-        "title": {}
+        "title": {
+          "mx_es": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -63,7 +71,9 @@
       "id": "bc_dif",
       "title": "Baja California - DIF",
       "_translations": {
-        "title": {}
+        "title": {
+          "mx_es": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -77,7 +87,9 @@
       "id": "mich_dif",
       "title": "Michoacán - DIF",
       "_translations": {
-        "title": {}
+        "title": {
+          "mx_es": true
+        }
       },
       "_translatedFields": {
         "title": {

@@ -206,7 +206,9 @@
       "name": "question_text",
       "value": "Which session are you reporting on?",
       "_translations": {
-        "value": {}
+        "value": {
+          "mx_es": true
+        }
       },
       "condition": "@local.at_least_one_unreported",
       "_nested_name": "question_text",
@@ -432,7 +434,9 @@
       "name": "text_none",
       "value": "You have reported on all @global.virtual_session_platform sessions already.",
       "_translations": {
-        "value": {}
+        "value": {
+          "mx_es": true
+        }
       },
       "condition": "!@local.at_least_one_unreported",
       "_nested_name": "text_none",
