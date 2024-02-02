@@ -225,6 +225,39 @@
       "flow_name": "profile_global",
       "_xlsxPath": "data/profile_data.xlsx"
     },
+    "saf_resource_baja_california": {
+      "flow_type": "global",
+      "flow_name": "saf_resource_baja_california",
+      "override_target": "safeguard_resource",
+      "override_condition": "@fields.user_state == \"baja_california\"",
+      "_xlsxPath": "data/dynamic_global_mx.xlsx"
+    },
+    "saf_resource_chihuahua": {
+      "flow_type": "global",
+      "flow_name": "saf_resource_chihuahua",
+      "override_target": "safeguard_resource",
+      "override_condition": "@fields.user_state == \"chihuahua\"",
+      "_xlsxPath": "data/dynamic_global_mx.xlsx"
+    },
+    "saf_resource_mexico_city": {
+      "flow_type": "global",
+      "flow_name": "saf_resource_mexico_city",
+      "override_target": "safeguard_resource",
+      "override_condition": "@fields.user_state == \"mexico_city\"",
+      "_xlsxPath": "data/dynamic_global_mx.xlsx"
+    },
+    "saf_resource_michoacan": {
+      "flow_type": "global",
+      "flow_name": "saf_resource_michoacan",
+      "override_target": "safeguard_resource",
+      "override_condition": "@fields.user_state == \"michoacan\"",
+      "_xlsxPath": "data/dynamic_global_mx.xlsx"
+    },
+    "safeguard_resource": {
+      "flow_type": "global",
+      "flow_name": "safeguard_resource",
+      "_xlsxPath": "data/dynamic_global_mx.xlsx"
+    },
     "supervisor_name": {
       "flow_type": "global",
       "flow_name": "supervisor_name",

@@ -1,0 +1,19 @@
+{
+  "flow_type": "global",
+  "flow_name": "saf_resource_michoacan",
+  "status": "released",
+  "override_target": "safeguard_resource",
+  "override_condition": "@fields.user_state == \"michoacan\"",
+  "rows": [
+    {
+      "type": "declare_global_constant",
+      "name": "safeguard_resource",
+      "value": "[phone number Michoacán]",
+      "_translations": {
+        "value": {}
+      },
+      "exclude_from_translation": true
+    }
+  ],
+  "_xlsxPath": "data/dynamic_global_mx.xlsx"
+}
