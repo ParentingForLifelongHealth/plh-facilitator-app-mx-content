@@ -21,9 +21,9 @@
       "_xlsxPath": "data/navigation_data.xlsx"
     },
     "article_data": {
+      "flow_type": "data_list",
       "flow_name": "article_data",
-      "flow_subtype": "generated",
-      "flow_type": "data_list"
+      "_xlsxPath": "data/FacilitatorApp MX content.xlsx"
     },
     "package": {
       "flow_name": "package",
@@ -118,11 +118,6 @@
     }
   },
   "data_pipe": {
-    "article_filter": {
-      "flow_type": "data_pipe",
-      "flow_name": "article_filter",
-      "_xlsxPath": "data/FacilitatorApp MX content.xlsx"
-    },
     "create_package": {
       "flow_type": "data_pipe",
       "flow_name": "create_package",
@@ -224,39 +219,6 @@
       "flow_type": "global",
       "flow_name": "profile_global",
       "_xlsxPath": "data/profile_data.xlsx"
-    },
-    "saf_resource_baja_california": {
-      "flow_type": "global",
-      "flow_name": "saf_resource_baja_california",
-      "override_target": "safeguard_resource",
-      "override_condition": "@fields.user_state == \"baja_california\"",
-      "_xlsxPath": "data/dynamic_global_mx.xlsx"
-    },
-    "saf_resource_chihuahua": {
-      "flow_type": "global",
-      "flow_name": "saf_resource_chihuahua",
-      "override_target": "safeguard_resource",
-      "override_condition": "@fields.user_state == \"chihuahua\"",
-      "_xlsxPath": "data/dynamic_global_mx.xlsx"
-    },
-    "saf_resource_mexico_city": {
-      "flow_type": "global",
-      "flow_name": "saf_resource_mexico_city",
-      "override_target": "safeguard_resource",
-      "override_condition": "@fields.user_state == \"mexico_city\"",
-      "_xlsxPath": "data/dynamic_global_mx.xlsx"
-    },
-    "saf_resource_michoacan": {
-      "flow_type": "global",
-      "flow_name": "saf_resource_michoacan",
-      "override_target": "safeguard_resource",
-      "override_condition": "@fields.user_state == \"michoacan\"",
-      "_xlsxPath": "data/dynamic_global_mx.xlsx"
-    },
-    "safeguard_resource": {
-      "flow_type": "global",
-      "flow_name": "safeguard_resource",
-      "_xlsxPath": "data/dynamic_global_mx.xlsx"
     },
     "supervisor_name": {
       "flow_type": "global",
@@ -397,13 +359,28 @@
       "flow_subtype": "generated",
       "flow_type": "template"
     },
+    "article_day_3_check_in": {
+      "flow_name": "article_day_3_check_in",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
     "article_day_3_mh_stress_self_talk": {
       "flow_name": "article_day_3_mh_stress_self_talk",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
+    "article_day_4_check_in": {
+      "flow_name": "article_day_4_check_in",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
     "article_day_5_goodbye": {
       "flow_name": "article_day_5_goodbye",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "article_day_6_final_chat_sessions_5ux": {
+      "flow_name": "article_day_6_final_chat_sessions_5ux",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
@@ -417,13 +394,28 @@
       "flow_subtype": "generated",
       "flow_type": "template"
     },
+    "article_faq_h_after_group_ended": {
+      "flow_name": "article_faq_h_after_group_ended",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
     "article_faq_h_no_neg_to_pos": {
       "flow_name": "article_faq_h_no_neg_to_pos",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
+    "article_faq_h_no_volunteers": {
+      "flow_name": "article_faq_h_no_volunteers",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
     "article_faq_h_parents_insult": {
       "flow_name": "article_faq_h_parents_insult",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "article_faq_h_prompts": {
+      "flow_name": "article_faq_h_prompts",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
@@ -459,6 +451,11 @@
     },
     "article_faq_text_support": {
       "flow_name": "article_faq_text_support",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "article_group_admin_onboarding": {
+      "flow_name": "article_group_admin_onboarding",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
@@ -544,6 +541,11 @@
     },
     "help_profile": {
       "flow_name": "help_profile",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "pdf_manual": {
+      "flow_name": "pdf_manual",
       "flow_subtype": "generated",
       "flow_type": "template"
     },

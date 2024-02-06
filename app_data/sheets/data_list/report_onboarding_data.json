@@ -22,13 +22,13 @@
     {
       "id": "welcome_name_game",
       "type": "toggle",
-      "text": "Name Game",
+      "text": "Getting to know each other",
       "_translations": {
         "text": {}
       },
       "_translatedFields": {
         "text": {
-          "eng": "Name Game"
+          "eng": "Getting to know each other"
         }
       }
     },
@@ -46,171 +46,132 @@
       }
     },
     {
-      "id": "welcome_ground_rules",
-      "type": "toggle",
-      "text": "Ground Rules",
-      "_translations": {
-        "text": {}
-      },
-      "_translatedFields": {
-        "text": {
-          "eng": "Ground Rules"
-        }
-      }
-    },
-    {
       "id": "start",
       "type": "title",
-      "text": "Getting Started with ParentText",
+      "text": "Getting Started with Crianza con Conciencia+ chatbot",
       "_translations": {
         "text": {}
       },
       "_translatedFields": {
         "text": {
-          "eng": "Getting Started with ParentText"
+          "eng": "Getting Started with Crianza con Conciencia+ chatbot"
         }
       }
     },
     {
       "id": "start_ID_capture",
       "type": "toggle",
-      "text": "Captured IDs into the app",
+      "text": "Introduction to Phone Use",
       "_translations": {
         "text": {}
       },
       "_translatedFields": {
         "text": {
-          "eng": "Captured IDs into the app"
+          "eng": "Introduction to Phone Use"
         }
       }
     },
     {
       "id": "start_phone_capture",
       "type": "toggle",
-      "text": "Captured participant phone numbers for a group WhatsApp",
+      "text": "Crianza con Conciencia+ chatbot onboarding",
       "_translations": {
         "text": {}
       },
       "_translatedFields": {
         "text": {
-          "eng": "Captured participant phone numbers for a group WhatsApp"
+          "eng": "Crianza con Conciencia+ chatbot onboarding"
         }
       }
     },
     {
       "id": "start_phone_functions",
       "type": "toggle",
-      "text": "Exploring basic phone functions to interact with ParentText chatbot",
+      "text": "Resolving Challenges with Crianza con Conciencia+ chatbot",
       "_translations": {
         "text": {}
       },
       "_translatedFields": {
         "text": {
-          "eng": "Exploring basic phone functions to interact with ParentText chatbot"
-        }
-      }
-    },
-    {
-      "id": "start_flow_completion",
-      "type": "toggle",
-      "text": "Joint completion of Onboarding, Welcome Flow, and Spending one-on-one time with your boy or girl in ParentText",
-      "_translations": {
-        "text": {}
-      },
-      "_translatedFields": {
-        "text": {
-          "eng": "Joint completion of Onboarding, Welcome Flow, and Spending one-on-one time with your boy or girl in ParentText"
-        }
-      }
-    },
-    {
-      "id": "start_challenges",
-      "type": "toggle",
-      "text": "Resolving challenges with ParentText (if any)",
-      "_translations": {
-        "text": {}
-      },
-      "_translatedFields": {
-        "text": {
-          "eng": "Resolving challenges with ParentText (if any)"
+          "eng": "Resolving Challenges with Crianza con Conciencia+ chatbot"
         }
       }
     },
     {
       "id": "activity",
       "type": "title",
-      "text": "Relationship Building Activity",
+      "text": "Moving forward",
       "_translations": {
         "text": {}
       },
       "_translatedFields": {
         "text": {
-          "eng": "Relationship Building Activity"
+          "eng": "Moving forward"
         }
       }
     },
     {
       "id": "activity_1",
       "type": "toggle",
-      "text": "TBD",
+      "text": "Setting up Ground Rules",
       "_translations": {
         "text": {}
       },
       "_translatedFields": {
         "text": {
-          "eng": "TBD"
+          "eng": "Setting up Ground Rules"
         }
       }
     },
     {
       "id": "activity_2",
       "type": "toggle",
-      "text": "TBD",
+      "text": "Facilitator’s Role",
       "_translations": {
         "text": {}
       },
       "_translatedFields": {
         "text": {
-          "eng": "TBD"
+          "eng": "Facilitator’s Role"
         }
       }
     },
     {
       "id": "close",
-      "type": "title",
-      "text": "Closing",
+      "type": "toggle",
+      "text": "Questions",
       "_translations": {
         "text": {}
       },
       "_translatedFields": {
         "text": {
-          "eng": "Closing"
+          "eng": "Questions"
         }
       }
     },
     {
       "id": "close_reflection",
       "type": "toggle",
-      "text": "Reflection",
+      "text": "Connecting Formando Conciencia+ and Parent ID",
       "_translations": {
         "text": {}
       },
       "_translatedFields": {
         "text": {
-          "eng": "Reflection"
+          "eng": "Connecting Formando Conciencia+ and Parent ID"
         }
       }
     },
     {
       "id": "close_goodbye",
       "type": "toggle",
-      "text": "Goodbye Activity",
+      "text": "Closing Activity",
       "_translations": {
         "text": {}
       },
       "_translatedFields": {
         "text": {
-          "eng": "Goodbye Activity"
+          "eng": "Closing Activity"
         }
       }
     }
