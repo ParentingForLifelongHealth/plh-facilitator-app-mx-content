@@ -250,5 +250,9 @@
   "odk_forms/eplh_pilot_facilitator_weekly_survey_combined.json": {
     "md5Checksum": "50b917f456001fbc0cb4d693931f3051",
     "size_kb": 209.4
+  },
+  "pdf/manual.pdf": {
+    "md5Checksum": "2047d431c0419e4ceadaa3b7b52f5cac",
+    "size_kb": 922.7
   }
 }
