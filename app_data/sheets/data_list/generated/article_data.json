@@ -1,7 +1,7 @@
 {
-  "flow_type": "data_list",
   "flow_name": "article_data",
-  "status": "released",
+  "flow_subtype": "generated",
+  "flow_type": "data_list",
   "rows": [
     {
       "id": "what_is_safeguarding",
@@ -160,13 +160,13 @@
         "introduction": {
           "mx_es": true
         },
+        "related_articles_title": {
+          "mx_es": true
+        },
         "message_title_1": {
           "mx_es": true
         },
         "message_text_1": {
-          "mx_es": true
-        },
-        "related_articles_title": {
           "mx_es": true
         }
       },
@@ -188,9 +188,9 @@
         }
       },
       "introduction": "You can share the following information with the participant:\n\nFiscalía General de Justicia\n+911 (Call)\n+089 (Anonymous Call)",
+      "related_articles_title": "Additional Safeguarding Resources",
       "message_title_1": "Quickly Share These Resources",
-      "message_text_1": "Fiscalía General de Justicia\n+911 (Call)\n+089 (Anonymous Call)",
-      "related_articles_title": "Additional Safeguarding Resources"
+      "message_text_1": "Fiscalía General de Justicia\n+911 (Call)\n+089 (Anonymous Call)"
     },
     {
       "id": "crisis_hotlines",
@@ -205,13 +205,13 @@
         "introduction": {
           "mx_es": true
         },
+        "related_articles_title": {
+          "mx_es": true
+        },
         "message_title_1": {
           "mx_es": true
         },
         "message_text_1": {
-          "mx_es": true
-        },
-        "related_articles_title": {
           "mx_es": true
         }
       },
@@ -233,9 +233,9 @@
         }
       },
       "introduction": "You can share any of the following contact numbers with the participant:\n\n1️⃣ Abuse, neglect, violence, poverty, and juvenile delinquency:\nFiscalía General de Justicia\n+911 (Call)\n+089 (Anonymous Call)\n\n\n2️⃣ Abuse of women, girls, and boys \nFiscalía General de Justicia\n+911 (Call)\n+089 (Anonymous Call)\n\n3️⃣ Emotional distress and suicidal thoughts:\nNational System of Support, Psychological Counselling and Crisis Intervention by Telephone\n55 5259-8121 (Call)\nLínea de la vida\n+800 911 2000 (Call)\nlalineadelavida@salud.gob.mx (Email)\n\n4️⃣ Cybersecurity incident\nPolicía Cibernética \n+5552425100 ext. 5086 (Call)\npolicia.cibernetica@ssc.cdmx.gob.mx (Email)",
+      "related_articles_title": "Additional Safeguarding Resources",
       "message_title_1": "Quickly Share These Resources",
-      "message_text_1": "1️⃣ Abuse, neglect, violence, poverty, and juvenile delinquency:\nFiscalía General de Justicia\n+911 (Call)\n+089 (Anonymous Call)\n\n2️⃣ Abuse of women, girls, and boys: \nFiscalía General de Justicia\n+911 (Call)\n+089 (Anonymous Call)\n\n3️⃣ Emotional distress and suicidal thoughts:\nNational System of Support, Psychological Counselling and Crisis Intervention by Telephone\n55 5259-8121 (Call)\nLínea de la Vida\n+800 911 2000 (Call)\nlalineadelavida@salud.gob.mx (Email)\n\n4️⃣ Cybersecurity incident\nPolicía Cibernética \n+5552425100 ext. 5086 (Call)\npolicia.cibernetica@ssc.cdmx.gob.mx (Email)",
-      "related_articles_title": "Additional Safeguarding Resources"
+      "message_text_1": "1️⃣ Abuse, neglect, violence, poverty, and juvenile delinquency:\nFiscalía General de Justicia\n+911 (Call)\n+089 (Anonymous Call)\n\n2️⃣ Abuse of women, girls, and boys: \nFiscalía General de Justicia\n+911 (Call)\n+089 (Anonymous Call)\n\n3️⃣ Emotional distress and suicidal thoughts:\nNational System of Support, Psychological Counselling and Crisis Intervention by Telephone\n55 5259-8121 (Call)\nLínea de la Vida\n+800 911 2000 (Call)\nlalineadelavida@salud.gob.mx (Email)\n\n4️⃣ Cybersecurity incident\nPolicía Cibernética \n+5552425100 ext. 5086 (Call)\npolicia.cibernetica@ssc.cdmx.gob.mx (Email)"
     },
     {
       "id": "day_1_introduction",
@@ -254,16 +254,19 @@
         "introduction": {
           "mx_es": true
         },
-        "section_title_1": {
-          "mx_es": true
-        },
-        "section_text_1": {
+        "related_articles_title": {
           "mx_es": true
         },
         "message_title_1": {
           "mx_es": true
         },
         "message_text_1": {
+          "mx_es": true
+        },
+        "section_title_1": {
+          "mx_es": true
+        },
+        "section_text_1": {
           "mx_es": true
         },
         "message_guidance_1": {
@@ -282,9 +285,6 @@
           "mx_es": true
         },
         "message_text_3": {
-          "mx_es": true
-        },
-        "related_articles_title": {
           "mx_es": true
         }
       },
@@ -330,46 +330,17 @@
         }
       },
       "introduction": "This chat session should happen on the same day or day after you complete the in-person onboarding session. As the first chat session, it offers a chance for parents to introduce themselves to the group.",
-      "section_title_1": "Add Ground Rules to the WhatsApp Group Description",
-      "section_text_1": "Remember to add the ground rules to the WhatsApp Group Description. \r\r​​To add the ground rules to the Group Description, copy the following ground rules or use the ones agreed during the onboarding session: \r\r“To make this a safe space for everyone, here are some ground rules:\n \n✅ What is said in the group stays in the group. You need to know that this group is private.\n✅ Accept each other. Everyone is different and has different experiences.\n✅ Share only what you feel comfortable sharing. Avoid topics unrelated to the content of the workshop, advertisements or sales. \n✅ Feel free to ask questions! \n✅ Respect privacy of personal pictures and videos that are sent to the chat group. \n✅ I AM only here as an observer. I will not respond to questions about your parenting habits in this group or personally. However, if there is a message that will benefit the entire group, then I will share a general message here.”\n\nOpen the WhatsApp group chat. \r\rTap the group name. \r\rTap the existing description, or tap Add Group Description. \nPaste the ground rules. \r\rTap Save.",
+      "related_articles_title": "Support",
       "message_title_1": "Message 1: Introduction",
       "message_text_1": "😃 Hi there! Welcome to our Crianza con Conciencia+ WhatsApp Group! \n\nToday, we are introducing ourselves and our goals for the programme! ⭐ \n\nMy name is [INSERT NAME], and my goal is to learn more about how to help my girl go to bed by 8 every night.⏰🌙 \n\nPlease share your name and your goal for Crianza con Conciencia+ using text or audio message.",
+      "section_title_1": "Add Ground Rules to the WhatsApp Group Description",
+      "section_text_1": "Remember to add the ground rules to the WhatsApp Group Description. \r\r​​To add the ground rules to the Group Description, copy the following ground rules or use the ones agreed during the onboarding session: \r\r“To make this a safe space for everyone, here are some ground rules:\n \n✅ What is said in the group stays in the group. You need to know that this group is private.\n✅ Accept each other. Everyone is different and has different experiences.\n✅ Share only what you feel comfortable sharing. Avoid topics unrelated to the content of the workshop, advertisements or sales. \n✅ Feel free to ask questions! \n✅ Respect privacy of personal pictures and videos that are sent to the chat group. \n✅ I AM only here as an observer. I will not respond to questions about your parenting habits in this group or personally. However, if there is a message that will benefit the entire group, then I will share a general message here.”\n\nOpen the WhatsApp group chat. \r\rTap the group name. \r\rTap the existing description, or tap Add Group Description. \nPaste the ground rules. \r\rTap Save.",
       "message_guidance_1": "Remember to fill in your name where it says [INSERT NAME] before sending your message. \n\nAllow some time for parents to share. Try to praise each response.\n\nFor example, you can say, “Thanks for the response, [Insert Name]!” or “Great goal, [Insert Name]”! You can also use simple emojis like 👍or 🙂",
       "message_title_2": "Message 2: Setting time to chat",
       "message_text_2": "This week, we will catch up at [INSERT TIME] on [INSERT DAY] to chat about our Crianza con Conciencia+ journey. \n\n👋Please join to share how things are going. Every little step matters. Share what works when you practice, reflections about the topic, any challenges you experience, or just say hi! 😊\n\n⏰Does this time and day work for everyone?",
       "message_guidance_2": "Add the time and day of the week before sending the message.",
       "message_title_3": "Message 3: Closing",
-      "message_text_3": "😃Thank you so much for being part of our WhatsApp chat group! \n\nAs your home practice, try to spend at least 5 minutes of one-on-one time with your girl, boy or teen each day. \n\nWe can share how it goes during our next chat session. \n\n👋See you later.",
-      "related_articles_title": "Support"
-    },
-    {
-      "id": "day_3_check_in",
-      "status": "draft",
-      "icon_asset": "images/day_3_check_in.svg",
-      "title": "Day 3: Check-in",
-      "_translations": {
-        "title": {},
-        "introduction": {},
-        "message_title_1": {},
-        "message_text_1": {}
-      },
-      "_translatedFields": {
-        "title": {
-          "eng": "Day 3: Check-in"
-        },
-        "introduction": {
-          "eng": "Send this message of encouragement to the parents"
-        },
-        "message_title_1": {
-          "eng": "Message 1: Encouragement"
-        },
-        "message_text_1": {
-          "eng": "💚Hello everyone! \n\n😃It’s the third day of improving your relationship with your girl, boy, or teen! You're the real experts on your boys, girls, and teens and the key to positively changing their lives. 💙\n\n⏰Set a daily reminder to check ParentText for tips to help your girl, boy, or teen become more confident and cooperative."
-        }
-      },
-      "introduction": "Send this message of encouragement to the parents",
-      "message_title_1": "Message 1: Encouragement",
-      "message_text_1": "💚Hello everyone! \n\n😃It’s the third day of improving your relationship with your girl, boy, or teen! You're the real experts on your boys, girls, and teens and the key to positively changing their lives. 💙\n\n⏰Set a daily reminder to check ParentText for tips to help your girl, boy, or teen become more confident and cooperative."
+      "message_text_3": "😃Thank you so much for being part of our WhatsApp chat group! \n\nAs your home practice, try to spend at least 5 minutes of one-on-one time with your girl, boy or teen each day. \n\nWe can share how it goes during our next chat session. \n\n👋See you later."
     },
     {
       "id": "day_3_mh_stress_self_talk",
@@ -385,7 +356,12 @@
         "title": {
           "mx_es": true
         },
-        "introduction": {},
+        "introduction": {
+          "mx_es": true
+        },
+        "related_articles_title": {
+          "mx_es": true
+        },
         "message_title_1": {
           "mx_es": true
         },
@@ -398,7 +374,9 @@
         "message_title_2": {
           "mx_es": true
         },
-        "message_text_2": {},
+        "message_text_2": {
+          "mx_es": true
+        },
         "message_guidance_2": {
           "mx_es": true
         },
@@ -424,9 +402,6 @@
           "mx_es": true
         },
         "message_guidance_5": {
-          "mx_es": true
-        },
-        "related_articles_title": {
           "mx_es": true
         }
       },
@@ -484,6 +459,7 @@
         }
       },
       "introduction": "**Before conducting the chat sessions, make sure you:** \n\nCreate a WhatsApp Group during the onboarding session. \nIdentify the ground rules for the WhatsApp Group\n\n**Structure for the chat sessions**: \n\nDay  1 (immediately after the onboarding session): Welcome, introductions, and reminder of home practice. \n\nDay 3: Self-talk: WhatsApp Chat session on self-talk and stress\n\nDay 5: Saying Goodbye\n\n**When to send the messages** \n\nYou and your group will decide a time to chat during the onboarding session. \n\nEach chat session has a reminder message (Message 1) that you should send a few hours before the chat session. \n\nSend the remaining messages during the scheduled chat time.",
+      "related_articles_title": "FAQ",
       "message_title_1": "Message 1: Chat Reminder",
       "message_text_1": "💚Hello everyone! Our next chat session will be later today at [INSERT TIME]. Chat soon!",
       "message_guidance_1": "Send this message in the morning on the day of the chat session. Insert the time for the chat before sending the message.",
@@ -497,8 +473,7 @@
       "message_text_4": "Thanks for sharing that example! \nParenting can be challenging. But you can reduce your overall stress when you think about what you’re doing well and speak kindly to yourself. \n\n1️⃣ The first step for practising self-talk is to notice when a negative thought comes.\n2️⃣Then, ask yourself: How can I change this thought into something kind or caring? You can: \n😃 Look for small parenting accomplishments or efforts. \n✅ Consider what you’ve learned from the negative situation. \n📝Come up with a few ways to help you act differently next time. Remember, this is temporary, and you have the chance to be better in the future.",
       "message_title_5": "Practice Activity: Re-wording Negative Self-Talk",
       "message_text_5": "📝 Let's notice negative self-talk when it happens, and turn it around. For example, \n**Negative Self-Talk:** \"I was a bad parent today. I yelled at my teen for an honest mistake.\"\n**Positive Self-Talk:** \"Today was tough because I've been overwhelmed. I yelled at my teen, knowing it was an honest mistake. Next time, I'll pause before responding, ensuring I'm calm and in control.\"\n💡 See how the positive self-talk is more supportive? 🏠 Now, your turn! Share a time you talked negatively to yourself, and let’s find and turn it into positive self-talk. Try doing this three times by the week’s end and feel the difference! \nHow parents talk to themselves teaches their kids how to talk to themselves. Girls, boys,  and teens learn from watching their parents.",
-      "message_guidance_5": "Briefly read the participants’ responses and make sure they are not insulting themselves and generally follow the example above. Any instances of intent of self-harm or harm to girls and boys should be reported appropriately.",
-      "related_articles_title": "FAQ"
+      "message_guidance_5": "Briefly read the participants’ responses and make sure they are not insulting themselves and generally follow the example above. Any instances of intent of self-harm or harm to girls and boys should be reported appropriately."
     },
     {
       "id": "day_5_goodbye",
@@ -511,11 +486,19 @@
       "related_article_id_3": "faq_h_sad_to_end",
       "title": "Day 5: Say Goodbye",
       "_translations": {
-        "title": {},
-        "introduction": {},
-        "message_title_1": {},
-        "message_text_1": {},
+        "title": {
+          "mx_es": true
+        },
+        "introduction": {
+          "mx_es": true
+        },
         "related_articles_title": {
+          "mx_es": true
+        },
+        "message_title_1": {
+          "mx_es": true
+        },
+        "message_text_1": {
           "mx_es": true
         }
       },
@@ -537,143 +520,9 @@
         }
       },
       "introduction": "You should congratulate yourself for taking the parents through the Crianza con Conciencia+ journey and celebrate with them the positive changes in their lives and for their girls, boys, and teens.\n\nYou can choose to stay or leave the WhatsApp Group after the program ends.",
+      "related_articles_title": "FAQ",
       "message_title_1": "Message 1: Goodbye",
-      "message_text_1": "It's been wonderful being part of this amazing parenting course with all of you! Although I am feeling a bit sad to say goodbye, I am also happy to see how much we have achieved in this programme.  \n\nAs I shared with you during the onboarding session, I will now be exiting this WhatsApp Group. 👋\n\nYou are the best parents to your boys, girls, and teens.  *You can still complete your final Crianza con Conciencia+ lessons if you have not done so yet*. 🌱\n\nWe all have good days and bad days, and Crianza con Conciencia+ will help you and your girl, boy or teen to get through them together. Well done! \n\nThank you for being the first parents for trying out Crianza con Conciencia+, and we're grateful for your help in improving the course. More courses will be coming to ParentText soon, so stay tuned!",
-      "related_articles_title": "FAQ"
-    },
-    {
-      "id": "day_4_check_in",
-      "status": "draft",
-      "icon_asset": "images/day_4_check_in.svg",
-      "title": "Day 4: Check-in",
-      "_translations": {
-        "title": {},
-        "introduction": {},
-        "message_title_1": {},
-        "message_text_1": {}
-      },
-      "_translatedFields": {
-        "title": {
-          "eng": "Day 4: Check-in"
-        },
-        "introduction": {
-          "eng": "Send this message of encouragement to the parents"
-        },
-        "message_title_1": {
-          "eng": "Message 1: Encouragement"
-        },
-        "message_text_1": {
-          "eng": "💚Hello parents!\n\nIt’s Day 4! You’re part of an amazing group of parents working to improve your relationship with your girls, boys, and teens! Embrace the role of a caring and conscious parent. \nIf you ever need more help, you can ask questions in this group or type HELP to get information about resources to support you. \r\rYou’re doing great! 🌈💛"
-        }
-      },
-      "introduction": "Send this message of encouragement to the parents",
-      "message_title_1": "Message 1: Encouragement",
-      "message_text_1": "💚Hello parents!\n\nIt’s Day 4! You’re part of an amazing group of parents working to improve your relationship with your girls, boys, and teens! Embrace the role of a caring and conscious parent. \nIf you ever need more help, you can ask questions in this group or type HELP to get information about resources to support you. \r\rYou’re doing great! 🌈💛"
-    },
-    {
-      "id": "day_6_final_chat_sessions_5ux",
-      "status": "draft",
-      "icon_asset": "images/day_6_final_chat_sessions_5ux.svg",
-      "related_article_id_1": "faq_h_after_group_ended",
-      "related_article_id_2": "faq_h_still_struggling",
-      "related_article_id_3": "faq_h_sad_to_end",
-      "title": "Day 6: Final Chat Session",
-      "_translations": {
-        "title": {},
-        "introduction": {},
-        "message_title_1": {},
-        "message_text_1": {},
-        "message_guidance_1": {
-          "mx_es": true
-        },
-        "message_title_2": {},
-        "message_text_2": {},
-        "message_guidance_2": {},
-        "message_title_3": {},
-        "message_text_3": {},
-        "message_title_4": {},
-        "message_text_4": {},
-        "related_articles_title": {
-          "mx_es": true
-        }
-      },
-      "_translatedFields": {
-        "title": {
-          "eng": "Day 6: Final Chat Session"
-        },
-        "introduction": {
-          "eng": "This is your final chat session with the group.You should congratulate yourself for taking the parents through the Crianza con Conciencia+ journey and celebrate with them the positive changes in their lives and for their girls, boys, and teens.\n\nYou can choose to stay or leave the WhatsApp Group after the program ends."
-        },
-        "message_title_1": {
-          "eng": "Message 1: Reminder"
-        },
-        "message_text_1": {
-          "eng": "Hello! Our last chat session will be later today at [INSERT TIME]. See you then! 👋"
-        },
-        "message_guidance_1": {
-          "eng": "Send this message in the morning on the day of the chat session. Insert the time for the chat before sending the message."
-        },
-        "message_title_2": {
-          "eng": "Message 2: Welcome"
-        },
-        "message_text_2": {
-          "eng": "👋Hi everyone, congratulations on completing the course on improving your relationship with your girl, boy or teen on Crianza con Conciencia+! \n✨ Take a moment to think back to the beginning of the programme. You should be so proud of yourself. How was your experience in Crianza con Conciencia+?"
-        },
-        "message_guidance_2": {
-          "eng": "Allow parents to share their experience during the programme. You can give brief words of encouragement like “Wonderful!” or “I am happy to hear that!” or even share celebration emojis like 🎉or ⭐."
-        },
-        "message_title_3": {
-          "eng": "Message 3: Thank You"
-        },
-        "message_text_3": {
-          "eng": "Thank you for sharing your experiences. It is wonderful to hear from you about the programme. Remember that your parenting journey continues! 💚\n\nOn ParentText, we will be adding more courses soon. So stay tuned for exciting learning opportunities!"
-        },
-        "message_title_4": {
-          "eng": "Message 4: Goodbye"
-        },
-        "message_text_4": {
-          "eng": "It's been wonderful being part of this amazing parent program with all of you! Saying goodbye makes me a bit sad. \n\nAs I shared with you during the onboarding session, I will now be exiting this WhatsApp Group. 👋\n\nYou are the best parents to your boys, girls, and teens.  *You can still complete your final Crianza con Conciencia+ lessons if you have not done so yet*. 🌱\n\nWe all face difficult situations sometimes, and these final parts of Crianza con Conciencia+ will help you and your girl, boy or teen to get through them well. \n\nYou’ve got this! ⭐You are doing a wonderful job as a parent. It has been a pleasure to be on this journey with you!"
-        },
-        "related_articles_title": {
-          "eng": "FAQ"
-        }
-      },
-      "introduction": "This is your final chat session with the group.You should congratulate yourself for taking the parents through the Crianza con Conciencia+ journey and celebrate with them the positive changes in their lives and for their girls, boys, and teens.\n\nYou can choose to stay or leave the WhatsApp Group after the program ends.",
-      "message_title_1": "Message 1: Reminder",
-      "message_text_1": "Hello! Our last chat session will be later today at [INSERT TIME]. See you then! 👋",
-      "message_guidance_1": "Send this message in the morning on the day of the chat session. Insert the time for the chat before sending the message.",
-      "message_title_2": "Message 2: Welcome",
-      "message_text_2": "👋Hi everyone, congratulations on completing the course on improving your relationship with your girl, boy or teen on Crianza con Conciencia+! \n✨ Take a moment to think back to the beginning of the programme. You should be so proud of yourself. How was your experience in Crianza con Conciencia+?",
-      "message_guidance_2": "Allow parents to share their experience during the programme. You can give brief words of encouragement like “Wonderful!” or “I am happy to hear that!” or even share celebration emojis like 🎉or ⭐.",
-      "message_title_3": "Message 3: Thank You",
-      "message_text_3": "Thank you for sharing your experiences. It is wonderful to hear from you about the programme. Remember that your parenting journey continues! 💚\n\nOn ParentText, we will be adding more courses soon. So stay tuned for exciting learning opportunities!",
-      "message_title_4": "Message 4: Goodbye",
-      "message_text_4": "It's been wonderful being part of this amazing parent program with all of you! Saying goodbye makes me a bit sad. \n\nAs I shared with you during the onboarding session, I will now be exiting this WhatsApp Group. 👋\n\nYou are the best parents to your boys, girls, and teens.  *You can still complete your final Crianza con Conciencia+ lessons if you have not done so yet*. 🌱\n\nWe all face difficult situations sometimes, and these final parts of Crianza con Conciencia+ will help you and your girl, boy or teen to get through them well. \n\nYou’ve got this! ⭐You are doing a wonderful job as a parent. It has been a pleasure to be on this journey with you!",
-      "related_articles_title": "FAQ"
-    },
-    {
-      "id": "faq_h_after_group_ended",
-      "status": "draft",
-      "icon_asset": "images/faq_h_after_group_ended.svg",
-      "title": "If parents reach out to you after the group has ended.",
-      "_translations": {
-        "title": {},
-        "introduction": {},
-        "message_text_1": {}
-      },
-      "_translatedFields": {
-        "title": {
-          "eng": "If parents reach out to you after the group has ended."
-        },
-        "introduction": {
-          "eng": "If parents or group admins reach out to you after the group has ended, it means that you have been helpful to them, which is amazing! \n\nParents may see you as a source of support outside of Crianza con Conciencia+, but it is important to keep things balanced. \n\nShare this message to guide the parents to other places for support gently."
-        },
-        "message_text_1": {
-          "eng": "Hi!😃Thank you for your message. \n\nMy role with Crianza con Conciencia+ was limited. I unfortunately will not be further involved with the programme. \n\nIf your WhatsApp Support group is still active, feel free to post your questions in the group. Other parents may be able to support you with helpful suggestions. 💡\n\nYou can replay the Course by typing {MENU} or typing {HELP} if you need assistance for an emergency."
-        }
-      },
-      "introduction": "If parents or group admins reach out to you after the group has ended, it means that you have been helpful to them, which is amazing! \n\nParents may see you as a source of support outside of Crianza con Conciencia+, but it is important to keep things balanced. \n\nShare this message to guide the parents to other places for support gently.",
-      "message_text_1": "Hi!😃Thank you for your message. \n\nMy role with Crianza con Conciencia+ was limited. I unfortunately will not be further involved with the programme. \n\nIf your WhatsApp Support group is still active, feel free to post your questions in the group. Other parents may be able to support you with helpful suggestions. 💡\n\nYou can replay the Course by typing {MENU} or typing {HELP} if you need assistance for an emergency."
+      "message_text_1": "It's been wonderful being part of this amazing parenting course with all of you! Although I am feeling a bit sad to say goodbye, I am also happy to see how much we have achieved in this programme.  \n\nAs I shared with you during the onboarding session, I will now be exiting this WhatsApp Group. 👋\n\nYou are the best parents to your boys, girls, and teens.  *You can still complete your final Crianza con Conciencia+ lessons if you have not done so yet*. 🌱\n\nWe all have good days and bad days, and Crianza con Conciencia+ will help you and your girl, boy or teen to get through them together. Well done! \n\nThank you for being the first parents for trying out Crianza con Conciencia+, and we're grateful for your help in improving the course. More courses will be coming to ParentText soon, so stay tuned!"
     },
     {
       "id": "faq_text_support",
@@ -799,7 +648,9 @@
         "title": {
           "mx_es": true
         },
-        "introduction": {},
+        "introduction": {
+          "mx_es": true
+        },
         "message_title_1": {
           "mx_es": true
         },
@@ -1053,116 +904,11 @@
       "message_text_2": "Hello Parents, 👋\n\n⏱️I value your time and want to ensure our chat is convenient for everyone. \n\n⭐Does this time work well for our conversations? \n\n🔔Is there another time that works for you? \n\nYour input matters!"
     },
     {
-      "id": "overview_cc",
-      "status": "draft",
-      "icon_asset": "images/overview_cc.svg",
-      "resource_data_1": "pdf",
-      "resource_id_1": "manual",
-      "related_article_id_1": "onboarding_cc",
-      "related_article_id_2": "how_to_chat_session",
-      "related_article_id_3": "how_to_report",
-      "title": "Overview of the Crianza con Conciencia+ Programme",
-      "_translations": {
-        "title": {
-          "mx_es": true
-        },
-        "introduction": {
-          "mx_es": true
-        },
-        "sections_title": {
-          "mx_es": true
-        },
-        "section_title_1": {
-          "mx_es": true
-        },
-        "section_text_1": {
-          "mx_es": true
-        },
-        "section_title_2": {
-          "mx_es": true
-        },
-        "section_text_2": {
-          "mx_es": true
-        },
-        "section_title_3": {
-          "mx_es": true
-        },
-        "section_text_3": {
-          "mx_es": true
-        },
-        "section_title_4": {
-          "mx_es": true
-        },
-        "section_text_4": {
-          "mx_es": true
-        },
-        "resource_title_1": {},
-        "related_articles_title": {
-          "mx_es": true
-        }
-      },
-      "_translatedFields": {
-        "title": {
-          "eng": "Overview of the Crianza con Conciencia+ Programme"
-        },
-        "introduction": {
-          "eng": "Welcome to the Crianza con Conciencia+ Positive Parenting Programme! \n\nThank you for your commitment and dedication to supporting girls, boys, teens and families in your community. \nYou are a shining star!"
-        },
-        "sections_title": {
-          "eng": "Welcome"
-        },
-        "section_title_1": {
-          "eng": "What’s inside the Facilitator Guide?"
-        },
-        "section_text_1": {
-          "eng": "This guide is for YOU!! \nA comprehensive guide to help you deliver Crianza con Conciencia+ to families around you. \nSteps on how to introduce caregivers to the programme and support them\nSpecific information on the programme’s content."
-        },
-        "section_title_2": {
-          "eng": "What to remember?"
-        },
-        "section_text_2": {
-          "eng": "It is important to follow this manual as closely as possible. However, manuals are only a guide to support you after what you have learned in the training workshop. \nWhat you deliver – the content of the manual – is only 20% of the programme. The rest 80%? It’s all about HOW you facilitate the programme and behave towards the parents."
-        },
-        "section_title_3": {
-          "eng": "Skills you need"
-        },
-        "section_text_3": {
-          "eng": "The core skills of a good facilitator are a mirror for parents to learn how to bring about the change we want to see in parents and the community. These include understanding stages of child development, praising and encouraging parents, using active listening skills, being consistent and compassionate, exploring problems, and finding solutions together."
-        },
-        "section_title_4": {
-          "eng": "⭐Remember"
-        },
-        "section_text_4": {
-          "eng": "Just as we say to the parents, “It is what you do at home that makes the difference,” the same thing applies to you: “It is how you interact with the parents in your group that makes the difference.” \n\nIf you take the time to deliver a session before it begins, you will be more confident. If there is anything that you cannot remember or feel unsure of, contact another facilitator to practise with. \n\nAccess the Facilitator Guide for your group by clicking on the icon above."
-        },
-        "resource_title_1": {
-          "eng": "Manual"
-        },
-        "related_articles_title": {
-          "eng": "Related information"
-        }
-      },
-      "introduction": "Welcome to the Crianza con Conciencia+ Positive Parenting Programme! \n\nThank you for your commitment and dedication to supporting girls, boys, teens and families in your community. \nYou are a shining star!",
-      "sections_title": "Welcome",
-      "section_title_1": "What’s inside the Facilitator Guide?",
-      "section_text_1": "This guide is for YOU!! \nA comprehensive guide to help you deliver Crianza con Conciencia+ to families around you. \nSteps on how to introduce caregivers to the programme and support them\nSpecific information on the programme’s content.",
-      "section_title_2": "What to remember?",
-      "section_text_2": "It is important to follow this manual as closely as possible. However, manuals are only a guide to support you after what you have learned in the training workshop. \nWhat you deliver – the content of the manual – is only 20% of the programme. The rest 80%? It’s all about HOW you facilitate the programme and behave towards the parents.",
-      "section_title_3": "Skills you need",
-      "section_text_3": "The core skills of a good facilitator are a mirror for parents to learn how to bring about the change we want to see in parents and the community. These include understanding stages of child development, praising and encouraging parents, using active listening skills, being consistent and compassionate, exploring problems, and finding solutions together.",
-      "section_title_4": "⭐Remember",
-      "section_text_4": "Just as we say to the parents, “It is what you do at home that makes the difference,” the same thing applies to you: “It is how you interact with the parents in your group that makes the difference.” \n\nIf you take the time to deliver a session before it begins, you will be more confident. If there is anything that you cannot remember or feel unsure of, contact another facilitator to practise with. \n\nAccess the Facilitator Guide for your group by clicking on the icon above.",
-      "resource_title_1": "Manual",
-      "related_articles_title": "Related information"
-    },
-    {
       "id": "onboarding_cc",
       "home_screen_section_list": [
         "programme"
       ],
       "icon_asset": "images/onboarding_cc.svg",
-      "resource_data_1": "pdf",
-      "resource_id_1": "manual",
       "title": "Guide for In-Person Onboarding",
       "_translations": {
         "title": {
@@ -1185,6 +931,8 @@
         }
       },
       "introduction": "The Onboarding Session sets the tone for the entire Crianza con Conciencia+ programme. It is important to create a welcoming and safe space for the participants to feel at ease and familiarise themselves with the programme.",
+      "resource_data_1": "pdf",
+      "resource_id_1": "manual",
       "resource_title_1": "Manual"
     },
     {
@@ -1202,18 +950,36 @@
         "introduction": {
           "mx_es": true
         },
-        "sections_title": {},
+        "related_articles_title": {
+          "mx_es": true
+        },
         "section_title_1": {
           "mx_es": true
         },
-        "section_text_1": {},
-        "section_title_2": {},
-        "section_text_2": {},
-        "section_title_3": {},
-        "section_text_3": {},
-        "section_title_4": {},
-        "section_text_4": {},
-        "related_articles_title": {}
+        "section_text_1": {
+          "mx_es": true
+        },
+        "sections_title": {
+          "mx_es": true
+        },
+        "section_title_2": {
+          "mx_es": true
+        },
+        "section_text_2": {
+          "mx_es": true
+        },
+        "section_title_3": {
+          "mx_es": true
+        },
+        "section_text_3": {
+          "mx_es": true
+        },
+        "section_title_4": {
+          "mx_es": true
+        },
+        "section_text_4": {
+          "mx_es": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -1254,16 +1020,16 @@
         }
       },
       "introduction": "The Crianza con Conciencia+ programme includes WhatsApp Groups with parents with pre-scripted messages that you share from Formando Conciencia+\n\nThe aim of this group is to provide parents with extra support during their Crianza con Conciencia+ journey.",
-      "sections_title": "How to:",
+      "related_articles_title": "For more information:",
       "section_title_1": "Create a WhatsApp Group",
       "section_text_1": "**Make sure you have done the following before the onboarding session starts:** \n\n- Save the names and WhatsApp numbers of the parents assigned to you on your phone (if available), so you can easily confirm details during the onboarding session. \n\n- Create your WhatsApp group (with the temporary group name, icon, and description). The name of each WhatsApp group has the same structure:\n“Crianza con Conciencia+”\nA name selected by the group \n\nWhen you create your temporary group name, you will use \"Crianza con Conciencia+” \n\nYou can keep your temporary group name or you can add a name to the temporary group name. For example, “Crianza con Conciencia+__HappyFamilies”.",
+      "sections_title": "How to:",
       "section_title_2": "Conduct Chat Session",
       "section_text_2": "**Before conducting the chat sessions, make sure you:** \n\nCreate a WhatsApp Group during the onboarding session. \nIdentify the ground rules for the WhatsApp Group\n\n**Structure for the chat sessions**: \r\rDay  1 (immediately after the onboarding session): Welcome, introductions, and reminder of home practice. \n\nDay 2: Send an encouraging message \r\rDay 3: Self-talk: WhatsApp Chat session on self-talk and stress\n\nDay 4: Send an encouraging message \r\rDay 6: Checking in on parents’ experience and closing\n\n**When to send the messages** \n\nYou and your group will decide a time to chat during the onboarding session. \r\rEach chat session has a reminder message (Message 1) that you should send a few hours before the chat session. \n\nSend the remaining messages during the scheduled chat time.",
       "section_title_3": "Share the messages in the chat session",
       "section_text_3": "Look for the \"Chat Sessions\" section on the Formando Conciencia+ homepage\n\nFind the specific chat session you want to share and click on it.\n\nOnce you're on the content for that session, locate the \"Share\" icon. It should look like an arrow pointing upward or a box with an arrow, and it's used to share content. Click on the \"Share\" icon.\n\nSelect \"WhatsApp\" as your sharing option in the menu that appears.\n\nChoose your Crianza con Conciencia+ Support Group from the list. \n\nBefore you hit the \"Send\" button, make sure to add or change any necessary information like your name. \n\nFinally, click the \"Send\" button to share the content with your Crianza con Conciencia+ Support Group.",
       "section_title_4": "Get Help with WhatsApp Support Group",
-      "section_text_4": "If you require help while moderating your WhatsApp Support Group, the chat sessions provide a list of FAQs and potential solutions.\n\nIf you need support responding to a challenge shared by the parent during your chat session, see “Common Challenges” on the homepage. \n\nFollow the same instructions as Sharing Chat Messages to share the solutions to the challenges. \n\nIf you encounter a challenge not covered in the chat session, kindly contact your supervisor for further guidance.",
-      "related_articles_title": "For more information:"
+      "section_text_4": "If you require help while moderating your WhatsApp Support Group, the chat sessions provide a list of FAQs and potential solutions.\n\nIf you need support responding to a challenge shared by the parent during your chat session, see “Common Challenges” on the homepage. \n\nFollow the same instructions as Sharing Chat Messages to share the solutions to the challenges. \n\nIf you encounter a challenge not covered in the chat session, kindly contact your supervisor for further guidance."
     },
     {
       "id": "how_to_report",
@@ -1274,26 +1040,48 @@
       "related_article_id_1": "how_to_chat_session",
       "title": "How to Report on Programme Delivery",
       "_translations": {
-        "title": {},
-        "introduction": {},
-        "sections_title": {},
-        "section_title_1": {},
-        "section_text_1": {},
-        "section_title_2": {},
-        "section_text_2": {},
-        "section_title_3": {},
-        "section_text_3": {},
+        "title": {
+          "mx_es": true
+        },
+        "introduction": {
+          "mx_es": true
+        },
+        "related_articles_title": {
+          "mx_es": true
+        },
+        "section_title_1": {
+          "mx_es": true
+        },
+        "section_text_1": {
+          "mx_es": true
+        },
+        "sections_title": {
+          "mx_es": true
+        },
+        "section_title_2": {
+          "mx_es": true
+        },
+        "section_text_2": {
+          "mx_es": true
+        },
+        "section_title_3": {
+          "mx_es": true
+        },
+        "section_text_3": {
+          "mx_es": true
+        },
         "section_title_4": {
           "mx_es": true
         },
-        "section_text_4": {},
+        "section_text_4": {
+          "mx_es": true
+        },
         "section_title_5": {
           "mx_es": true
         },
         "section_text_5": {
           "mx_es": true
-        },
-        "related_articles_title": {}
+        }
       },
       "_translatedFields": {
         "title": {
@@ -1340,9 +1128,10 @@
         }
       },
       "introduction": "The Formando Conciencia+ also makes reporting on the delivery of Crianza con Conciencia+ much easier than paper forms.\n\nAfter adding each parent’s name to the App, you will be able to report on their participation during in-person and WhatsApp group sessions.\n\nYou will also report on your own experience, including the time spent conducting each session and whether you were able to do all the activities in the session.",
-      "sections_title": "How to:",
+      "related_articles_title": "Other information:",
       "section_title_1": "Set up your profile",
       "section_text_1": "Select the profile icon from the bottom navigation bar. \n\nChoose “About you” \n\nType your name under “Your name” \n\nSelect your state from the dropdown menu \n\rTap Save",
+      "sections_title": "How to:",
       "section_title_2": "Add a Parent",
       "section_text_2": "Select the profile icon from the bottom navigation bar. \n\nChoose “Add Parent”\n\nEnter parent details in the form. To enter the parent’s unique identifier (UID), ask them to text “ID” on Crianza con Conciencia+. Copy the 6-digit number into the parent profile.",
       "section_title_3": "Add a Co-Parent",
@@ -1350,20 +1139,31 @@
       "section_title_4": "Report Attendance",
       "section_text_4": "Select the pencil icon from the bottom navigation bar. \n\nSelect whether you are reporting on an in-person or WhatsApp session with your parents. \n\nChoose which session you are reporting on. \n\n\nComplete the report \n\n⏰Specify the time spent on preparation, travel, and actual session delivery. \n\n✅Check the activities you completed (in-person) or the number of messages you sent (WhatsApp Group)\n\n🔵Selecting the parents who participated in the session:\n\nFor in-person sessions, “participation” is defined as parents who attended the session, in part or whole. \nFor the WhatsApp group, “participation” is defined as parents who have sent at least 1 message during the chat session. \n\nIf you do not see a parent’s name, then you need to add that parent to the App (see above).",
       "section_title_5": "Edit an Attendance Report",
-      "section_text_5": "Only edit an attendance report if you have made a mistake.\n\nSelect the pencil icon from the bottom of the navigation bar. \n\nSelect whether you want to edit an in-person or WhatsApp session. \n\nSelect the session that you want to edit.\n\nYour previous selections will appear. You can now edit your selections and select “Save”",
-      "related_articles_title": "Other information:"
+      "section_text_5": "Only edit an attendance report if you have made a mistake.\n\nSelect the pencil icon from the bottom of the navigation bar. \n\nSelect whether you want to edit an in-person or WhatsApp session. \n\nSelect the session that you want to edit.\n\nYour previous selections will appear. You can now edit your selections and select “Save”"
     },
     {
       "id": "faq_h_parents_insult",
       "icon_asset": "images/faq_h_parents_insult.svg",
       "title": "Parents began insulting themselves during the chat session",
       "_translations": {
-        "title": {},
-        "introduction": {},
-        "section_title_1": {},
-        "section_text_1": {},
-        "section_title_2": {},
-        "section_text_2": {}
+        "title": {
+          "mx_es": true
+        },
+        "introduction": {
+          "mx_es": true
+        },
+        "section_title_1": {
+          "mx_es": true
+        },
+        "section_text_1": {
+          "mx_es": true
+        },
+        "section_title_2": {
+          "mx_es": true
+        },
+        "section_text_2": {
+          "mx_es": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -1396,13 +1196,21 @@
       "icon_asset": "images/faq_h_self_harm.svg",
       "title": "Caregivers express intentions of self-harm or harm to their girls, boys, and teens during the session.",
       "_translations": {
-        "title": {},
-        "introduction": {},
+        "title": {
+          "mx_es": true
+        },
+        "introduction": {
+          "mx_es": true
+        },
         "message_title_1": {
           "mx_es": true
         },
-        "message_text_1": {},
-        "message_guidance_1": {}
+        "message_text_1": {
+          "mx_es": true
+        },
+        "message_guidance_1": {
+          "mx_es": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -1431,12 +1239,18 @@
       "icon_asset": "images/faq_h_no_neg_to_pos.svg",
       "title": "Parents could not turn negative self-talk into positive self-talk",
       "_translations": {
-        "title": {},
-        "introduction": {},
+        "title": {
+          "mx_es": true
+        },
+        "introduction": {
+          "mx_es": true
+        },
         "message_title_1": {
           "mx_es": true
         },
-        "message_text_1": {}
+        "message_text_1": {
+          "mx_es": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -1464,18 +1278,42 @@
       "icon_asset": "images/one_on_one_challenges.svg",
       "title": "Spending one-on-one time",
       "_translations": {
-        "title": {},
-        "introduction": {},
-        "message_title_1": {},
-        "message_text_1": {},
-        "message_title_2": {},
-        "message_text_2": {},
-        "message_title_3": {},
-        "message_text_3": {},
-        "message_title_4": {},
-        "message_text_4": {},
-        "message_title_5": {},
-        "message_text_5": {}
+        "title": {
+          "mx_es": true
+        },
+        "introduction": {
+          "mx_es": true
+        },
+        "message_title_1": {
+          "mx_es": true
+        },
+        "message_text_1": {
+          "mx_es": true
+        },
+        "message_title_2": {
+          "mx_es": true
+        },
+        "message_text_2": {
+          "mx_es": true
+        },
+        "message_title_3": {
+          "mx_es": true
+        },
+        "message_text_3": {
+          "mx_es": true
+        },
+        "message_title_4": {
+          "mx_es": true
+        },
+        "message_text_4": {
+          "mx_es": true
+        },
+        "message_title_5": {
+          "mx_es": true
+        },
+        "message_text_5": {
+          "mx_es": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -1535,14 +1373,30 @@
       "icon_asset": "images/praise_challenges.svg",
       "title": "Praising your girl, boy, or teen",
       "_translations": {
-        "title": {},
-        "introduction": {},
-        "message_title_1": {},
-        "message_text_1": {},
-        "message_title_2": {},
-        "message_text_2": {},
-        "message_title_3": {},
-        "message_text_3": {}
+        "title": {
+          "mx_es": true
+        },
+        "introduction": {
+          "mx_es": true
+        },
+        "message_title_1": {
+          "mx_es": true
+        },
+        "message_text_1": {
+          "mx_es": true
+        },
+        "message_title_2": {
+          "mx_es": true
+        },
+        "message_text_2": {
+          "mx_es": true
+        },
+        "message_title_3": {
+          "mx_es": true
+        },
+        "message_text_3": {
+          "mx_es": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -1586,18 +1440,42 @@
       "icon_asset": "images/talk_feelings_challenges.svg",
       "title": "Talking about feelings",
       "_translations": {
-        "title": {},
-        "introduction": {},
-        "message_title_1": {},
-        "message_text_1": {},
-        "message_title_2": {},
-        "message_text_2": {},
-        "message_title_3": {},
-        "message_text_3": {},
-        "message_title_4": {},
-        "message_text_4": {},
-        "message_title_5": {},
-        "message_text_5": {}
+        "title": {
+          "mx_es": true
+        },
+        "introduction": {
+          "mx_es": true
+        },
+        "message_title_1": {
+          "mx_es": true
+        },
+        "message_text_1": {
+          "mx_es": true
+        },
+        "message_title_2": {
+          "mx_es": true
+        },
+        "message_text_2": {
+          "mx_es": true
+        },
+        "message_title_3": {
+          "mx_es": true
+        },
+        "message_text_3": {
+          "mx_es": true
+        },
+        "message_title_4": {
+          "mx_es": true
+        },
+        "message_text_4": {
+          "mx_es": true
+        },
+        "message_title_5": {
+          "mx_es": true
+        },
+        "message_text_5": {
+          "mx_es": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -1657,16 +1535,36 @@
       "icon_asset": "images/routine_challenges.svg",
       "title": "Setting routines",
       "_translations": {
-        "title": {},
-        "introduction": {},
-        "message_title_1": {},
-        "message_text_1": {},
-        "message_title_2": {},
-        "message_text_2": {},
-        "message_title_3": {},
-        "message_text_3": {},
-        "message_title_4": {},
-        "message_text_4": {}
+        "title": {
+          "mx_es": true
+        },
+        "introduction": {
+          "mx_es": true
+        },
+        "message_title_1": {
+          "mx_es": true
+        },
+        "message_text_1": {
+          "mx_es": true
+        },
+        "message_title_2": {
+          "mx_es": true
+        },
+        "message_text_2": {
+          "mx_es": true
+        },
+        "message_title_3": {
+          "mx_es": true
+        },
+        "message_text_3": {
+          "mx_es": true
+        },
+        "message_title_4": {
+          "mx_es": true
+        },
+        "message_text_4": {
+          "mx_es": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -1709,133 +1607,6 @@
       "message_text_3": "When did you set the routine? Was the girl, boy or teen calm? How did you approach it? If you or your girls, boys, or teens are hungry or tired, it is better to talk about the routines at a later point.",
       "message_title_4": "We were not able to stick to the routine",
       "message_text_4": "Make sure you have a routine that can be kept easily. For example, try having one meal together every week instead of every night."
-    },
-    {
-      "id": "faq_h_prompts",
-      "status": "draft",
-      "icon_asset": "images/faq_h_prompts.svg",
-      "title": "Chat session prompts for new group admin",
-      "_translations": {
-        "title": {},
-        "introduction": {},
-        "message_text_1": {},
-        "message_text_2": {},
-        "message_text_3": {}
-      },
-      "_translatedFields": {
-        "title": {
-          "eng": "Chat session prompts for new group admin"
-        },
-        "introduction": {
-          "eng": "After your call with the new group admin, you can share these prompts to support them with leading the chat sessions."
-        },
-        "message_text_1": {
-          "eng": "🎉Let us celebrate our successes! What was something positive you experienced when you tried one of the Crianza con Conciencia+ skills with your boy or girlchild?"
-        },
-        "message_text_2": {
-          "eng": "🌱Trying out new skills can be hard at first. What was something *difficult* that you experienced when you tried a Crianza con Conciencia+ skill with your boy or girlchild at home?"
-        },
-        "message_text_3": {
-          "eng": "💙You are welcome to use this WhatsApp space to share any questions or experiences you have on your Crianza con Conciencia+ journey. Remember, I may not always be able to respond, but this is our group – *together we can find all the answers we need*!"
-        }
-      },
-      "introduction": "After your call with the new group admin, you can share these prompts to support them with leading the chat sessions.",
-      "message_text_1": "🎉Let us celebrate our successes! What was something positive you experienced when you tried one of the Crianza con Conciencia+ skills with your boy or girlchild?",
-      "message_text_2": "🌱Trying out new skills can be hard at first. What was something *difficult* that you experienced when you tried a Crianza con Conciencia+ skill with your boy or girlchild at home?",
-      "message_text_3": "💙You are welcome to use this WhatsApp space to share any questions or experiences you have on your Crianza con Conciencia+ journey. Remember, I may not always be able to respond, but this is our group – *together we can find all the answers we need*!"
-    },
-    {
-      "id": "faq_h_no_volunteers",
-      "status": "draft",
-      "icon_asset": "images/faq_h_no_volunteers.svg",
-      "title": "No one volunteered to be group admin",
-      "_translations": {
-        "title": {},
-        "introduction": {},
-        "message_title_1": {},
-        "message_text_1": {}
-      },
-      "_translatedFields": {
-        "title": {
-          "eng": "No one volunteered to be group admin"
-        },
-        "introduction": {
-          "eng": "It may be difficult to find volunteers to become group admin. If no one volunteers to lead the group, you can send the message below to close the group. \n\nWait a couple days before closing because someone might still volunteer!"
-        },
-        "message_title_1": {
-          "eng": "Alternate Closing Message"
-        },
-        "message_text_1": {
-          "eng": "Thank you for sharing your thoughts 💙\n\nSince we don’t have any volunteers for group admin, I will be closing this WhatsApp Support Group at the end of the Programme. \n\nRemember, you can still continue your Crianza con Conciencia+ journey with your family!"
-        }
-      },
-      "introduction": "It may be difficult to find volunteers to become group admin. If no one volunteers to lead the group, you can send the message below to close the group. \n\nWait a couple days before closing because someone might still volunteer!",
-      "message_title_1": "Alternate Closing Message",
-      "message_text_1": "Thank you for sharing your thoughts 💙\n\nSince we don’t have any volunteers for group admin, I will be closing this WhatsApp Support Group at the end of the Programme. \n\nRemember, you can still continue your Crianza con Conciencia+ journey with your family!"
-    },
-    {
-      "id": "group_admin_onboarding",
-      "status": "draft",
-      "icon_asset": "images/group_admin_onboarding.svg",
-      "related_article_id_1": "faq_h_after_group_ended",
-      "related_article_id_2": "faq_h_prompts",
-      "title": "How to hand over to Group Admin",
-      "_translations": {
-        "title": {},
-        "introduction": {},
-        "section_title_1": {},
-        "section_text_1": {},
-        "message_title_1": {},
-        "message_text_1": {},
-        "message_title_2": {},
-        "message_text_2": {},
-        "message_guidance_2": {},
-        "related_articles_title": {
-          "mx_es": true
-        }
-      },
-      "_translatedFields": {
-        "title": {
-          "eng": "How to hand over to Group Admin"
-        },
-        "introduction": {
-          "eng": "Once 2 volunteers to be group admin are selected, schedule a WhatsApp call with them.\n\nWhen you’re done with the call, you can send the guidelines as messages to remind them what you discussed."
-        },
-        "section_title_1": {
-          "eng": "What to cover in the WhatsApp Call?"
-        },
-        "section_text_1": {
-          "eng": "Thank the parent for volunteering to lead the WhatsApp group.  \n\nWhile engaging with other parents in the group, keep the following in mind:\n🔵Greet parents when engaging with them.\n🔵Respect what participants share and be aware of different ages, genders, values and circumstances.\n🔵Encourage parents to share and respond to each other - and praise them for it.\n🔵Remind parents of ground rules when needed.\n🔵Model the behaviour you want to see among the parents.\n\nIf the parent needs any prompts for discussion, share the following: \n\nLet us celebrate our successes! What was something positive you experienced when you tried one of the Crianza con Conciencia+ skills with your boy, girl, or teen?\n\nTrying out new skills can be hard at first. What was something difficult that you experienced when you tried a Crianza con Conciencia+ skill with your girl, boy, or teen at home?\nRemind the parent that they are not obligated to respond to messages all times. Participants may send messages at any time during the week. To keep your workload manageable, you can respond to messages once or twice a day, depending on your schedule. \n\nAsk them if they have any questions. \n\nRemind the parent that unfortunately, you will no longer be able to participate in the WhatsApp group."
-        },
-        "message_title_1": {
-          "eng": "Send this message after your WhatsApp Call"
-        },
-        "message_text_1": {
-          "eng": "Hi! Thank you for volunteering to lead the group discussions. \n\n*While engaging with other parents in the group, keep the following in mind*: \n\n👋Greet parents when engaging with them.\n\n💛Respect what participants share and be aware of different ages, genders, values and circumstances. \n\n🏅Encourage parents to share and respond to each other - and praise them for it.\n\n🔔Remind parents of ground rules when needed.\n\n🔑Model the behaviour you want to see among the parents."
-        },
-        "message_title_2": {
-          "eng": "When should the group admin respond to messages?"
-        },
-        "message_text_2": {
-          "eng": "*When should you respond to messages?*\n\n⏰Participants may send messages at any time during the week. To keep your workload manageable, you can respond to messages once or twice a day, depending on your schedule. \n\n👍You can also respond to messages with a relevant emoji or short response when you can."
-        },
-        "message_guidance_2": {
-          "eng": "Send this message to the group admin volunteers."
-        },
-        "related_articles_title": {
-          "eng": "FAQ"
-        }
-      },
-      "introduction": "Once 2 volunteers to be group admin are selected, schedule a WhatsApp call with them.\n\nWhen you’re done with the call, you can send the guidelines as messages to remind them what you discussed.",
-      "section_title_1": "What to cover in the WhatsApp Call?",
-      "section_text_1": "Thank the parent for volunteering to lead the WhatsApp group.  \n\nWhile engaging with other parents in the group, keep the following in mind:\n🔵Greet parents when engaging with them.\n🔵Respect what participants share and be aware of different ages, genders, values and circumstances.\n🔵Encourage parents to share and respond to each other - and praise them for it.\n🔵Remind parents of ground rules when needed.\n🔵Model the behaviour you want to see among the parents.\n\nIf the parent needs any prompts for discussion, share the following: \n\nLet us celebrate our successes! What was something positive you experienced when you tried one of the Crianza con Conciencia+ skills with your boy, girl, or teen?\n\nTrying out new skills can be hard at first. What was something difficult that you experienced when you tried a Crianza con Conciencia+ skill with your girl, boy, or teen at home?\nRemind the parent that they are not obligated to respond to messages all times. Participants may send messages at any time during the week. To keep your workload manageable, you can respond to messages once or twice a day, depending on your schedule. \n\nAsk them if they have any questions. \n\nRemind the parent that unfortunately, you will no longer be able to participate in the WhatsApp group.",
-      "message_title_1": "Send this message after your WhatsApp Call",
-      "message_text_1": "Hi! Thank you for volunteering to lead the group discussions. \n\n*While engaging with other parents in the group, keep the following in mind*: \n\n👋Greet parents when engaging with them.\n\n💛Respect what participants share and be aware of different ages, genders, values and circumstances. \n\n🏅Encourage parents to share and respond to each other - and praise them for it.\n\n🔔Remind parents of ground rules when needed.\n\n🔑Model the behaviour you want to see among the parents.",
-      "message_title_2": "When should the group admin respond to messages?",
-      "message_text_2": "*When should you respond to messages?*\n\n⏰Participants may send messages at any time during the week. To keep your workload manageable, you can respond to messages once or twice a day, depending on your schedule. \n\n👍You can also respond to messages with a relevant emoji or short response when you can.",
-      "message_guidance_2": "Send this message to the group admin volunteers.",
-      "related_articles_title": "FAQ"
     }
-  ],
-  "_xlsxPath": "data/FacilitatorApp MX content.xlsx"
+  ]
 }

@@ -348,6 +348,12 @@
     "note": ""
   },
   {
+    "SourceText": "Chat Sessions",
+    "text": "Sesiones de Chat",
+    "type": "data_list",
+    "note": ""
+  },
+  {
     "SourceText": "Frequently Asked Questions",
     "text": "Preguntas Frecuentes",
     "type": "data_list",
@@ -422,6 +428,96 @@
   {
     "SourceText": "Onboarding",
     "text": "Integración",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Day 5: Self-Talk",
+    "text": "Día 5: Diálogo Interno",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Name Game",
+    "text": "Juego de Nombres",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Overview of Crianza con Conciencia+ programme",
+    "text": "Repaso General del Programa Crianza con Conciencia+",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Ground Rules",
+    "text": "Reglas Generales",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Getting Started with ParentText",
+    "text": "Primeros pasos con Crianza con Conciencia+",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Captured IDs into the app",
+    "text": "Identificaciones capturadas en la app",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Captured participant phone numbers for a group WhatsApp",
+    "text": "Números de teléfono capturados para un grupo de WhatsApp con los participantes",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Exploring basic phone functions to interact with ParentText chatbot",
+    "text": "Explorando las funciones básicas del teléfono para interactuar con el chatbot de Crianza con Conciencia+",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Joint completion of Onboarding, Welcome Flow, and Spending one-on-one time with your boy or girl in ParentText",
+    "text": "Cumplimiento simultáneo de las sesiones de Integración, el Flujo de Bienvenida y Pasar Tiempo Uno a Uno solas con tu niño o niña en Crianza con Conciencia+",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Resolving challenges with ParentText (if any)",
+    "text": "Superando retos de la mano de Crianza con Conciencia+ (si los hay)",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Relationship Building Activity",
+    "text": "Actividad para Fortalecer la Relación",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "TBD",
+    "text": "Pendiente",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Closing",
+    "text": "Cierre",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Reflection",
+    "text": "Reflexión",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Goodbye Activity",
+    "text": "Actividad de Despedida",
     "type": "data_list",
     "note": ""
   },
@@ -606,6 +702,12 @@
     "note": ""
   },
   {
+    "SourceText": "**Before conducting the chat sessions, make sure you:** \n\nCreate a WhatsApp Group during the onboarding session. \nIdentify the ground rules for the WhatsApp Group\n\n**Structure for the chat sessions**: \n\nDay  1 (immediately after the onboarding session): Welcome, introductions, and reminder of home practice. \n\nDay 3: Self-talk: WhatsApp Chat session on self-talk and stress\n\nDay 5: Saying Goodbye\n\n**When to send the messages** \n\nYou and your group will decide a time to chat during the onboarding session. \n\nEach chat session has a reminder message (Message 1) that you should send a few hours before the chat session. \n\nSend the remaining messages during the scheduled chat time.",
+    "text": "**Antes de llevar a cabo las sesiones de chat, asegúrate de:** \n\nCrear un Grupo de WhatsApp durante la sesión de integración. \nEstablecer las reglas generales del Grupo de WhatsApp\n\n**Estructura de las sesiones de chat**: \n\nDía 1: (inmediatamente después de la sesión de integración): Bienvenida, presentaciones y un recordatorio de los ejercicios para la casa. \n\nDía 3: Diálogo Interno: Sesión de chat de WhatsApp sobre el diálogo interno y el estrés\n\nDía 5: Despedida\n\n**Cuándo mandar los mensajes** \n\nTu grupo y tú decidirán una hora para chatear durante la sesión de integración.\n\nCada sesión de chat tiene un mensaje recordatorio (Mensaje 1) que debes enviar unas horas antes de la sesión de chat. \n\nManda los demás mensajes durante la hora programada para el chat.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
     "SourceText": "Message 1: Chat Reminder",
     "text": "Mensaje 1: Recordatorio de la Sesión de Chat",
     "type": "data_list",
@@ -626,6 +728,12 @@
   {
     "SourceText": "Message 2: Welcome and Check-in",
     "text": "Mensaje 2: Bienvenida y Seguimiento",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Hello, everyone! 😃\nWelcome to our second chat session! \n\nToday, we are talking about feeling stressed. Feeling stressed is a normal part of being human, and parenting can add an extra layer of challenges. \n\nIt’s important to manage our stress. Otherwise, it can build up and affect our health and relationships!\n\nHow is everyone’s stress level today? \n\nUse a number from 1 to 10 to share your stress level:\n1 - No Stress \n2 to 5 - Some Stress \n6 to 9 - Feeling Stressed \n10 - Extremely Stressed \n\nFeel free to share your number with the group. We're all in this together!",
+    "text": "¡Hola a todos! 😃\n¡Les damos la bienvenida a nuestra segunda sesión de chat! \n\nHoy hablaremos sobre el sentimiento de estrés. Sentirse estresado es una parte normal del ser humano y la crianza de nuestros niños, niñas y adolescentes puede añadir una capa extra de desafíos. \n\nEs importante controlar nuestro estrés. De lo contrario, puede acumularse y afectar nuestra salud y nuestras relaciones.\n\n¿Cómo está el nivel de estrés de cada uno de ustedes el día de hoy? \n\nUsa un número del 1 al 10 para compartirnos tu nivel de estrés:\n1 - No me siento estresado \n2 a 5 - Me siento un poco estresado \n6 a 9 - Me siento estresado \n10 - Me siento extremadamente estresado \n\nNo dudes en compartir tu número con el grupo. ¡Todos estamos juntos en esto!",
     "type": "data_list",
     "note": ""
   },
@@ -680,6 +788,30 @@
   {
     "SourceText": "Briefly read the participants’ responses and make sure they are not insulting themselves and generally follow the example above. Any instances of intent of self-harm or harm to girls and boys should be reported appropriately.",
     "text": "Brevemente, lee las respuestas de los participantes y asegúrate de que no se insulten a sí mismos y que, a grandes rasgos, sigan el ejemplo anterior. Cualquier caso en donde se manifieste un intento de autolesión o daño hacia niñas y niños debe reportarse mediantes los canales apropiados.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Day 5: Say Goodbye",
+    "text": "Día 5: La Despedida",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "You should congratulate yourself for taking the parents through the Crianza con Conciencia+ journey and celebrate with them the positive changes in their lives and for their girls, boys, and teens.\n\nYou can choose to stay or leave the WhatsApp Group after the program ends.",
+    "text": "Deberías felicitarte a ti mismo por haber guiado a los padres, madres y cuidadores en este viaje llamado Crianza con Conciencia+ y celebrar con ellos los cambios positivos que se generaron en sus vidas y en las de sus niñas, niños y adolescentes.\n\nPuedes optar por quedarte o abandonar el Grupo de WhatsApp una vez terminado el programa.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Message 1: Goodbye",
+    "text": "Mensaje 1: Adiós",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "It's been wonderful being part of this amazing parenting course with all of you! Although I am feeling a bit sad to say goodbye, I am also happy to see how much we have achieved in this programme.  \n\nAs I shared with you during the onboarding session, I will now be exiting this WhatsApp Group. 👋\n\nYou are the best parents to your boys, girls, and teens.  *You can still complete your final Crianza con Conciencia+ lessons if you have not done so yet*. 🌱\n\nWe all have good days and bad days, and Crianza con Conciencia+ will help you and your girl, boy or teen to get through them together. Well done! \n\nThank you for being the first parents for trying out Crianza con Conciencia+, and we're grateful for your help in improving the course. More courses will be coming to ParentText soon, so stay tuned!",
+    "text": "¡Ha sido maravilloso formar parte de este increíble curso de crianza con todos ustedes! Aunque me pone un poco triste despedirme, también me alegra ver lo mucho que hemos conseguido con este programa.  \n\nComo les comenté durante la sesión de integración, yo me voy a salir de este Grupo de WhatsApp. 👋\n\nUstedes son los mejores padres, madres y cuidadores para sus niños, niñas y adolescentes.  *Si aún no han terminado las últimas sesiones de Crianza con Conciencia+ todavía están a tiempo y lo pueden hacer*. 🌱\n\nSabemos que todos tenemos nuestros días buenos y malos, por eso Crianza con Conciencia+ busca ayudarte a ti y a tu niña, niño o adolescente a superarlos juntos. ¡Tú puedes! \n\nGracias por ser los primeros padres, madres y cuidadores en probar Crianza con Conciencia+, y agradecemos la ayuda que no brindaron para mejorar el curso. Pronto llegarán más cursos a Crianza con Conciencia+, ¡así que estén atentos!",
     "type": "data_list",
     "note": ""
   },
@@ -772,6 +904,12 @@
     "text": "Un participante me marca o me manda un mensaje personal con muchas preguntas que tienen que ver son sus hábitos de crianza o los malos comportamientos de su niña, niño o adolescente.",
     "type": "data_list",
     "note": ""
+  },
+  {
+    "SourceText": "Parents may see you as someone they can turn to for help beyond school and Crianza con Conciencia+, especially when they need advice on their boy, girl, or teen’s  behaviour. \n\nEven though you want to help, finding a balance for your well-being is important. \n\nShare the following message to gently remind the parents about your role in Crianza con Conciencia+. \n\nIf the parents continue to persist, notify @global.supervisor_name.",
+    "text": "Puede que los padres, madres y cuidadores te vean como alguien a quien pueden acudir en busca de ayuda más allá de la escuela y de Crianza con Conciencia+, sobre todo cuando necesitan consejos sobre el comportamiento de su niño, niña o adolescente. \n\nAunque quieras ayudar, encontrar un equilibrio para tu bienestar es importante. \n\nComparte el siguiente mensaje para recordarle amablemente a los participantes cuál es tu rol en Crianza con Conciencia+. \n\nSi algún padre, madre o cuidador siguen insistiendo, notifícaselo a @global.supervisor_name.",
+    "type": "data_list",
+    "note": "The string @global.supervisor_name. should not be translated."
   },
   {
     "SourceText": "Send This Message to the Parent",
@@ -1056,8 +1194,116 @@
     "note": ""
   },
   {
+    "SourceText": "**Make sure you have done the following before the onboarding session starts:** \n\n- Save the names and WhatsApp numbers of the parents assigned to you on your phone (if available), so you can easily confirm details during the onboarding session. \n\n- Create your WhatsApp group (with the temporary group name, icon, and description). The name of each WhatsApp group has the same structure:\n“Crianza con Conciencia+”\nA name selected by the group \n\nWhen you create your temporary group name, you will use \"Crianza con Conciencia+” \n\nYou can keep your temporary group name or you can add a name to the temporary group name. For example, “Crianza con Conciencia+__HappyFamilies”.",
+    "text": "**Asegúrate de que has hecho lo siguiente antes de que empiece la sesión de integración:** \n\n- Guarda en tu teléfono los nombres y números de WhatsApp de los padres, madres y cuidadores que te asignaron (si están disponibles) para que puedas confirmar fácilmente los detalles durante la sesión de integración. \n\n- Crea tu grupo de WhatsApp (con el nombre temporal del grupo, el icono y la descripción). El nombre de cada grupo de WhatsApp tiene la misma estructura:\n\"Crianza con Conciencia+\"\nUn nombre seleccionado por el grupo \n\nCuando pongas el nombre temporal de tu grupo, usa \"Crianza con Conciencia+\" \n\nPuedes mantener el nombre temporal del grupo o puedes agregarle un nombre extra al temporal. Por ejemplo, \"Crianza con Conciencia+__FamiliasFelices\".",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Conduct Chat Session",
+    "text": "Dirigir una Sesión de Chat",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "**Before conducting the chat sessions, make sure you:** \n\nCreate a WhatsApp Group during the onboarding session. \nIdentify the ground rules for the WhatsApp Group\n\n**Structure for the chat sessions**: \r\rDay  1 (immediately after the onboarding session): Welcome, introductions, and reminder of home practice. \n\nDay 2: Send an encouraging message \r\rDay 3: Self-talk: WhatsApp Chat session on self-talk and stress\n\nDay 4: Send an encouraging message \r\rDay 6: Checking in on parents’ experience and closing\n\n**When to send the messages** \n\nYou and your group will decide a time to chat during the onboarding session. \r\rEach chat session has a reminder message (Message 1) that you should send a few hours before the chat session. \n\nSend the remaining messages during the scheduled chat time.",
+    "text": "**Antes de llevar a cabo las sesiones de chat, asegúrate de:** \n\nCrear un Grupo de WhatsApp durante la sesión de integración. \nEstablece las reglas generales del Grupo de WhatsApp\n\n**Estructura de las sesiones de chat**: \r\rDía 1: (inmediatamente después de la sesión de integración): Bienvenida, presentaciones y un recordatorio de los ejercicios para la casa.  \n\nDía 2: Manda un mensaje de ánimo \r\rDía 3: Diálogo Interno: Sesión de chat de WhatsApp sobre el diálogo interno y el estrés\n\nDía 4: Manda un mensaje de ánimo \r\rDía 6: Plática con los padres, madres y cuidadores sobre su la experiencia y el cierre\n\n**Cuándo enviar los mensajes** \n\nTu grupo y tú decidirán una hora para chatear durante la sesión de integración. \r\rCada sesión de chat tiene un mensaje recordatorio (Mensaje 1) que debes enviar unas horas antes de la sesión de chat. \n\nManda los demás mensajes durante la hora programada para el chat.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Share the messages in the chat session",
+    "text": "Compartir los mensajes en la sesión de chat",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Look for the \"Chat Sessions\" section on the Formando Conciencia+ homepage\n\nFind the specific chat session you want to share and click on it.\n\nOnce you're on the content for that session, locate the \"Share\" icon. It should look like an arrow pointing upward or a box with an arrow, and it's used to share content. Click on the \"Share\" icon.\n\nSelect \"WhatsApp\" as your sharing option in the menu that appears.\n\nChoose your Crianza con Conciencia+ Support Group from the list. \n\nBefore you hit the \"Send\" button, make sure to add or change any necessary information like your name. \n\nFinally, click the \"Send\" button to share the content with your Crianza con Conciencia+ Support Group.",
+    "text": "Busca la sección \"Sesiones de Chat\" en la página principal de Formando Conciencia+\n\nEncuentra la sesión de chat que quieras compartir y haz clic en ella.\n\nUna vez que estés en el contenido de esa sesión, localiza el icono de \"Compartir\". Se parece a una flecha apuntando hacia arriba o a un recuadro con una flecha, y sirve para compartir contenidos. Haz clic en el icono \"Compartir\".\n\nSelecciona \"WhatsApp\" como opción para compartir en el menú que te aparece.\n\nEscoge tu Grupo de Apoyo Crianza con Conciencia+ de la lista. \n\nAntes de presionar el botón de \"Enviar\", asegúrate de agregar o cambiar cualquier información necesaria, como tu nombre. \n\nFinalmente, presiona el botón de \"Enviar\" para compartir el contenido con tu Grupo de Apoyo Crianza con Conciencia+.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Get Help with WhatsApp Support Group",
+    "text": "Consigue Ayuda con el Grupo de Apoyo de WhatsApp",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "If you require help while moderating your WhatsApp Support Group, the chat sessions provide a list of FAQs and potential solutions.\n\nIf you need support responding to a challenge shared by the parent during your chat session, see “Common Challenges” on the homepage. \n\nFollow the same instructions as Sharing Chat Messages to share the solutions to the challenges. \n\nIf you encounter a challenge not covered in the chat session, kindly contact your supervisor for further guidance.",
+    "text": "Si necesitas ayuda mientras moderas tu Grupo de Apoyo de WhatsApp, en las sesiones de chat encontrarás una lista de preguntas frecuentes y posibles soluciones.\n\nSi necesitas apoyo para responder a un reto o desafío compartido por el padre, la madre o el cuidador durante tu sesión de chat, consulta \"Desafíos Comunes\" en la página de inicio. \n\nSigue las mismas instrucciones que en Compartir mensajes de chat para compartir las soluciones a los retos. \n\nSi te encuentras con un desafío que no ha sido cubierto en la sesión de chat, ponte en contacto con tu supervisor para que te oriente.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "For more information:",
+    "text": "Para más información:",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "How to Report on Programme Delivery",
+    "text": "Cómo Informar Sobre la Ejecución del Programa",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "The Formando Conciencia+ also makes reporting on the delivery of Crianza con Conciencia+ much easier than paper forms.\n\nAfter adding each parent’s name to the App, you will be able to report on their participation during in-person and WhatsApp group sessions.\n\nYou will also report on your own experience, including the time spent conducting each session and whether you were able to do all the activities in the session.",
+    "text": "Formando Conciencia+ también hace que los informes sobre la ejecución de Crianza con Conciencia+ sean mucho más fáciles que los formularios a lápiz y papel.\n\nTras agregar el nombre de cada padre, madre y cuidador a la App, podrás informar sobre su participación durante las sesiones presenciales y de grupo de WhatsApp.\n\nTambién informarás sobre tu propia experiencia, incluido el tiempo dedicado a dirigir cada sesión y si pudiste llevar a cabo todas las actividades de la sesión.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "How to:",
+    "text": "Cómo hacerlo:",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Set up your profile",
+    "text": "Configura tu perfil",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Select the profile icon from the bottom navigation bar. \n\nChoose “About you” \n\nType your name under “Your name” \n\nSelect your state from the dropdown menu \n\rTap Save",
+    "text": "Selecciona el icono de perfil en la barra de navegación que se encuentra en la parte de abajo. \n\nEscoge \"Sobre ti\" \n\nEscribe tu nombre en \"Tu nombre\" \n\nSelecciona tu estado en el menú desplegable \n\rPresiona Guardar",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Add a Parent",
+    "text": "Agregar un padre, madre o cuidador",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Select the profile icon from the bottom navigation bar. \n\nChoose “Add Parent”\n\nEnter parent details in the form. To enter the parent’s unique identifier (UID), ask them to text “ID” on Crianza con Conciencia+. Copy the 6-digit number into the parent profile.",
+    "text": "Selecciona el icono de perfil en la barra de navegación que se encuentra en la parte de abajo. \n\nEscoge \"Agregar padre, madre o cuidador\"\n\nIngresa los datos del padre, madre o cuidador en el formulario. Para ingresar el identificador único (UID) del participante, pídele que escriba \"ID\" en Crianza con Conciencia+. Copia el número de 6 dígitos en el perfil del participante.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Add a Co-Parent",
+    "text": "Agregar padre, madre o cuidador adicional al principal",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "If two parents from the same family are participating in the programme, together, you must link their accounts. \n\nOnce you have added the first parent profile, to add a second parent, select “Add Parent”\n\nEnter parent details in the form. To enter the parent’s unique identifier (UID), ask them to text “ID” on Crianza con Conciencia+. Copy the 6-digit number into the parent profile. \n\nSelect “Add Co-Parent”\n\nSelect the co-parent from available parent user profiles. \n\nSelect “Save”\n\n*Both parent profiles will be updated to note the co-parent.*",
+    "text": "Si dos participantes de la misma familia entran juntos al programa, debes vincular sus cuentas. \n\nUna vez que hayas agregado el perfil del primer padre, madre o cuidador selecciona \"Agregar padre, madre o cuidador\" para agregar un segundo padre, madre o cuidador.\n\nIngresa los datos del participante adicional en el formulario. Para ingresar el identificador único (UID) del progenitor, pídele que escriba \"ID\" en Crianza con Conciencia+. Copia el número de 6 dígitos en el perfil del participante. \n\nSelecciona \"Agregar padre, madre o cuidador\"\n\nSelecciona al padre, madre o cuidador adicional de entre los perfiles de usuario de participantes disponibles. \n\nSelecciona \"Guardar\"\n\n*Los perfiles de ambos participantes se actualizarán para destacar al padre, madre o cuidador adicional.*",
+    "type": "data_list",
+    "note": ""
+  },
+  {
     "SourceText": "Report Attendance",
     "text": "Informar sobre la Asistencia",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Select the pencil icon from the bottom navigation bar. \n\nSelect whether you are reporting on an in-person or WhatsApp session with your parents. \n\nChoose which session you are reporting on. \n\n\nComplete the report \n\n⏰Specify the time spent on preparation, travel, and actual session delivery. \n\n✅Check the activities you completed (in-person) or the number of messages you sent (WhatsApp Group)\n\n🔵Selecting the parents who participated in the session:\n\nFor in-person sessions, “participation” is defined as parents who attended the session, in part or whole. \nFor the WhatsApp group, “participation” is defined as parents who have sent at least 1 message during the chat session. \n\nIf you do not see a parent’s name, then you need to add that parent to the App (see above).",
+    "text": "Selecciona el icono del lápiz en la barra de navegación que se encuentra en la parte de abajo. \n\nSelecciona entre estar informando sobre una sesión presencial o una de WhatsApp con tus participantes. \n\nEscoge la sesión sobre la cuál estás informando. \n\n\nCompleta el informe \n\n⏰Especifica el tiempo empleado en la preparación, el desplazamiento y la realización de la sesión ya estando con los participantes. \n\n✅Selecciona las actividades que completaste (en persona) o el número de mensajes que enviaste (Grupo de WhatsApp)\n\n🔵Selecciona a los padres que participaron en la sesión:\n\nPara las sesiones presenciales, la \"participación\" se define como los padres, madres o cuidadores que asistieron a la sesión, ya sea una parte o en su totalidad. \nPara el grupo de WhatsApp, la \"participación\" se define como los padres, madres o cuidadores que enviaron al menos 1 mensaje durante la sesión de chat. \n\nSi no ves el nombre de un participante, tienes que agregarlo a la App (ver más arriba).",
     "type": "data_list",
     "note": ""
   },
@@ -1074,8 +1320,344 @@
     "note": ""
   },
   {
+    "SourceText": "Other information:",
+    "text": "Información adicional:",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Parents began insulting themselves during the chat session",
+    "text": "Algunos padres, madres o cuidadores empezaron a insultarse a sí mismos durante la sesión de chat",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "During our chat, parents might speak unkindly about themselves. If this happens, it's important to correct them gently. While it's okay to share examples of negative self-talk when asked, if it occurs in other parts of the conversation, the facilitator should step in to help guide the discussion positively.",
+    "text": "Puede que algunos padres, madres o cuidadores hablen mal de sí mismos durante la sesión de chat. Si esto pasa, es importante corregirles con gentileza. Aunque está bien que compartan ejemplos de diálogo interno negativo cuando se les pide, si ocurre en otras partes de la conversación, el facilitador debe intervenir para ayudar a guiar la discusión hacia un ambiente más positivo.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Using kinder language",
+    "text": "Usar un lenguaje más amable",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "If a parent is being unkind to themselves, they might already realize it. To help, gently suggest a kinder language. For example\n\nParent: \"I’m an okay parent, even I often mess up.\"\n\nFacilitator: \"Thank you for sharing. Great job recognizing your strength. Let's re-word this unkind talk. How about:\n💚 'I’m an okay parent, even though I’m overwhelmed right now.'\n💛 'Even when I don’t have all the answers.'\n💙 'It's okay to make mistakes and learn from them.'\n\nYou can choose one of these or create a new one. Parents might not be used to positive self-talk so a little encouragement can go a long way!",
+    "text": "Si un padre, madre o cuidador está siendo poco amable consigo mismo, es posible que ya lo sepa. Para ayudarle, sugiérele gentilmente un lenguaje más amable. Por ejemplo\n\nUn Padre: \"Soy un buen padre, aunque me la paso metiendo la pata.\"\n\nFacilitador: \"Gracias por compartir. Buen trabajo reconociendo tu fortaleza. Vamos a reformular la parte que no es muy amable. Qué te parece:\n💚 'Soy un buen padre, aunque ahorita esté abrumado'.\n💛 'Aún cuando no tengo todas las respuestas'.\n💙 'No pasa nada por cometer errores y aprender de ellos'.\n\nPuedes escoger una de éstas o crear una nueva. Puede que los padres no estén acostumbrados a hablar positivamente de sí mismos, ¡así que un poco de motivación puede ayudar mucho!",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Promoting Support",
+    "text": "Promover el Apoyo",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Remind parents that this space is a supportive community. Encourage parents to share words of encouragement and positive things they say to themselves. This helps create a supportive environment for everyone.",
+    "text": "Recuérdale a los padres, madres y cuidadores que este espacio es una comunidad de apoyo. Motívales para compartir palabras de ánimo y cosas positivas que se digan a sí mismos. Esto ayuda a crear un ambiente de apoyo para todos.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Caregivers express intentions of self-harm or harm to their girls, boys, and teens during the session.",
+    "text": "Los padres, madres o cuidadores expresan intenciones de autolesionarse o lastimar a sus niñas, niños y adolescentes durante la sesión.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "If a parent is showing intention to self-harm or harm to their girls and boys, remember, they may are experiencing an intense emotion. Remember, the best thing you can do is follow safeguarding protocols and refer them to services that can provide the help they need.\n\nReport to your supervisor after sending the following message privately to the parent:",
+    "text": "Si un padre, madre o cuidador muestra intención de autolesionarse o lastimar a sus niñas y niños, ten en cuenta que puede estar navegando una emoción intensa. Recuerda que lo mejor que puedes hacer es seguir los protocolos de salvaguardia y remitirle a los servicios que puedan darle la ayuda que necesita.\n\nInforma a tu supervisor después de mandarle el siguiente mensaje privado al padre, madre o cuidador:",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Dear [INSERT NAME], \n\nThis space is here to support you. If you or someone else is in immediate danger, consider calling La Línea de la Vida at 800 911 2000 or SAPTEL at 55 5259 8121 for assistance.\r\rYou can also type HELP in ParentText to find more resources for support. \r\rYour safety and well-being is important to us, and we are here to help.",
+    "text": "Estimado o Estimada [INSERTAR NOMBRE], \n\nEste espacio está aquí para apoyarte. Si tú u otra persona está en peligro inmediato, considera llamar a La Línea de la Vida al 800 911 2000 o a SAPTEL al 55 5259 8121 para pedir ayuda.\r\rTambién puedes escribir AYUDA en Crianza con Conciencia+ para encontrar más recursos de apoyo. \r\rTu seguridad y bienestar son importantes para nosotros, y estamos aquí para ayudarte.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Write the name of the parent before sending the message.",
+    "text": "Escribe el nombre del padre, madre o cuidador antes de mandar el mensaje.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Parents could not turn negative self-talk into positive self-talk",
+    "text": "Los padres, madres o cuidadores no pudieron convertir el diálogo interno negativo en diálogo interno positivo",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "At times, parents may find it challenging to transform negative self-talk into positive self-talk during the chat session. If this happens, remember that everyone moves at their own pace. Stay calm and offer support with a different perspective:\n\n1️⃣ Imagine someone you love is going through a similar situation.\n2️⃣ Consider what they might need to hear to feel better.\n3️⃣ Use the same words you identified and say them to yourself.\n\nWe're not aiming for perfection; you're doing your best with what you have. Keep practicing these steps, and gradually, the task will become easier.\r\rYou can send the message below:",
+    "text": "A veces, a los padres, madres o cuidadores les puede resultar difícil transformar el diálogo interno negativo en diálogo interno positivo durante la sesión de chat. Si esto pasa, recuerda que cada quién se mueve a su propio ritmo. Mantén la calma y ofrece apoyo con una perspectiva diferente:\n\n1️⃣ Imagina que alguien a quien quieres está pasando por una situación similar.\n2️⃣ Piensa en lo que podría necesitar oír para sentirse mejor.\n3️⃣ Usa las mismas palabras que identificaste para decírtelas a ti mismo.\n\nNo pretendemos la perfección; estás haciendo lo mejor que puedes con lo que tienes. Sigue practicando estos pasos y, poco a poco, la actividad te resultará más fácil.\r\rPuedes mandar el mensaje a continuación:",
+    "type": "data_list",
+    "note": ""
+  },
+  {
     "SourceText": "Send this message",
     "text": "Manda este mensaje",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "If you are struggling to say kind or caring words to yourselves, try this: \n\r1️⃣ Imagine someone you love is going through a similar situation.\n2️⃣ Think about what they might need to hear to feel better.\n3️⃣ Use those same comforting words and say them to yourself.\n\nRemember, you're not alone, and treating yourself with kindness matters.",
+    "text": "Si te cuesta trabajo decirte palabras amables o cariñosas a ti mismo, prueba esto: \n\r1️⃣ Imagina que alguien a quien quieres está pasando por una situación similar.\n2️⃣ Piensa en lo que podría necesitar oír para sentirse mejor.\n3️⃣ Usa las mismas palabras que identificaste para decírtelas a ti mismo.\n\nRecuerda que no estás solo y que tratarte con amabilidad es importante.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Spending one-on-one time",
+    "text": "Pasar Tiempo Uno a Uno",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Parenting can be challenging and many obstacles can get in the way.\n\nRemember, your job isn't to solve their problems but to enable a conversation between parents to support one another. 🔄\n\nHere are some common challenges and possible solutions for spending one-on-one time that we have encountered previously when delivering the programme. \r\rYou can share the following messages as responses during your chat sessions when parents share challenges with this topic.",
+    "text": "La crianza puede ser un verdadero reto y se pueden interponer muchos obstáculos en el camino.\n\nRecuerda que tu trabajo no es resolver sus problemas, sino facilitar una conversación entre padres, madres y cuidadores para que se apoyen entre sí. 🔄\n\nAquí hay algunos desafíos comunes y posibles soluciones relacionadas con pasar tiempo uno a uno que nos hemos encontrado en otras ocaciones al impartir el programa. \r\rPuedes mandar los siguientes mensajes como respuestas durante tus sesiones de chat cuando los padres compartan sus dificultades con este tema.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "I didn’t have enough time to spend one-on-one time.",
+    "text": "No tuve el tiempo suficiente para pasar tiempo Uno a Uno.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Thank you for sharing. It can be hard to find time, especially when you have work, chores, and other responsibilities to do. 😔 You could try finding a chore to do together.",
+    "text": "Gracias por compartirlo. Puede ser difícil encontrar tiempo, sobre todo cuando tienes trabajo, cosas que hacer en la casa y otras responsabilidades. 😔 Podríais intentar encontrar una tarea del hogar que puedan hacer juntos.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "My girl, boy or teen did not want to spend time with me.",
+    "text": "Mi niña, niño o adolescente no quiso pasar tiempo conmigo.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Thank you for sharing. It feels sad when your boy, girl, or teen doesn't want to spend time with you. 😔 Try suggesting a fun activity to do together.",
+    "text": "Gracias por compartirlo. Es triste cuando tu niño, niña o adolescente no quiere pasar tiempo contigo. 😔 Intenta sugerir una actividad divertida que puedan hacer juntos.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "All my girl, boy or teen wanted to do was watch T.V. or play with a gadget.",
+    "text": "Todo lo que mi niña, niño o adolescente quería hacer era ver la tele o jugar con un aparato electrónico.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "It can be tough when your teen, girl, or boy seems focused on watching TV or playing with a gadget all the time. 😟 \n\nTo connect with them and understand their interests, try asking them to show you something cool on the gadget. \n\nIt's a simple way to engage with their world and spend time together. 📺",
+    "text": "Puede ser difícil cuando tu adolescente, niña o niño, parece enfocarse solamente en ver la tele o jugar con un aparato electrónico todo el tiempo. 😟 \n\nPara conectar con él o ella y comprender sus intereses, intenta pedirle que te enseñe algo padre en su aparato electrónico. \n\nEs una forma sencilla de relacionarte con su mundo y pasar tiempo juntos. 📺",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "My boy, girl, or teen did not want one-on-one time to end.",
+    "text": "Mi niño, niña o adolescente no quería que terminara el tiempo Uno a Uno.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "I understand it can be tough when your girl, boy, or teen does not want one-on-one time to end. 😣\r\rTo make things smoother, try being clear about how much time you have together and give a gentle warning when the time is about to end. ⏰",
+    "text": "Entiendo que puede ser difícil cuando tu niña, niño o adolescente no quiere que termine el tiempo Uno a Uno. 😣\r\rPara suavizar la situación, intenta ser claro sobre el tiempo que van a pasar juntos y avísale sutilmente cuando el tiempo esté a punto de terminar. ⏰",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "My boy, girl, or teen wanted to do activities that I could not do.",
+    "text": "Mi niño, niña o adolescente quería hacer actividades que yo no podía hacer.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "I can imagine it's challenging when your girl, boy, or teen wants to do activities that you find difficult. 😔\n\nA simple solution is to ask your boy, girl, or teen if you can join in by watching.  \n\nThis way, you're still involved and supportive, even if you can't participate directly. 🤝",
+    "text": "Me imagino que es un reto cuando tu niña, niño o adolescente quiere hacer actividades que a ti te resultan difíciles. 😔\n\nUna solución sencilla es preguntarle a tu niño, niña o adolescente si puedes participar observando.  \n\nDe esta manera, sigues estando involucrado y muestras apoyo aunque no puedas participar directamente. 🤝",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Praising your girl, boy, or teen",
+    "text": "Reconocer y halagar a tu niña, niño o adolescente",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "It is normal for caregivers to feel uncomfortable or have challenges when praising their boys, girls, and teens. They may at first think that praise will either inflate their girls, boys, or teens or is not part of their culture. \n\nIt is important to remember that there are many different ways to praise boys, girls, and teens. Crianza con Conciencia+ focuses mainly on praise as a method to reinforce positive behaviour. We praise the behaviour more than just the girl, boy, or teen!\n\nHere are some common challenges and possible solutions for praising your girl, boy, or teen. \n\rYou can share the following messages as responses during your weekly chat when parents share challenges with this topic.",
+    "text": "Es normal que los padres, madres y cuidadores se sientan incómodos o tengan dificultades a la hora de halagar a sus niños, niñas y adolescentes. Al principio pueden pensar que el halago inflará a sus niñas, niños o adolescentes o que no forma parte de su cultura. \n\nEs importante recordar que hay muchas formas distintas de reconocer y halagar a los niños, niñas y adolescentes. Crianza con Conciencia+ se centra principalmente en el halago como método para reforzar el comportamiento positivo. Lo que se reconoce y se halaga es el comportamiento más que a la niña, el niño o el adolescente.\n\nAquí tienes algunos desafíos comunes y posibles soluciones para halagar a tu niña, niño o adolescente. \n\rPuedes compartir los siguientes mensajes como respuestas durante tu chat semanal, cuando los padres compartan sus dificultades con este tema.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "I forgot to praise my boy, girl, or teen.",
+    "text": "Olvidé halagar a mi niño, niña o adolescente.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "💚It can be difficult to juggle all the different things we need to do. \n\n🌱Next time you spend one-on-one time, try and think of one thing you can praise them for. \n\n☀️You can even say, “Thank you for\nspending time with me!”",
+    "text": "💚 Puede ser difícil malabarear todas las cosas que tenemos que hacer. \n\n🌱La próxima vez que pases tiempo Uno a Uno, intenta pensar en alguna cosa que le puedas reconocer y halagar. \n\n☀️Incluso le puedes decir: \"¡Gracias por\npasar tiempo conmigo!\"",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "I felt embarrassed or weird when praising my boy, girl, or teen.",
+    "text": "Sentí vergüenza o estuvo medio raro cuando halagué a mi niño, niña o adolescente.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "⭐It’s normal to feel uneasy about doing new things.\n\n🌷This is especially true of praise when we are not used to hearing it ourselves. \n\n👀But it will get easier with practice, I promise!",
+    "text": "⭐Es normal sentir incomodidad al hacer cosas nuevas.\n\n🌷Esto es algo común, especialmente en el caso de los halagos, cuando nosotros mismos no estamos acostumbrados a oírlos. \n\n👀Pero con la práctica se hará más fácil, ¡te lo prometo!",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "I can’t think of anything to praise my girl, boy, or teen.",
+    "text": "No se me ocurre nada que pueda halagarle a mi niña, niño o adolescente.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "🔔Start small! You don’t have to select anything big to praise. \n\n💡Find a simple behaviour that your girl, boy, or teen does that you are happy about and tell them. Even something that they already do. \n\n♥️ It will make a difference!",
+    "text": "🔔 ¡Empieza poco a poco! No tienes que escoger algo grande para poder halagar. \n\n💡Encuentra un comportamiento sencillo que tu niña, niño o adolescente haga y que te haga feliz y díselo. Incluso puede ser algo que ya hagan con regularidad. \n\n♥️ ¡Hará la diferencia!",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Talking about feelings",
+    "text": "Hablar sobre emociones y sentimientos",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "It is completely normal for parents to have difficulty talking about and expressing emotions and feelings. Parents may be trying to recognise their emotions and communicate about them for the first time here.\n\nHere are some common challenges and possible solutions for talking about feelings. \n\rYou can share the following messages as responses during your chat session when parents share challenges with this topic.",
+    "text": "Es completamente normal que los padres, madres y cuidadores tengan dificultades para hablar y expresar sus emociones y sentimientos. Puede que sea la primera vez que estén intentando identificar y comunicar sus emociones.\n\nAquí hay algunos desafíos comunes y posibles soluciones relacionadas con hablar sobre emociones y sentimientos \r\rPuedes mandar los siguientes mensajes como respuestas durante tus sesiones de chat cuando los padres compartan sus dificultades con este tema.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "My girl, boy or teen did not want to share their emotions.",
+    "text": "Mi niña, niño o adolescente no quería compartir sus emociones.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "💚I understand that sharing feelings is challenging when it’s new. \n\n🌱Be patient and keep providing them with the opportunity to start sharing. \n\n☀️Be a model for your boys, girls, and teens by sharing your own feelings.",
+    "text": "💚Entiendo que compartir emociones y sentimientos es un reto cuando es algo nuevo. \n\n🌱 Ten paciencia y sigue dándole la oportunidad de empezar a compartir contigo. \n\n☀️Sé un modelo a seguir para tus niños, niñas y adolescentes al compartir tus propios sentimientos con ellos.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "I felt uncomfortable talking about my own feelings",
+    "text": "Sentí incomodidad al hablar sobre mis propias emociones y sentimientos.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "⭐It's okay to feel uncomfortable talking about your own feelings. \n\n👀A simple way to start is by using 'I feel...' \n\n🌷For example, you could say, \"I feel happy when we spend time together.\" Starting small like this can make it easier.",
+    "text": "⭐No pasa nada si te sientes incómodo hablando de tus propios sentimientos y emociones. \n\n👀Una forma fácil de empezar es usando \"Me siento...\" \n\n🌷Por ejemplo, podrías decir: \"Me siento feliz cuando pasamos tiempo juntos\". Empezar por algo pequeño como esto puede hacerlo más sencillo.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Others in the household don’t think it’s a good idea to talk about emotions.",
+    "text": "Otros miembros de la familia no creen que sea buena idea hablar sobre las emociones.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "🔔You can try talking to them about why it might be a good idea. \n\n💡Encourage them to try it first. Sometimes, just giving it a try can help everyone understand each other better.",
+    "text": "🔔Puedes intentar hablarles del por qué es una buena idea. \n\n💡 Anímales a que primero lo intenten antes de formarse una opinión. A veces, el simple hecho de intentarlo puede ayudar a que todos se entiendan mejor.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Others in the household don’t think it’s a good idea to talk about negative emotions.",
+    "text": "Otros miembros de la familia no creen que sea buena idea hablar sobre las emociones negativas.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "🔔Maybe you can have a chat with them about why it could be a good idea. \n\n💡Encourage them to give it a try! Talking openly about feelings can help everyone understand each other better.",
+    "text": "🔔Quizá puedas hablar con ellos sobre por qué podría ser una buena idea. \n\n💡 ¡Anímales a intentarlo! Hablar abiertamente de los sentimientos puede ayudar a que todos se entiendan mejor.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "I don’t know how to name some of the feelings I am experiencing.",
+    "text": "No sé cómo nombrar algunos de los sentimientos que estoy experimentando.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "✨Naming feelings can be tough. \n\n🔄Try combining words you know, like happy or sad, and think about where you feel it in your body. \n\n🔴For example, if your chest feels tight, it might be stress. \n\n🔶It's okay not to have all the words – describe it the best you can.",
+    "text": "✨Darle un nombre a los sentimientos puede ser difícil. \n\n🔄Intenta combinar palabras que conozcas, como feliz o triste, y piensa en qué parte del cuerpo lo sientes. \n\n🔴Por ejemplo, si sientes opresión en el pecho, puede ser estrés. \n\n🔶No pasa nada si no tienes todas las palabras: descríbelo lo mejor que puedas.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Setting routines",
+    "text": "Establecer rutinas",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Establishing routines can be difficult for parents at first. \n\nParents may also not feel comfortable involving their girls, boys, or teens in establishing a routine. You can remind them that this will make it more likely that their boy, girl, or teen will follow the rule and will also help their girl, boy, or teen learn responsibilities.\n\nHere are some common challenges and possible solutions for setting routines for one-on-one time and other activities: \n\rYou can share the following messages as responses to the challenges:",
+    "text": "Establecer rutinas puede resultar difícil para los padres, madres o cuidadores al principio. \n\nTambién es posible que no se sientan cómodos involucrando a sus niñas, niños o adolescentes en el establecimiento de una rutina. Puedes recordarles que así será más probable que su niño, niña o adolescente siga la regla y también ayudará a que su niña, niño o adolescente aprenda responsabilidades.\n\nAquí hay algunos desafíos comunes y posibles soluciones relacionadas con establecer rutinas para el Tiempo Uno a Uno y otras actividades: \n\rPuedes compartir los siguientes mensajes como respuestas a las dificultades:",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Parent should be the one setting the rule, not the girl, boy, or teen.",
+    "text": "El padre, la madre o los cuidadores deben de ser los que establezcan la regla, no la niña, el niño o el adolescente.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "When we establish rules together with our\nchildren, that helps the family to understand each other better.\n\n The rules will be more realistic and children will be more willing and able to follow the rules.",
+    "text": "Cuando establecemos reglas junto con nuestros niños, niñas y adolescente, ayudamos a que haya mayor entendimiento entre la familia.\n\n Las reglas serán más realistas y los niños, niñas y adolescentes estarán más dispuestos y serán más capaces de seguirlas.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "We made the routine, but my boy, girl, or teen does not follow it.",
+    "text": "Hicimos la rutina, pero mi niño, niña o adolescente no la sigue.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "I get that it's challenging when your girl, boy, or teen isn't following the routine you set. 😔\n\nThink about your routine – is it fair and realistic? What can your girl, boy, or teen actually do? Adjust the routine if necessary. \n\nPraise your boy, girl, or teen when they do follow the routine.",
+    "text": "Entiendo que es un reto cuando tu niña, niño o adolescente no sigue la rutina que se ha establecido. 😔\n\nPiensa en tu rutina: ¿es justa y realista? ¿Qué es lo que realmente puede hacer tu niña, niño o adolescente? Ajusta la rutina si es necesario. \n\nReconoce y halaga a tu niño, niña o adolescente cuando siga la rutina.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "When we tried to set a routine, we got into an argument",
+    "text": "Cuando intentamos establecer una rutina terminamos en una discusión.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "When did you set the routine? Was the girl, boy or teen calm? How did you approach it? If you or your girls, boys, or teens are hungry or tired, it is better to talk about the routines at a later point.",
+    "text": "¿En qué momento establecieron la rutina? ¿Tu niña, niño o adolescente estaba tranquilo? ¿Cómo diste pie para empezar la plática? Si tú o tu niña, niño o adolescente tienen hambre o están cansados, será mejor hablar de las rutinas en otro momento.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "We were not able to stick to the routine",
+    "text": "No pudimos seguir la rutina",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Make sure you have a routine that can be kept easily. For example, try having one meal together every week instead of every night.",
+    "text": "Asegúrate de tener una rutina que se pueda mantener fácilmente. Por ejemplo, intenten comer juntos una vez a la semana en vez de todas las noches.",
     "type": "data_list",
     "note": ""
   },
@@ -1478,6 +2060,12 @@
   {
     "SourceText": "Sync now",
     "text": "Sincronizar ahora",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "text",
+    "text": "texto",
     "type": "template",
     "note": ""
   },

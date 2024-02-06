@@ -37,7 +37,9 @@
       "type": "toggle",
       "text": "Overview of Crianza con Conciencia+ programme",
       "_translations": {
-        "text": {}
+        "text": {
+          "mx_es": true
+        }
       },
       "_translatedFields": {
         "text": {
