@@ -24,7 +24,9 @@
       "type": "virtual",
       "name": "Day 5: Self-Talk",
       "_translations": {
-        "name": {}
+        "name": {
+          "mx_es": true
+        }
       },
       "_translatedFields": {
         "name": {
