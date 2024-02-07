@@ -78,7 +78,9 @@
       "type": "toggle",
       "text": "Crianza con Conciencia+ chatbot onboarding",
       "_translations": {
-        "text": {}
+        "text": {
+          "mx_es": true
+        }
       },
       "_translatedFields": {
         "text": {
@@ -91,7 +93,9 @@
       "type": "toggle",
       "text": "Resolving Challenges with Crianza con Conciencia+ chatbot",
       "_translations": {
-        "text": {}
+        "text": {
+          "mx_es": true
+        }
       },
       "_translatedFields": {
         "text": {
@@ -104,7 +108,9 @@
       "type": "title",
       "text": "Moving forward",
       "_translations": {
-        "text": {}
+        "text": {
+          "mx_es": true
+        }
       },
       "_translatedFields": {
         "text": {
@@ -156,7 +162,9 @@
       "type": "toggle",
       "text": "Connecting Formando Conciencia+ and Parent ID",
       "_translations": {
-        "text": {}
+        "text": {
+          "mx_es": true
+        }
       },
       "_translatedFields": {
         "text": {
