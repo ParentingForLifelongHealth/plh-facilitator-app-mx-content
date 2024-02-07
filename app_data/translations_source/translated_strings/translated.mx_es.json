@@ -300,12 +300,6 @@
     "note": ""
   },
   {
-    "SourceText": "@global.app_name is an app designed by IDEMS International and Parenting for Lifelong Health to support the scale up of Crianza con Concienca+ in Mexico. The content herein is available under an open source Creative Commons International 4.0 license. It was developed in collaboration with key partners:",
-    "text": "@global.app_name es una aplicación diseñada por IDEMS Internacional y Parenting for Lifelong Health para apoyar la ampliación de Crianza con Concienca+ en México. Su contenido está disponible bajo una licencia Creative Commons Internacional 4.0 de código abierto. Se desarrolló en colaboración con socios clave:",
-    "type": "data_list",
-    "note": "The string @global.app_name should not be translated."
-  },
-  {
     "SourceText": "Attendance",
     "text": "Asistencia",
     "type": "data_list",
@@ -438,8 +432,8 @@
     "note": ""
   },
   {
-    "SourceText": "Name Game",
-    "text": "Juego de Nombres",
+    "SourceText": "Welcome",
+    "text": "Te damos la bienvenida",
     "type": "data_list",
     "note": ""
   },
@@ -450,86 +444,38 @@
     "note": ""
   },
   {
-    "SourceText": "Ground Rules",
-    "text": "Reglas Generales",
+    "SourceText": "Crianza con Conciencia+ chatbot onboarding",
+    "text": "Sesión de integración al chatbot de Crianza con Conciencia+",
     "type": "data_list",
     "note": ""
   },
   {
-    "SourceText": "Getting Started with ParentText",
-    "text": "Primeros pasos con Crianza con Conciencia+",
+    "SourceText": "Resolving Challenges with Crianza con Conciencia+ chatbot",
+    "text": "Resolver Dificultades con el chatbot de Crianza con Conciencia+",
     "type": "data_list",
     "note": ""
   },
   {
-    "SourceText": "Captured IDs into the app",
-    "text": "Identificaciones capturadas en la app",
+    "SourceText": "Moving forward",
+    "text": "Más adelante",
     "type": "data_list",
     "note": ""
   },
   {
-    "SourceText": "Captured participant phone numbers for a group WhatsApp",
-    "text": "Números de teléfono capturados para un grupo de WhatsApp con los participantes",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Exploring basic phone functions to interact with ParentText chatbot",
-    "text": "Explorando las funciones básicas del teléfono para interactuar con el chatbot de Crianza con Conciencia+",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Joint completion of Onboarding, Welcome Flow, and Spending one-on-one time with your boy or girl in ParentText",
-    "text": "Cumplimiento simultáneo de las sesiones de Integración, el Flujo de Bienvenida y Pasar Tiempo Uno a Uno solas con tu niño o niña en Crianza con Conciencia+",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Resolving challenges with ParentText (if any)",
-    "text": "Superando retos de la mano de Crianza con Conciencia+ (si los hay)",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Relationship Building Activity",
-    "text": "Actividad para Fortalecer la Relación",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "TBD",
-    "text": "Pendiente",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Closing",
-    "text": "Cierre",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Reflection",
-    "text": "Reflexión",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Goodbye Activity",
-    "text": "Actividad de Despedida",
+    "SourceText": "Connecting Formando Conciencia+ and Parent ID",
+    "text": "Conectar Formando Conciencia+ y el Número de Identificación del Padre, Madre o Persona Cuidadora",
     "type": "data_list",
     "note": ""
   },
   {
     "SourceText": "What is Safeguarding?",
-    "text": "¿Qué significa Salvaguardar las Infancias y Adolescencias?",
+    "text": "¿Qué significan las medias de salvaguarda para las infancias y adolescencias?",
     "type": "data_list",
     "note": ""
   },
   {
     "SourceText": "It is important to know the following guidelines for handling disclosures of abuse, neglect, and violence from participants:\n\n1️⃣ **Understand abuse, neglect and exploitation.**\n\n❗ **Abuse** refers to a deliberate act of maltreatment that can damage a boy or girl’s security, wellbeing, dignity and development. Abuse includes all forms of physical, sexual, psychological and emotional maltreatment. (Save the Children definition)\n\n❗ **Violence** against girls and boys is defined as forms of physical or mental violence, damage and abuse, neglect or neglectful treatment or maltreatment or exploitation, including sexual abuse. (Office of the High Commissioner for Human Rights, 1990,\nArticle 19)\n\n❗ **Child exploitation** refers to using girls and boys for economic or sexual benefit, gratification or profit, often resulting in unjust, cruel and harmful treatment of the girl or boy. (Save the Children definition)\n\n2️⃣ **Know your organisation’s child safeguarding policies and referral procedures.**\n\n📖 All organisations should have or develop child rights safeguarding policies and referral procedures, including details on how to respond appropriately when a caregiver, other adults, girl or boy discloses abuse. \n\n📝 You should have accurate knowledge of all protocols and response plans. These will tell you what to do within your organisation if a caregiver or girl or boy reports abuse (e.g. who to report to, internal resources for supporting the girl or boy), as well as how to engage outside resources (e.g. local referral pathways, when to engage with authorities). \n\n🔑 It is your responsibility to act regardless of whether you are responding to disclosures of past and/or present abuse. However, you are not responsible for resolving the situation on your own. It is important that you discuss the situation with your supervisor to agree on what steps to take next.\n\n3️⃣ **Ensure parents know that you are someone who can help.**\n\n🌷Parents participating in your sessions need to know that they can come to you for help, regardless of when the abuse occurred. \n\n👂You should make sure that they know that they can trust you and that you will listen and support them without judgment or any further harm.",
-    "text": "Es importante conocer las siguientes pautas para saber tratar con revelaciones de abuso, negligencia y violencia por parte de los participantes:\n\n1️⃣ **Entiende qué es el abuso, la negligencia y la explotación.**\n\n❗ **El abuso** se refiere a un acto deliberado de maltrato que puede dañar la seguridad, el bienestar, la dignidad y el desarrollo de un niño o una niña. El abuso incluye todas las formas de maltrato físico, sexual, psicológico y emocional. (Definición de Save the Children)\n\n❗ **La violencia** contra niñas y niños se define como formas de violencia física o mental, daños y abusos, negligencia o trato negligente o maltrato o explotación, incluido el abuso sexual. (Oficina del Alto Comisionado de las Naciones Unidas para los Derechos Humanos, 1990,\nArtículo 19)\n\n❗ **La explotación infantil** se refiere a la utilización de niñas y niños para algún beneficio económico o sexual, gratificación o lucro, y que a menudo resulta en un trato injusto, cruel y perjudicial para la niña o el niño. (Definición de Save the Children)\n\n2️⃣ **Conoce las políticas para salvaguardar los derechos de la infancia y los procedimientos de remisión o canalización de tu organización.**\n\n📖 Todas las organizaciones deben tener o desarrollar políticas para salvaguardar los derechos de la infancia, además de procedimientos de remisión o canalización que incluyan detalles sobre cómo responder adecuadamente cuando un cuidador, otros adultos, o una niña o niño revela un abuso. \n\n📝 Debes tener un conocimiento preciso de todos los protocolos y planes de acción. Éstos te indicarán qué hacer dentro de tu organización si un cuidador o una niña o niño denuncia un abuso (por ejemplo, a quién informar y recursos internos para birdarle apoyo a la niña o el niño), así como las pautas para recurrir a recursos externos (por ejemplo, vías locales para remitir o canalizar y cuándo recurrir a las autoridades). \n\n🔑 Actuar es tu responsabilidad, independientemente de si estás respondiendo a revelaciones de abusos pasados y/o presentes. Sin embargo, no es tu responsabilidad resolver la situación sin ayuda. Es importante que le hables a tu supervisor sobre la situación para que puedan acordar los pasos a seguir.\n\n3️⃣ **Asegúrate de que los padres sepan que eres alguien que puede brindar ayuda.**\n\n🌷Los padres que participen en tus sesiones deben saber que pueden acudir a ti en busca de ayuda, independientemente de cuándo se haya llevado a cabo el abuso. \n\n👂Debes asegurarte de que saben que pueden confiar en ti y que vas a escuchar y apoyar sin juzgar ni hacer más daño.",
+    "text": "Es importante conocer las siguientes pautas para saber como identificar y tratar situaciones de abuso, negligencia y violencia como participantes del programa:\n\n1️⃣ **Conoce qué es el abuso, la negligencia y la explotación.**\n\n❗ **El abuso** se refiere a un acto deliberado de maltrato que puede dañar la seguridad, el bienestar, la dignidad y el desarrollo de un niño, niña o adolescente. El abuso incluye todas las formas de maltrato físico, sexual, psicológico y emocional. (Definición de Save the Children)\n\n❗ **La violencia** contra niñas, niños y adolescentes se define como formas de violencia física o mental, daños y abusos, negligencia o trato negligente o maltrato o explotación, incluido el abuso sexual. (Oficina del Alto Comisionado de las Naciones Unidas para los Derechos Humanos, 1990,\nArtículo 19)\n\n❗ **La explotación infantil** se refiere a la utilización de niñas y niños para algún beneficio económico o sexual, gratificación o lucro, y que resulta en un trato injusto, cruel y perjudicial para la niña o el niño. (Definición de Save the Children)\n\n2️⃣ **Conoce las políticas para salvaguardar los derechos de la infancia y los procedimientos de remisión o canalización de tu organización.**\n\n📖 Todas las organizaciones deben tener o desarrollar políticas para salvaguardar los derechos de la infancia, además de procedimientos de remisión o canalización que incluyan detalles sobre cómo responder adecuadamente cuando un cuidador, otros adultos, o una niña o niño revela un abuso. \n\n📝 Debes tener un conocimiento preciso de todos los protocolos y planes de acción. Éstos te indicarán qué hacer dentro de tu organización si un cuidador o una niña o niño denuncia un abuso (por ejemplo, a quién informar y recursos internos para birdarle apoyo a la niña o el niño), así como las pautas para recurrir a recursos externos (por ejemplo, vías locales para remitir o canalizar y cuándo recurrir a las autoridades). \n\n🔑 Actuar es tu responsabilidad, independientemente de si estás respondiendo a revelaciones de abusos pasados y/o presentes. Sin embargo, no es tu responsabilidad resolver la situación sin ayuda. Es importante que le hables a tu supervisor sobre la situación para que puedan acordar los pasos a seguir.\n\n3️⃣ **Asegúrate de que las madres, padres o personas cuidadoras sepan que eres alguien que puede brindar ayuda.**\n\n🌷Las madres, padres o personas cuidadoras que participen en tus sesiones deben saber que pueden acudir a ti en busca de ayuda, independientemente de cuándo se haya llevado a cabo el abuso. \n\n👂Debes asegurarte de que saben que pueden confiar en ti y que vas a escuchar y apoyar sin juzgar ni hacer más daño.",
     "type": "data_list",
     "note": ""
   },
@@ -553,7 +499,7 @@
   },
   {
     "SourceText": "**After disclosure:**\n\n❌ Avoid engaging with the alleged abuser – that may make things worse and make next steps difficult. It could also jeopardise future legal proceedings.\n\n🌷 You are not alone. Get help from your supervisor to agree on the next steps.",
-    "text": "**Después de la revelación:**\n\n❌ Evita relacionarte con el presunto agresor: eso puede empeorar las cosas y dificultar los siguientes pasos. También podría poner en peligro los futuros procedimientos judiciales.\n\n🌷 No tienes que hacer esto sin ayuda. Solicita el apoyo de tu supervisor y juntos acuerden los pasos a seguir.",
+    "text": "**Después de la revelación:**\n\n❌ Evita relacionarte con la o el presunto agresor: eso puede empeorar las cosas y dificultar los siguientes pasos. También podría poner en peligro los futuros procedimientos judiciales.\n\n🌷 No tienes que hacer esto sin ayuda. Solicita el apoyo de tu supervisor y juntos acuerden los pasos a seguir.",
     "type": "data_list",
     "note": ""
   },
@@ -565,7 +511,7 @@
   },
   {
     "SourceText": "✅ Follow your organisation’s protocol.\n\n📝 If your organisation needs assistance in developing or improving its policies and procedures, please refer to the following resources:\n\n**Mexican resources**\n1️⃣ [National Inter-institutional Coordination Protocol for the Protection of Girls, Boys and Adolescent Victims of Violence] (https://www.gob.mx/sipinna/documentos/protocolo-nacional-de-coordinacion-interinstitucional-para-la-proteccion-de-ninas-ninos-y-adolescentes-victimas-de-violencia) \n\n2️⃣ [National System for the Protection of Girls, Boys, and Adolescents](https://www.gob.mx/sipinna)\n\n3️⃣ [National Human Rights Commission of Mexico] (https://www.cndh.org.mx/pagina/tematicas-y-talleres) \n\n4️⃣Inter-ministerial Commission to prevent, punish and eradicate crimes related to trafficking in persons.\n(https://www.gob.mx/segob/acciones-y-programas/comision-intersecretarial-para-prevenir-sancionar-y-erradicar-los-delitos-en-materia-de-trata-de-personas)\n\n**International resources**\n1️⃣ [World Health Organization Guidelines Responding to Girls, Boys, and Adolescents who have Been Sexually Abused](https://iris.paho.org/handle/10665.2/52043) \n\n2️⃣ [Keeping Girls and Boys Safe](https://www.keepingchildrensafe.global/)\n\n3️⃣ [Caring for Child Survivors of Sexual Abuse](https://www.unicef.org/documents/caring-child-survivors-sexual-abuse) \n\n4️⃣ [Strengthening Linkages between Clinical and Social Services for Girls, Boys, and Adolescents who have Experienced Sexual Violence: A Companion Guide](https://www.togetherforgirls.org/en/resources/strengthening-linkages-between-clinical-and-social-community-services-for-children-and-adolescents-who-have-experienced-sexual-violence-a-companion-guide) \n\n5️⃣ [Together for Girls: Every Hour Matters](https://www.togetherforgirls.org/en/campaigns/every-hour-matters)",
-    "text": "✅ Sigue el protocolo de tu organización.\n\n📝 Si tu organización necesita ayuda para desarrollar o mejorar sus políticas y procedimientos, consulta los siguientes recursos:\n\n**Recursos mexicanos**\n1️⃣ [Protocolo Nacional de Coordinación Interinstitucional para la Protección de Niñas, Niños y Adolescentes Víctimas de Violencia] (https://www.gob.mx/sipinna/documentos/protocolo-nacional-de-coordinacion-interinstitucional-para-la-proteccion-de-ninas-ninos-y-adolescentes-victimas-de-violencia) \n\n2️⃣ [Sistema Nacional de Protección de Niñas, Niños y Adolescentes](https://www.gob.mx/sipinna)\n\n3️⃣ [Comisión Nacional de los Derechos Humanos de México] (https://www.cndh.org.mx/pagina/tematicas-y-talleres) \n\n4️⃣[Comisión Intersecretarial para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas]\n(https://www.gob.mx/segob/acciones-y-programas/comision-intersecretarial-para-prevenir-sancionar-y-erradicar-los-delitos-en-materia-de-trata-de-personas)\n\n**Recursos internacionales**\n1️⃣ [Directrices de la Organización Mundial de la Salud para responder a niñas, niños y adolescentes que han sufrido abusos sexuales](https://iris.paho.org/handle/10665.2/52043) \n\n2️⃣ [Keeping Girls and Boys Safe](https://www.keepingchildrensafe.global/)\n\n3️⃣ [Caring for Child Survivors of Sexual Abuse](https://www.unicef.org/documents/caring-child-survivors-sexual-abuse) \n\n4️⃣ [Strengthening Linkages between Clinical and Social Services for Girls, Boys, and Adolescents who have Experienced Sexual Violence: Guía complementaria](https://www.togetherforgirls.org/en/resources/strengthening-linkages-between-clinical-and-social-community-services-for-children-and-adolescents-who-have-experienced-sexual-violence-a-companion-guide) \n\n5️⃣ [Juntos por las niñas: cada hora es importante](https://www.togetherforgirls.org/en/campaigns/every-hour-matters)",
+    "text": "✅ Sigue el protocolo de tu organización.\n\n📝 Si tu organización necesita ayuda para desarrollar o mejorar sus políticas y procedimientos, consulta los siguientes recursos:\n\n**Recursos mexicanos**\n1️⃣ [Protocolo Nacional de Coordinación Interinstitucional para la Protección de Niñas, Niños y Adolescentes Víctimas de Violencia] (https://www.gob.mx/sipinna/documentos/protocolo-nacional-de-coordinacion-interinstitucional-para-la-proteccion-de-ninas-ninos-y-adolescentes-victimas-de-violencia) \n\n2️⃣ [Sistema Nacional de Protección de Niñas, Niños y Adolescentes](https://www.gob.mx/sipinna)\n\n3️⃣ [Comisión Nacional de los Derechos Humanos de México] (https://www.cndh.org.mx/pagina/tematicas-y-talleres) \n\n4️⃣[Comisión Intersecretarial para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas]\n(https://www.gob.mx/segob/acciones-y-programas/comision-intersecretarial-para-prevenir-sancionar-y-erradicar-los-delitos-en-materia-de-trata-de-personas)\n\n**Recursos internacionales**\n1️⃣ [Directrices de la Organización Mundial de la Salud para responder a niñas, niños y adolescentes que han sufrido abusos sexuales](https://iris.paho.org/handle/10665.2/52043) \n\n2️⃣ [Mantener seguros a las niñas y los niños](https://www.keepingchildrensafe.global/)\n\n3️⃣ [Atención a niñas y niños sobrevivientes de abuso sexual](https://www.unicef.org/documents/caring-child-survivors-sexual-abuse) \n\n4️⃣ [Fortalecimiento de los vínculos entre los servicios clínicos y sociales para niñas, niños y adolescentes que han sufrido violencia sexual:Guía complementaria](https://www.togetherforgirls.org/en/resources/strengthening-linkages-between-clinical-and-social-community-services-for-children-and-adolescents-who-have-experienced-sexual-violence-a-companion-guide) \n\n5️⃣ [Juntos por las niñas: cada hora es importante](https://www.togetherforgirls.org/en/campaigns/every-hour-matters)",
     "type": "data_list",
     "note": ""
   },
@@ -595,7 +541,7 @@
   },
   {
     "SourceText": "You can share any of the following contact numbers with the participant:\n\n1️⃣ Abuse, neglect, violence, poverty, and juvenile delinquency:\nFiscalía General de Justicia\n+911 (Call)\n+089 (Anonymous Call)\n\n\n2️⃣ Abuse of women, girls, and boys \nFiscalía General de Justicia\n+911 (Call)\n+089 (Anonymous Call)\n\n3️⃣ Emotional distress and suicidal thoughts:\nNational System of Support, Psychological Counselling and Crisis Intervention by Telephone\n55 5259-8121 (Call)\nLínea de la vida\n+800 911 2000 (Call)\nlalineadelavida@salud.gob.mx (Email)\n\n4️⃣ Cybersecurity incident\nPolicía Cibernética \n+5552425100 ext. 5086 (Call)\npolicia.cibernetica@ssc.cdmx.gob.mx (Email)",
-    "text": "Puedes compartir cualquiera de los siguientes contactos con el participante:\n\n1️⃣ Abuso, negligencia, violencia, pobreza y delincuencia juvenil:\nFiscalía General de Justicia\n+911 (Llamada)\n+089 (Llamada Anónima)\n\n\n2️⃣ Maltrato a mujeres, niñas y niños \nFiscalía General de Justicia\n+911 (Llamada)\n+089 (Llamada Anónima)\n\n3️⃣ Angustia emocional y pensamientos suicidas:\nSistema Nacional de Apoyo, Orientación Psicológica e Intervención en Crisis por Teléfono\n55 5259-8121 (Llamada)\nLínea de la Vida\n+800 911 2000 (Llamada)\nlalineadelavida@salud.gob.mx (Correo electrónico)\n\n4️⃣ Incidente de ciberseguridad\nPolicía Cibernética \n+5552425100 ext. 5086 (Llamada)\npolicia.cibernetica@ssc.cdmx.gob.mx (Correo electrónico)",
+    "text": "Puedes compartir cualquiera de los siguientes contactos con la o el participante:\n\n1️⃣ Abuso, negligencia, violencia, pobreza y delincuencia juvenil:\nFiscalía General de Justicia\n+911 (Llamada)\n+089 (Llamada Anónima)\n\n\n2️⃣ Maltrato a mujeres, niñas y niños \nFiscalía General de Justicia\n+911 (Llamada)\n+089 (Llamada Anónima)\n\n3️⃣ Angustia emocional y pensamientos suicidas:\nSistema Nacional de Apoyo, Orientación Psicológica e Intervención en Crisis por Teléfono\n55 5259-8121 (Llamada)\nLínea de la Vida\n+800 911 2000 (Llamada)\nlalineadelavida@salud.gob.mx (Correo electrónico)\n\n4️⃣ Incidente de ciberseguridad\nPolicía Cibernética \n+5552425100 ext. 5086 (Llamada)\npolicia.cibernetica@ssc.cdmx.gob.mx (Correo electrónico)",
     "type": "data_list",
     "note": "The following strings should not be translated:\nlalineadelavida@salud.gob.mx\npolicia.cibernetica@ssc.cdmx.gob.mx"
   },
@@ -619,13 +565,13 @@
   },
   {
     "SourceText": "After Onboarding Session",
-    "text": "Después de la Sesión de Integración",
+    "text": "Después de la Sesión de Introducción al programa",
     "type": "data_list",
     "note": ""
   },
   {
     "SourceText": "This chat session should happen on the same day or day after you complete the in-person onboarding session. As the first chat session, it offers a chance for parents to introduce themselves to the group.",
-    "text": "Esta sesión de chat debe llevarse a cabo el mismo día o al día siguiente de completar la sesión presencial de integración. Como será la primera sesión de chat, los participantes tendrán la oportunidad de presentarse ante el grupo.",
+    "text": "Esta sesión de chat debe llevarse a cabo el mismo día o al día siguiente de completar la sesión presencial de introducción. Como será la primera sesión de chat, los participantes tendrán la oportunidad de presentarse ante el grupo.",
     "type": "data_list",
     "note": ""
   },
@@ -637,7 +583,7 @@
   },
   {
     "SourceText": "Remember to add the ground rules to the WhatsApp Group Description. \r\r​​To add the ground rules to the Group Description, copy the following ground rules or use the ones agreed during the onboarding session: \r\r“To make this a safe space for everyone, here are some ground rules:\n \n✅ What is said in the group stays in the group. You need to know that this group is private.\n✅ Accept each other. Everyone is different and has different experiences.\n✅ Share only what you feel comfortable sharing. Avoid topics unrelated to the content of the workshop, advertisements or sales. \n✅ Feel free to ask questions! \n✅ Respect privacy of personal pictures and videos that are sent to the chat group. \n✅ I AM only here as an observer. I will not respond to questions about your parenting habits in this group or personally. However, if there is a message that will benefit the entire group, then I will share a general message here.”\n\nOpen the WhatsApp group chat. \r\rTap the group name. \r\rTap the existing description, or tap Add Group Description. \nPaste the ground rules. \r\rTap Save.",
-    "text": "Recuerda agregar las reglas generales a la Descripción del Grupo de WhatsApp. \r\rPara agregar las reglas generales a la Descripción del Grupo, copia las siguientes reglas o usa las que se acordaron durante la sesión de integración: \r\r\"Para que éste sea un espacio seguro para todos, aquí tenemos algunas reglas generales:\n \n✅ Lo que se dice en el grupo se queda en el grupo. Debes saber que este grupo es privado.\n✅ Acepta a los demás. Todo el mundo es diferente y tiene experiencias distintas.\n✅ Comparte sólo lo que te sientas cómodo compartiendo. Evita temas no relacionados con el contenido del taller, anuncios o ventas. \n✅ ¡Síentete libre de hacer todas las preguntas que quieras! \n✅ Respeta la privacidad en relación con las fotos y videos personales que se envíen al grupo de chat. \n✅ Sólo estoy aquí como observador. No responderé a preguntas sobre tus hábitos de crianza en este grupo ni de manera personal. Sin embargo, si tengo un mensaje que pueda beneficiar a todo el grupo, lo compartiré como mensaje general por aquí\".\n\nAbre el chat grupal de WhatsApp. \r\rPresiona el nombre del grupo. \r\rSelecciona la descripción existente, o presiona la frase Añadir descripción del grupo. \nPega las reglas generales. \r\rPresiona el botón de Guardar.",
+    "text": "Recuerda agregar las reglas generales a la Descripción del Grupo de WhatsApp. \r\rPara agregar las reglas generales a la Descripción del Grupo, copia las siguientes reglas o usa las que se acordaron durante la sesión de integración: \r\r\"Para que éste sea un espacio seguro para todas y todos, aquí tenemos algunas reglas generales:\n \n✅ Lo que se dice en el grupo se queda en el grupo. Debes saber que este grupo es privado.\n✅ Acepta a las y los demás. Todo el mundo es diferente y tiene experiencias distintas.\n✅ Comparte sólo lo que te sientas cómodo compartiendo. Evita temas no relacionados con el contenido del taller, anuncios o ventas. \n✅ ¡Síentete libre de hacer todas las preguntas que quieras relacionadas con el taller! \n✅ Respeta la privacidad en relación con las fotos y videos personales que se envíen al grupo de chat. \n✅ Sólo estoy aquí como observador. No responderé a preguntas sobre tus hábitos de crianza en este grupo ni de manera personal. Sin embargo, si tengo un mensaje que pueda beneficiar a todo el grupo, lo compartiré como mensaje general por aquí\".\n\nAbre el chat grupal de WhatsApp. \r\rPresiona el nombre del grupo. \r\rSelecciona la descripción existente, o presiona la frase Añadir descripción del grupo. \nPega las reglas generales. \r\rPresiona el botón de Guardar.",
     "type": "data_list",
     "note": ""
   },
@@ -649,25 +595,25 @@
   },
   {
     "SourceText": "😃 Hi there! Welcome to our Crianza con Conciencia+ WhatsApp Group! \n\nToday, we are introducing ourselves and our goals for the programme! ⭐ \n\nMy name is [INSERT NAME], and my goal is to learn more about how to help my girl go to bed by 8 every night.⏰🌙 \n\nPlease share your name and your goal for Crianza con Conciencia+ using text or audio message.",
-    "text": "😃 ¡Hola! ¡Te damos la bienvenida a nuestro Grupo de WhatsApp Crianza con Conciencia+! \n\n¡Hoy nos presentaremos y compartiremos nuestros objetivos para el programa! ⭐ \n\nMe llamo [INSERTAR NOMBRE], y mi objetivo es aprender más sobre cómo ayudar a mi niña a acostarse a las 8 todas las noches.⏰🌙 \n\nPor favor compártenos tu nombre y tu objetivo para Crianza con Conciencia+ con un mensaje de texto o de voz.",
+    "text": "😃 ¡Hola! ¡Te damos la bienvenida a nuestra Comunidad de WhatsApp Crianza con Conciencia+! \n\n¡Hoy nos presentaremos y compartiremos nuestros objetivos para el programa! ⭐ \n\nMe llamo [INSERTAR NOMBRE], y mi objetivo es aprender más sobre cómo ayudar a mi niña a acostarse a las 8 pm todas las noches.⏰🌙 \n\nPor favor compártenos tu nombre y tu objetivo para Crianza con Conciencia+ con un mensaje corto de texto o de voz.",
     "type": "data_list",
     "note": ""
   },
   {
     "SourceText": "Remember to fill in your name where it says [INSERT NAME] before sending your message. \n\nAllow some time for parents to share. Try to praise each response.\n\nFor example, you can say, “Thanks for the response, [Insert Name]!” or “Great goal, [Insert Name]”! You can also use simple emojis like 👍or 🙂",
-    "text": "Recuerda poner tu nombre donde dice [INSERTAR NOMBRE] antes de mandar tu mensaje. \n\nDeja un poco de tiempo para que los participantes envíen sus mensajes. Intenta darle reconocimiento a cada respuesta.\n\nPor ejemplo, puedes decir: \"¡Gracias por la respuesta, [INSERTAR NOMBRE]!\" o \"¡Ese es un buen objetivo, [INSERTAR NOMBRE]\"! También puedes usar emojis como 👍o 🙂",
+    "text": "Recuerda poner tu nombre donde dice [INSERTAR NOMBRE] antes de mandar tu mensaje. \n\nDeja un poco de tiempo para que las y los participantes envíen sus mensajes. Intenta darle reconocimiento a cada respuesta.\n\nPor ejemplo, puedes decir: \"¡Gracias por la respuesta, [INSERTAR NOMBRE]!\" o \"¡Ese es un buen objetivo, [INSERTAR NOMBRE]\"! También puedes usar emojis como 👍o 🙂",
     "type": "data_list",
     "note": ""
   },
   {
     "SourceText": "Message 2: Setting time to chat",
-    "text": "Mensaje 2: Acordar los tiempos para chatear",
+    "text": "Mensaje 2: Acordar los tiempos para chatear dentro de la comunidad",
     "type": "data_list",
     "note": ""
   },
   {
     "SourceText": "This week, we will catch up at [INSERT TIME] on [INSERT DAY] to chat about our Crianza con Conciencia+ journey. \n\n👋Please join to share how things are going. Every little step matters. Share what works when you practice, reflections about the topic, any challenges you experience, or just say hi! 😊\n\n⏰Does this time and day work for everyone?",
-    "text": "Esta semana, nos volveremos a reunir el [INSERTAR DÍA] a las [INSERTAR HORA] para ponernos al día y platicar sobre cómo va nuestra experiencia Crianza con Conciencia+. \n\n👋Únete para compartirnos cómo va todo. Cada paso es importante aunque sea pequeño. Nos puedes compartir lo que te funciona al hacer las actividades, reflexiones sobre el tema, cualquier reto que estés pasando, ¡o simplemente entra para saludar! 😊\n\n⏰¿Está bien el día y la hora para todos?",
+    "text": "Esta semana, nos volveremos a reunir el [INSERTAR DÍA] a las [INSERTAR HORA] para ponernos al día y platicar sobre cómo va nuestra experiencia en Crianza con Conciencia+. \n\n👋Únete para compartirnos cómo va todo. Cada paso es importante aunque sea pequeño. Nos puedes compartir lo que te funciona al hacer las actividades, reflexiones sobre el tema, cualquier reto que estés pasando, ¡o simplemente entra para saludar! 😊\n\n⏰¿Está bien el día y la hora propuesta para todas y todos?",
     "type": "data_list",
     "note": ""
   },
@@ -685,7 +631,7 @@
   },
   {
     "SourceText": "😃Thank you so much for being part of our WhatsApp chat group! \n\nAs your home practice, try to spend at least 5 minutes of one-on-one time with your girl, boy or teen each day. \n\nWe can share how it goes during our next chat session. \n\n👋See you later.",
-    "text": "😃¡Muchas gracias por formar parte de nuestro chat grupal de WhatsApp! \n\nComo ejercicio en casa, intenta pasar al menos 5 minutos de tiempo Uno a Uno con tu niño, niña o adolescente todos los días. \n\nLa próxima sesión de chat podemos compartir cómo nos fue. \n\n👋Nos vemos pronto.",
+    "text": "😃¡Muchas gracias por formar parte de nuestra Comunidad a través del grupo de WhatsApp! \n\nComo ejercicio en casa, intenta pasar al menos 5 minutos de tiempo Uno a Uno con tu niño, niña o adolescente todos los días. \n\nLa próxima sesión de chat podemos compartir cómo nos fue. \n\n👋Nos vemos pronto.",
     "type": "data_list",
     "note": ""
   },
@@ -715,7 +661,7 @@
   },
   {
     "SourceText": "💚Hello everyone! Our next chat session will be later today at [INSERT TIME]. Chat soon!",
-    "text": "💚¡Hola a todos! Nuestra próxima sesión de chat será hoy más tarde a las [INSERTAR HORA]. ¡Chateamos pronto!",
+    "text": "💚¡Hola a todos! Nuestra próxima sesión de chat en nuestra comunidad de WhatsApp será hoy más tarde a las [INSERTAR HORA]. ¡Nos vemos pronto!",
     "type": "data_list",
     "note": ""
   },
@@ -739,7 +685,7 @@
   },
   {
     "SourceText": "Allow time for parents to share how they are feeling. You should also share how you are feeling. For example, “Today, I'm at a 5 stress level, my teen has been sick for a few days but happy to be part of the chat today.”",
-    "text": "Da tiempo para que los participantes compartan cómo se sienten. Tú también compárteles cómo te sientes. Por ejemplo: \"Mi nivel de estrés de hoy es 5, mi adolescente ha estado enfermo unos días pero estoy feliz de poder participar en el chat de hoy con ustedes.\"",
+    "text": "Da tiempo para que las y los participantes compartan cómo se sienten. Tú también compárteles cómo te sientes. Por ejemplo: \"Mi nivel de estrés de hoy es 5, mi adolescente ha estado enfermo unos días pero estoy feliz de poder participar en el chat de hoy con ustedes.\"",
     "type": "data_list",
     "note": ""
   },
@@ -751,13 +697,13 @@
   },
   {
     "SourceText": "Thank you all for sharing your honest responses! 🎉\n💡 Today, we're going to practise a skill to manage stress: self-talk.\n🎤 Self-talk is the way we talk to ourselves in our head or out loud during stressful situations. It’s the things we say to ourselves out loud and the thoughts in our minds.\nIt's easy to be unkind to ourselves, especially when we're tired or upset.\nCan anyone share a time when they said something negative to themselves?",
-    "text": "¡Gracias a todos por ser sinceros y compartir sus respuestas! 🎉\n💡 Hoy vamos a practicar una habilidad para controlar el estrés: el diálogo interno.\n🎤 El diálogo interno es la forma en que nos hablamos a nosotros mismos en nuestra cabeza o en voz alta durante las situaciones estresantes. Son las cosas que nos decimos a nosotros mismos en voz alta y nuestros pensamientos.\nEs fácil ser crueles con nosotros mismos, sobre todo cuando estamos cansados o molestos.\n¿Alguien nos puede compartir un momento en el que se haya dicho algo negativo a sí mismo?",
+    "text": "¡Gracias a todas y todos por ser sinceros y compartir sus respuestas! 🎉\n💡 Hoy vamos a practicar una habilidad para controlar el estrés: la importancia de tener diálogos internos.\n🎤 El diálogo interno es la forma en que nos hablamos a nosotros mismos en nuestra cabeza o en voz alta durante las situaciones estresantes. Son las cosas que nos decimos a nosotros mismos en voz alta y nuestros pensamientos.\nEs fácil ser crueles con nosotros mismos, sobre todo cuando estamos cansados o molestos.\n¿Alguien nos puede compartir un momento en el que se haya dicho algo negativo a sí mismo?",
     "type": "data_list",
     "note": ""
   },
   {
     "SourceText": "Allow parents to respond. You can reply to the parents with an emoji ⭐ or words of encouragement, like “That is a good example! I am sure a lot of us have felt that way”.",
-    "text": "Permite que los participantes contesten. Puedes responderles con un emoji ⭐ o palabras de ánimo, como \"¡Ese es un buen ejemplo! Seguramente muchos de nosotros nos hemos sentido así\".",
+    "text": "Permite que las y los participantes contesten. Puedes responderles con un emoji ⭐ o palabras de ánimo, como \"¡Ese es un buen ejemplo! Seguramente muchos de nosotros nos hemos sentido así\".",
     "type": "data_list",
     "note": ""
   },
@@ -769,7 +715,7 @@
   },
   {
     "SourceText": "Thanks for sharing that example! \nParenting can be challenging. But you can reduce your overall stress when you think about what you’re doing well and speak kindly to yourself. \n\n1️⃣ The first step for practising self-talk is to notice when a negative thought comes.\n2️⃣Then, ask yourself: How can I change this thought into something kind or caring? You can: \n😃 Look for small parenting accomplishments or efforts. \n✅ Consider what you’ve learned from the negative situation. \n📝Come up with a few ways to help you act differently next time. Remember, this is temporary, and you have the chance to be better in the future.",
-    "text": "¡Gracias por compartir ese ejemplo! \nEstar a cargo de un ser humano puede ser un reto. Pero puedes reducir tu estrés en general si piensas en lo que haces bien y te hablas con amabilidad. \n\n1️⃣ El primer paso para practicar el diálogo interno es darte cuenta de cuándo tienes un pensamiento negativo.\n2️⃣Luego, pregúntate: ¿Cómo puedo cambiar este pensamiento por algo más amable o compasivo? Puedes: \n😃 Identificar tus esfuerzos o logros pequeños relacionados con la crianza. \n✅ Considerar lo que has aprendido de la situación negativa. \n📝Idear alguna forma que te ayude a actuar diferente para la próxima vez. Recuerda que esto es temporal y que tienes la oportunidad de ser mejor en el futuro.",
+    "text": "¡Gracias por compartir ese ejemplo! \nEstar a cargo de un ser humano puede ser un reto. Pero puedes reducir tu estrés en general si piensas en lo que haces bien y te hablas con amabilidad. \n\n1️⃣ El primer paso para practicar el diálogo interno es darte cuenta de cuándo tienes un pensamiento negativo.\n2️⃣Luego, pregúntate: ¿Cómo puedo cambiar este pensamiento por algo más amable o compasivo? Puedes: \n😃 Identificar tus esfuerzos o logros pequeños relacionados con la crianza. \n✅ Considerar lo que has aprendido de la situación negativa. \n📝Idear alguna forma que te ayude a actuar diferente para la próxima vez. Recuerda que esto es temporal y que todas y todos estamos aprendiendo en el camino. Siempre tienes la oportunidad de ser mejor en el futuro.",
     "type": "data_list",
     "note": ""
   },
@@ -781,13 +727,13 @@
   },
   {
     "SourceText": "📝 Let's notice negative self-talk when it happens, and turn it around. For example, \n**Negative Self-Talk:** \"I was a bad parent today. I yelled at my teen for an honest mistake.\"\n**Positive Self-Talk:** \"Today was tough because I've been overwhelmed. I yelled at my teen, knowing it was an honest mistake. Next time, I'll pause before responding, ensuring I'm calm and in control.\"\n💡 See how the positive self-talk is more supportive? 🏠 Now, your turn! Share a time you talked negatively to yourself, and let’s find and turn it into positive self-talk. Try doing this three times by the week’s end and feel the difference! \nHow parents talk to themselves teaches their kids how to talk to themselves. Girls, boys,  and teens learn from watching their parents.",
-    "text": "📝 Tenemos que estar atentos para poder identificar el diálogo interno negativo y darle la vuelta. Por ejemplo, \n**Diálogo Interno Negativo** \"Hoy estuve mal, no me sale esto de tener un adolescente. Le grité por un accidente.\"\n**Diálogo Interno Positivo** \"Hoy fue un día difícil y siento una sobrecarga. Le grité a mi adolescente sabiendo que fue un accidente. La próxima vez, haré una pausa antes de responder para asegurarme de que el ambiente esté tranquilo y de que tengo el control.\"\n💡 ¿Ves cómo el diálogo interno positivo es más comprensivo? 🏠 ¡Ahora te toca a ti! Comparte un momento en el que te hayas hablado negativamente a ti mismo, vamos a identificarlo y convertirlo en un diálogo interno positivo. Intenta hacer esto tres veces antes de que acabe la semana, y ¡siente la diferencia! \nLa forma en que te hablas a ti mismo le modela a tus niños, niñas y adolescentes cómo deben hablarse a sí mismos. Ellos y ellas aprenden observando a sus padres y cuidadores.",
+    "text": "📝 Tenemos que estar atentos para poder identificar el diálogo interno negativo y darle la vuelta. Por ejemplo, \n**Diálogo Interno Negativo** \"Hoy estuve mal, no soy bueno conviviendo con mi adolescente. Le grité por un accidente.\"\n**Diálogo Interno Positivo** \"Hoy fue un día difícil y siento una sobrecarga. Le grité a mi adolescente sabiendo que fue un accidente. La próxima vez, haré una pausa antes de responder para asegurarme de que el ambiente esté tranquilo y de que tengo el control.\"\n💡 ¿Ves cómo el diálogo interno positivo es más comprensivo? 🏠 ¡Ahora te toca a ti! Comparte un momento en el que te hayas hablado negativamente a ti mismo, vamos a identificarlo y convertirlo en un diálogo interno positivo. Intenta hacer esto tres veces antes de que acabe la semana, y ¡siente la diferencia! \nLa forma en que te hablas a ti mismo le modela a tus niños, niñas y adolescentes cómo deben hablarse a sí mismos. Ellos y ellas aprenden observando a sus madres, padres y cuidadores.",
     "type": "data_list",
     "note": ""
   },
   {
     "SourceText": "Briefly read the participants’ responses and make sure they are not insulting themselves and generally follow the example above. Any instances of intent of self-harm or harm to girls and boys should be reported appropriately.",
-    "text": "Brevemente, lee las respuestas de los participantes y asegúrate de que no se insulten a sí mismos y que, a grandes rasgos, sigan el ejemplo anterior. Cualquier caso en donde se manifieste un intento de autolesión o daño hacia niñas y niños debe reportarse mediantes los canales apropiados.",
+    "text": "Brevemente, lee las respuestas de las y los participantes y asegúrate de que no se insulten a sí mismos y que, a grandes rasgos, sigan el ejemplo anterior. Cualquier caso en donde se manifieste un intento de autolesión o daño hacia niñas y niños debe reportarse mediantes los canales apropiados.",
     "type": "data_list",
     "note": ""
   },
@@ -841,7 +787,7 @@
   },
   {
     "SourceText": "Ground rules make your WhatsApp Support Group a safe space for everyone. \n\nIf someone forgets the ground rules, send the message below to remind them of their importance gently. \n\nIf necessary, share a group reminder about the importance of maintaining a positive and respectful space. \n\nIf, despite reminders, the parent continues not to follow the rules, notify your supervisor. \n\nYou can remove the parent from the group as the last option, done only when you feel it is necessary. For example, if a member repeatedly (more than twice) shares unrelated content, uses inappropriate language, or disrespects another member. \n\nIf you do remove someone from the group, it should be handled with sensitivity and respect. Make sure you talk privately with the parent, remind the group about ground rules, and notify your supervisor.",
-    "text": "Las reglas generales hacen que tu Grupo de Apoyo de WhatsApp sea un espacio seguro para todos. \n\nSi alguien olvida las reglas, manda el siguiente mensaje para recordarle, sutilmente, la importancia de seguirlas. \n\nSi es necesario, comparte un recordatorio grupal sobre la importancia de mantener un espacio positivo y respetuoso. \n\nSi, a pesar de los recordatorios, el participante sigue sin acatar las reglas, notifícaselo a tu supervisor. \n\nComo última opción, puedes sacar al participante del grupo. Solamente debes hacer esto cuando sea absolutamente necesario. Por ejemplo, si un miembro comparte repetidamente (más de dos veces) contenido no relacionado, usa lenguaje inapropiado o le falta al respeto a otro miembro del grupo. \n\nSi sacas a alguien del grupo, debes hacerlo con sensibilidad y respeto. Asegúrate de tener una conversación en privado con el participante, recuérdale al grupo cuáles son las reglas generales y notifícaselo a tu supervisor.",
+    "text": "Las reglas generales hacen que tu Comunidad de WhatsApp sea un espacio seguro para todas y todos. \n\nSi alguien olvida las reglas, manda el siguiente mensaje para recordarle, sutilmente, la importancia de seguirlas. \n\nSi es necesario, comparte un recordatorio grupal sobre la importancia de mantener un espacio positivo y respetuoso. \n\nSi, a pesar de los recordatorios, el participante sigue sin acatar las reglas, notifícaselo a tu supervisor. \n\nComo última opción, puedes sacar al participante del grupo. Solamente debes hacer esto cuando sea absolutamente necesario. Por ejemplo, si un miembro comparte repetidamente (más de dos veces) contenido no relacionado, usa lenguaje inapropiado o le falta al respeto a otro miembro del grupo. \n\nSi sacas a alguien del grupo, debes hacerlo con sensibilidad y respeto. Asegúrate de tener una conversación en privado con el participante, recuérdale al grupo cuáles son las reglas generales y notifícaselo a tu supervisor.",
     "type": "data_list",
     "note": ""
   },
@@ -853,7 +799,7 @@
   },
   {
     "SourceText": "Hello ⭐\n\n👀 I'd like to take a moment to remind everyone about the importance of our group's ground rules. \n\n💚They're here to ensure that all of us feel comfortable sharing and maintain a positive environment. \n\n🌱It's all about making this group a great place for everyone.\n\n❗Please keep in mind that if the ground rules aren't consistently followed, we might need to consider removing members from the WhatsApp group for the well-being of all.\n\nSee you in the next chat session.",
-    "text": "Hola ⭐\n\n👀 Me gustaría dedicar un momento para recordarles a todos la importancia de conocer y seguir las reglas generals de nuestro grupo. \n\n💚 Están diseñadas para mantener un ambiente positivo y garantizar que todos nos sintamos cómodos compartiendo nuestras historias y pensamientos. \n\n🌱La idea es que este grupo sea un buen lugar para todos.\n\n❗Por favor tengan en cuenta que si no se apegan a las reglas generales, puede que tengamos que considerar la eliminación de miembros del grupo de WhatsApp por el bienestar de todos.\n\nNos vemos en la próxima sesión de chat.",
+    "text": "Hola querida comunidad⭐\n\n👀 Me gustaría dedicar un momento para recordarles a todas y todos la importancia de conocer y seguir las reglas generales de nuestro grupo. \n\n💚 Están diseñadas para mantener un ambiente positivo y garantizar que todas y todos nos sintamos cómodos compartiendo nuestras historias y pensamientos. \n\n🌱La idea es que este grupo sea un buen lugar para todos.\n\n❗Por favor tengan en cuenta que si no se apegan a las reglas generales, puede que tengamos que considerar la eliminación de miembros del grupo de WhatsApp por el bienestar de todas y todos.\n\nNos vemos en la próxima sesión de chat.",
     "type": "data_list",
     "note": ""
   },
@@ -877,7 +823,7 @@
   },
   {
     "SourceText": "Hello ⭐\n\n👀 I have noticed despite reminders, the ground rules aren't being followed.\n\n💚You can continue learning from Crianza con Conciencia+, but unfortunately I have removed you from the WhatsApp group to maintain a positive environment for everyone.",
-    "text": "Hola ⭐\n\n👀 Me he dado cuenta de que, a pesar de los recordatorios, no se están siguiendo las reglas generales.\n\n💚Puedes seguir aprendiendo de Crianza con Conciencia+, pero, lamentablemente, te he sacado del grupo de WhatsApp con el fin de mantener un ambiente positivo para todos.",
+    "text": "Hola ⭐\n\n👀 Me he dado cuenta de que, a pesar de los recordatorios, no se están siguiendo las reglas generales.\n\n💚Puedes seguir aprendiendo de Crianza con Conciencia+ a través del chat automatizado, pero, lamentablemente, te he sacado de la Comunidad de WhatsApp con el fin de mantener un ambiente positivo para todas y todos.",
     "type": "data_list",
     "note": ""
   },
@@ -895,7 +841,7 @@
   },
   {
     "SourceText": "Hello Everyone ⭐,\n\n👀 We want our group to be positive for everyone, and that means following the rules.\n\n💚 Unfortunately, someone had to be removed because they weren't following the rules despite reminders.\n\nLet's keep things respectful and supportive.\r\rSee you in the next chat session!",
-    "text": "Hola a todos ⭐,\n\n👀 Queremos que nuestro grupo sea positivo para todos y eso significa que debemos seguir las reglas.\n\n💚 Desafortunadamente, alguien tuvo que ser eliminado porque no seguía las reglas a pesar de los recordatorios.\n\nMantengamos el respeto y el ambiente de colaboración.\r\r¡Nos vemos en la próxima sesión de chat!",
+    "text": "Hola querida comunidad⭐,\n\n👀 Queremos que nuestro grupo sea positivo para todas y todos y eso significa que debemos seguir las reglas.\n\n💚 Desafortunadamente, alguien tuvo que ser eliminado porque no seguía las reglas a pesar de los recordatorios.\n\nMantengamos el respeto y el ambiente de colaboración.\r\r¡Nos vemos en la próxima sesión de chat!",
     "type": "data_list",
     "note": ""
   },
@@ -925,13 +871,13 @@
   },
   {
     "SourceText": "Only a small group of parents are actively participating in the chat sessions, while other parents are not responding.",
-    "text": "Solo algunos padres, madres y cuidadores participan activamente en las sesiones de chat mientras que otros no responden.",
+    "text": "Solo algunos padres, madres y personas cuidadoras participan activamente en las sesiones de chat mientras que otros no responden.",
     "type": "data_list",
     "note": ""
   },
   {
     "SourceText": "Getting everyone to join in the chat sessions can be a bit challenging. Some parents might be busy, shy, or just prefer to read about other’s experiences. \r\rHere are some helpful tips to encourage participation: \r\r1. Directly ask a question to someone by typing @parent name on WhatsApp. \n\n2. Share one of the messages below with the entire group. \n\n3. Consider sending a private message to a parent (see the message below).",
-    "text": "Lograr que todos participen en las sesiones de chat puede ser un poco difícil. Algunos participantes pueden estar ocupados, ser tímidos o simplemente preferir leer las experiencias de otros. \r\rAquí tienes algunos consejos que pueden ser útiles para fomentar la participación: \r\r1. Haz una pregunta directa para alguien del grupo escribiendo @nombredelparticipante en WhatsApp. \n\n2. Comparte uno de los siguientes mensajes con todo el grupo. \n\n3. Considera la posibilidad de mandar mensajes privados (consulta el mensaje de abajo).",
+    "text": "Lograr que todas y todos participen en las sesiones de chat puede ser un poco difícil. Algunos participantes pueden estar ocupados, ser tímidos o simplemente preferir leer las experiencias de otras personas. \r\rAquí tienes algunos consejos que pueden ser útiles para fomentar la participación: \r\r1. Haz una pregunta directa para alguien del grupo escribiendo @nombredelparticipante en WhatsApp. \n\n2. Comparte uno de los siguientes mensajes con todo el grupo. \n\n3. Considera la posibilidad de mandar mensajes privados (consulta el mensaje de abajo).",
     "type": "data_list",
     "note": "The string @parent should not be translated."
   },
@@ -943,7 +889,7 @@
   },
   {
     "SourceText": "🔔 Quick Reminder:\n\nWe all benefit when everyone joins in! Your experiences are important. Share your thoughts, and let's keep this group lively and supportive for everyone. 🌷",
-    "text": "🔔 Breve Recordatorio:\n\n¡Todos nos beneficiamos cuando cada uno de nosotros se une a la conversación! Tus experiencias son importantes. Comparte tus pensamientos para mantener al grupo animado y que sea un apoyo para todos. 🌷",
+    "text": "🔔 Breve Recordatorio:\n\n¡Todas y todos nos beneficiamos cuando cada uno de nosotros se une a la conversación! Tus experiencias son importantes. Comparte tus pensamientos para mantener nuestra comunidad motivada y que sea un espacio de apoyo que nos ayude a mejorar día con día. 🌷",
     "type": "data_list",
     "note": ""
   },
@@ -955,7 +901,7 @@
   },
   {
     "SourceText": "Big shoutout to those actively participating! \n\n🌟 Your experiences matter. \n\nWe'd love to hear from you if you haven't shared yet. \n\nEvery parent is important! 💚",
-    "text": "¡Agradezco la atención y el esfuerzo de los que están participando activamente! \n\n🌟 Sus experiencias importan. \n\nSi todavía no has compartido con nosotros, nos encantaría escucharte. \n\n¡Cada padre, madre y cuidador es importante! 💚",
+    "text": "¡Agradezco la atención y el esfuerzo de los que están participando activamente! \n\n🌟 Sus experiencias importan. \n\nSi todavía no has compartido con nosotros, nos encantaría escucharte. \n\n¡Cada padre, madre y cuidador es importante en este espacio! 💚",
     "type": "data_list",
     "note": ""
   },
@@ -967,7 +913,7 @@
   },
   {
     "SourceText": "Just a friendly reminder: This group is a safe space for sharing and learning. 💙\n\nWe encourage everyone to participate and make this a positive experience for all. 🌱\n\nLet's build a supportive community together! 🌷",
-    "text": "Solo un pequeño recordatorio: Este grupo es un espacio seguro para compartir y aprender. 💙\n\nAnimamos a cada uno de ustedes a participar y a hacer de esto una experiencia positiva para todos. 🌱\n\n¡Construyamos juntos una comunidad solidaria! 🌷",
+    "text": "Solo un pequeño recordatorio: Este grupo es un espacio seguro para compartir y aprender. 💙\n\nInvitamos a cada uno de ustedes a participar y a hacer de esto una experiencia positiva para todas y todos. 🌱\n\n¡Construyamos juntos una comunidad solidaria! 🌷",
     "type": "data_list",
     "note": ""
   },
@@ -985,7 +931,7 @@
   },
   {
     "SourceText": "Parents not comfortable sharing",
-    "text": "Los participantes no se sienten cómodos compartiendo",
+    "text": "Las y los participantes no se sienten cómodos compartiendo",
     "type": "data_list",
     "note": ""
   },
@@ -997,31 +943,31 @@
   },
   {
     "SourceText": "Participants share that the programme was not helpful or that they are still struggling",
-    "text": "Los participantes comentan que el programa no les ha servido o que siguen teniendo problemas",
+    "text": "Las y los participantes comentan que el programa no les ha servido o que siguen teniendo problemas",
     "type": "data_list",
     "note": ""
   },
   {
     "SourceText": "Every family is different, and some parents may need more help than others.\n\nConsider sending the message below if a parent is still struggling or needs more support.",
-    "text": "Cada familia es diferente y algunos padres, madres o cuidadores pueden necesitar más ayuda que otros.\n\nConsidera la posibilidad de mandar el siguiente mensaje si alguien expresa que sigue teniendo dificultades o que necesita más apoyo.",
+    "text": "Cada familia es diferente y algunos padres, madres o personas cuidadoras pueden necesitar más ayuda que otros.\n\nConsidera la posibilidad de mandar el siguiente mensaje si alguien expresa que sigue teniendo dificultades o que necesita más apoyo.",
     "type": "data_list",
     "note": ""
   },
   {
     "SourceText": "Hello 👋\n\nThank you for sharing your thoughts about the programme. I’m sorry that you’re facing challenges. Here are a couple of things you can try: \n\n1️⃣If there’s a lesson that you are finding difficult, remember you can always go back to it by typing MENU. Practice makes perfect! ✨\n\n2️⃣If you feel comfortable, please feel free to chat about the areas you’re finding tough with your peers in the WhatsApp Support Group. Your peers might have some helpful tips 👍\n\n3️⃣If you are facing a severe situation, please type HELP to access a list of resources. \n\nRemember, everyone’s learning journey is unique, and change takes time. But trust me, if you keep practising the skills you’ve learned, you’ll start to see progress. 🏅",
-    "text": "Hola 👋\n\nGracias por compartir tu opinión sobre el programa. Lamento escuchar que te estás enfrentando a algunas dificultades. Aquí tienes un par de cosas que puedes intentar: \n\n1️⃣Si estás teniendo dificultades con uno de los temas de las sesiones pasadas, recuerda que siempre puedes volver a ella al mandar la palabra MENÚ. ¡La práctica hace al maestro! ✨\n\n2️⃣Si te sientes cómodo compartiendo la situación con tus compañeros del chat, puedes mandar un mensaje al Grupo de Apoyo de WhatsApp. Puede que tus compañeros te den algunos consejos útiles 👍\n\n3️⃣Si estás pasando por una situación grave, escribe AYUDA para tener acceso a una lista de recursos. \n\nRecuerda, la trayectoria de aprendizaje de cada persona es única y el cambio lleva su tiempo. Pero créeme, si sigues practicando las habilidades que has aprendido, empezarás a ver cambios. 🏅",
+    "text": "Hola 👋\n\nGracias por compartir tu opinión sobre el programa. Lamento escuchar que te estás enfrentando a algunas dificultades. Aquí tienes un par de cosas que puedes intentar: \n\n1️⃣Si estás teniendo dificultades con uno de los temas de las sesiones pasadas, recuerda que siempre puedes volver a ella al mandar la palabra MENÚ. Recuerda, ¡La práctica hace al maestro! ✨\n\n2️⃣Si te sientes cómodo compartiendo la situación con tus compañeros del chat, puedes mandar un mensaje a la Comunidad de WhatsApp. Puede que ahí te den algunos consejos útiles 👍\n\n3️⃣Si estás pasando por una situación grave, escribe AYUDA para tener acceso a una lista de recursos. \n\nRecuerda, la trayectoria de aprendizaje de cada persona es única y el cambio lleva su tiempo. Pero créeme, si sigues practicando las habilidades que has aprendido, empezarás a ver cambios. 🏅",
     "type": "data_list",
     "note": ""
   },
   {
     "SourceText": "Parents are feeling concerned, stressed or sad as the programme comes to an end.",
-    "text": "Los participantes se sienten preocupados, estresados o tristes al llegar al final del programa.",
+    "text": "Las y los participantes se sienten preocupados, estresados o tristes al llegar al final del programa.",
     "type": "data_list",
     "note": ""
   },
   {
     "SourceText": "It is normal for parents to feel sad or emotional when the programme ends, and you leave the group. This means that parents found the chat sessions helpful and enjoyed participating. What a gift you have given them! Congratulations! \n\nTo support them with this transition, consider sending the message below.",
-    "text": "Es normal que los padres, madres y cuidadores se sientan tristes o estén sensibles al terminar el programa o cuando tú te despides del grupo. Esto significa que las sesiones de chat les gustaron, les fueron útiles y disfrutaron participar. ¡Les has dado un gran regalo! ¡Felicidades! \n\nPara ayudarles en esta transición, considera la posibilidad de mandar el siguiente mensaje.",
+    "text": "Es normal que los padres, madres y personas cuidadora s se sientan tristes o estén sensibles al terminar el programa o cuando tú te despides del grupo. Esto significa que las sesiones de chat les gustaron, les fueron útiles y disfrutaron participar. ¡Les has dado un gran regalo! ¡Felicidades! ✨\n\nPara ayudarles en esta transición, considera la posibilidad de mandar el siguiente mensaje.",
     "type": "data_list",
     "note": ""
   },
@@ -1033,7 +979,7 @@
   },
   {
     "SourceText": "Hello 👋\n\nThank you for sharing your feelings. \nIt’s okay to have fears or feel sad when something you’ve been a part of is ending. \n\nRemember, \n\n1️⃣Even though Crianza con Conciencia+ is ending, your journey can continue. You have gained some ⭐amazing ⭐parenting skills that you can carry with you. \n\n2️⃣The WhatsApp group can be a source of support well beyond the programme. Keep sharing your successes and struggles in the WhatsApp Group or with your peers. \n\n3️⃣If you ever want to go back to any lesson, you can type MENU. Practice makes perfect ✨\n\n4️⃣ You can type HELP to look for other resources that are available for you. \n\nYou did great throughout the Crianza con Conciencia+ journey!",
-    "text": "Hola 👋\n\nGracias por compartir cómo te sientes. \nEstá bien tener angustia o sentir tristeza cuando se acaba un ciclo o cuando se separa un grupo del que formabas parte. \n\nRecuerda, \n\n1️⃣Aunque Crianza con Conciencia+ esté por terminar, tu aventura puede continuar. Has adquirido habilidades para la crianza ⭐maravillosas⭐ que puedes llevar contigo. \n\n2️⃣El grupo de WhatsApp puede ser una fuente de apoyo que va más allá del programa. Sigue compartiendo tus éxitos y tus retos en el Grupo de WhatsApp o con tus compañeros. \n\n3️⃣Si alguna vez quieres volver a repasar alguna sesión, puedes mandar la palabra MENÚ. Recuerda que la práctica hace al maestro ✨\n\n4️⃣ Además, puedes mandar la palabra AYUDA para buscar otros recursos que están disponibles para ti. \n\n¡Tu recorrido a través de Crianza con Conciencia+ fue todo un éxito!",
+    "text": "Hola querida comunidad👋\n\nGracias por compartir cómo te sientes. \nEstá bien tener angustia o sentir tristeza cuando se acaba un ciclo o cuando se separa un grupo del que formabas parte. \n\nRecuerda, \n\n1️⃣Aunque Crianza con Conciencia+ esté por terminar, tu aventura puede continuar. Has adquirido habilidades para la crianza ⭐maravillosas⭐ que puedes llevar contigo. \n\n2️⃣El grupo de WhatsApp puede ser una fuente de apoyo que va más allá del programa. Sigue compartiendo tus éxitos y tus retos en la Comunidad de WhatsApp o con tus compañeros. \n\n3️⃣Si alguna vez quieres volver a repasar alguna sesión, puedes mandar la palabra MENÚ. Recuerda que la práctica hace al maestro ✨\n\n4️⃣ Además, puedes mandar la palabra AYUDA para buscar otros recursos que están disponibles para ti. \n\n¡Tu recorrido a través de Crianza con Conciencia+ fue todo un éxito!💙",
     "type": "data_list",
     "note": ""
   },
@@ -1075,103 +1021,19 @@
   },
   {
     "SourceText": "Hello Parents, 👋\n\n⏱️I value your time and want to ensure our chat is convenient for everyone. \n\n⭐Does this time work well for our conversations? \n\n🔔Is there another time that works for you? \n\nYour input matters!",
-    "text": "Hola, 👋\n\n⏱️Valoro su tiempo y quiero asegurarme de que el horario para nuestro chat es conveniente para todos. \n\n⭐¿Esta hora les parece bien para tener nuestras sesiones? \n\n🔔¿Hay alguna otra hora que te convenga más? \n\n¡Tu opinión es importante!",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Overview of the Crianza con Conciencia+ Programme",
-    "text": "Descripción General del Programa Crianza con Conciencia+",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Welcome to the Crianza con Conciencia+ Positive Parenting Programme! \n\nThank you for your commitment and dedication to supporting girls, boys, teens and families in your community. \nYou are a shining star!",
-    "text": "¡Te damos la bienvenida al Programa de Crianza Positiva Crianza con Conciencia+! \n\nGracias por tu compromiso y dedicación para apoyar tanto a niñas, niños y adolescentes, como a las familias de tu comunidad. \n¡Eres una superestrella!",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Welcome",
-    "text": "Te damos la bienvenida",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "What’s inside the Facilitator Guide?",
-    "text": "¿Qué contiene la Guía del Facilitador?",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "This guide is for YOU!! \nA comprehensive guide to help you deliver Crianza con Conciencia+ to families around you. \nSteps on how to introduce caregivers to the programme and support them\nSpecific information on the programme’s content.",
-    "text": "¡Esta guía es para TI! \nEs una guía exhaustiva para ayudarte a llevar el programa de Crianza con Conciencia+ a las familias de tu comunidad. \nPasos para saber cómo presentarles el programa a los padres, madres y cuidadores y brindarles apoyo\nInformación específica sobre el contenido del programa.",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "What to remember?",
-    "text": "¿Qué debes recordar?",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "It is important to follow this manual as closely as possible. However, manuals are only a guide to support you after what you have learned in the training workshop. \nWhat you deliver – the content of the manual – is only 20% of the programme. The rest 80%? It’s all about HOW you facilitate the programme and behave towards the parents.",
-    "text": "Es importante que te apegues a este manual lo más que puedas. Sin embargo, los manuales sólo son una guía para ayudarte a recordar lo que ya aprendiste en el taller de formación. \nLo que impartes -el contenido del manual- es sólo el 20% del programa. ¿El 80% restante? Es CÓMO facilitas el programa y la manaera en que te comportas con los padres, madres y cuidadores.",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Skills you need",
-    "text": "Habilidades requeridas",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "The core skills of a good facilitator are a mirror for parents to learn how to bring about the change we want to see in parents and the community. These include understanding stages of child development, praising and encouraging parents, using active listening skills, being consistent and compassionate, exploring problems, and finding solutions together.",
-    "text": "Las habilidades básicas de un buen facilitador son como un espejo para que los padres, madres y cuidadores aprendan a sembrar las semillas del cambio que queremos ver en los demás padres, madres y cuidadores y en nuestra comunidad. Éstas incluyen comprender las etapas del desarrollo infantil, reconocer y animar a los participantes del programa, implementar la escucha activa, ser coherentes y compasivos, explorar los problemas y encontrar soluciones juntos.",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "⭐Remember",
-    "text": "⭐Recuerda",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Just as we say to the parents, “It is what you do at home that makes the difference,” the same thing applies to you: “It is how you interact with the parents in your group that makes the difference.” \n\nIf you take the time to deliver a session before it begins, you will be more confident. If there is anything that you cannot remember or feel unsure of, contact another facilitator to practise with. \n\nAccess the Facilitator Guide for your group by clicking on the icon above.",
-    "text": "Así como les decimos a los padres, madres y cuidadores: \"Lo que haces en casa es lo que hace la diferencia\", lo mismo aplica para ti: \"Tu forma de interactuar con los padres, madres y cuidadores de tu grupo es lo que hará la diferencia\". \n\nSi te tomas el tiempo de revisar y practicar una sesión antes de que empiece, tendrás más confianza al impartirla. Si hay algo que no recuerdes o que no sepas con certeza, ponte en contacto con otro facilitador para que puedan practicar. \n\nPuedes revisar la Guía del Facilitador para tu grupo haciendo clic en el icono de arriba.",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Overview Guide",
-    "text": "Guía General",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Related information",
-    "text": "Información Relacionada",
+    "text": "Hola, 👋\n\n⏱️Valoro su tiempo y quiero asegurarme de que el horario para nuestro chat es conveniente para todas y todos. \n\n⭐¿Esta hora les parece bien para tener nuestras sesiones? \n\n🔔¿Hay alguna otra hora que te convenga más? \n\n¡Tu opinión es importante!",
     "type": "data_list",
     "note": ""
   },
   {
     "SourceText": "Guide for In-Person Onboarding",
-    "text": "Guía para la Sesión de Integración Presencial",
+    "text": "Guía para la Sesión de Introducción en formato Presencial",
     "type": "data_list",
     "note": ""
   },
   {
     "SourceText": "The Onboarding Session sets the tone for the entire Crianza con Conciencia+ programme. It is important to create a welcoming and safe space for the participants to feel at ease and familiarise themselves with the programme.",
-    "text": "La Sesión de Integración sienta las bases del programa Crianza con Conciencia+. Es importante crear un espacio acogedor y seguro para que los participantes se sientan tranquilos y se familiaricen con el programa.",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Onboarding Guide",
-    "text": "Guía para la Sesión de Integración",
+    "text": "La Sesión de Introducción sienta las bases del programa Crianza con Conciencia+. Es importante crear un espacio acogedor y seguro para que las y los participantes se sientan tranquilos y se familiaricen con el programa.",
     "type": "data_list",
     "note": ""
   },
@@ -1183,7 +1045,7 @@
   },
   {
     "SourceText": "The Crianza con Conciencia+ programme includes WhatsApp Groups with parents with pre-scripted messages that you share from Formando Conciencia+\n\nThe aim of this group is to provide parents with extra support during their Crianza con Conciencia+ journey.",
-    "text": "El programa Crianza con Conciencia+ incluye Grupos de WhatsApp con los padres, madres y cuidadores en donde reciben mensajes preestablecidos que se pueden compartir desde Formando Conciencia+\n\nEl objetivo de este grupo es proporcionarle a padres, madres y cuidadores un apoyo adicional durante su recorrido en Crianza con Conciencia+.",
+    "text": "El programa Crianza con Conciencia+ incluye Grupos de WhatsApp con los padres, madres y cuidadores en donde reciben mensajes preestablecidos que se pueden compartir desde tu aplicación, Formando Conciencia+.\n\nEl objetivo de este grupo es proporcionarle a padres, madres y cuidadores un apoyo adicional y el sentido de comunidad durante su recorrido en por los contenidos de Crianza con Conciencia+.",
     "type": "data_list",
     "note": ""
   },
@@ -1704,12 +1566,6 @@
     "note": ""
   },
   {
-    "SourceText": "your supervisor",
-    "text": "tu supervisor",
-    "type": "global",
-    "note": ""
-  },
-  {
     "SourceText": "14 December 2023",
     "text": "14 de diciembre de 2023",
     "type": "global",
@@ -1766,6 +1622,12 @@
   {
     "SourceText": "Your state",
     "text": "Tu estado",
+    "type": "global",
+    "note": ""
+  },
+  {
+    "SourceText": "your supervisor",
+    "text": "tu supervisor",
     "type": "global",
     "note": ""
   },
@@ -2060,12 +1922,6 @@
   {
     "SourceText": "Sync now",
     "text": "Sincronizar ahora",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "text",
-    "text": "texto",
     "type": "template",
     "note": ""
   },
