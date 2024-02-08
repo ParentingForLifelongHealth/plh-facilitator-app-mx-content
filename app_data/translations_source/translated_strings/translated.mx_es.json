@@ -300,6 +300,12 @@
     "note": ""
   },
   {
+    "SourceText": "@global.app_name is an app designed by IDEMS International and Parenting for Lifelong Health to support the scale up of Crianza con Conciencia+ in Mexico. The content herein is available under an open source Creative Commons International 4.0 license. It was developed in collaboration with key partners:",
+    "text": "@global.app_name es una aplicación diseñada por IDEMS Internacional y Parenting for Lifelong Health para apoyar la ampliación de Crianza con Concienca+ en México. Su contenido está disponible bajo una licencia Creative Commons Internacional 4.0 de código abierto. Se desarrolló en colaboración con socios clave:",
+    "type": "data_list",
+    "note": "The string @global.app_name should not be translated."
+  },
+  {
     "SourceText": "Attendance",
     "text": "Asistencia",
     "type": "data_list",
@@ -372,6 +378,12 @@
     "note": ""
   },
   {
+    "SourceText": "Facilitator Manual",
+    "text": "Manual del Facilitador",
+    "type": "data_list",
+    "note": ""
+  },
+  {
     "SourceText": "About you",
     "text": "Sobre Ti",
     "type": "data_list",
@@ -438,8 +450,26 @@
     "note": ""
   },
   {
+    "SourceText": "Getting to know each other",
+    "text": "Conociéndonos",
+    "type": "data_list",
+    "note": ""
+  },
+  {
     "SourceText": "Overview of Crianza con Conciencia+ programme",
     "text": "Repaso General del Programa Crianza con Conciencia+",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Getting Started with Crianza con Conciencia+ chatbot",
+    "text": "Empezando con el programa Crianza con Conciencia+ chat automatizado",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Introduction to Phone Use",
+    "text": "Introducción al uso del teléfono",
     "type": "data_list",
     "note": ""
   },
@@ -462,8 +492,32 @@
     "note": ""
   },
   {
+    "SourceText": "Setting up Ground Rules",
+    "text": "Establecer Reglas Generales",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Facilitator’s Role",
+    "text": "Rol del Facilitador",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Questions",
+    "text": "Preguntas",
+    "type": "data_list",
+    "note": ""
+  },
+  {
     "SourceText": "Connecting Formando Conciencia+ and Parent ID",
     "text": "Conectar Formando Conciencia+ y el Número de Identificación del Padre, Madre o Persona Cuidadora",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Closing Activity",
+    "text": "Actividad de Cierre",
     "type": "data_list",
     "note": ""
   },
@@ -1034,6 +1088,12 @@
   {
     "SourceText": "The Onboarding Session sets the tone for the entire Crianza con Conciencia+ programme. It is important to create a welcoming and safe space for the participants to feel at ease and familiarise themselves with the programme.",
     "text": "La Sesión de Introducción sienta las bases del programa Crianza con Conciencia+. Es importante crear un espacio acogedor y seguro para que las y los participantes se sientan tranquilos y se familiaricen con el programa.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Manual",
+    "text": "Manual",
     "type": "data_list",
     "note": ""
   },
@@ -1628,6 +1688,18 @@
   {
     "SourceText": "your supervisor",
     "text": "tu supervisor",
+    "type": "global",
+    "note": ""
+  },
+  {
+    "SourceText": "your Bienestar supervisor",
+    "text": "tu supervisor dentro de la Secretaría de Bienestar",
+    "type": "global",
+    "note": ""
+  },
+  {
+    "SourceText": "your DIF supervisor",
+    "text": "tu supervisor dentro de DIF",
     "type": "global",
     "note": ""
   },
