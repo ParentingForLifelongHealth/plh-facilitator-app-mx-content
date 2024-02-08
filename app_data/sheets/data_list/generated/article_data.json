@@ -916,7 +916,9 @@
         "introduction": {
           "mx_es": true
         },
-        "resource_title_1": {}
+        "resource_title_1": {
+          "mx_es": true
+        }
       },
       "_translatedFields": {
         "title": {

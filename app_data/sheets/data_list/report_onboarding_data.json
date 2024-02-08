@@ -24,7 +24,9 @@
       "type": "toggle",
       "text": "Getting to know each other",
       "_translations": {
-        "text": {}
+        "text": {
+          "mx_es": true
+        }
       },
       "_translatedFields": {
         "text": {
@@ -52,7 +54,9 @@
       "type": "title",
       "text": "Getting Started with Crianza con Conciencia+ chatbot",
       "_translations": {
-        "text": {}
+        "text": {
+          "mx_es": true
+        }
       },
       "_translatedFields": {
         "text": {
@@ -65,7 +69,9 @@
       "type": "toggle",
       "text": "Introduction to Phone Use",
       "_translations": {
-        "text": {}
+        "text": {
+          "mx_es": true
+        }
       },
       "_translatedFields": {
         "text": {
@@ -123,7 +129,9 @@
       "type": "toggle",
       "text": "Setting up Ground Rules",
       "_translations": {
-        "text": {}
+        "text": {
+          "mx_es": true
+        }
       },
       "_translatedFields": {
         "text": {
@@ -136,7 +144,9 @@
       "type": "toggle",
       "text": "Facilitator’s Role",
       "_translations": {
-        "text": {}
+        "text": {
+          "mx_es": true
+        }
       },
       "_translatedFields": {
         "text": {
@@ -149,7 +159,9 @@
       "type": "toggle",
       "text": "Questions",
       "_translations": {
-        "text": {}
+        "text": {
+          "mx_es": true
+        }
       },
       "_translatedFields": {
         "text": {
@@ -177,7 +189,9 @@
       "type": "toggle",
       "text": "Closing Activity",
       "_translations": {
-        "text": {}
+        "text": {
+          "mx_es": true
+        }
       },
       "_translatedFields": {
         "text": {

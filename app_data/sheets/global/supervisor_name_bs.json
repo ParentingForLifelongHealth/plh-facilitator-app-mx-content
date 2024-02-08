@@ -10,7 +10,9 @@
       "name": "supervisor_name",
       "value": "your Bienestar supervisor",
       "_translations": {
-        "value": {}
+        "value": {
+          "mx_es": true
+        }
       }
     }
   ],

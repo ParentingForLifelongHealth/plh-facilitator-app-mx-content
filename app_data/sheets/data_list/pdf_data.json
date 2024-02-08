@@ -9,7 +9,9 @@
       "pdf_asset": "pdf/manual.pdf",
       "title": "Facilitator Manual",
       "_translations": {
-        "title": {}
+        "title": {
+          "mx_es": true
+        }
       },
       "_translatedFields": {
         "title": {
