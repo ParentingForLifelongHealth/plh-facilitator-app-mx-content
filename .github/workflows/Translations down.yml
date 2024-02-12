@@ -68,12 +68,14 @@ jobs:
         with:
           repository: "IDEMSInternational/plh-digital-content.git"
           path: "plh-digital-content"
+          ref: "main"
 
       - name: Check idems_translation
         uses: actions/checkout@v3
         with:
           repository: "IDEMSInternational/idems_translation.git"
           path: "idems_translation"
+          ref: "master"
 
 
   
