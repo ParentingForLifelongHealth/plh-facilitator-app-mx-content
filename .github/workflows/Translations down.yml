@@ -77,6 +77,21 @@ jobs:
           path: "idems_translation"
           ref: "master"
 
+      - name: set up python enviroment
+        uses: actions/setup-python@v5.0.0
+        with:
+          python-version: '3.12'
+
+      - name: List contents of current directory
+        run: ls -l
+
+
+      - name: update idems_translation packages
+        run: |
+          cd idems_translation
+          npm ci
+          cd ..
+
 
   
       - name: Check out app code
@@ -128,14 +143,7 @@ jobs:
       - name: Install node modules
         run: yarn install    
 
-      - name: set up python enviroment
-        uses: actions/setup-python@v5.0.0
 
-      - name: update idems_translation packages
-        run: |
-          cd idems_translation
-          npm ci
-          cd ..
 
       - name: Run script to create translation files
         run: python idems_translation/app/scripts/merge_files_post_translation.py .idems_app/deployments/${{env.DEPLOYMENT_NAME}}/translator_settings.json
