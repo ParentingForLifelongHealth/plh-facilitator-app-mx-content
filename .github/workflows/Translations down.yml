@@ -89,7 +89,7 @@ jobs:
       - name: update idems_translation packages
         run: |
           cd idems_translation
-          npm ci
+          npm ci || true
           cd ..
 
 
