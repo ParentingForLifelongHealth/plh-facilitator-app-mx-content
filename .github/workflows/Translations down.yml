@@ -92,7 +92,8 @@ jobs:
           npm ci || true
           cd ..
 
-
+      - name: List contents of current directory
+        run: ls -l
   
       - name: Check out app code
         uses: actions/checkout@v3
@@ -100,11 +101,17 @@ jobs:
           repository: "IDEMSInternational/parenting-app-ui.git"
           ref: ${{env.APP_CODE_BRANCH}}
           path: "parenting-app-ui"
+      
+      - name: List contents of current directory
+        run: ls -l
 
       - name: move to parenting-app-ui folder
         run: |
           cd parenting-app-ui
 
+      - name: List contents of current directory
+        run: ls -l
+        
       - name: Remove .git from the repository in order to nest
         run: |
           rm -rf .git
@@ -122,6 +129,9 @@ jobs:
         with:
           token: ${{ secrets.PAT }}
           path: ".idems_app/deployments/${{env.DEPLOYMENT_NAME}}"
+
+      - name: List contents of current directory
+        run: ls -l
 
       - name: move to parent folder
         run: |
