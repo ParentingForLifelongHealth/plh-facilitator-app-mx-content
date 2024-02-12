@@ -21,9 +21,9 @@
       "_xlsxPath": "data/navigation_data.xlsx"
     },
     "article_data": {
+      "flow_type": "data_list",
       "flow_name": "article_data",
-      "flow_subtype": "generated",
-      "flow_type": "data_list"
+      "_xlsxPath": "data/FacilitatorApp MX content.xlsx"
     },
     "package": {
       "flow_name": "package",
@@ -118,11 +118,6 @@
     }
   },
   "data_pipe": {
-    "article_filter": {
-      "flow_type": "data_pipe",
-      "flow_name": "article_filter",
-      "_xlsxPath": "data/FacilitatorApp MX content.xlsx"
-    },
     "create_package": {
       "flow_type": "data_pipe",
       "flow_name": "create_package",
@@ -364,13 +359,28 @@
       "flow_subtype": "generated",
       "flow_type": "template"
     },
+    "article_day_3_check_in": {
+      "flow_name": "article_day_3_check_in",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
     "article_day_3_mh_stress_self_talk": {
       "flow_name": "article_day_3_mh_stress_self_talk",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
+    "article_day_4_check_in": {
+      "flow_name": "article_day_4_check_in",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
     "article_day_5_goodbye": {
       "flow_name": "article_day_5_goodbye",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "article_day_6_final_chat_sessions_5ux": {
+      "flow_name": "article_day_6_final_chat_sessions_5ux",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
@@ -384,13 +394,28 @@
       "flow_subtype": "generated",
       "flow_type": "template"
     },
+    "article_faq_h_after_group_ended": {
+      "flow_name": "article_faq_h_after_group_ended",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
     "article_faq_h_no_neg_to_pos": {
       "flow_name": "article_faq_h_no_neg_to_pos",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
+    "article_faq_h_no_volunteers": {
+      "flow_name": "article_faq_h_no_volunteers",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
     "article_faq_h_parents_insult": {
       "flow_name": "article_faq_h_parents_insult",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "article_faq_h_prompts": {
+      "flow_name": "article_faq_h_prompts",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
@@ -429,6 +454,11 @@
       "flow_subtype": "generated",
       "flow_type": "template"
     },
+    "article_group_admin_onboarding": {
+      "flow_name": "article_group_admin_onboarding",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
     "article_how_to_chat_session": {
       "flow_name": "article_how_to_chat_session",
       "flow_subtype": "generated",
@@ -451,6 +481,11 @@
     },
     "article_one_on_one_challenges": {
       "flow_name": "article_one_on_one_challenges",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "article_overview_cc": {
+      "flow_name": "article_overview_cc",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
