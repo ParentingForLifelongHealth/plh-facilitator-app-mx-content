@@ -99,6 +99,11 @@ jobs:
         with:
           repository: "IDEMSInternational/parenting-app-ui.git"
           ref: ${{env.APP_CODE_BRANCH}}
+          path: "parenting-app-ui"
+
+      - name: move to parenting-app-ui folder
+        run: |
+          cd parenting-app-ui
 
       - name: Remove .git from the repository in order to nest
         run: |
@@ -118,11 +123,29 @@ jobs:
           token: ${{ secrets.PAT }}
           path: ".idems_app/deployments/${{env.DEPLOYMENT_NAME}}"
 
+      - name: move to parent folder
+        run: |
+          cd ..
+
       - name: List contents of current directory
         run: ls -l
         
       - name: Run script to create translation files
-        run: python "../idems_translation/app/scripts/merge_files_post_translation.py" ".idems_app/deployments/${{env.DEPLOYMENT_NAME}}/translator_settings.json"
+        run: python idems_translation/app/scripts/merge_files_post_translation.py parenting-app-ui/.idems_app/deployments/${{env.DEPLOYMENT_NAME}}/translator_settings.json
+
+      
+      - name: Move and rename translation file
+        run: |
+          LANGUAGES=$(cat parenting-app-ui/.idems_app/deployments/${{env.DEPLOYMENT_NAME}}/language_mappings.json)
+          # Loop through languages and move files
+          for lang in $(echo "${LANGUAGES}" | jq -r 'keys[]'); do
+            destination=$(echo "${LANGUAGES}" | jq -r ".[\"$lang\"]")
+            mv idems_translation/app/5_completed_dictionaries/${lang}_dictionary.json parenting-app-ui/.idems_app/deployments/${{env.DEPLOYMENT_NAME}}/translations_source/translated_strings/translated.${destination}.json
+          done
+
+      - name: move to parenting-app-ui folder
+        run: |
+          cd parenting-app-ui
       
       - name: Populate Encryption key
         if: env.DEPLOYMENT_PRIVATE_KEY != ''
@@ -147,20 +170,7 @@ jobs:
             ${{ runner.os }}-node-modules-yarn-v1-
 
       - name: Install node modules
-        run: yarn install    
-
-
-
-
-
-      - name: Move and rename translation file
-        run: |
-          LANGUAGES=$(cat .idems_app/deployments/${{env.DEPLOYMENT_NAME}}/language_mappings.json)
-          # Loop through languages and move files
-          for lang in $(echo "${LANGUAGES}" | jq -r 'keys[]'); do
-            destination=$(echo "${LANGUAGES}" | jq -r ".[\"$lang\"]")
-            mv idems_translation/app/5_completed_dictionaries/${lang}_dictionary.json .idems_app/deployments/${{env.DEPLOYMENT_NAME}}/translations_source/translated_strings/translated.${destination}.json
-          done
+        run: yarn install   
 
       - name: Set deployment
         run: yarn workflow deployment set $DEPLOYMENT_NAME
