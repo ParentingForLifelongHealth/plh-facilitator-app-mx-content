@@ -78,17 +78,13 @@ jobs:
           ref: "master"
 
       - name: set up python enviroment
-        uses: actions/setup-python@v5.0.0
+        uses: actions/setup-python@v5.0.0        
         with:
           python-version: '3.12'
 
-      - name: List contents of current directory
-        run: ls -l
-
-
       - name: update idems_translation packages
-        run: |
-          cd idems_translation
+        working-directory: idems_translation
+        run: 
           npm ci || true
 
       - name: List contents of current directory
@@ -105,8 +101,9 @@ jobs:
         run: ls -l
         
       - name: Remove .git from the repository in order to nest
+        working-directory: parenting-app-ui
         run: |
-          rm -rf parenting-app-ui/.git
+          rm -rf .git
 
       - name: Checkout parent repo if needed
         if: env.PARENT_DEPLOYMENT_REPO != ''
@@ -128,7 +125,8 @@ jobs:
 
         
       - name: Run script to create translation files
-        run: python idems_translation/app/scripts/merge_files_post_translation.py parenting-app-ui/.idems_app/deployments/${{env.DEPLOYMENT_NAME}}/translator_settings.json
+        working-directory: idems_translation
+        run: python app/scripts/merge_files_post_translation.py ../parenting-app-ui/.idems_app/deployments/${{env.DEPLOYMENT_NAME}}/translator_settings.json
 
       
       - name: Move and rename translation file
@@ -142,12 +140,15 @@ jobs:
       
       - name: Populate Encryption key
         if: env.DEPLOYMENT_PRIVATE_KEY != ''
-        run: echo "${{env.DEPLOYMENT_PRIVATE_KEY}}" > .parenting-app-ui/.idems_app/deployments/${{env.DEPLOYMENT_NAME}}/encrypted/private.key
+        working-directory: parenting-app-ui
+        run: echo "${{env.DEPLOYMENT_PRIVATE_KEY}}" > ./.idems_app/deployments/${{env.DEPLOYMENT_NAME}}/encrypted/private.key
 
         # TODO - populate firebase as part of deployment set
       - name: Populate Firebase Config
         if: env.FIREBASE_CONFIG != ''
-        run: echo 'export const firebaseConfig = ${{env.FIREBASE_CONFIG}}' > parenting-app-ui/src/environments/firebaseConfig.ts
+        working-directory: parenting-app-ui
+        run: echo 'export const firebaseConfig = ${{env.FIREBASE_CONFIG}}' > src/environments/firebaseConfig.ts
+        
       - name: Setup Node
         uses: actions/setup-node@v3
         with:
@@ -163,33 +164,30 @@ jobs:
             ${{ runner.os }}-node-modules-yarn-v1-
 
       - name: Install node modules
-        run: |
-          cd parenting-app-ui
-          yarn install   
+        working-directory: parenting-app-ui
+        run: yarn install   
 
       - name: Set deployment
-        run: |
-          cd parenting-app-ui
-          yarn workflow deployment set $DEPLOYMENT_NAME
+        working-directory: parenting-app-ui
+        run: yarn workflow deployment set $DEPLOYMENT_NAME
           
       - name: Add google credentials
-        run: |
-          cd parenting-app-ui
-          echo "${{env.GDRIVE_CREDENTIALS}}" > ./packages/scripts/config/credentials.json
+        working-directory: parenting-app-ui
+        run: echo "${{env.GDRIVE_CREDENTIALS}}" > ./packages/scripts/config/credentials.json
     
       - name: Add google token
-        run: echo "$GDRIVE_TOKEN" > ./parenting-app-ui/packages/scripts/config/token.json
+        working-directory: parenting-app-ui
+        run: echo "$GDRIVE_TOKEN" > ./packages/scripts/config/token.json
         env:
           GDRIVE_TOKEN: ${{ env.GDRIVE_TOKEN }}
 
       - name: Sync content
-        run: |
-          cd parenting-app-ui
-          yarn workflow sync
+        working-directory: parenting-app-ui
+        run: yarn workflow sync
 
       - name: Increment version number
+        working-directory: parenting-app-ui
         run: |
-          cd parenting-app-ui
           # Define the path to the file
           FILE_PATH="./.idems_app/deployments/${{env.DEPLOYMENT_NAME}}/config.ts"
           
