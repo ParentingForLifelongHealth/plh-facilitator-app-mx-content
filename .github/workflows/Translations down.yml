@@ -122,7 +122,7 @@ jobs:
         run: ls -l
         
       - name: Run script to create translation files
-        run: python "idems_translation/app/scripts/merge_files_post_translation.py" ".idems_app/deployments/${{env.DEPLOYMENT_NAME}}/translator_settings.json"
+        run: python "./idems_translation/app/scripts/merge_files_post_translation.py" ".idems_app/deployments/${{env.DEPLOYMENT_NAME}}/translator_settings.json"
       
       - name: Populate Encryption key
         if: env.DEPLOYMENT_PRIVATE_KEY != ''
