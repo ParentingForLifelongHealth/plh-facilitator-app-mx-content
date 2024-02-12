@@ -90,7 +90,6 @@ jobs:
         run: |
           cd idems_translation
           npm ci || true
-          cd ..
 
       - name: List contents of current directory
         run: ls -l
@@ -104,23 +103,16 @@ jobs:
       
       - name: List contents of current directory
         run: ls -l
-
-      - name: move to parenting-app-ui folder
-        run: |
-          cd parenting-app-ui
-
-      - name: List contents of current directory
-        run: ls -l
         
       - name: Remove .git from the repository in order to nest
         run: |
-          rm -rf .git
+          rm -rf parenting-app-ui/.git
 
       - name: Checkout parent repo if needed
         if: env.PARENT_DEPLOYMENT_REPO != ''
         uses: actions/checkout@v3
         with:
-          path: ".idems_app/deployments/${{env.PARENT_DEPLOYMENT_NAME}}"
+          path: "parenting-app-ui/.idems_app/deployments/${{env.PARENT_DEPLOYMENT_NAME}}"
           repository: ${{env.PARENT_DEPLOYMENT_REPO}}
           ref: ${{env.PARENT_DEPLOYMENT_BRANCH}}
 
@@ -128,17 +120,12 @@ jobs:
         uses: actions/checkout@v3
         with:
           token: ${{ secrets.PAT }}
-          path: ".idems_app/deployments/${{env.DEPLOYMENT_NAME}}"
+          path: "parenting-app-ui/.idems_app/deployments/${{env.DEPLOYMENT_NAME}}"
 
       - name: List contents of current directory
         run: ls -l
 
-      - name: move to parent folder
-        run: |
-          cd ..
 
-      - name: List contents of current directory
-        run: ls -l
         
       - name: Run script to create translation files
         run: python idems_translation/app/scripts/merge_files_post_translation.py parenting-app-ui/.idems_app/deployments/${{env.DEPLOYMENT_NAME}}/translator_settings.json
@@ -152,19 +139,15 @@ jobs:
             destination=$(echo "${LANGUAGES}" | jq -r ".[\"$lang\"]")
             mv idems_translation/app/5_completed_dictionaries/${lang}_dictionary.json parenting-app-ui/.idems_app/deployments/${{env.DEPLOYMENT_NAME}}/translations_source/translated_strings/translated.${destination}.json
           done
-
-      - name: move to parenting-app-ui folder
-        run: |
-          cd parenting-app-ui
       
       - name: Populate Encryption key
         if: env.DEPLOYMENT_PRIVATE_KEY != ''
-        run: echo "${{env.DEPLOYMENT_PRIVATE_KEY}}" > ./.idems_app/deployments/${{env.DEPLOYMENT_NAME}}/encrypted/private.key
+        run: echo "${{env.DEPLOYMENT_PRIVATE_KEY}}" > .parenting-app-ui/.idems_app/deployments/${{env.DEPLOYMENT_NAME}}/encrypted/private.key
 
         # TODO - populate firebase as part of deployment set
       - name: Populate Firebase Config
         if: env.FIREBASE_CONFIG != ''
-        run: echo 'export const firebaseConfig = ${{env.FIREBASE_CONFIG}}' > src/environments/firebaseConfig.ts
+        run: echo 'export const firebaseConfig = ${{env.FIREBASE_CONFIG}}' > parenting-app-ui/src/environments/firebaseConfig.ts
       - name: Setup Node
         uses: actions/setup-node@v3
         with:
@@ -173,32 +156,40 @@ jobs:
       - name: Cache node modules
         uses: actions/cache@v3
         with:
-          path: ./.yarn/cache
+          path: ./parenting-app-ui/.yarn/cache
           # If cachebusting required (e.g. breaking yarn changes on update) change `v1` to another number
           key: ${{ runner.os }}-node-modules-yarn-v1-${{ hashFiles('**/yarn.lock') }}
           restore-keys: |
             ${{ runner.os }}-node-modules-yarn-v1-
 
       - name: Install node modules
-        run: yarn install   
+        run: |
+          cd parenting-app-ui
+          yarn install   
 
       - name: Set deployment
-        run: yarn workflow deployment set $DEPLOYMENT_NAME
+        run: |
+          cd parenting-app-ui
+          yarn workflow deployment set $DEPLOYMENT_NAME
           
       - name: Add google credentials
         run: |
+          cd parenting-app-ui
           echo "${{env.GDRIVE_CREDENTIALS}}" > ./packages/scripts/config/credentials.json
     
       - name: Add google token
-        run: echo "$GDRIVE_TOKEN" > ./packages/scripts/config/token.json
+        run: echo "$GDRIVE_TOKEN" > ./parenting-app-ui/packages/scripts/config/token.json
         env:
           GDRIVE_TOKEN: ${{ env.GDRIVE_TOKEN }}
 
       - name: Sync content
-        run: yarn workflow sync
+        run: |
+          cd parenting-app-ui
+          yarn workflow sync
 
       - name: Increment version number
         run: |
+          cd parenting-app-ui
           # Define the path to the file
           FILE_PATH="./.idems_app/deployments/${{env.DEPLOYMENT_NAME}}/config.ts"
           
@@ -228,7 +219,7 @@ jobs:
           sed -i 's/\(content_tag_latest: "\)\([0-9]\+\.[0-9]\+\.\)\([0-9]\+\)"/\1\2'$((NEW_PATCH_VERSION))'"/' $FILE_PATH
       
       - name: Commit changes
-        working-directory: .idems_app/deployments/${{env.DEPLOYMENT_NAME}}
+        working-directory: parenting-app-ui/.idems_app/deployments/${{env.DEPLOYMENT_NAME}}
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"        
@@ -241,7 +232,7 @@ jobs:
         with:
           token: ${{ secrets.PAT }}
           # Relative path under $GITHUB_WORKSPACE to the repository. Defaults to $GITHUB_WORKSPACE.
-          path: .idems_app/deployments/${{env.DEPLOYMENT_NAME}}             
+          path: parenting-app-ui/.idems_app/deployments/${{env.DEPLOYMENT_NAME}}             
           # The title of the pull request.
           title: ${{ inputs.pr-title }}
           # The body of the pull request.
