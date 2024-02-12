@@ -47,7 +47,7 @@ name: Update Translations, sync and create a PR
 #         Main Code
 ##################################################################################
 on:
-    workflow_call:
+    workflow_dispatch:
       inputs:
         pr-title:
           description: Title for PR
