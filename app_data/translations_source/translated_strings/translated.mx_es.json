@@ -276,6 +276,12 @@
     "note": ""
   },
   {
+    "SourceText": "Co-parenting with",
+    "text": "Comparto la crianza con",
+    "type": "template",
+    "note": ""
+  },
+  {
     "SourceText": "I consent to the commitments stated above.",
     "text": "Acepto los compromisos mencionados arriba.",
     "type": "template",

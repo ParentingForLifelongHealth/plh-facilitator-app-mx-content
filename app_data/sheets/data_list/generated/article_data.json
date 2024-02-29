@@ -916,6 +916,11 @@
         "introduction": {
           "mx_es": true
         },
+        "section_title_1": {},
+        "section_text_1": {},
+        "sections_title": {},
+        "section_title_2": {},
+        "section_text_2": {},
         "resource_title_1": {
           "mx_es": true
         }
@@ -927,13 +932,33 @@
         "introduction": {
           "eng": "The Onboarding Session sets the tone for the entire Crianza con Conciencia+ programme. It is important to create a welcoming and safe space for the participants to feel at ease and familiarise themselves with the programme."
         },
+        "sections_title": {
+          "eng": "Preparation Checklist"
+        },
+        "section_title_1": {
+          "eng": "1 week before your session"
+        },
+        "section_text_1": {
+          "eng": "- Read the Facilitator Guide on Formando Conciencia+ \n\n- Practise the onboarding session with a peer or supervisor"
+        },
+        "section_title_2": {
+          "eng": "1 hour before your session"
+        },
+        "section_text_2": {
+          "eng": "- Download the PowerPoint slide to your laptop \n\n- Download the videos embedded in the slides to your laptop \n\n- Go through your PowerPoint slides and videos to make sure everything is working smoothly"
+        },
         "resource_title_1": {
           "eng": "Manual"
         }
       },
       "introduction": "The Onboarding Session sets the tone for the entire Crianza con Conciencia+ programme. It is important to create a welcoming and safe space for the participants to feel at ease and familiarise themselves with the programme.",
+      "section_title_1": "1 week before your session",
+      "section_text_1": "- Read the Facilitator Guide on Formando Conciencia+ \n\n- Practise the onboarding session with a peer or supervisor",
       "resource_data_1": "pdf",
       "resource_id_1": "manual",
+      "sections_title": "Preparation Checklist",
+      "section_title_2": "1 hour before your session",
+      "section_text_2": "- Download the PowerPoint slide to your laptop \n\n- Download the videos embedded in the slides to your laptop \n\n- Go through your PowerPoint slides and videos to make sure everything is working smoothly",
       "resource_title_1": "Manual"
     },
     {
@@ -966,9 +991,7 @@
         "section_title_2": {
           "mx_es": true
         },
-        "section_text_2": {
-          "mx_es": true
-        },
+        "section_text_2": {},
         "section_title_3": {
           "mx_es": true
         },
@@ -1002,7 +1025,7 @@
           "eng": "Conduct Chat Session"
         },
         "section_text_2": {
-          "eng": "**Before conducting the chat sessions, make sure you:** \n\nCreate a WhatsApp Group during the onboarding session. \nIdentify the ground rules for the WhatsApp Group\n\n**Structure for the chat sessions**: \r\rDay  1 (immediately after the onboarding session): Welcome, introductions, and reminder of home practice. \n\nDay 2: Send an encouraging message \r\rDay 3: Self-talk: WhatsApp Chat session on self-talk and stress\n\nDay 4: Send an encouraging message \r\rDay 6: Checking in on parents’ experience and closing\n\n**When to send the messages** \n\nYou and your group will decide a time to chat during the onboarding session. \r\rEach chat session has a reminder message (Message 1) that you should send a few hours before the chat session. \n\nSend the remaining messages during the scheduled chat time."
+          "eng": "**Before conducting the chat sessions, make sure you:** \n\nCreate a WhatsApp Group during the onboarding session. \n\nIdentify the ground rules for the WhatsApp Group.\n\n**Structure for the chat sessions**: \n\nDay  1 (immediately after the onboarding session): Welcome, introductions, and reminder of home practice\n\nDay 3: WhatsApp Chat session on self-talk and stress\n\nDay 5: Checking in on parents’ experience and closing\n\n**When to send the messages** \n\nYou and your group will decide a time to chat during the onboarding session. \n\nEach chat session has a reminder message (Message 1) that you should send a few hours before the chat session. \n\nSend the remaining messages during the scheduled chat time."
         },
         "section_title_3": {
           "eng": "Share the messages in the chat session"
@@ -1026,7 +1049,7 @@
       "section_text_1": "**Make sure you have done the following before the onboarding session starts:** \n\n- Save the names and WhatsApp numbers of the parents assigned to you on your phone (if available), so you can easily confirm details during the onboarding session. \n\n- Create your WhatsApp group (with the temporary group name, icon, and description). The name of each WhatsApp group has the same structure:\n“Crianza con Conciencia+”\nA name selected by the group \n\nWhen you create your temporary group name, you will use \"Crianza con Conciencia+” \n\nYou can keep your temporary group name or you can add a name to the temporary group name. For example, “Crianza con Conciencia+__HappyFamilies”.",
       "sections_title": "How to:",
       "section_title_2": "Conduct Chat Session",
-      "section_text_2": "**Before conducting the chat sessions, make sure you:** \n\nCreate a WhatsApp Group during the onboarding session. \nIdentify the ground rules for the WhatsApp Group\n\n**Structure for the chat sessions**: \r\rDay  1 (immediately after the onboarding session): Welcome, introductions, and reminder of home practice. \n\nDay 2: Send an encouraging message \r\rDay 3: Self-talk: WhatsApp Chat session on self-talk and stress\n\nDay 4: Send an encouraging message \r\rDay 6: Checking in on parents’ experience and closing\n\n**When to send the messages** \n\nYou and your group will decide a time to chat during the onboarding session. \r\rEach chat session has a reminder message (Message 1) that you should send a few hours before the chat session. \n\nSend the remaining messages during the scheduled chat time.",
+      "section_text_2": "**Before conducting the chat sessions, make sure you:** \n\nCreate a WhatsApp Group during the onboarding session. \n\nIdentify the ground rules for the WhatsApp Group.\n\n**Structure for the chat sessions**: \n\nDay  1 (immediately after the onboarding session): Welcome, introductions, and reminder of home practice\n\nDay 3: WhatsApp Chat session on self-talk and stress\n\nDay 5: Checking in on parents’ experience and closing\n\n**When to send the messages** \n\nYou and your group will decide a time to chat during the onboarding session. \n\nEach chat session has a reminder message (Message 1) that you should send a few hours before the chat session. \n\nSend the remaining messages during the scheduled chat time.",
       "section_title_3": "Share the messages in the chat session",
       "section_text_3": "Look for the \"Chat Sessions\" section on the Formando Conciencia+ homepage\n\nFind the specific chat session you want to share and click on it.\n\nOnce you're on the content for that session, locate the \"Share\" icon. It should look like an arrow pointing upward or a box with an arrow, and it's used to share content. Click on the \"Share\" icon.\n\nSelect \"WhatsApp\" as your sharing option in the menu that appears.\n\nChoose your Crianza con Conciencia+ Support Group from the list. \n\nBefore you hit the \"Send\" button, make sure to add or change any necessary information like your name. \n\nFinally, click the \"Send\" button to share the content with your Crianza con Conciencia+ Support Group.",
       "section_title_4": "Get Help with WhatsApp Support Group",
@@ -1053,9 +1076,7 @@
         "section_title_1": {
           "mx_es": true
         },
-        "section_text_1": {
-          "mx_es": true
-        },
+        "section_text_1": {},
         "sections_title": {
           "mx_es": true
         },
@@ -1098,7 +1119,7 @@
           "eng": "Set up your profile"
         },
         "section_text_1": {
-          "eng": "Select the profile icon from the bottom navigation bar. \n\nChoose “About you” \n\nType your name under “Your name” \n\nSelect your state from the dropdown menu \n\rTap Save"
+          "eng": "Select the profile icon from the bottom navigation bar\n\nChoose “About you” \n\nType your name under “Your name” \n\nSelect your state from the dropdown menu \n\nTap Save"
         },
         "section_title_2": {
           "eng": "Add a Parent"
@@ -1131,7 +1152,7 @@
       "introduction": "The Formando Conciencia+ also makes reporting on the delivery of Crianza con Conciencia+ much easier than paper forms.\n\nAfter adding each parent’s name to the App, you will be able to report on their participation during in-person and WhatsApp group sessions.\n\nYou will also report on your own experience, including the time spent conducting each session and whether you were able to do all the activities in the session.",
       "related_articles_title": "Other information:",
       "section_title_1": "Set up your profile",
-      "section_text_1": "Select the profile icon from the bottom navigation bar. \n\nChoose “About you” \n\nType your name under “Your name” \n\nSelect your state from the dropdown menu \n\rTap Save",
+      "section_text_1": "Select the profile icon from the bottom navigation bar\n\nChoose “About you” \n\nType your name under “Your name” \n\nSelect your state from the dropdown menu \n\nTap Save",
       "sections_title": "How to:",
       "section_title_2": "Add a Parent",
       "section_text_2": "Select the profile icon from the bottom navigation bar. \n\nChoose “Add Parent”\n\nEnter parent details in the form. To enter the parent’s unique identifier (UID), ask them to text “ID” on Crianza con Conciencia+. Copy the 6-digit number into the parent profile.",
