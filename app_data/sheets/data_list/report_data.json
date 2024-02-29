@@ -22,7 +22,7 @@
     {
       "id": "week_1",
       "type": "virtual",
-      "name": "Day 5: Self-Talk",
+      "name": "Day 3: Self-Talk",
       "_translations": {
         "name": {
           "mx_es": true
@@ -30,7 +30,7 @@
       },
       "_translatedFields": {
         "name": {
-          "eng": "Day 5: Self-Talk"
+          "eng": "Day 3: Self-Talk"
         }
       }
     }
