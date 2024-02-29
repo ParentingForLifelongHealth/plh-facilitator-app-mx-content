@@ -34,11 +34,17 @@
     {
       "type": "declare_global_constant",
       "name": "state_question",
-      "value": "Your state",
+      "value": "Which state do you live in?",
       "_translations": {
-        "value": {
-          "mx_es": true
-        }
+        "value": {}
+      }
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "region_question",
+      "value": "Which region of @global.deployment_country do you live in?",
+      "_translations": {
+        "value": {}
       }
     },
     {
