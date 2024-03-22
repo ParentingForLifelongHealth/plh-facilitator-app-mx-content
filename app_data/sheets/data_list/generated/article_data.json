@@ -916,11 +916,21 @@
         "introduction": {
           "mx_es": true
         },
-        "section_title_1": {},
-        "section_text_1": {},
-        "sections_title": {},
-        "section_title_2": {},
-        "section_text_2": {},
+        "section_title_1": {
+          "mx_es": true
+        },
+        "section_text_1": {
+          "mx_es": true
+        },
+        "sections_title": {
+          "mx_es": true
+        },
+        "section_title_2": {
+          "mx_es": true
+        },
+        "section_text_2": {
+          "mx_es": true
+        },
         "resource_title_1": {
           "mx_es": true
         }
@@ -991,7 +1001,9 @@
         "section_title_2": {
           "mx_es": true
         },
-        "section_text_2": {},
+        "section_text_2": {
+          "mx_es": true
+        },
         "section_title_3": {
           "mx_es": true
         },
@@ -1076,7 +1088,9 @@
         "section_title_1": {
           "mx_es": true
         },
-        "section_text_1": {},
+        "section_text_1": {
+          "mx_es": true
+        },
         "sections_title": {
           "mx_es": true
         },

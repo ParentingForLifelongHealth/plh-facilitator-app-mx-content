@@ -36,7 +36,9 @@
       "name": "state_question",
       "value": "Which state do you live in?",
       "_translations": {
-        "value": {}
+        "value": {
+          "mx_es": true
+        }
       }
     },
     {
@@ -44,7 +46,9 @@
       "name": "region_question",
       "value": "Which region of @global.deployment_country do you live in?",
       "_translations": {
-        "value": {}
+        "value": {
+          "mx_es": true
+        }
       }
     },
     {
