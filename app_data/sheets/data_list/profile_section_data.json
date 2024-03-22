@@ -53,7 +53,7 @@
     {
       "id": "group",
       "template": "group",
-      "show": "!@fields.allow_multiple_parent_groups",
+      "show": "!@global.allow_multiple_parent_groups && @global.has_parent_groups",
       "title": "Your Parent Group",
       "_translations": {
         "title": {
@@ -76,7 +76,7 @@
     {
       "id": "groups",
       "template": "groups",
-      "show": "@fields.allow_multiple_parent_groups",
+      "show": "@global.allow_multiple_parent_groups && @global.has_parent_groups",
       "title": "Your Parent Groups",
       "_translations": {
         "title": {

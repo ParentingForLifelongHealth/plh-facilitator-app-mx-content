@@ -5,16 +5,34 @@
   "data_list_name": "state",
   "rows": [
     {
+      "id": "aguascalientes",
+      "name": "aguascalientes",
+      "text": "Aguascalientes",
+      "region": "Centro-norte"
+    },
+    {
+      "id": "baja california sur",
+      "name": "baja california sur",
+      "text": "Baja California Sur",
+      "region": "Norte-occidente"
+    },
+    {
       "id": "baja_california",
       "name": "baja_california",
       "text": "Baja California",
       "region": "Norte"
     },
     {
-      "id": "sonora",
-      "name": "sonora",
-      "text": "Sonora",
-      "region": "Norte"
+      "id": "campeche",
+      "name": "campeche",
+      "text": "Campeche",
+      "region": "Sur"
+    },
+    {
+      "id": "chiapas",
+      "name": "chiapas",
+      "text": "Chiapas",
+      "region": "Sur"
     },
     {
       "id": "chihuahua",
@@ -29,34 +47,10 @@
       "region": "Norte"
     },
     {
-      "id": "nuevo_leon",
-      "name": "nuevo_leon",
-      "text": "Nuevo León",
-      "region": "Norte"
-    },
-    {
-      "id": "tamaulipas",
-      "name": "tamaulipas",
-      "text": "Tamaulipas",
-      "region": "Norte"
-    },
-    {
-      "id": "baja california sur",
-      "name": "baja california sur",
-      "text": "Baja California Sur",
-      "region": "Norte-occidente"
-    },
-    {
-      "id": "sinaloa",
-      "name": "sinaloa",
-      "text": "Sinaloa",
-      "region": "Norte-occidente"
-    },
-    {
-      "id": "nayarit",
-      "name": "nayarit",
-      "text": "Nayarit",
-      "region": "Norte-occidente"
+      "id": "colima",
+      "name": "colima",
+      "text": "Colima",
+      "region": "Centro-norte"
     },
     {
       "id": "durango",
@@ -65,87 +59,15 @@
       "region": "Norte-occidente"
     },
     {
-      "id": "zacatecas",
-      "name": "zacatecas",
-      "text": "Zacatecas",
-      "region": "Norte-occidente"
-    },
-    {
-      "id": "jalisco",
-      "name": "jalisco",
-      "text": "Jalisco",
-      "region": "Centro-norte"
-    },
-    {
-      "id": "aguascalientes",
-      "name": "aguascalientes",
-      "text": "Aguascalientes",
-      "region": "Centro-norte"
-    },
-    {
-      "id": "colima",
-      "name": "colima",
-      "text": "Colima",
-      "region": "Centro-norte"
-    },
-    {
-      "id": "michoacan",
-      "name": "michoacan",
-      "text": "Michoacán",
-      "region": "Centro-norte"
-    },
-    {
-      "id": "san_luis_potosi",
-      "name": "san_luis_potosi",
-      "text": "San Luis Potosí",
-      "region": "Centro-norte"
-    },
-    {
-      "id": "guanajuato",
-      "name": "guanajuato",
-      "text": "Guanajuato",
-      "region": "Centro"
-    },
-    {
-      "id": "queretaro",
-      "name": "queretaro",
-      "text": "Querétaro",
-      "region": "Centro"
-    },
-    {
-      "id": "hidalgo",
-      "name": "hidalgo",
-      "text": "Hidalgo",
-      "region": "Centro"
-    },
-    {
       "id": "estado_de_mexico",
       "name": "estado_de_mexico",
       "text": "Estado de México",
       "region": "Centro"
     },
     {
-      "id": "mexico_city",
-      "name": "mexico_city",
-      "text": "Ciudad de México",
-      "region": "Centro"
-    },
-    {
-      "id": "morelos",
-      "name": "morelos",
-      "text": "Morelos",
-      "region": "Centro"
-    },
-    {
-      "id": "tlaxcala",
-      "name": "tlaxcala",
-      "text": "Tlaxcala",
-      "region": "Centro"
-    },
-    {
-      "id": "puebla",
-      "name": "puebla",
-      "text": "Puebla",
+      "id": "guanajuato",
+      "name": "guanajuato",
+      "text": "Guanajuato",
       "region": "Centro"
     },
     {
@@ -155,22 +77,88 @@
       "region": "Sur"
     },
     {
+      "id": "hidalgo",
+      "name": "hidalgo",
+      "text": "Hidalgo",
+      "region": "Centro"
+    },
+    {
+      "id": "jalisco",
+      "name": "jalisco",
+      "text": "Jalisco",
+      "region": "Centro-norte"
+    },
+    {
+      "id": "mexico_city",
+      "name": "mexico_city",
+      "text": "Ciudad de México",
+      "region": "Centro"
+    },
+    {
+      "id": "michoacan",
+      "name": "michoacan",
+      "text": "Michoacán",
+      "region": "Centro-norte"
+    },
+    {
+      "id": "morelos",
+      "name": "morelos",
+      "text": "Morelos",
+      "region": "Centro"
+    },
+    {
+      "id": "nayarit",
+      "name": "nayarit",
+      "text": "Nayarit",
+      "region": "Norte-occidente"
+    },
+    {
+      "id": "nuevo_leon",
+      "name": "nuevo_leon",
+      "text": "Nuevo León",
+      "region": "Norte"
+    },
+    {
       "id": "oaxaca",
       "name": "oaxaca",
       "text": "Oaxaca",
       "region": "Sur"
     },
     {
-      "id": "chiapas",
-      "name": "chiapas",
-      "text": "Chiapas",
+      "id": "puebla",
+      "name": "puebla",
+      "text": "Puebla",
+      "region": "Centro"
+    },
+    {
+      "id": "queretaro",
+      "name": "queretaro",
+      "text": "Querétaro",
+      "region": "Centro"
+    },
+    {
+      "id": "quintana_roo",
+      "name": "quintana_roo",
+      "text": "Quintana Roo",
       "region": "Sur"
     },
     {
-      "id": "veracruz",
-      "name": "veracruz",
-      "text": "Veracruz",
-      "region": "Sur"
+      "id": "san_luis_potosi",
+      "name": "san_luis_potosi",
+      "text": "San Luis Potosí",
+      "region": "Centro-norte"
+    },
+    {
+      "id": "sinaloa",
+      "name": "sinaloa",
+      "text": "Sinaloa",
+      "region": "Norte-occidente"
+    },
+    {
+      "id": "sonora",
+      "name": "sonora",
+      "text": "Sonora",
+      "region": "Norte"
     },
     {
       "id": "tabasco",
@@ -179,9 +167,21 @@
       "region": "Sur"
     },
     {
-      "id": "campeche",
-      "name": "campeche",
-      "text": "Campeche",
+      "id": "tamaulipas",
+      "name": "tamaulipas",
+      "text": "Tamaulipas",
+      "region": "Norte"
+    },
+    {
+      "id": "tlaxcala",
+      "name": "tlaxcala",
+      "text": "Tlaxcala",
+      "region": "Centro"
+    },
+    {
+      "id": "veracruz",
+      "name": "veracruz",
+      "text": "Veracruz",
       "region": "Sur"
     },
     {
@@ -191,10 +191,10 @@
       "region": "Sur"
     },
     {
-      "id": "quintana_roo",
-      "name": "quintana_roo",
-      "text": "Quintana Roo",
-      "region": "Sur"
+      "id": "zacatecas",
+      "name": "zacatecas",
+      "text": "Zacatecas",
+      "region": "Norte-occidente"
     }
   ],
   "_xlsxPath": "data/deployment_data_mx.xlsx"
