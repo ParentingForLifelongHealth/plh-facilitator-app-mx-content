@@ -1998,12 +1998,6 @@
     "note": ""
   },
   {
-    "SourceText": "id",
-    "text": "identificación",
-    "type": "template",
-    "note": ""
-  },
-  {
     "SourceText": "Syncing...",
     "text": "Sincronizando...",
     "type": "template",
