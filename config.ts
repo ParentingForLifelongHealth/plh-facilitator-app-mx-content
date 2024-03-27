@@ -4,9 +4,6 @@ const config = extendDeploymentConfig({ name: "plh_facilitator_mx", parent: "plh
 config.google_drive.sheets_folder_ids =  ["1k8zJfBeOm18gYDsk0XmdUm7OFtZDUY9R", "1rFg8qsmb3xSOXw_9Iwxk8RgSmyjqiao9"];
 config.google_drive.assets_folder_ids = ["1KcHDI7O4o2_FZ_YlXsz-8OqN3ehsfdVf", "1tr76W9OusHHkjJ4DNR84x-B26VgGCSFy"];
 
-// Hacky fix to point extended deployment to translations within its own repo
-config.translations.translated_strings_path = "./app_data/translations_source/translated_strings";
-
 config.git = {
   content_repo: "https://github.com/IDEMSInternational/plh-facilitator-app-mx-content.git",
   content_tag_latest: "1.1.35",
@@ -23,6 +20,12 @@ config.android = {
 
 config.web.favicon_asset = "images/logos/bird_on_light.svg";
 config.api.db_name = "plh_facilitator_mx"
+
+// Hacky fix to point extended deployment to translations within its own repo
+config.translations.translated_strings_path = "./app_data/translations_source/translated_strings";
+
+// Hacky fix to ensure default theme is inherited by extended deployment
+config.app_data.output_path = "./app_data";
 
 config.app_config.APP_LANGUAGES.default = "mx_es";
 config.app_config.APP_SIDEMENU_DEFAULTS.title = "Formando Conciencia+";
