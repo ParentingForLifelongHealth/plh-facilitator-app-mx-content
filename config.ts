@@ -24,7 +24,7 @@ config.api.db_name = "plh_facilitator_mx"
 // Hacky fix to point extended deployment to translations within its own repo
 config.translations.translated_strings_path = "./app_data/translations_source/translated_strings";
 
-// Hacky fix to ensure default theme is inherited by extended deployment
+// Hacky fix to point extended deployment to content within its own repo
 config.app_data.output_path = "./app_data";
 
 config.app_config.APP_LANGUAGES.default = "mx_es";
