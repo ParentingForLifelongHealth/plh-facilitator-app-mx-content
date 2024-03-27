@@ -4,6 +4,9 @@ const config = extendDeploymentConfig({ name: "plh_facilitator_mx", parent: "plh
 config.google_drive.sheets_folder_ids =  ["1k8zJfBeOm18gYDsk0XmdUm7OFtZDUY9R", "1rFg8qsmb3xSOXw_9Iwxk8RgSmyjqiao9"];
 config.google_drive.assets_folder_ids = ["1KcHDI7O4o2_FZ_YlXsz-8OqN3ehsfdVf", "1tr76W9OusHHkjJ4DNR84x-B26VgGCSFy"];
 
+// Hacky fix to point extended deployment to translations within its own repo
+config.translations.translated_strings_path = "./app_data/translations_source/translated_strings";
+
 config.git = {
   content_repo: "https://github.com/IDEMSInternational/plh-facilitator-app-mx-content.git",
   content_tag_latest: "1.1.35",
