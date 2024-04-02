@@ -177,10 +177,7 @@
       "_translations": {
         "value": {}
       },
-      "parameter_list": {
-        "title": "@item.title"
-      },
-      "condition": "@item.type == \"video\"",
+      "condition": "@local.media_data.type == \"video\"",
       "_nested_name": "video",
       "_dynamicFields": {
         "value": [
@@ -191,22 +188,12 @@
             "fieldName": "media_data"
           }
         ],
-        "parameter_list": {
-          "title": [
-            {
-              "fullExpression": "@item.title",
-              "matchedExpression": "@item.title",
-              "type": "item",
-              "fieldName": "title"
-            }
-          ]
-        },
         "condition": [
           {
-            "fullExpression": "@item.type == \"video\"",
-            "matchedExpression": "@item.type",
-            "type": "item",
-            "fieldName": "type"
+            "fullExpression": "@local.media_data.type == \"video\"",
+            "matchedExpression": "@local.media_data.type",
+            "type": "local",
+            "fieldName": "media_data"
           }
         ]
       },
@@ -214,10 +201,7 @@
         "@local.media_data.media_asset": [
           "value"
         ],
-        "@item.title": [
-          "parameter_list.title"
-        ],
-        "@item.type": [
+        "@local.media_data.type": [
           "condition"
         ]
       }
@@ -229,10 +213,7 @@
       "_translations": {
         "value": {}
       },
-      "parameter_list": {
-        "title": "@item.title"
-      },
-      "condition": "@item.type == \"audio\"",
+      "condition": "@local.media_data.type == \"audio\"",
       "_nested_name": "audio",
       "_dynamicFields": {
         "value": [
@@ -243,22 +224,12 @@
             "fieldName": "media_data"
           }
         ],
-        "parameter_list": {
-          "title": [
-            {
-              "fullExpression": "@item.title",
-              "matchedExpression": "@item.title",
-              "type": "item",
-              "fieldName": "title"
-            }
-          ]
-        },
         "condition": [
           {
-            "fullExpression": "@item.type == \"audio\"",
-            "matchedExpression": "@item.type",
-            "type": "item",
-            "fieldName": "type"
+            "fullExpression": "@local.media_data.type == \"audio\"",
+            "matchedExpression": "@local.media_data.type",
+            "type": "local",
+            "fieldName": "media_data"
           }
         ]
       },
@@ -266,10 +237,7 @@
         "@local.media_data.media_asset": [
           "value"
         ],
-        "@item.title": [
-          "parameter_list.title"
-        ],
-        "@item.type": [
+        "@local.media_data.type": [
           "condition"
         ]
       }

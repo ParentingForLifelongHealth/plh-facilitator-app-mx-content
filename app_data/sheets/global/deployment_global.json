@@ -32,6 +32,15 @@
     },
     {
       "type": "declare_global_constant",
+      "name": "virtual_session_platform",
+      "value": "WhatsApp",
+      "_translations": {
+        "value": {}
+      },
+      "exclude_from_translation": true
+    },
+    {
+      "type": "declare_global_constant",
       "name": "has_parent_groups",
       "value": true,
       "exclude_from_translation": true
@@ -50,22 +59,15 @@
     },
     {
       "type": "declare_global_constant",
-      "name": "virtual_session_platform",
-      "value": "WhatsApp",
-      "_translations": {
-        "value": {}
-      },
+      "name": "has_profile_about",
+      "value": true,
       "exclude_from_translation": true
     },
     {
       "type": "declare_global_constant",
-      "name": "deployment_country",
-      "value": "Mexico",
-      "_translations": {
-        "value": {
-          "mx_es": true
-        }
-      }
+      "name": "has_multiple_languages",
+      "value": false,
+      "exclude_from_translation": true
     }
   ],
   "_xlsxPath": "data/deployment_data.xlsx"
