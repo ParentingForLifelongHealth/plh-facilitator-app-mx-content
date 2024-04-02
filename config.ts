@@ -18,8 +18,10 @@ config.android = {
   icon_asset_background_path: "./app_data/assets/android/icon-background.png",
 };
 
-config.ios.app_id = "international.idems.example_app";
-config.ios.app_name = "Example App";
+config.ios = {
+  app_id: 'international.idems.plh-facilitator-mx',
+  app_name: 'Formando Conciencia+',
+}
 
 config.web.favicon_asset = "images/logos/bird_on_light.svg";
 config.api.db_name = "plh_facilitator_mx"
