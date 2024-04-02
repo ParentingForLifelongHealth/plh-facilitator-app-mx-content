@@ -6,7 +6,7 @@ config.google_drive.assets_folder_ids = ["1KcHDI7O4o2_FZ_YlXsz-8OqN3ehsfdVf", "1
 
 config.git = {
   content_repo: "https://github.com/IDEMSInternational/plh-facilitator-app-mx-content.git",
-  content_tag_latest: "1.1.35",
+  content_tag_latest: "1.1.36",
 };
 
 config.android = {
@@ -17,6 +17,9 @@ config.android = {
   icon_asset_foreground_path: "./app_data/assets/android/icon-foreground.png",
   icon_asset_background_path: "./app_data/assets/android/icon-background.png",
 };
+
+config.ios.app_id = "international.idems.example_app";
+config.ios.app_name = "Example App";
 
 config.web.favicon_asset = "images/logos/bird_on_light.svg";
 config.api.db_name = "plh_facilitator_mx"

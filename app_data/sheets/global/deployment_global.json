@@ -66,6 +66,12 @@
           "mx_es": true
         }
       }
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "has_profile_about",
+      "value": true,
+      "exclude_from_translation": true
     }
   ],
   "_xlsxPath": "data/deployment_data.xlsx"
