@@ -24,7 +24,9 @@
       "name": "share_medium",
       "value": "WhatsApp",
       "_translations": {
-        "value": {}
+        "value": {
+          "mx_es": true
+        }
       },
       "exclude_from_translation": true
     },
@@ -33,7 +35,9 @@
       "name": "virtual_session_platform",
       "value": "WhatsApp",
       "_translations": {
-        "value": {}
+        "value": {
+          "mx_es": true
+        }
       }
     },
     {

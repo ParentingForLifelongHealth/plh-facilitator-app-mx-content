@@ -214,7 +214,7 @@
           ],
           "parameter_list": {
             "icon_src": "pencil",
-            "style": "orange"
+            "style": "navigation"
           },
           "exclude_from_translation": true,
           "_nested_name": "display_group.button_edit",
@@ -340,7 +340,7 @@
           ],
           "parameter_list": {
             "icon_src": "trash",
-            "style": "orange"
+            "style": "navigation"
           },
           "exclude_from_translation": true,
           "_nested_name": "display_group.button_delete",
