@@ -898,7 +898,9 @@
           "name": "warning_external_id_invalid_syntax",
           "value": "Make sure that the ParentText ID consists of 6 numerical characters.",
           "_translations": {
-            "value": {}
+            "value": {
+              "mx_es": true
+            }
           },
           "condition": "!@local.external_id_valid_syntax && !!(@local.text_box_external_id)",
           "_nested_name": "dg_validate_external_id.warning_external_id_invalid_syntax",
@@ -1018,7 +1020,9 @@
           "name": "warning_external_id_in_use",
           "value": "This ParentText ID has already been assigned to another parent.",
           "_translations": {
-            "value": {}
+            "value": {
+              "mx_es": true
+            }
           },
           "condition": "@local.external_id_already_in_use && !!(@local.text_box_external_id)",
           "_nested_name": "dg_validate_external_id.warning_external_id_in_use",
@@ -1284,7 +1288,7 @@
               ],
               "parameter_list": {
                 "icon_src": "person-add",
-                "style": "orange"
+                "style": "navigation"
               },
               "exclude_from_translation": true,
               "_nested_name": "dg_when_external_id_accepted.dg_add.button_add",
@@ -1934,7 +1938,7 @@
                   ],
                   "parameter_list": {
                     "icon_src": "person-remove",
-                    "style": "orange"
+                    "style": "navigation"
                   },
                   "exclude_from_translation": true,
                   "_nested_name": "dg_when_external_id_accepted.items.dg_coparent_@item.parent_no.button_remove",

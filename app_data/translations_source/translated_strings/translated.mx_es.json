@@ -421,7 +421,7 @@
   },
   {
     "SourceText": "Your Parent Groups",
-    "text": "Tus Grupos de Padres, Madres y Cuidadores",
+    "text": "Tus Grupos de Madres, Padres y  Personas Cuidadoras",
     "type": "data_list",
     "note": ""
   },
@@ -1650,8 +1650,8 @@
     "note": ""
   },
   {
-    "SourceText": "Mexico",
-    "text": "México",
+    "SourceText": "WhatsApp",
+    "text": "WhatsApp",
     "type": "global",
     "note": ""
   },
@@ -1951,7 +1951,7 @@
   },
   {
     "SourceText": "Parent profile",
-    "text": "Perfil del una madre, padre o persona cuidadora ",
+    "text": "Perfil de la madre, padre o persona cuidadora ",
     "type": "template",
     "note": ""
   },
@@ -1970,6 +1970,18 @@
   {
     "SourceText": "ParentText ID",
     "text": "Identificación para el Programa Crianza con Conciencia+ (CC+)",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Make sure that the ParentText ID consists of 6 numerical characters.",
+    "text": "Asegúrate de que la Identificación para el Programa Crianza con Conciencia+ (CC+) consta de 6 caracteres numéricos.",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "This ParentText ID has already been assigned to another parent.",
+    "text": "Esta Identificación para el Programa Crianza con Conciencia+ (CC+) ya ha sido asignada a otro padre.",
     "type": "template",
     "note": ""
   },
