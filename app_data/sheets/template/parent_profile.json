@@ -858,7 +858,6 @@
         "style": "column"
       },
       "condition": "@local.validate_external_id",
-      "exclude_from_translation": true,
       "rows": [
         {
           "name": "external_id_valid_syntax",

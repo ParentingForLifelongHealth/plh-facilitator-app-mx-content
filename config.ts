@@ -6,7 +6,7 @@ config.google_drive.assets_folder_ids = ["1KcHDI7O4o2_FZ_YlXsz-8OqN3ehsfdVf", "1
 
 config.git = {
   content_repo: "https://github.com/IDEMSInternational/plh-facilitator-app-mx-content.git",
-  content_tag_latest: "1.1.36",
+  content_tag_latest: "1.1.38",
 };
 
 config.android = {
@@ -37,6 +37,8 @@ config.app_config.APP_SIDEMENU_DEFAULTS.title = "Formando Conciencia+";
 config.app_config.APP_HEADER_DEFAULTS.title = "Formando Conciencia+";
 config.app_config.NOTIFICATION_DEFAULTS.title = "Nuevo mensaje de Formando Conciencia+";
 config.app_config.NOTIFICATION_DEFAULTS.text = "Tienes un mensaje nuevo de Formando Conciencia+";
+config.app_config.APP_THEMES.available = ["default", "professional","plh_facilitator_mx"];
+config.app_config.APP_THEMES.defaultThemeName = "plh_facilitator_mx";
 
 config.error_logging = { dsn: "https://5adf6bcd892f43cd91d6eaa22cc45e40@app.glitchtip.com/5665"};
 
