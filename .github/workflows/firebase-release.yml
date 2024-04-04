@@ -1,0 +1,16 @@
+##################################################################################
+#         Calls workflow from code repo
+##################################################################################
+name: Deploy - Firebase
+
+on:
+  workflow_dispatch:
+
+jobs:
+  web_preview:
+    uses: IDEMSInternational/parenting-app-ui/.github/workflows/reusable-deploy-web-preview.yml@master
+    secrets: 
+      FIREBASE_PROJECT_ID: ${{vars.FIREBASE_PROJECT_ID}} 
+      FIREBASE_HOSTING_CHANNEL: ${{vars.FIREBASE_HOSTING_CHANNEL}} 
+      FIREBASE_HOSTING_TARGET: ${{vars.FIREBASE_HOSTING_TARGET_RELEASE}} 
+      FIREBASE_SERVICE_ACCOUNT: ${{secrets.FIREBASE_SERVICE_ACCOUNT}}
