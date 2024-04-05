@@ -37,7 +37,7 @@ config.app_config.APP_SIDEMENU_DEFAULTS.title = "Formando Conciencia+";
 config.app_config.APP_HEADER_DEFAULTS.title = "Formando Conciencia+";
 config.app_config.NOTIFICATION_DEFAULTS.title = "Nuevo mensaje de Formando Conciencia+";
 config.app_config.NOTIFICATION_DEFAULTS.text = "Tienes un mensaje nuevo de Formando Conciencia+";
-config.app_config.APP_THEMES.available = ["default", "professional","plh_facilitator_mx"];
+config.app_config.APP_THEMES.available = ["plh_facilitator_mx"];
 config.app_config.APP_THEMES.defaultThemeName = "plh_facilitator_mx";
 
 config.error_logging = { dsn: "https://5adf6bcd892f43cd91d6eaa22cc45e40@app.glitchtip.com/5665"};
