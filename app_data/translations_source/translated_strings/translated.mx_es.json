@@ -1975,13 +1975,13 @@
   },
   {
     "SourceText": "Make sure that the ParentText ID consists of 6 numerical characters.",
-    "text": "Asegúrate de que la Identificación para el Programa Crianza con Conciencia+ (CC+) consta de 6 caracteres numéricos.",
+    "text": "Asegúrate de que el número de Identificación del Programa Crianza con Conciencia+ (CC+) conste de 6 caracteres numéricos.",
     "type": "template",
     "note": ""
   },
   {
     "SourceText": "This ParentText ID has already been assigned to another parent.",
-    "text": "Esta Identificación para el Programa Crianza con Conciencia+ (CC+) ya ha sido asignada a otro padre.",
+    "text": "Este número de Identificación del Programa Crianza con Conciencia+ (CC+) ya ha sido asignado a otra madre, padre o persona cuidadora.",
     "type": "template",
     "note": ""
   },
