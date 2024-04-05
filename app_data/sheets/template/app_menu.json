@@ -310,6 +310,46 @@
         },
         {
           "type": "button",
+          "name": "button_themes",
+          "value": "Themes",
+          "_translations": {
+            "value": {}
+          },
+          "action_list": [
+            {
+              "trigger": "click",
+              "action_id": "go_to",
+              "args": [
+                "/theme"
+              ],
+              "_raw": "click | go_to:/theme",
+              "_cleaned": "click | go_to:/theme"
+            }
+          ],
+          "_nested_name": "dg_dev.button_themes"
+        },
+        {
+          "type": "button",
+          "name": "button_import_user",
+          "value": "Import user",
+          "_translations": {
+            "value": {}
+          },
+          "action_list": [
+            {
+              "trigger": "click",
+              "action_id": "go_to",
+              "args": [
+                "import_user_data"
+              ],
+              "_raw": "click | go_to: import_user_data",
+              "_cleaned": "click | go_to: import_user_data"
+            }
+          ],
+          "_nested_name": "dg_dev.button_import_user"
+        },
+        {
+          "type": "button",
           "name": "button_reset",
           "value": "Reset app",
           "_translations": {

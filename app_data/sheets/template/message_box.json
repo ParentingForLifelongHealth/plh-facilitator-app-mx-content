@@ -219,7 +219,7 @@
               ],
               "parameter_list": {
                 "icon_src": "share-social",
-                "style": "dark_orange"
+                "style": "navigation"
               },
               "_nested_name": "dg_box.dg_bottom.button",
               "_dynamicFields": {

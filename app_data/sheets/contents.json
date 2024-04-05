@@ -584,6 +584,11 @@
       "flow_name": "home_screen_grid",
       "_xlsxPath": "templates/navigation.xlsx"
     },
+    "import_user_data": {
+      "flow_type": "template",
+      "flow_name": "import_user_data",
+      "_xlsxPath": "templates/app_menu.xlsx"
+    },
     "in_person_form": {
       "flow_type": "template",
       "flow_name": "in_person_form",

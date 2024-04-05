@@ -1,0 +1,56 @@
+{
+  "flow_type": "template",
+  "flow_name": "import_user_data",
+  "status": "released",
+  "rows": [
+    {
+      "type": "title",
+      "name": "title",
+      "value": "Import user",
+      "_translations": {
+        "value": {}
+      },
+      "_nested_name": "title"
+    },
+    {
+      "type": "text",
+      "name": "text_instruction",
+      "value": "Paste the ID of a user to import their data.",
+      "_translations": {
+        "value": {}
+      },
+      "_nested_name": "text_instruction"
+    },
+    {
+      "type": "text_box",
+      "name": "user_id_input",
+      "_nested_name": "user_id_input"
+    },
+    {
+      "type": "button",
+      "name": "button",
+      "value": "Import User",
+      "_translations": {
+        "value": {}
+      },
+      "condition": "click | user: import: @local.user_id_input;\nclick | emit : force_reprocess;",
+      "_nested_name": "button",
+      "_dynamicFields": {
+        "condition": [
+          {
+            "fullExpression": "click | user: import: @local.user_id_input;\nclick | emit : force_reprocess;",
+            "matchedExpression": "@local.user_id_input",
+            "type": "local",
+            "fieldName": "user_id_input"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.user_id_input": [
+          "condition"
+        ]
+      }
+    }
+  ],
+  "_xlsxPath": "templates/app_menu.xlsx"
+}
