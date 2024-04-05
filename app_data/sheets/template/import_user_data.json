@@ -13,13 +13,37 @@
       "_nested_name": "title"
     },
     {
-      "type": "text",
-      "name": "text_instruction",
-      "value": "Paste the ID of a user to import their account data.",
+      "name": "user_id_name",
+      "value": "Facilitator ID",
       "_translations": {
         "value": {}
       },
-      "_nested_name": "text_instruction"
+      "type": "set_variable",
+      "_nested_name": "user_id_name"
+    },
+    {
+      "type": "text",
+      "name": "text_instruction",
+      "value": "Paste the @local.facilitator_id of a user to import their account data.",
+      "_translations": {
+        "value": {}
+      },
+      "_nested_name": "text_instruction",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "Paste the @local.facilitator_id of a user to import their account data.",
+            "matchedExpression": "@local.facilitator_id",
+            "type": "local",
+            "fieldName": "facilitator_id"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.facilitator_id": [
+          "value"
+        ]
+      }
     },
     {
       "type": "text_box",
@@ -29,7 +53,7 @@
     {
       "type": "button",
       "name": "button_import",
-      "value": "Import User",
+      "value": "Import data",
       "_translations": {
         "value": {}
       },
