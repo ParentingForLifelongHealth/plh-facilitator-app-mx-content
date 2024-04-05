@@ -9,7 +9,7 @@ on:
 jobs:
   web_preview:
     uses: IDEMSInternational/parenting-app-ui/.github/workflows/reusable-deploy-web-preview.yml@master
-    secrets: 
+    with: 
       FIREBASE_PROJECT_ID: ${{vars.FIREBASE_PROJECT_ID}} 
       FIREBASE_HOSTING_CHANNEL: ${{vars.FIREBASE_HOSTING_CHANNEL}} 
       FIREBASE_HOSTING_TARGET: ${{vars.FIREBASE_HOSTING_TARGET_RELEASE}} 
