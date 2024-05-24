@@ -7,6 +7,13 @@
     {
       "id": "onboarding",
       "type": "in_person",
+      "tag_list": [
+        "study_dif_bc",
+        "study_dif_chih",
+        "study_dif_cdmx",
+        "study_dif_mich",
+        "scale_dif"
+      ],
       "name": "Onboarding",
       "_translations": {
         "name": {
@@ -22,6 +29,13 @@
     {
       "id": "week_1",
       "type": "virtual",
+      "tag_list": [
+        "study_dif_bc",
+        "study_dif_chih",
+        "study_dif_cdmx",
+        "study_dif_mich",
+        "scale_dif"
+      ],
       "name": "Day 3: Self-Talk",
       "_translations": {
         "name": {
@@ -33,6 +47,36 @@
           "eng": "Day 3: Self-Talk"
         }
       }
+    },
+    {
+      "id": "week_2",
+      "type": "virtual",
+      "tag_list": [
+        "study_dif_bc",
+        "study_dif_chih",
+        "study_dif_cdmx",
+        "study_dif_mich"
+      ]
+    },
+    {
+      "id": "week_3",
+      "type": "virtual",
+      "tag_list": [
+        "study_dif_bc",
+        "study_dif_chih",
+        "study_dif_cdmx",
+        "study_dif_mich"
+      ]
+    },
+    {
+      "id": "week_4",
+      "type": "virtual",
+      "tag_list": [
+        "study_dif_bc",
+        "study_dif_chih",
+        "study_dif_cdmx",
+        "study_dif_mich"
+      ]
     }
   ],
   "_xlsxPath": "data/FacilitatorApp MX content.xlsx"
