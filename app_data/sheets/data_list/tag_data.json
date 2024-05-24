@@ -5,86 +5,62 @@
   "data_list_name": "tag",
   "rows": [
     {
-      "id": "cdmx_dif",
-      "title": "Mexico City - DIF",
+      "id": "scale_dif",
+      "title": "SNDIF Capacitación Nacional",
       "_translations": {
-        "title": {
-          "mx_es": true
-        }
+        "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "Mexico City - DIF"
+          "eng": "SNDIF Capacitación Nacional"
         }
       }
     },
     {
-      "id": "cdmx_bs",
-      "title": "Mexico City - Bienestar",
+      "id": "study_dif_bc",
+      "title": "Investigación - Baja California",
       "_translations": {
-        "title": {
-          "mx_es": true
-        }
+        "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "Mexico City - Bienestar"
+          "eng": "Investigación - Baja California"
         }
       }
     },
     {
-      "id": "edomx_bs",
-      "title": "Estado de Mexico - Bienestar",
+      "id": "study_dif_chih",
+      "title": "Investigación - Chihuahua",
       "_translations": {
-        "title": {
-          "mx_es": true
-        }
+        "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "Estado de Mexico - Bienestar"
+          "eng": "Investigación - Chihuahua"
         }
       }
     },
     {
-      "id": "chih_dif",
-      "title": "Chihuahua - DIF",
+      "id": "study_dif_cdmx",
+      "title": "Investigación - Ciudad de México",
       "_translations": {
-        "title": {
-          "mx_es": true
-        }
+        "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "Chihuahua - DIF"
+          "eng": "Investigación - Ciudad de México"
         }
       }
     },
     {
-      "id": "bc_dif",
-      "title": "Baja California - DIF",
+      "id": "study_dif_mich",
+      "title": "Investigación - Michoacan",
       "_translations": {
-        "title": {
-          "mx_es": true
-        }
+        "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "Baja California - DIF"
-        }
-      }
-    },
-    {
-      "id": "mich_dif",
-      "title": "Michoacán - DIF",
-      "_translations": {
-        "title": {
-          "mx_es": true
-        }
-      },
-      "_translatedFields": {
-        "title": {
-          "eng": "Michoacán - DIF"
+          "eng": "Investigación - Michoacan"
         }
       }
     }

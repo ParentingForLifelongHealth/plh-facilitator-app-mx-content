@@ -315,7 +315,7 @@
                   },
                   "exclude_from_translation": true,
                   "type": "set_variable",
-                  "_nested_name": "dg_previous.items.existing_report.report_id",
+                  "_nested_name": "dg_previous.items_2.existing_report.report_id",
                   "_dynamicFields": {
                     "value": [
                       {
@@ -333,11 +333,11 @@
                   }
                 }
               ],
-              "_nested_name": "dg_previous.items.existing_report"
+              "_nested_name": "dg_previous.items_2.existing_report"
             }
           ],
-          "name": "items",
-          "_nested_name": "dg_previous.items",
+          "name": "items_2",
+          "_nested_name": "dg_previous.items_2",
           "_dynamicFields": {
             "value": [
               {

@@ -53,9 +53,7 @@
         "title": {
           "mx_es": true
         },
-        "introduction": {
-          "mx_es": true
-        },
+        "introduction": {},
         "related_articles_title": {
           "mx_es": true
         }
@@ -65,13 +63,13 @@
           "eng": "What should I do during the disclosure of abuse, neglect, or exploitation?"
         },
         "introduction": {
-          "eng": "**During disclosure:**\n\n💚 Provide a safe environment in which the participant can share their story.\n\n👂 Listen carefully to the participant and take notes: what/when/where/who.\n\n❗ Determine if the participant is in immediate danger and what help is available.\n\n💙 Make sure that the participant feels that you believe him/her.\n\n🌷 Let them know they have done the right thing by sharing their story with you.\n\n✨ Be supportive and free of judgment in your responses – avoid blaming at all times!\n\n➡️ Let the participant know that you will share what he/she told you with your supervisor to find a way to support and protect him/her.\n\n📝 Explain what you are going to do next.\n\n ✅ Notify @global.supervisor_name"
+          "eng": "**During disclosure:**\n\n💚 Provide a safe environment in which the participant can share their story.\n\n👂 Listen carefully to the participant and take notes: what/when/where/who.\n\n❗ Determine if the participant is in immediate danger and what help is available.\n\n💙 Make sure that the participant feels that you believe him/her.\n\n🌷 Let them know they have done the right thing by sharing their story with you.\n\n✨ Be supportive and free of judgment in your responses – avoid blaming at all times!\n\n➡️ Let the participant know that you will share what he/she told you with your supervisor to find a way to support and protect him/her.\n\n📝 Explain what you are going to do next.\n\n ✅ Notify @data.tag[@fields.current_package].supervisor_name"
         },
         "related_articles_title": {
           "eng": "Additional Safeguarding Resources"
         }
       },
-      "introduction": "**During disclosure:**\n\n💚 Provide a safe environment in which the participant can share their story.\n\n👂 Listen carefully to the participant and take notes: what/when/where/who.\n\n❗ Determine if the participant is in immediate danger and what help is available.\n\n💙 Make sure that the participant feels that you believe him/her.\n\n🌷 Let them know they have done the right thing by sharing their story with you.\n\n✨ Be supportive and free of judgment in your responses – avoid blaming at all times!\n\n➡️ Let the participant know that you will share what he/she told you with your supervisor to find a way to support and protect him/her.\n\n📝 Explain what you are going to do next.\n\n ✅ Notify @global.supervisor_name",
+      "introduction": "**During disclosure:**\n\n💚 Provide a safe environment in which the participant can share their story.\n\n👂 Listen carefully to the participant and take notes: what/when/where/who.\n\n❗ Determine if the participant is in immediate danger and what help is available.\n\n💙 Make sure that the participant feels that you believe him/her.\n\n🌷 Let them know they have done the right thing by sharing their story with you.\n\n✨ Be supportive and free of judgment in your responses – avoid blaming at all times!\n\n➡️ Let the participant know that you will share what he/she told you with your supervisor to find a way to support and protect him/her.\n\n📝 Explain what you are going to do next.\n\n ✅ Notify @data.tag[@fields.current_package].supervisor_name",
       "related_articles_title": "Additional Safeguarding Resources"
     },
     {
@@ -521,7 +519,10 @@
       "introduction": "You should congratulate yourself for taking the parents through the Crianza con Conciencia+ journey and celebrate with them the positive changes in their lives and for their girls, boys, and teens.\n\nYou can choose to stay or leave the WhatsApp Group after the program ends.",
       "related_articles_title": "FAQ",
       "message_title_1": "Message 1: Goodbye",
-      "message_text_1": "It's been wonderful being part of this amazing parenting course with all of you! Although I am feeling a bit sad to say goodbye, I am also happy to see how much we have achieved in this programme.  \n\nAs I shared with you during the onboarding session, I will now be exiting this WhatsApp Group. 👋\n\nYou are the best parents to your boys, girls, and teens.  *You can still complete your final Crianza con Conciencia+ lessons if you have not done so yet*. 🌱\n\nWe all have good days and bad days, and Crianza con Conciencia+ will help you and your girl, boy or teen to get through them together. Well done! \n\nThank you for being the first parents for trying out Crianza con Conciencia+, and we're grateful for your help in improving the course. More courses will be coming to ParentText soon, so stay tuned!"
+      "message_text_1": "It's been wonderful being part of this amazing parenting course with all of you! Although I am feeling a bit sad to say goodbye, I am also happy to see how much we have achieved in this programme.  \n\nAs I shared with you during the onboarding session, I will now be exiting this WhatsApp Group. 👋\n\nYou are the best parents to your boys, girls, and teens.  *You can still complete your final Crianza con Conciencia+ lessons if you have not done so yet*. 🌱\n\nWe all have good days and bad days, and Crianza con Conciencia+ will help you and your girl, boy or teen to get through them together. Well done! \n\nThank you for being the first parents for trying out Crianza con Conciencia+, and we're grateful for your help in improving the course. More courses will be coming to ParentText soon, so stay tuned!",
+      "tag_list": [
+        "study_dif"
+      ]
     },
     {
       "id": "faq_text_support",
@@ -529,24 +530,20 @@
         "faq"
       ],
       "icon_asset": "images/faq_text_support.svg",
-      "title": "A parent needs support accessing Crianza con Conciencia+, and I'm not sure how to answer their question.",
+      "title": "A parent needs support accessing the chatbot, and I'm not sure how to answer their question.",
       "_translations": {
-        "title": {
-          "mx_es": true
-        },
-        "introduction": {
-          "mx_es": true
-        }
+        "title": {},
+        "introduction": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "A parent needs support accessing Crianza con Conciencia+, and I'm not sure how to answer their question."
+          "eng": "A parent needs support accessing the chatbot, and I'm not sure how to answer their question."
         },
         "introduction": {
-          "eng": "Reach out for support to @global.supervisor_name."
+          "eng": "Reach out for support to @data.tag[@fields.current_package].supervisor_name."
         }
       },
-      "introduction": "Reach out for support to @global.supervisor_name."
+      "introduction": "Reach out for support to @data.tag[@fields.current_package].supervisor_name."
     },
     {
       "id": "faq_ground_rules",
@@ -647,9 +644,7 @@
         "title": {
           "mx_es": true
         },
-        "introduction": {
-          "mx_es": true
-        },
+        "introduction": {},
         "message_title_1": {
           "mx_es": true
         },
@@ -662,7 +657,7 @@
           "eng": "A parent is personally messaging me or calling me with lots of questions on their parenting habits or girl, boy or teen’s misbehaviours."
         },
         "introduction": {
-          "eng": "Parents may see you as someone they can turn to for help beyond school and Crianza con Conciencia+, especially when they need advice on their boy, girl, or teen’s  behaviour. \n\nEven though you want to help, finding a balance for your well-being is important. \n\nShare the following message to gently remind the parents about your role in Crianza con Conciencia+. \n\nIf the parents continue to persist, notify @global.supervisor_name."
+          "eng": "Parents may see you as someone they can turn to for help beyond school and Crianza con Conciencia+, especially when they need advice on their boy, girl, or teen’s  behaviour. \n\nEven though you want to help, finding a balance for your well-being is important. \n\nShare the following message to gently remind the parents about your role in Crianza con Conciencia+. \n\nIf the parents continue to persist, notify @data.tag[@fields.current_package].supervisor_name."
         },
         "message_title_1": {
           "eng": "Send This Message to the Parent"
@@ -671,7 +666,7 @@
           "eng": "Hi!😃Thank you for your message. \n\nMy role in this activity is limited to only sharing messages in the group. I unfortunately do not have the capacity to respond to each individual message.😔\n\n🔑 If you are comfortable posting your questions in the group, please feel free to do so during our chat sessions! 💡\n\nYou can also type MENU in ParentText to get more support about the courses."
         }
       },
-      "introduction": "Parents may see you as someone they can turn to for help beyond school and Crianza con Conciencia+, especially when they need advice on their boy, girl, or teen’s  behaviour. \n\nEven though you want to help, finding a balance for your well-being is important. \n\nShare the following message to gently remind the parents about your role in Crianza con Conciencia+. \n\nIf the parents continue to persist, notify @global.supervisor_name.",
+      "introduction": "Parents may see you as someone they can turn to for help beyond school and Crianza con Conciencia+, especially when they need advice on their boy, girl, or teen’s  behaviour. \n\nEven though you want to help, finding a balance for your well-being is important. \n\nShare the following message to gently remind the parents about your role in Crianza con Conciencia+. \n\nIf the parents continue to persist, notify @data.tag[@fields.current_package].supervisor_name.",
       "message_title_1": "Send This Message to the Parent",
       "message_text_1": "Hi!😃Thank you for your message. \n\nMy role in this activity is limited to only sharing messages in the group. I unfortunately do not have the capacity to respond to each individual message.😔\n\n🔑 If you are comfortable posting your questions in the group, please feel free to do so during our chat sessions! 💡\n\nYou can also type MENU in ParentText to get more support about the courses."
     },
@@ -964,12 +959,87 @@
       "introduction": "The Onboarding Session sets the tone for the entire Crianza con Conciencia+ programme. It is important to create a welcoming and safe space for the participants to feel at ease and familiarise themselves with the programme.",
       "section_title_1": "1 week before your session",
       "section_text_1": "- Read the Facilitator Guide on Formando Conciencia+ \n\n- Practise the onboarding session with a peer or supervisor",
+      "tag_list": [
+        "scale_dif"
+      ],
       "resource_data_1": "pdf",
-      "resource_id_1": "manual",
       "sections_title": "Preparation Checklist",
       "section_title_2": "1 hour before your session",
       "section_text_2": "- Download the PowerPoint slide to your laptop \n\n- Download the videos embedded in the slides to your laptop \n\n- Go through your PowerPoint slides and videos to make sure everything is working smoothly",
-      "resource_title_1": "Manual"
+      "resource_title_1": "Manual",
+      "resource_id_1": "manual"
+    },
+    {
+      "id": "onboarding_cc_study",
+      "home_screen_section_list": [
+        "programme"
+      ],
+      "icon_asset": "images/onboarding_cc_study.svg",
+      "title": "Guide for In-Person Onboarding",
+      "_translations": {
+        "title": {
+          "mx_es": true
+        },
+        "introduction": {
+          "mx_es": true
+        },
+        "section_title_1": {
+          "mx_es": true
+        },
+        "section_text_1": {
+          "mx_es": true
+        },
+        "sections_title": {
+          "mx_es": true
+        },
+        "section_title_2": {
+          "mx_es": true
+        },
+        "section_text_2": {
+          "mx_es": true
+        },
+        "resource_title_1": {
+          "mx_es": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Guide for In-Person Onboarding"
+        },
+        "introduction": {
+          "eng": "The Onboarding Session sets the tone for the entire Crianza con Conciencia+ programme. It is important to create a welcoming and safe space for the participants to feel at ease and familiarise themselves with the programme."
+        },
+        "sections_title": {
+          "eng": "Preparation Checklist"
+        },
+        "section_title_1": {
+          "eng": "1 week before your session"
+        },
+        "section_text_1": {
+          "eng": "- Read the Facilitator Guide on Formando Conciencia+ \n\n- Practise the onboarding session with a peer or supervisor"
+        },
+        "section_title_2": {
+          "eng": "1 hour before your session"
+        },
+        "section_text_2": {
+          "eng": "- Download the PowerPoint slide to your laptop \n\n- Download the videos embedded in the slides to your laptop \n\n- Go through your PowerPoint slides and videos to make sure everything is working smoothly"
+        },
+        "resource_title_1": {
+          "eng": "Manual"
+        }
+      },
+      "introduction": "The Onboarding Session sets the tone for the entire Crianza con Conciencia+ programme. It is important to create a welcoming and safe space for the participants to feel at ease and familiarise themselves with the programme.",
+      "section_title_1": "1 week before your session",
+      "section_text_1": "- Read the Facilitator Guide on Formando Conciencia+ \n\n- Practise the onboarding session with a peer or supervisor",
+      "tag_list": [
+        "study_dif"
+      ],
+      "resource_data_1": "pdf",
+      "sections_title": "Preparation Checklist",
+      "section_title_2": "1 hour before your session",
+      "section_text_2": "- Download the PowerPoint slide to your laptop \n\n- Download the videos embedded in the slides to your laptop \n\n- Go through your PowerPoint slides and videos to make sure everything is working smoothly",
+      "resource_title_1": "Manual",
+      "resource_id_1": "manual"
     },
     {
       "id": "how_to_chat_session",
@@ -1001,9 +1071,7 @@
         "section_title_2": {
           "mx_es": true
         },
-        "section_text_2": {
-          "mx_es": true
-        },
+        "section_text_2": {},
         "section_title_3": {
           "mx_es": true
         },
@@ -1037,7 +1105,7 @@
           "eng": "Conduct Chat Session"
         },
         "section_text_2": {
-          "eng": "**Before conducting the chat sessions, make sure you:** \n\nCreate a WhatsApp Group during the onboarding session. \n\nIdentify the ground rules for the WhatsApp Group.\n\n**Structure for the chat sessions**: \n\nDay  1 (immediately after the onboarding session): Welcome, introductions, and reminder of home practice\n\nDay 3: WhatsApp Chat session on self-talk and stress\n\nDay 5: Checking in on parents’ experience and closing\n\n**When to send the messages** \n\nYou and your group will decide a time to chat during the onboarding session. \n\nEach chat session has a reminder message (Message 1) that you should send a few hours before the chat session. \n\nSend the remaining messages during the scheduled chat time."
+          "eng": "**Before conducting the chat sessions, make sure you:** \n\nCreate a WhatsApp Group during the onboarding session. \nIdentify the ground rules for the WhatsApp Group\n\n**Structure for the chat sessions**: \r\rDay  1 (immediately after the onboarding session): Welcome, introductions, and reminder of home practice. \n\nDay 2: Send an encouraging message \r\rDay 3: Self-talk: WhatsApp Chat session on self-talk and stress\n\nDay 4: Send an encouraging message \r\rDay 6: Checking in on parents’ experience and closing\n\n**When to send the messages** \n\nYou and your group will decide a time to chat during the onboarding session. \r\rEach chat session has a reminder message (Message 1) that you should send a few hours before the chat session. \n\nSend the remaining messages during the scheduled chat time."
         },
         "section_title_3": {
           "eng": "Share the messages in the chat session"
@@ -1061,7 +1129,7 @@
       "section_text_1": "**Make sure you have done the following before the onboarding session starts:** \n\n- Save the names and WhatsApp numbers of the parents assigned to you on your phone (if available), so you can easily confirm details during the onboarding session. \n\n- Create your WhatsApp group (with the temporary group name, icon, and description). The name of each WhatsApp group has the same structure:\n“Crianza con Conciencia+”\nA name selected by the group \n\nWhen you create your temporary group name, you will use \"Crianza con Conciencia+” \n\nYou can keep your temporary group name or you can add a name to the temporary group name. For example, “Crianza con Conciencia+__HappyFamilies”.",
       "sections_title": "How to:",
       "section_title_2": "Conduct Chat Session",
-      "section_text_2": "**Before conducting the chat sessions, make sure you:** \n\nCreate a WhatsApp Group during the onboarding session. \n\nIdentify the ground rules for the WhatsApp Group.\n\n**Structure for the chat sessions**: \n\nDay  1 (immediately after the onboarding session): Welcome, introductions, and reminder of home practice\n\nDay 3: WhatsApp Chat session on self-talk and stress\n\nDay 5: Checking in on parents’ experience and closing\n\n**When to send the messages** \n\nYou and your group will decide a time to chat during the onboarding session. \n\nEach chat session has a reminder message (Message 1) that you should send a few hours before the chat session. \n\nSend the remaining messages during the scheduled chat time.",
+      "section_text_2": "**Before conducting the chat sessions, make sure you:** \n\nCreate a WhatsApp Group during the onboarding session. \nIdentify the ground rules for the WhatsApp Group\n\n**Structure for the chat sessions**: \r\rDay  1 (immediately after the onboarding session): Welcome, introductions, and reminder of home practice. \n\nDay 2: Send an encouraging message \r\rDay 3: Self-talk: WhatsApp Chat session on self-talk and stress\n\nDay 4: Send an encouraging message \r\rDay 6: Checking in on parents’ experience and closing\n\n**When to send the messages** \n\nYou and your group will decide a time to chat during the onboarding session. \r\rEach chat session has a reminder message (Message 1) that you should send a few hours before the chat session. \n\nSend the remaining messages during the scheduled chat time.",
       "section_title_3": "Share the messages in the chat session",
       "section_text_3": "Look for the \"Chat Sessions\" section on the Formando Conciencia+ homepage\n\nFind the specific chat session you want to share and click on it.\n\nOnce you're on the content for that session, locate the \"Share\" icon. It should look like an arrow pointing upward or a box with an arrow, and it's used to share content. Click on the \"Share\" icon.\n\nSelect \"WhatsApp\" as your sharing option in the menu that appears.\n\nChoose your Crianza con Conciencia+ Support Group from the list. \n\nBefore you hit the \"Send\" button, make sure to add or change any necessary information like your name. \n\nFinally, click the \"Send\" button to share the content with your Crianza con Conciencia+ Support Group.",
       "section_title_4": "Get Help with WhatsApp Support Group",
@@ -1088,9 +1156,7 @@
         "section_title_1": {
           "mx_es": true
         },
-        "section_text_1": {
-          "mx_es": true
-        },
+        "section_text_1": {},
         "sections_title": {
           "mx_es": true
         },
@@ -1133,7 +1199,7 @@
           "eng": "Set up your profile"
         },
         "section_text_1": {
-          "eng": "Select the profile icon from the bottom navigation bar\n\nChoose “About you” \n\nType your name under “Your name” \n\nSelect your state from the dropdown menu \n\nTap Save"
+          "eng": "Select the profile icon from the bottom navigation bar. \n\nChoose “About you” \n\nType your name under “Your name” \n\nSelect your state from the dropdown menu \n\rTap Save"
         },
         "section_title_2": {
           "eng": "Add a Parent"
@@ -1166,7 +1232,7 @@
       "introduction": "The Formando Conciencia+ also makes reporting on the delivery of Crianza con Conciencia+ much easier than paper forms.\n\nAfter adding each parent’s name to the App, you will be able to report on their participation during in-person and WhatsApp group sessions.\n\nYou will also report on your own experience, including the time spent conducting each session and whether you were able to do all the activities in the session.",
       "related_articles_title": "Other information:",
       "section_title_1": "Set up your profile",
-      "section_text_1": "Select the profile icon from the bottom navigation bar\n\nChoose “About you” \n\nType your name under “Your name” \n\nSelect your state from the dropdown menu \n\nTap Save",
+      "section_text_1": "Select the profile icon from the bottom navigation bar. \n\nChoose “About you” \n\nType your name under “Your name” \n\nSelect your state from the dropdown menu \n\rTap Save",
       "sections_title": "How to:",
       "section_title_2": "Add a Parent",
       "section_text_2": "Select the profile icon from the bottom navigation bar. \n\nChoose “Add Parent”\n\nEnter parent details in the form. To enter the parent’s unique identifier (UID), ask them to text “ID” on Crianza con Conciencia+. Copy the 6-digit number into the parent profile.",

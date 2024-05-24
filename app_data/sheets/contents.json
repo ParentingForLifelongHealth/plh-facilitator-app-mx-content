@@ -225,23 +225,28 @@
       "flow_name": "profile_global",
       "_xlsxPath": "data/profile_data.xlsx"
     },
+    "programme_name": {
+      "flow_type": "global",
+      "flow_name": "programme_name",
+      "_xlsxPath": "data/dynamic_global_mx.xlsx"
+    },
+    "programme_name_chih": {
+      "flow_type": "global",
+      "flow_name": "programme_name_chih",
+      "override_target": "programme_name",
+      "override_condition": "@fields.current_package == \"study_dif_chih\"",
+      "_xlsxPath": "data/dynamic_global_mx.xlsx"
+    },
     "supervisor_name": {
       "flow_type": "global",
       "flow_name": "supervisor_name",
-      "_xlsxPath": "data/dynamic_global_mx.xlsx"
-    },
-    "supervisor_name_bs": {
-      "flow_type": "global",
-      "flow_name": "supervisor_name_bs",
-      "override_target": "supervisor_name",
-      "override_condition": "@fields.current_package == \"cdmx_bs\" || @fields.current_package == \"edomx_bs\"",
       "_xlsxPath": "data/dynamic_global_mx.xlsx"
     },
     "supervisor_name_dif": {
       "flow_type": "global",
       "flow_name": "supervisor_name_dif",
       "override_target": "supervisor_name",
-      "override_condition": "@fields.current_package == \"cdmx_dif\" || @fields.current_package == \"chih_dif\" || @fields.current_package == \"bc_dif\" || @fields.current_package == \"mich_dif\"",
+      "override_condition": "@fields.current_package == \"study_dif_bc\" || @fields.current_package == \"study_dif_chih\" || @fields.current_package == \"study_dif_cdmx\" || @fields.current_package == \"study_dif_mich\" || @fields.current_package == \"scale_dif\"",
       "_xlsxPath": "data/dynamic_global_mx.xlsx"
     }
   },
@@ -484,6 +489,11 @@
       "flow_subtype": "generated",
       "flow_type": "template"
     },
+    "article_onboarding_cc_study": {
+      "flow_name": "article_onboarding_cc_study",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
     "article_one_on_one_challenges": {
       "flow_name": "article_one_on_one_challenges",
       "flow_subtype": "generated",
@@ -491,6 +501,11 @@
     },
     "article_overview_cc": {
       "flow_name": "article_overview_cc",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "article_overview_cc_study": {
+      "flow_name": "article_overview_cc_study",
       "flow_subtype": "generated",
       "flow_type": "template"
     },

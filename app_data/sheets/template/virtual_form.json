@@ -1020,7 +1020,7 @@
               },
               "exclude_from_translation": true,
               "type": "set_variable",
-              "_nested_name": "items.dg_parents.parent_no",
+              "_nested_name": "items_29.dg_parents.parent_no",
               "_dynamicFields": {
                 "value": [
                   {
@@ -1045,7 +1045,7 @@
               },
               "exclude_from_translation": true,
               "type": "set_variable",
-              "_nested_name": "items.dg_parents.parent_id",
+              "_nested_name": "items_29.dg_parents.parent_id",
               "_dynamicFields": {
                 "value": [
                   {
@@ -1070,7 +1070,7 @@
               },
               "exclude_from_translation": true,
               "type": "set_variable",
-              "_nested_name": "items.dg_parents.toggle_initial_state",
+              "_nested_name": "items_29.dg_parents.toggle_initial_state",
               "_dynamicFields": {
                 "value": [
                   {
@@ -1113,7 +1113,7 @@
                 "value": {}
               },
               "exclude_from_translation": true,
-              "_nested_name": "items.dg_parents.parent_@item.parent_no",
+              "_nested_name": "items_29.dg_parents.parent_@item.parent_no",
               "_dynamicFields": {
                 "name": [
                   {
@@ -1133,7 +1133,7 @@
                 ],
                 "_nested_name": [
                   {
-                    "fullExpression": "items.dg_parents.parent_@item.parent_no",
+                    "fullExpression": "items_29.dg_parents.parent_@item.parent_no",
                     "matchedExpression": "@item.parent_no",
                     "type": "item",
                     "fieldName": "parent_no"
@@ -1158,7 +1158,7 @@
               },
               "exclude_from_translation": true,
               "type": "set_variable",
-              "_nested_name": "items.dg_parents.parent_first_name",
+              "_nested_name": "items_29.dg_parents.parent_first_name",
               "_dynamicFields": {
                 "value": [
                   {
@@ -1192,7 +1192,7 @@
               },
               "exclude_from_translation": true,
               "type": "set_variable",
-              "_nested_name": "items.dg_parents.parent_last_name",
+              "_nested_name": "items_29.dg_parents.parent_last_name",
               "_dynamicFields": {
                 "value": [
                   {
@@ -1226,7 +1226,7 @@
               },
               "exclude_from_translation": true,
               "type": "set_variable",
-              "_nested_name": "items.dg_parents.parent_name",
+              "_nested_name": "items_29.dg_parents.parent_name",
               "_dynamicFields": {
                 "value": [
                   {
@@ -1304,7 +1304,7 @@
               "style_list": [
                 "flex: 1"
               ],
-              "_nested_name": "items.dg_parents.text_name_@item.parent_no",
+              "_nested_name": "items_29.dg_parents.text_name_@item.parent_no",
               "_dynamicFields": {
                 "name": [
                   {
@@ -1324,7 +1324,7 @@
                 ],
                 "_nested_name": [
                   {
-                    "fullExpression": "items.dg_parents.text_name_@item.parent_no",
+                    "fullExpression": "items_29.dg_parents.text_name_@item.parent_no",
                     "matchedExpression": "@item.parent_no",
                     "type": "item",
                     "fieldName": "parent_no"
@@ -1350,7 +1350,7 @@
               "condition": "@local.@local.parent_id",
               "exclude_from_translation": true,
               "type": "set_variable",
-              "_nested_name": "items.dg_parents.add_parent_@item.parent_no",
+              "_nested_name": "items_29.dg_parents.add_parent_@item.parent_no",
               "_dynamicFields": {
                 "name": [
                   {
@@ -1390,7 +1390,7 @@
                 ],
                 "_nested_name": [
                   {
-                    "fullExpression": "items.dg_parents.add_parent_@item.parent_no",
+                    "fullExpression": "items_29.dg_parents.add_parent_@item.parent_no",
                     "matchedExpression": "@item.parent_no",
                     "type": "item",
                     "fieldName": "parent_no"
@@ -1423,7 +1423,7 @@
               "condition": "!(@local.@local.parent_id)",
               "exclude_from_translation": true,
               "type": "set_variable",
-              "_nested_name": "items.dg_parents.delete_parent_@item.parent_no",
+              "_nested_name": "items_29.dg_parents.delete_parent_@item.parent_no",
               "_dynamicFields": {
                 "name": [
                   {
@@ -1463,7 +1463,7 @@
                 ],
                 "_nested_name": [
                   {
-                    "fullExpression": "items.dg_parents.delete_parent_@item.parent_no",
+                    "fullExpression": "items_29.dg_parents.delete_parent_@item.parent_no",
                     "matchedExpression": "@item.parent_no",
                     "type": "item",
                     "fieldName": "parent_no"
@@ -1488,11 +1488,11 @@
               }
             }
           ],
-          "_nested_name": "items.dg_parents"
+          "_nested_name": "items_29.dg_parents"
         }
       ],
-      "name": "items",
-      "_nested_name": "items",
+      "name": "items_29",
+      "_nested_name": "items_29",
       "_dynamicFields": {
         "value": [
           {
@@ -1645,49 +1645,64 @@
     {
       "name": "answer_list",
       "value": [
-        "name: all | text: @local.all",
-        "name: some | text: @local.some",
-        "name: none | text: @local.none"
+        {
+          "name": "all",
+          "text": "@local.all"
+        },
+        {
+          "name": "some",
+          "text": "@local.some"
+        },
+        {
+          "name": "none",
+          "text": "@local.none"
+        }
       ],
       "type": "set_variable",
       "_nested_name": "answer_list",
       "_dynamicFields": {
         "value": {
-          "0": [
-            {
-              "fullExpression": "name: all | text: @local.all",
-              "matchedExpression": "@local.all",
-              "type": "local",
-              "fieldName": "all"
-            }
-          ],
-          "1": [
-            {
-              "fullExpression": "name: some | text: @local.some",
-              "matchedExpression": "@local.some",
-              "type": "local",
-              "fieldName": "some"
-            }
-          ],
-          "2": [
-            {
-              "fullExpression": "name: none | text: @local.none",
-              "matchedExpression": "@local.none",
-              "type": "local",
-              "fieldName": "none"
-            }
-          ]
+          "0": {
+            "text": [
+              {
+                "fullExpression": "@local.all",
+                "matchedExpression": "@local.all",
+                "type": "local",
+                "fieldName": "all"
+              }
+            ]
+          },
+          "1": {
+            "text": [
+              {
+                "fullExpression": "@local.some",
+                "matchedExpression": "@local.some",
+                "type": "local",
+                "fieldName": "some"
+              }
+            ]
+          },
+          "2": {
+            "text": [
+              {
+                "fullExpression": "@local.none",
+                "matchedExpression": "@local.none",
+                "type": "local",
+                "fieldName": "none"
+              }
+            ]
+          }
         }
       },
       "_dynamicDependencies": {
         "@local.all": [
-          "value.0"
+          "value.0.text"
         ],
         "@local.some": [
-          "value.1"
+          "value.1.text"
         ],
         "@local.none": [
-          "value.2"
+          "value.2.text"
         ]
       }
     },
@@ -1789,6 +1804,263 @@
           "value"
         ],
         "@calc(@local.attendance_data_json[@local.report_id].sent_messages = @local.radio_button_grid_sent_messages)": [
+          "value"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "name": "question_how_session_went",
+      "value": "How do you feel the session went?",
+      "_translations": {
+        "value": {}
+      },
+      "parameter_list": {
+        "style": "emphasised"
+      },
+      "_nested_name": "question_how_session_went"
+    },
+    {
+      "name": "very_well",
+      "value": "Very well",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "very_well"
+    },
+    {
+      "name": "well",
+      "value": "Well",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "well"
+    },
+    {
+      "name": "okay",
+      "value": "Acceptable / Okay",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "okay"
+    },
+    {
+      "name": "poorly",
+      "value": "Poorly",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "poorly"
+    },
+    {
+      "name": "very_poorly",
+      "value": "Very Poorly",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "very_poorly"
+    },
+    {
+      "name": "answer_list_2",
+      "value": [
+        {
+          "name": "very_well",
+          "text": "@local.very_well"
+        },
+        {
+          "name": "well",
+          "text": "@local.well"
+        },
+        {
+          "name": "okay",
+          "text": "@local.okay"
+        },
+        {
+          "name": "poorly",
+          "text": "@local.poorly"
+        },
+        {
+          "name": "very_poorly",
+          "text": "@local.very_poorly"
+        }
+      ],
+      "type": "set_variable",
+      "_nested_name": "answer_list_2",
+      "_dynamicFields": {
+        "value": {
+          "0": {
+            "text": [
+              {
+                "fullExpression": "@local.very_well",
+                "matchedExpression": "@local.very_well",
+                "type": "local",
+                "fieldName": "very_well"
+              }
+            ]
+          },
+          "1": {
+            "text": [
+              {
+                "fullExpression": "@local.well",
+                "matchedExpression": "@local.well",
+                "type": "local",
+                "fieldName": "well"
+              }
+            ]
+          },
+          "2": {
+            "text": [
+              {
+                "fullExpression": "@local.okay",
+                "matchedExpression": "@local.okay",
+                "type": "local",
+                "fieldName": "okay"
+              }
+            ]
+          },
+          "3": {
+            "text": [
+              {
+                "fullExpression": "@local.poorly",
+                "matchedExpression": "@local.poorly",
+                "type": "local",
+                "fieldName": "poorly"
+              }
+            ]
+          },
+          "4": {
+            "text": [
+              {
+                "fullExpression": "@local.very_poorly",
+                "matchedExpression": "@local.very_poorly",
+                "type": "local",
+                "fieldName": "very_poorly"
+              }
+            ]
+          }
+        }
+      },
+      "_dynamicDependencies": {
+        "@local.very_well": [
+          "value.0.text"
+        ],
+        "@local.well": [
+          "value.1.text"
+        ],
+        "@local.okay": [
+          "value.2.text"
+        ],
+        "@local.poorly": [
+          "value.3.text"
+        ],
+        "@local.very_poorly": [
+          "value.4.text"
+        ]
+      }
+    },
+    {
+      "type": "radio_button_grid",
+      "name": "radio_button_grid_how_session_went",
+      "value": "@local.attendance_data_json[@local.report_id].how_session_went",
+      "_translations": {
+        "value": {}
+      },
+      "parameter_list": {
+        "item_width": "100%",
+        "answer_list": "@local.answer_list_2"
+      },
+      "_nested_name": "radio_button_grid_how_session_went",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@local.attendance_data_json[@local.report_id].how_session_went",
+            "matchedExpression": "@local.attendance_data_json",
+            "type": "local",
+            "fieldName": "attendance_data_json"
+          },
+          {
+            "fullExpression": "@local.attendance_data_json[@local.report_id].how_session_went",
+            "matchedExpression": "@local.report_id",
+            "type": "local",
+            "fieldName": "report_id"
+          }
+        ],
+        "parameter_list": {
+          "answer_list": [
+            {
+              "fullExpression": "@local.answer_list_2",
+              "matchedExpression": "@local.answer_list_2",
+              "type": "local",
+              "fieldName": "answer_list_2"
+            }
+          ]
+        }
+      },
+      "_dynamicDependencies": {
+        "@local.attendance_data_json": [
+          "value"
+        ],
+        "@local.report_id": [
+          "value"
+        ],
+        "@local.answer_list_2": [
+          "parameter_list.answer_list"
+        ]
+      }
+    },
+    {
+      "name": "set_messages_2",
+      "value": "@calc(@local.attendance_data_json[@local.report_id].how_session_went = @local.radio_button_grid_how_session_went)",
+      "_translations": {
+        "value": {}
+      },
+      "exclude_from_translation": true,
+      "type": "set_variable",
+      "_nested_name": "set_messages_2",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@calc(@local.attendance_data_json[@local.report_id].how_session_went = @local.radio_button_grid_how_session_went)",
+            "matchedExpression": "@local.attendance_data_json",
+            "type": "local",
+            "fieldName": "attendance_data_json"
+          },
+          {
+            "fullExpression": "@calc(@local.attendance_data_json[@local.report_id].how_session_went = @local.radio_button_grid_how_session_went)",
+            "matchedExpression": "@local.report_id",
+            "type": "local",
+            "fieldName": "report_id"
+          },
+          {
+            "fullExpression": "@calc(@local.attendance_data_json[@local.report_id].how_session_went = @local.radio_button_grid_how_session_went)",
+            "matchedExpression": "@local.radio_button_grid_how_session_went",
+            "type": "local",
+            "fieldName": "radio_button_grid_how_session_went"
+          },
+          {
+            "fullExpression": "@calc(@local.attendance_data_json[@local.report_id].how_session_went = @local.radio_button_grid_how_session_went)",
+            "matchedExpression": "@calc(@local.attendance_data_json[@local.report_id].how_session_went = @local.radio_button_grid_how_session_went)",
+            "type": "calc",
+            "fieldName": "@local.attendance_data_json[@local.report_id].how_session_went = @local.radio_button_grid_how_session_went"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.attendance_data_json": [
+          "value"
+        ],
+        "@local.report_id": [
+          "value"
+        ],
+        "@local.radio_button_grid_how_session_went": [
+          "value"
+        ],
+        "@calc(@local.attendance_data_json[@local.report_id].how_session_went = @local.radio_button_grid_how_session_went)": [
           "value"
         ]
       }

@@ -312,7 +312,7 @@
           "style_list": [
             "flex:1"
           ],
-          "_nested_name": "display_group.button_no"
+          "_nested_name": "display_group_13.button_no"
         },
         {
           "type": "button",
@@ -350,7 +350,7 @@
           "style_list": [
             "flex:1"
           ],
-          "_nested_name": "display_group.button_delete",
+          "_nested_name": "display_group_13.button_delete",
           "_dynamicFields": {
             "action_list": {
               "0": {
@@ -392,8 +392,8 @@
           }
         }
       ],
-      "name": "display_group",
-      "_nested_name": "display_group"
+      "name": "display_group_13",
+      "_nested_name": "display_group_13"
     }
   ],
   "_xlsxPath": "templates/data_collection.xlsx"
