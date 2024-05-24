@@ -3,7 +3,7 @@
   "flow_name": "supervisor_name_dif",
   "status": "released",
   "override_target": "supervisor_name",
-  "override_condition": "@fields.current_package == \"cdmx_dif\" || @fields.current_package == \"chih_dif\" || @fields.current_package == \"bc_dif\" || @fields.current_package == \"mich_dif\"",
+  "override_condition": "@fields.current_package == \"study_dif_bc\" || @fields.current_package == \"study_dif_chih\" || @fields.current_package == \"study_dif_cdmx\" || @fields.current_package == \"study_dif_mich\" || @fields.current_package == \"scale_dif\"",
   "rows": [
     {
       "type": "declare_global_constant",

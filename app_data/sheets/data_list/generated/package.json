@@ -4,100 +4,74 @@
   "flow_type": "data_list",
   "rows": [
     {
-      "id": "cdmx_dif",
-      "title": "Mexico City - DIF",
+      "id": "scale_dif",
+      "title": "SNDIF Capacitación Nacional",
       "_translations": {
-        "title": {
-          "mx_es": true
-        }
+        "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "Mexico City - DIF"
+          "eng": "SNDIF Capacitación Nacional"
         }
       },
-      "name": "cdmx_dif",
-      "text": "Mexico City - DIF"
+      "name": "scale_dif",
+      "text": "SNDIF Capacitación Nacional"
     },
     {
-      "id": "cdmx_bs",
-      "title": "Mexico City - Bienestar",
+      "id": "study_dif_bc",
+      "title": "Investigación - Baja California",
       "_translations": {
-        "title": {
-          "mx_es": true
-        }
+        "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "Mexico City - Bienestar"
+          "eng": "Investigación - Baja California"
         }
       },
-      "name": "cdmx_bs",
-      "text": "Mexico City - Bienestar"
+      "name": "study_dif_bc",
+      "text": "Investigación - Baja California"
     },
     {
-      "id": "edomx_bs",
-      "title": "Estado de Mexico - Bienestar",
+      "id": "study_dif_chih",
+      "title": "Investigación - Chihuahua",
       "_translations": {
-        "title": {
-          "mx_es": true
-        }
+        "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "Estado de Mexico - Bienestar"
+          "eng": "Investigación - Chihuahua"
         }
       },
-      "name": "edomx_bs",
-      "text": "Estado de Mexico - Bienestar"
+      "name": "study_dif_chih",
+      "text": "Investigación - Chihuahua"
     },
     {
-      "id": "chih_dif",
-      "title": "Chihuahua - DIF",
+      "id": "study_dif_cdmx",
+      "title": "Investigación - Ciudad de México",
       "_translations": {
-        "title": {
-          "mx_es": true
-        }
+        "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "Chihuahua - DIF"
+          "eng": "Investigación - Ciudad de México"
         }
       },
-      "name": "chih_dif",
-      "text": "Chihuahua - DIF"
+      "name": "study_dif_cdmx",
+      "text": "Investigación - Ciudad de México"
     },
     {
-      "id": "bc_dif",
-      "title": "Baja California - DIF",
+      "id": "study_dif_mich",
+      "title": "Investigación - Michoacan",
       "_translations": {
-        "title": {
-          "mx_es": true
-        }
+        "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "Baja California - DIF"
+          "eng": "Investigación - Michoacan"
         }
       },
-      "name": "bc_dif",
-      "text": "Baja California - DIF"
-    },
-    {
-      "id": "mich_dif",
-      "title": "Michoacán - DIF",
-      "_translations": {
-        "title": {
-          "mx_es": true
-        }
-      },
-      "_translatedFields": {
-        "title": {
-          "eng": "Michoacán - DIF"
-        }
-      },
-      "name": "mich_dif",
-      "text": "Michoacán - DIF"
+      "name": "study_dif_mich",
+      "text": "Investigación - Michoacan"
     }
   ]
 }

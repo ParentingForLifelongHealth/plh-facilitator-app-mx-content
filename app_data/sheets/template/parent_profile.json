@@ -1436,7 +1436,7 @@
               },
               "exclude_from_translation": true,
               "type": "set_variable",
-              "_nested_name": "dg_when_external_id_accepted.items.coparent_no",
+              "_nested_name": "dg_when_external_id_accepted.items_4.coparent_no",
               "_dynamicFields": {
                 "value": [
                   {
@@ -1461,7 +1461,7 @@
               },
               "exclude_from_translation": true,
               "type": "set_variable",
-              "_nested_name": "dg_when_external_id_accepted.items.coparent_id",
+              "_nested_name": "dg_when_external_id_accepted.items_4.coparent_id",
               "_dynamicFields": {
                 "value": [
                   {
@@ -1486,7 +1486,7 @@
               },
               "exclude_from_translation": true,
               "type": "set_variable",
-              "_nested_name": "dg_when_external_id_accepted.items.is_family_member",
+              "_nested_name": "dg_when_external_id_accepted.items_4.is_family_member",
               "_dynamicFields": {
                 "value": [
                   {
@@ -1534,7 +1534,7 @@
                   },
                   "exclude_from_translation": true,
                   "type": "set_variable",
-                  "_nested_name": "dg_when_external_id_accepted.items.dg_coparent_@item.parent_no.coparent_first_name",
+                  "_nested_name": "dg_when_external_id_accepted.items_4.dg_coparent_@item.parent_no.coparent_first_name",
                   "_dynamicFields": {
                     "value": [
                       {
@@ -1552,7 +1552,7 @@
                     ],
                     "_nested_name": [
                       {
-                        "fullExpression": "dg_when_external_id_accepted.items.dg_coparent_@item.parent_no.coparent_first_name",
+                        "fullExpression": "dg_when_external_id_accepted.items_4.dg_coparent_@item.parent_no.coparent_first_name",
                         "matchedExpression": "@item.parent_no.coparent_first_name",
                         "type": "item",
                         "fieldName": "parent_no"
@@ -1579,7 +1579,7 @@
                   },
                   "exclude_from_translation": true,
                   "type": "set_variable",
-                  "_nested_name": "dg_when_external_id_accepted.items.dg_coparent_@item.parent_no.coparent_last_name",
+                  "_nested_name": "dg_when_external_id_accepted.items_4.dg_coparent_@item.parent_no.coparent_last_name",
                   "_dynamicFields": {
                     "value": [
                       {
@@ -1597,7 +1597,7 @@
                     ],
                     "_nested_name": [
                       {
-                        "fullExpression": "dg_when_external_id_accepted.items.dg_coparent_@item.parent_no.coparent_last_name",
+                        "fullExpression": "dg_when_external_id_accepted.items_4.dg_coparent_@item.parent_no.coparent_last_name",
                         "matchedExpression": "@item.parent_no.coparent_last_name",
                         "type": "item",
                         "fieldName": "parent_no"
@@ -1624,7 +1624,7 @@
                   },
                   "exclude_from_translation": true,
                   "type": "set_variable",
-                  "_nested_name": "dg_when_external_id_accepted.items.dg_coparent_@item.parent_no.coparent_name",
+                  "_nested_name": "dg_when_external_id_accepted.items_4.dg_coparent_@item.parent_no.coparent_name",
                   "_dynamicFields": {
                     "value": [
                       {
@@ -1672,7 +1672,7 @@
                     ],
                     "_nested_name": [
                       {
-                        "fullExpression": "dg_when_external_id_accepted.items.dg_coparent_@item.parent_no.coparent_name",
+                        "fullExpression": "dg_when_external_id_accepted.items_4.dg_coparent_@item.parent_no.coparent_name",
                         "matchedExpression": "@item.parent_no.coparent_name",
                         "type": "item",
                         "fieldName": "parent_no"
@@ -1713,7 +1713,7 @@
                     "flex: 1"
                   ],
                   "exclude_from_translation": true,
-                  "_nested_name": "dg_when_external_id_accepted.items.dg_coparent_@item.parent_no.text_name_@item.parent_no",
+                  "_nested_name": "dg_when_external_id_accepted.items_4.dg_coparent_@item.parent_no.text_name_@item.parent_no",
                   "_dynamicFields": {
                     "name": [
                       {
@@ -1733,13 +1733,13 @@
                     ],
                     "_nested_name": [
                       {
-                        "fullExpression": "dg_when_external_id_accepted.items.dg_coparent_@item.parent_no.text_name_@item.parent_no",
+                        "fullExpression": "dg_when_external_id_accepted.items_4.dg_coparent_@item.parent_no.text_name_@item.parent_no",
                         "matchedExpression": "@item.parent_no.text_name_",
                         "type": "item",
                         "fieldName": "parent_no"
                       },
                       {
-                        "fullExpression": "dg_when_external_id_accepted.items.dg_coparent_@item.parent_no.text_name_@item.parent_no",
+                        "fullExpression": "dg_when_external_id_accepted.items_4.dg_coparent_@item.parent_no.text_name_@item.parent_no",
                         "matchedExpression": "@item.parent_no",
                         "type": "item",
                         "fieldName": "parent_no"
@@ -1767,7 +1767,7 @@
                   },
                   "exclude_from_translation": true,
                   "type": "set_variable",
-                  "_nested_name": "dg_when_external_id_accepted.items.dg_coparent_@item.parent_no.remove_family_member",
+                  "_nested_name": "dg_when_external_id_accepted.items_4.dg_coparent_@item.parent_no.remove_family_member",
                   "_dynamicFields": {
                     "value": [
                       {
@@ -1791,7 +1791,7 @@
                     ],
                     "_nested_name": [
                       {
-                        "fullExpression": "dg_when_external_id_accepted.items.dg_coparent_@item.parent_no.remove_family_member",
+                        "fullExpression": "dg_when_external_id_accepted.items_4.dg_coparent_@item.parent_no.remove_family_member",
                         "matchedExpression": "@item.parent_no.remove_family_member",
                         "type": "item",
                         "fieldName": "parent_no"
@@ -1821,7 +1821,7 @@
                   },
                   "exclude_from_translation": true,
                   "type": "set_variable",
-                  "_nested_name": "dg_when_external_id_accepted.items.dg_coparent_@item.parent_no.add_singleton_family",
+                  "_nested_name": "dg_when_external_id_accepted.items_4.dg_coparent_@item.parent_no.add_singleton_family",
                   "_dynamicFields": {
                     "value": [
                       {
@@ -1845,7 +1845,7 @@
                     ],
                     "_nested_name": [
                       {
-                        "fullExpression": "dg_when_external_id_accepted.items.dg_coparent_@item.parent_no.add_singleton_family",
+                        "fullExpression": "dg_when_external_id_accepted.items_4.dg_coparent_@item.parent_no.add_singleton_family",
                         "matchedExpression": "@item.parent_no.add_singleton_family",
                         "type": "item",
                         "fieldName": "parent_no"
@@ -1875,7 +1875,7 @@
                   },
                   "exclude_from_translation": true,
                   "type": "set_variable",
-                  "_nested_name": "dg_when_external_id_accepted.items.dg_coparent_@item.parent_no.uncoupled_coparent_family_data_string",
+                  "_nested_name": "dg_when_external_id_accepted.items_4.dg_coparent_@item.parent_no.uncoupled_coparent_family_data_string",
                   "_dynamicFields": {
                     "value": [
                       {
@@ -1893,7 +1893,7 @@
                     ],
                     "_nested_name": [
                       {
-                        "fullExpression": "dg_when_external_id_accepted.items.dg_coparent_@item.parent_no.uncoupled_coparent_family_data_string",
+                        "fullExpression": "dg_when_external_id_accepted.items_4.dg_coparent_@item.parent_no.uncoupled_coparent_family_data_string",
                         "matchedExpression": "@item.parent_no.uncoupled_coparent_family_data_string",
                         "type": "item",
                         "fieldName": "parent_no"
@@ -1941,7 +1941,7 @@
                     "style": "navigation"
                   },
                   "exclude_from_translation": true,
-                  "_nested_name": "dg_when_external_id_accepted.items.dg_coparent_@item.parent_no.button_remove",
+                  "_nested_name": "dg_when_external_id_accepted.items_4.dg_coparent_@item.parent_no.button_remove",
                   "_dynamicFields": {
                     "action_list": {
                       "0": {
@@ -1975,7 +1975,7 @@
                     },
                     "_nested_name": [
                       {
-                        "fullExpression": "dg_when_external_id_accepted.items.dg_coparent_@item.parent_no.button_remove",
+                        "fullExpression": "dg_when_external_id_accepted.items_4.dg_coparent_@item.parent_no.button_remove",
                         "matchedExpression": "@item.parent_no.button_remove",
                         "type": "item",
                         "fieldName": "parent_no"
@@ -1994,7 +1994,7 @@
                   }
                 }
               ],
-              "_nested_name": "dg_when_external_id_accepted.items.dg_coparent_@item.parent_no",
+              "_nested_name": "dg_when_external_id_accepted.items_4.dg_coparent_@item.parent_no",
               "_dynamicFields": {
                 "name": [
                   {
@@ -2026,7 +2026,7 @@
                 ],
                 "_nested_name": [
                   {
-                    "fullExpression": "dg_when_external_id_accepted.items.dg_coparent_@item.parent_no",
+                    "fullExpression": "dg_when_external_id_accepted.items_4.dg_coparent_@item.parent_no",
                     "matchedExpression": "@item.parent_no",
                     "type": "item",
                     "fieldName": "parent_no"
@@ -2048,8 +2048,8 @@
               }
             }
           ],
-          "name": "items",
-          "_nested_name": "dg_when_external_id_accepted.items",
+          "name": "items_4",
+          "_nested_name": "dg_when_external_id_accepted.items_4",
           "_dynamicFields": {
             "value": [
               {

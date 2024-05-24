@@ -37,30 +37,26 @@
     {
       "id": "welcome_overview",
       "type": "toggle",
-      "text": "Overview of Crianza con Conciencia+ programme",
+      "text": "Overview of the programme",
       "_translations": {
-        "text": {
-          "mx_es": true
-        }
+        "text": {}
       },
       "_translatedFields": {
         "text": {
-          "eng": "Overview of Crianza con Conciencia+ programme"
+          "eng": "Overview of the programme"
         }
       }
     },
     {
       "id": "start",
       "type": "title",
-      "text": "Getting Started with Crianza con Conciencia+ chatbot",
+      "text": "Getting Started with the chatbot",
       "_translations": {
-        "text": {
-          "mx_es": true
-        }
+        "text": {}
       },
       "_translatedFields": {
         "text": {
-          "eng": "Getting Started with Crianza con Conciencia+ chatbot"
+          "eng": "Getting Started with the chatbot"
         }
       }
     },
@@ -82,30 +78,26 @@
     {
       "id": "start_phone_capture",
       "type": "toggle",
-      "text": "Crianza con Conciencia+ chatbot onboarding",
+      "text": "Chatbot onboarding",
       "_translations": {
-        "text": {
-          "mx_es": true
-        }
+        "text": {}
       },
       "_translatedFields": {
         "text": {
-          "eng": "Crianza con Conciencia+ chatbot onboarding"
+          "eng": "Chatbot onboarding"
         }
       }
     },
     {
       "id": "start_phone_functions",
       "type": "toggle",
-      "text": "Resolving Challenges with Crianza con Conciencia+ chatbot",
+      "text": "Resolving Challenges with the chatbot",
       "_translations": {
-        "text": {
-          "mx_es": true
-        }
+        "text": {}
       },
       "_translatedFields": {
         "text": {
-          "eng": "Resolving Challenges with Crianza con Conciencia+ chatbot"
+          "eng": "Resolving Challenges with the chatbot"
         }
       }
     },

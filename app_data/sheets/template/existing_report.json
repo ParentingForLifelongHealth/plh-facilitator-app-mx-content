@@ -171,7 +171,7 @@
             "flex: 1"
           ],
           "exclude_from_translation": true,
-          "_nested_name": "display_group.text",
+          "_nested_name": "display_group_9.text",
           "_dynamicFields": {
             "value": [
               {
@@ -217,7 +217,7 @@
             "style": "navigation"
           },
           "exclude_from_translation": true,
-          "_nested_name": "display_group.button_edit",
+          "_nested_name": "display_group_9.button_edit",
           "_dynamicFields": {
             "action_list": {
               "0": {
@@ -343,7 +343,7 @@
             "style": "navigation"
           },
           "exclude_from_translation": true,
-          "_nested_name": "display_group.button_delete",
+          "_nested_name": "display_group_9.button_delete",
           "_dynamicFields": {
             "action_list": {
               "1": {
@@ -385,8 +385,8 @@
           }
         }
       ],
-      "name": "display_group",
-      "_nested_name": "display_group"
+      "name": "display_group_9",
+      "_nested_name": "display_group_9"
     }
   ],
   "_xlsxPath": "templates/data_collection.xlsx"

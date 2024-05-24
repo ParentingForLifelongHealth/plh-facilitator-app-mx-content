@@ -102,7 +102,7 @@
           },
           "exclude_from_translation": true,
           "type": "set_variable",
-          "_nested_name": "items.already_reported",
+          "_nested_name": "items_6.already_reported",
           "_dynamicFields": {
             "value": [
               {
@@ -143,7 +143,7 @@
           "condition": "!@local.already_reported & @item.type == \"in_person\"",
           "exclude_from_translation": true,
           "type": "set_variable",
-          "_nested_name": "items.at_least_one_unreported",
+          "_nested_name": "items_6.at_least_one_unreported",
           "_dynamicFields": {
             "condition": [
               {
@@ -170,8 +170,8 @@
           }
         }
       ],
-      "name": "items",
-      "_nested_name": "items",
+      "name": "items_6",
+      "_nested_name": "items_6",
       "_dynamicFields": {
         "value": [
           {
@@ -228,7 +228,7 @@
           },
           "exclude_from_translation": true,
           "type": "set_variable",
-          "_nested_name": "items.already_reported",
+          "_nested_name": "items_9.already_reported",
           "_dynamicFields": {
             "value": [
               {
@@ -268,7 +268,7 @@
           "value": true,
           "condition": "!@item.tag_list || !@global.has_multiple_content_packages",
           "type": "set_variable",
-          "_nested_name": "items.condition_package",
+          "_nested_name": "items_9.condition_package",
           "_dynamicFields": {
             "condition": [
               {
@@ -302,7 +302,7 @@
           },
           "condition": "!!@item.tag_list && @global.has_multiple_content_packages",
           "type": "set_variable",
-          "_nested_name": "items.packages",
+          "_nested_name": "items_9.packages",
           "_dynamicFields": {
             "value": [
               {
@@ -347,7 +347,7 @@
           },
           "condition": "!!@item.tag_list && @global.has_multiple_content_packages",
           "type": "set_variable",
-          "_nested_name": "items.condition_package",
+          "_nested_name": "items_9.condition_package",
           "_dynamicFields": {
             "value": [
               {
@@ -446,7 +446,7 @@
           },
           "condition": "!@local.already_reported && @item.type == \"in_person\" && @local.condition_package",
           "exclude_from_translation": true,
-          "_nested_name": "items.button_@item.id",
+          "_nested_name": "items_9.button_@item.id",
           "_dynamicFields": {
             "name": [
               {
@@ -516,7 +516,7 @@
             ],
             "_nested_name": [
               {
-                "fullExpression": "items.button_@item.id",
+                "fullExpression": "items_9.button_@item.id",
                 "matchedExpression": "@item.id",
                 "type": "item",
                 "fieldName": "id"
@@ -546,8 +546,8 @@
           }
         }
       ],
-      "name": "items",
-      "_nested_name": "items",
+      "name": "items_9",
+      "_nested_name": "items_9",
       "_dynamicFields": {
         "value": [
           {
