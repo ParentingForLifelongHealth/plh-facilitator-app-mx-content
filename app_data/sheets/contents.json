@@ -121,6 +121,7 @@
     "article_filter": {
       "flow_type": "data_pipe",
       "flow_name": "article_filter",
+      "comments": "Gives an error when the status column does not exist for any of the items in the list",
       "_xlsxPath": "data/content_data_pipes.xlsx"
     },
     "create_package": {
@@ -354,6 +355,21 @@
       "flow_subtype": "generated",
       "flow_type": "template"
     },
+    "article_before_chat": {
+      "flow_name": "article_before_chat",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "article_behave_challenges": {
+      "flow_name": "article_behave_challenges",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "article_coach_overview": {
+      "flow_name": "article_coach_overview",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
     "article_contact_for_reporting_abuse": {
       "flow_name": "article_contact_for_reporting_abuse",
       "flow_subtype": "generated",
@@ -364,33 +380,13 @@
       "flow_subtype": "generated",
       "flow_type": "template"
     },
-    "article_day_1_introduction": {
-      "flow_name": "article_day_1_introduction",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "article_day_3_check_in": {
-      "flow_name": "article_day_3_check_in",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
     "article_day_3_mh_stress_self_talk": {
       "flow_name": "article_day_3_mh_stress_self_talk",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
-    "article_day_4_check_in": {
-      "flow_name": "article_day_4_check_in",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "article_day_5_goodbye": {
-      "flow_name": "article_day_5_goodbye",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "article_day_6_final_chat_sessions_5ux": {
-      "flow_name": "article_day_6_final_chat_sessions_5ux",
+    "article_day_5_final_chat_sessions_5ux": {
+      "flow_name": "article_day_5_final_chat_sessions_5ux",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
@@ -411,6 +407,21 @@
     },
     "article_faq_h_no_neg_to_pos": {
       "flow_name": "article_faq_h_no_neg_to_pos",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "article_faq_h_no_strengths": {
+      "flow_name": "article_faq_h_no_strengths",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "article_faq_h_no_thoughts": {
+      "flow_name": "article_faq_h_no_thoughts",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "article_faq_h_no_understand_connection": {
+      "flow_name": "article_faq_h_no_understand_connection",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
@@ -469,8 +480,13 @@
       "flow_subtype": "generated",
       "flow_type": "template"
     },
-    "article_how_to_chat_session": {
-      "flow_name": "article_how_to_chat_session",
+    "article_how_to_chat_session_scale": {
+      "flow_name": "article_how_to_chat_session_scale",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "article_how_to_chat_session_study": {
+      "flow_name": "article_how_to_chat_session_study",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
@@ -484,8 +500,13 @@
       "flow_subtype": "generated",
       "flow_type": "template"
     },
-    "article_onboarding_cc": {
-      "flow_name": "article_onboarding_cc",
+    "article_learning_challenges": {
+      "flow_name": "article_learning_challenges",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "article_onboarding_cc_scale": {
+      "flow_name": "article_onboarding_cc_scale",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
@@ -494,13 +515,13 @@
       "flow_subtype": "generated",
       "flow_type": "template"
     },
-    "article_one_on_one_challenges": {
-      "flow_name": "article_one_on_one_challenges",
+    "article_onboarding_day_chat": {
+      "flow_name": "article_onboarding_day_chat",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
-    "article_overview_cc": {
-      "flow_name": "article_overview_cc",
+    "article_one_on_one_challenges": {
+      "flow_name": "article_one_on_one_challenges",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
@@ -519,8 +540,38 @@
       "flow_subtype": "generated",
       "flow_type": "template"
     },
+    "article_safety_challenges": {
+      "flow_name": "article_safety_challenges",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "article_structure_challenges": {
+      "flow_name": "article_structure_challenges",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
     "article_talk_feelings_challenges": {
       "flow_name": "article_talk_feelings_challenges",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "article_week_1_chat": {
+      "flow_name": "article_week_1_chat",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "article_week_2_chat": {
+      "flow_name": "article_week_2_chat",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "article_week_3_chat": {
+      "flow_name": "article_week_3_chat",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "article_week_4_chat": {
+      "flow_name": "article_week_4_chat",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
@@ -566,6 +617,11 @@
     },
     "pdf_manual": {
       "flow_name": "pdf_manual",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "pdf_programme_details": {
+      "flow_name": "pdf_programme_details",
       "flow_subtype": "generated",
       "flow_type": "template"
     },

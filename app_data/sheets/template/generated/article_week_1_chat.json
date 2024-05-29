@@ -1,5 +1,5 @@
 {
-  "flow_name": "article_overview_cc",
+  "flow_name": "article_week_1_chat",
   "flow_subtype": "generated",
   "flow_type": "template",
   "rows": [
@@ -20,7 +20,7 @@
         },
         {
           "name": "article_id",
-          "value": "overview_cc",
+          "value": "week_1_chat",
           "_translations": {
             "value": {}
           },

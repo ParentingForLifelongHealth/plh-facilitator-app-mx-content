@@ -1,5 +1,5 @@
 {
-  "flow_name": "article_day_5_goodbye",
+  "flow_name": "article_safety_challenges",
   "flow_subtype": "generated",
   "flow_type": "template",
   "rows": [
@@ -20,7 +20,7 @@
         },
         {
           "name": "article_id",
-          "value": "day_5_goodbye",
+          "value": "safety_challenges",
           "_translations": {
             "value": {}
           },

@@ -18,6 +18,19 @@
           "eng": "Facilitator Manual"
         }
       }
+    },
+    {
+      "id": "programme_details",
+      "pdf_asset": "pdf/programme_details.pdf",
+      "title": "Programme Details",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Programme Details"
+        }
+      }
     }
   ],
   "_xlsxPath": "data/FacilitatorApp MX content.xlsx"

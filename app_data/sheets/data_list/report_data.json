@@ -56,7 +56,16 @@
         "study_dif_chih",
         "study_dif_cdmx",
         "study_dif_mich"
-      ]
+      ],
+      "name": "Week 2: Self-Talk",
+      "_translations": {
+        "name": {}
+      },
+      "_translatedFields": {
+        "name": {
+          "eng": "Week 2: Self-Talk"
+        }
+      }
     },
     {
       "id": "week_3",
@@ -66,7 +75,16 @@
         "study_dif_chih",
         "study_dif_cdmx",
         "study_dif_mich"
-      ]
+      ],
+      "name": "Week 3: Character Strengths",
+      "_translations": {
+        "name": {}
+      },
+      "_translatedFields": {
+        "name": {
+          "eng": "Week 3: Character Strengths"
+        }
+      }
     },
     {
       "id": "week_4",
@@ -76,7 +94,16 @@
         "study_dif_chih",
         "study_dif_cdmx",
         "study_dif_mich"
-      ]
+      ],
+      "name": "Week 4: Building Pleasant Emotions",
+      "_translations": {
+        "name": {}
+      },
+      "_translatedFields": {
+        "name": {
+          "eng": "Week 4: Building Pleasant Emotions"
+        }
+      }
     }
   ],
   "_xlsxPath": "data/FacilitatorApp MX content.xlsx"
