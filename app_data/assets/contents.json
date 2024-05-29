@@ -258,5 +258,9 @@
   "pdf/manual.pdf": {
     "md5Checksum": "9188c320eec37ad742fb641aef69006f",
     "size_kb": 470.3
+  },
+  "pdf/programme_details.pdf": {
+    "md5Checksum": "d7f88e6bc4851b986b223a9b536e0e18",
+    "size_kb": 123
   }
 }

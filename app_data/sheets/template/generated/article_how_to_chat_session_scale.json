@@ -1,5 +1,5 @@
 {
-  "flow_name": "article_day_6_final_chat_sessions_5ux",
+  "flow_name": "article_how_to_chat_session_scale",
   "flow_subtype": "generated",
   "flow_type": "template",
   "rows": [
@@ -20,7 +20,7 @@
         },
         {
           "name": "article_id",
-          "value": "day_6_final_chat_sessions_5ux",
+          "value": "how_to_chat_session_scale",
           "_translations": {
             "value": {}
           },
