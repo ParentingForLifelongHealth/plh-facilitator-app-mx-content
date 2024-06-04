@@ -680,7 +680,7 @@
           "eng": "Message 5: Practise for the week"
         },
         "message_text_5": {
-          "eng": "Great job! You’ve learned one way in which thoughts, feelings, and actions are connected. \r\rHow we feel and act is affected by what we think. Similarly, how we think and act also affects our feelings. \n\nThink of it like a triangle: \n\r        Thoughts\n       /               \\\nActions  –  Feelings\n\nThis week, try noticing this connection in your life or your girls, boys and teen’s. Type in the chat, record a voice note, or write down: \r\r1) A thought  that popped into your head or a situation that happened\n2) How it made you feel\n3) How the thought affected your actions\r\rThank you for participating in this chat session!"
+          "eng": "Great job! You’ve learned one way in which thoughts, feelings, and actions are connected. \n\nHow we feel and act is affected by what we think. Similarly, how we think and act also affects our feelings. \n\nThink of it like a triangle: \n\n        Thoughts\n       /         \\\nActions  –  Feelings\n\nThis week, try noticing this connection in your life or your girls, boys and teen’s. Type in the chat, record a voice note, or write down: \n\n1) A thought  that popped into your head or a situation that happened\n2) How it made you feel\n3) How the thought affected your actions\n\nThank you for participating in this chat session!"
         },
         "message_guidance_5": {
           "eng": "Allow parents to respond. You can reply to the parents with an emoji ⭐ or words of encouragement."
@@ -705,7 +705,7 @@
       "message_title_4": "Message 4: Connecting to actions",
       "message_text_4": "These are great connections! You’re already learning how thoughts and feelings work together. Now, let’s talk about our actions. \n\nActions are the behaviours we take based on our thoughts and feelings. For example, if you feel happy and relaxed while spending time with your girls, boys, and teens, you are more likely to do fun activities together or to respond calmly. On the other hand, if you are feeling stressed or overwhelmed, you might get angry or irritated with your girls, boys, or teens. \n\rWe talked about our feelings and the thoughts that come with them that may affect our actions. Now, in the chat, let’s share how these feelings and thoughts affected your actions today.",
       "message_title_5": "Message 5: Practise for the week",
-      "message_text_5": "Great job! You’ve learned one way in which thoughts, feelings, and actions are connected. \r\rHow we feel and act is affected by what we think. Similarly, how we think and act also affects our feelings. \n\nThink of it like a triangle: \n\r        Thoughts\n       /               \\\nActions  –  Feelings\n\nThis week, try noticing this connection in your life or your girls, boys and teen’s. Type in the chat, record a voice note, or write down: \r\r1) A thought  that popped into your head or a situation that happened\n2) How it made you feel\n3) How the thought affected your actions\r\rThank you for participating in this chat session!",
+      "message_text_5": "Great job! You’ve learned one way in which thoughts, feelings, and actions are connected. \n\nHow we feel and act is affected by what we think. Similarly, how we think and act also affects our feelings. \n\nThink of it like a triangle: \n\n        Thoughts\n       /         \\\nActions  –  Feelings\n\nThis week, try noticing this connection in your life or your girls, boys and teen’s. Type in the chat, record a voice note, or write down: \n\n1) A thought  that popped into your head or a situation that happened\n2) How it made you feel\n3) How the thought affected your actions\n\nThank you for participating in this chat session!",
       "message_guidance_5": "Allow parents to respond. You can reply to the parents with an emoji ⭐ or words of encouragement.",
       "message_guidance_4": "Allow parents to respond. You can reply to the parents with an emoji ⭐ or words of encouragement. \n\nIf needed, you can share:“I’ll share an example. One thought I’ve had recently is, when I think about my son playing, I feel happy. When I saw him later that day, I gave him an extra long hug :)”"
     },
@@ -1350,7 +1350,7 @@
           "eng": "Share this message with the parent"
         },
         "message_text_1": {
-          "eng": "Hi! Sometimes it’s hard to see how our thoughts connect to our feelings. \r\rIt can all begin with a feeling, thought or action and affect the other two:\r\r                Thoughts\n               /               \\\n        Actions  –  Feelings\n\nYou can break this relationship down into Situation, Thought, and Feeling, and list each statement next to the label. For example: \n\nSituation: My child keeps interrupting me when I’m speaking. \n\nThought: He is being inconsiderate of me and disrespectful.\n\nFeeling: I’m now annoyed and irritated because I’m trying to finish something. \n\nCan you think of one situation that happened? What did it make you think? How did you feel?"
+          "eng": "Hi! Sometimes it’s hard to see how our thoughts connect to our feelings. \n\nIt can all begin with a feeling, thought or action and affect the other two:\n\n                Thoughts\n               /         \\\n        Actions  –  Feelings\n\nYou can break this relationship down into Situation, Thought, and Feeling, and list each statement next to the label. For example: \n\nSituation: My child keeps interrupting me when I’m speaking. \n\nThought: He is being inconsiderate of me and disrespectful.\n\nFeeling: I’m now annoyed and irritated because I’m trying to finish something. \n\nCan you think of one situation that happened? What did it make you think? How did you feel?"
         },
         "message_title_2": {
           "eng": "If you want to share an example:"
@@ -1361,7 +1361,7 @@
       },
       "introduction": "If caregivers need more support, you can share more examples. Try breaking it down into Situation, Thought, Feeling, and Action. \n\nRemember, the goal is to show how a thought creates or changes a feeling, and the feeling creates or changes an action",
       "message_title_1": "Share this message with the parent",
-      "message_text_1": "Hi! Sometimes it’s hard to see how our thoughts connect to our feelings. \r\rIt can all begin with a feeling, thought or action and affect the other two:\r\r                Thoughts\n               /               \\\n        Actions  –  Feelings\n\nYou can break this relationship down into Situation, Thought, and Feeling, and list each statement next to the label. For example: \n\nSituation: My child keeps interrupting me when I’m speaking. \n\nThought: He is being inconsiderate of me and disrespectful.\n\nFeeling: I’m now annoyed and irritated because I’m trying to finish something. \n\nCan you think of one situation that happened? What did it make you think? How did you feel?",
+      "message_text_1": "Hi! Sometimes it’s hard to see how our thoughts connect to our feelings. \n\nIt can all begin with a feeling, thought or action and affect the other two:\n\n                Thoughts\n               /         \\\n        Actions  –  Feelings\n\nYou can break this relationship down into Situation, Thought, and Feeling, and list each statement next to the label. For example: \n\nSituation: My child keeps interrupting me when I’m speaking. \n\nThought: He is being inconsiderate of me and disrespectful.\n\nFeeling: I’m now annoyed and irritated because I’m trying to finish something. \n\nCan you think of one situation that happened? What did it make you think? How did you feel?",
       "message_title_2": "If you want to share an example:",
       "message_text_2": "One thought I’ve had recently is, it’s challenging to calm down when my child is crying. It made me feel overwhelmed and upset.",
       "tag_list": [
@@ -1709,6 +1709,21 @@
           "mx_es": true
         },
         "introduction": {},
+        "section_title_1": {
+          "mx_es": true
+        },
+        "section_text_1": {
+          "mx_es": true
+        },
+        "section_title_2": {
+          "mx_es": true
+        },
+        "section_text_2": {
+          "mx_es": true
+        },
+        "sections_title": {
+          "mx_es": true
+        },
         "resource_title_1": {}
       },
       "_translatedFields": {
@@ -1718,16 +1733,36 @@
         "introduction": {
           "eng": "The Onboarding Session sets the tone for the entire @global.programme_name programme. It is important to create a welcoming and safe space for the participants to feel at ease and familiarise themselves with the programme."
         },
+        "sections_title": {
+          "eng": "Preparation Checklist"
+        },
+        "section_title_1": {
+          "eng": "1 week before your session"
+        },
+        "section_text_1": {
+          "eng": "- Read the Facilitator Guide on Formando Conciencia+ \n\n- Practise the onboarding session with a peer or supervisor"
+        },
+        "section_title_2": {
+          "eng": "1 hour before your session"
+        },
+        "section_text_2": {
+          "eng": "- Download the PowerPoint slide to your laptop \n\n- Download the videos embedded in the slides to your laptop \n\n- Go through your PowerPoint slides and videos to make sure everything is working smoothly"
+        },
         "resource_title_1": {
           "eng": "Onboarding Guide"
         }
       },
       "introduction": "The Onboarding Session sets the tone for the entire @global.programme_name programme. It is important to create a welcoming and safe space for the participants to feel at ease and familiarise themselves with the programme.",
+      "section_title_1": "1 week before your session",
+      "section_text_1": "- Read the Facilitator Guide on Formando Conciencia+ \n\n- Practise the onboarding session with a peer or supervisor",
       "tag_list": [
         "scale_dif"
       ],
+      "section_title_2": "1 hour before your session",
+      "section_text_2": "- Download the PowerPoint slide to your laptop \n\n- Download the videos embedded in the slides to your laptop \n\n- Go through your PowerPoint slides and videos to make sure everything is working smoothly",
       "resource_data_1": "pdf",
       "resource_id_1": "manual",
+      "sections_title": "Preparation Checklist",
       "resource_title_1": "Onboarding Guide"
     },
     {
@@ -1824,8 +1859,8 @@
         "programme"
       ],
       "icon_asset": "images/overview_cc.svg",
-      "related_article_id_1": "onboarding_cc",
-      "related_article_id_2": "how_to_chat_session",
+      "related_article_id_1": "onboarding_cc_study",
+      "related_article_id_2": "how_to_chat_session_study",
       "related_article_id_3": "how_to_report",
       "status": "released",
       "title": "Overview of the @global.programme_name Programme",
@@ -1837,10 +1872,10 @@
         "section_text_1": {},
         "section_title_2": {},
         "section_text_2": {},
-        "resource_title_1": {},
         "sections_title": {
           "mx_es": true
         },
+        "resource_title_1": {},
         "section_title_3": {},
         "section_text_3": {},
         "section_title_4": {},
@@ -1913,8 +1948,8 @@
       "section_text_2": "It is important to follow this manual as closely as possible. However, manuals are only a guide to support you after what you have learned in the training workshop. \nWhat you deliver – the content of the manual – is only 20% of the programme. The rest 80%? It’s all about HOW you facilitate the programme and behave towards the parents.",
       "resource_data_1": "pdf",
       "resource_id_1": "x",
-      "resource_title_1": "Overview Guide",
       "sections_title": "Welcome",
+      "resource_title_1": "Overview Guide",
       "section_title_3": "Skills you need",
       "section_text_3": "The core skills of a good facilitator are a mirror for parents to learn how to bring about the change we want to see in parents and the community. These include understanding stages of child development, praising and encouraging parents, using active listening skills, being consistent and compassionate, exploring problems, and finding solutions together.",
       "section_title_4": "⭐Remember",
@@ -1946,8 +1981,8 @@
         "section_text_1": {},
         "section_title_2": {},
         "section_text_2": {},
-        "resource_title_1": {},
         "sections_title": {},
+        "resource_title_1": {},
         "resource_title_2": {},
         "resource_title_3": {}
       },
@@ -1996,8 +2031,8 @@
       "section_text_2": "Type ID in the chatbot",
       "resource_data_1": "pdf",
       "resource_id_1": "x",
-      "resource_title_1": "Onboarding Guide",
       "sections_title": "Trigger Words",
+      "resource_title_1": "Onboarding Guide",
       "resource_data_2": "media",
       "resource_id_2": "x",
       "resource_data_3": "media",
@@ -2026,10 +2061,10 @@
           "mx_es": true
         },
         "section_text_2": {},
-        "resource_title_1": {},
         "sections_title": {
           "mx_es": true
         },
+        "resource_title_1": {},
         "section_title_3": {
           "mx_es": true
         },
@@ -2097,8 +2132,8 @@
       "section_text_2": "**Before conducting the chat sessions, make sure you:** \n\nCreate a WhatsApp Group during the onboarding session. \nIdentify the ground rules for the WhatsApp Group\n\n**Structure for the chat sessions**: \r\rDay  1 (immediately after the onboarding session): Welcome, introductions, and reminder of home practice. \n\nWeek 1: Thoughts, feelings, and actions\n\nWeek 2: Kind self-talk\n\nWeek 3: Character strengths\n\nWeek 4: Building pleasant emotions\n\n**When to send the messages** \n\nYou and your group will decide a time to chat during the onboarding session. \r\rBefore each chat session, send the reminder message few hours before the chat session. You can set alarms on your phone to remind you when to send messages.\n\nSend the remaining messages during the scheduled chat time.",
       "resource_data_1": "media",
       "resource_id_1": "x",
-      "resource_title_1": "Share messages from this App",
       "sections_title": "How to:",
+      "resource_title_1": "Share messages from this App",
       "section_title_3": "Share the messages in the chat session",
       "section_text_3": "Look for the \"Chat Sessions\" section on the Formando Conciencia+ homepage\n\nFind the specific chat session you want to share and click on it.\n\nOnce you're on the content for that session, locate the \"Share\" icon. It should look like an arrow pointing upward or a box with an arrow, and it's used to share content. Click on the \"Share\" icon.\n\nSelect \"WhatsApp\" as your sharing option in the menu that appears.\n\nChoose your @global.programme_name Support Group from the list. \n\nBefore you hit the \"Send\" button, make sure to add or change any necessary information like your name. \n\nFinally, click the \"Send\" button to share the content with your @global.programme_name Support Group.",
       "section_title_4": "Get Help with WhatsApp Support Group",
@@ -2111,7 +2146,8 @@
         "programme"
       ],
       "icon_asset": "images/how_to_report.svg",
-      "related_article_id_1": "how_to_chat_session",
+      "related_article_id_1": "how_to_chat_session_study",
+      "related_article_id_2": "how_to_chat_session_scale",
       "status": "released",
       "title": "How to Report on Programme Delivery",
       "_translations": {
@@ -2128,10 +2164,10 @@
           "mx_es": true
         },
         "section_text_2": {},
-        "resource_title_1": {},
         "sections_title": {
           "mx_es": true
         },
+        "resource_title_1": {},
         "section_title_3": {
           "mx_es": true
         },
@@ -2204,8 +2240,8 @@
       "section_text_2": "Select the profile icon from the bottom navigation bar. \n\nChoose “Add Parent”\n\nEnter parent details in the form. To enter the parent’s unique identifier (UID), ask them to text “ID” on @global.programme_name. Copy the 6-digit number into the parent profile.",
       "resource_data_1": "media",
       "resource_id_1": "x",
-      "resource_title_1": "Video: Add a Parent and Co-Parent",
       "sections_title": "How to:",
+      "resource_title_1": "Video: Add a Parent and Co-Parent",
       "section_title_3": "Add a Co-Parent",
       "section_text_3": "If two parents from the same family are participating in the programme, together, you must link their accounts. \n\nOnce you have added the first parent profile, to add a second parent, select “Add Parent”\n\nEnter parent details in the form. To enter the parent’s unique identifier (UID), ask them to text “ID” on @global.programme_name. Copy the 6-digit number into the parent profile. \n\nSelect “Add Co-Parent”\n\nSelect the co-parent from available parent user profiles. \n\nSelect “Save”\n\n*Both parent profiles will be updated to note the co-parent.*",
       "section_title_4": "Report Attendance",
@@ -2219,7 +2255,8 @@
         "programme"
       ],
       "icon_asset": "images/faq_h_prompts.svg",
-      "related_article_id_1": "how_to_chat_session",
+      "related_article_id_1": "how_to_chat_session_study",
+      "related_article_id_2": "how_to_chat_session_scale",
       "status": "released",
       "title": "Coaching support",
       "_translations": {
