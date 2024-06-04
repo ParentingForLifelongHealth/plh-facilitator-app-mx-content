@@ -4,6 +4,477 @@
   "status": "released",
   "rows": [
     {
+      "name": "empty_list",
+      "value": "[]",
+      "_translations": {
+        "value": {}
+      },
+      "exclude_from_translation": true,
+      "type": "set_variable",
+      "_nested_name": "empty_list"
+    },
+    {
+      "name": "relevant_form_type_list",
+      "value": "@calc(JSON.parse(@local.empty_list))",
+      "_translations": {
+        "value": {}
+      },
+      "exclude_from_translation": true,
+      "type": "set_variable",
+      "_nested_name": "relevant_form_type_list",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@calc(JSON.parse(@local.empty_list))",
+            "matchedExpression": "@local.empty_list",
+            "type": "local",
+            "fieldName": "empty_list"
+          },
+          {
+            "fullExpression": "@calc(JSON.parse(@local.empty_list))",
+            "matchedExpression": "@calc(JSON.parse(@local.empty_list))",
+            "type": "calc",
+            "fieldName": "JSON.parse(@local.empty_list)"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.empty_list": [
+          "value"
+        ],
+        "@calc(JSON.parse(@local.empty_list))": [
+          "value"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "name": "debug_rel_form_types",
+      "value": "@local.relevant_form_type_list",
+      "_translations": {
+        "value": {}
+      },
+      "condition": false,
+      "exclude_from_translation": true,
+      "_nested_name": "debug_rel_form_types",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@local.relevant_form_type_list",
+            "matchedExpression": "@local.relevant_form_type_list",
+            "type": "local",
+            "fieldName": "relevant_form_type_list"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.relevant_form_type_list": [
+          "value"
+        ]
+      }
+    },
+    {
+      "name": "debug_type",
+      "value": "@calc(typeof @local.relevant_form_type_list)",
+      "_translations": {
+        "value": {}
+      },
+      "condition": false,
+      "exclude_from_translation": true,
+      "type": "set_variable",
+      "_nested_name": "debug_type",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@calc(typeof @local.relevant_form_type_list)",
+            "matchedExpression": "@local.relevant_form_type_list",
+            "type": "local",
+            "fieldName": "relevant_form_type_list"
+          },
+          {
+            "fullExpression": "@calc(typeof @local.relevant_form_type_list)",
+            "matchedExpression": "@calc(typeof @local.relevant_form_type_list)",
+            "type": "calc",
+            "fieldName": "typeof @local.relevant_form_type_list"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.relevant_form_type_list": [
+          "value"
+        ],
+        "@calc(typeof @local.relevant_form_type_list)": [
+          "value"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "name": "show_debug_type",
+      "value": "@local.debug_type",
+      "_translations": {
+        "value": {}
+      },
+      "condition": false,
+      "exclude_from_translation": true,
+      "_nested_name": "show_debug_type",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@local.debug_type",
+            "matchedExpression": "@local.debug_type",
+            "type": "local",
+            "fieldName": "debug_type"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.debug_type": [
+          "value"
+        ]
+      }
+    },
+    {
+      "type": "items",
+      "name": "find_relevant_forms",
+      "value": "@data.report",
+      "exclude_from_translation": true,
+      "rows": [
+        {
+          "type": "text",
+          "name": "text",
+          "value": "@item.tag_list",
+          "_translations": {
+            "value": {}
+          },
+          "condition": false,
+          "exclude_from_translation": true,
+          "_nested_name": "find_relevant_forms.text",
+          "_dynamicFields": {
+            "value": [
+              {
+                "fullExpression": "@item.tag_list",
+                "matchedExpression": "@item.tag_list",
+                "type": "item",
+                "fieldName": "tag_list"
+              }
+            ]
+          },
+          "_dynamicDependencies": {
+            "@item.tag_list": [
+              "value"
+            ]
+          }
+        },
+        {
+          "name": "is_relevant_form",
+          "value": "@calc(@item.tag_list.includes(@fields.current_package))",
+          "_translations": {
+            "value": {}
+          },
+          "condition": "@global.has_multiple_content_packages",
+          "exclude_from_translation": true,
+          "type": "set_variable",
+          "_nested_name": "find_relevant_forms.is_relevant_form",
+          "_dynamicFields": {
+            "value": [
+              {
+                "fullExpression": "@calc(@item.tag_list.includes(@fields.current_package))",
+                "matchedExpression": "@item.tag_list.includes",
+                "type": "item",
+                "fieldName": "tag_list"
+              },
+              {
+                "fullExpression": "@calc(@item.tag_list.includes(@fields.current_package))",
+                "matchedExpression": "@fields.current_package",
+                "type": "fields",
+                "fieldName": "current_package"
+              },
+              {
+                "fullExpression": "@calc(@item.tag_list.includes(@fields.current_package))",
+                "matchedExpression": "@calc(@item.tag_list.includes(@fields.current_package))",
+                "type": "calc",
+                "fieldName": "@item.tag_list.includes(@fields.current_package)"
+              }
+            ],
+            "condition": [
+              {
+                "fullExpression": "@global.has_multiple_content_packages",
+                "matchedExpression": "@global.has_multiple_content_packages",
+                "type": "global",
+                "fieldName": "has_multiple_content_packages"
+              }
+            ]
+          },
+          "_dynamicDependencies": {
+            "@item.tag_list.includes": [
+              "value"
+            ],
+            "@fields.current_package": [
+              "value"
+            ],
+            "@calc(@item.tag_list.includes(@fields.current_package))": [
+              "value"
+            ],
+            "@global.has_multiple_content_packages": [
+              "condition"
+            ]
+          }
+        },
+        {
+          "name": "is_relevant_form",
+          "value": true,
+          "condition": "!@global.has_multiple_content_packages",
+          "type": "set_variable",
+          "_nested_name": "find_relevant_forms.is_relevant_form",
+          "_dynamicFields": {
+            "condition": [
+              {
+                "fullExpression": "!@global.has_multiple_content_packages",
+                "matchedExpression": "!@global.has_multiple_content_packages",
+                "type": "global",
+                "fieldName": "has_multiple_content_packages"
+              }
+            ]
+          },
+          "_dynamicDependencies": {
+            "!@global.has_multiple_content_packages": [
+              "condition"
+            ]
+          }
+        },
+        {
+          "name": "push",
+          "value": "@calc(@local.relevant_form_type_list.push(@item.type))",
+          "_translations": {
+            "value": {}
+          },
+          "condition": "@local.is_relevant_form",
+          "exclude_from_translation": true,
+          "type": "set_variable",
+          "_nested_name": "find_relevant_forms.push",
+          "_dynamicFields": {
+            "value": [
+              {
+                "fullExpression": "@calc(@local.relevant_form_type_list.push(@item.type))",
+                "matchedExpression": "@local.relevant_form_type_list.push",
+                "type": "local",
+                "fieldName": "relevant_form_type_list"
+              },
+              {
+                "fullExpression": "@calc(@local.relevant_form_type_list.push(@item.type))",
+                "matchedExpression": "@item.type",
+                "type": "item",
+                "fieldName": "type"
+              },
+              {
+                "fullExpression": "@calc(@local.relevant_form_type_list.push(@item.type))",
+                "matchedExpression": "@calc(@local.relevant_form_type_list.push(@item.type))",
+                "type": "calc",
+                "fieldName": "@local.relevant_form_type_list.push(@item.type)"
+              }
+            ],
+            "condition": [
+              {
+                "fullExpression": "@local.is_relevant_form",
+                "matchedExpression": "@local.is_relevant_form",
+                "type": "local",
+                "fieldName": "is_relevant_form"
+              }
+            ]
+          },
+          "_dynamicDependencies": {
+            "@local.relevant_form_type_list.push": [
+              "value"
+            ],
+            "@item.type": [
+              "value"
+            ],
+            "@calc(@local.relevant_form_type_list.push(@item.type))": [
+              "value"
+            ],
+            "@local.is_relevant_form": [
+              "condition"
+            ]
+          }
+        }
+      ],
+      "_nested_name": "find_relevant_forms",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@data.report",
+            "matchedExpression": "@data.report",
+            "type": "data",
+            "fieldName": "report"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@data.report": [
+          "value"
+        ]
+      }
+    },
+    {
+      "name": "virtual",
+      "value": "virtual",
+      "_translations": {
+        "value": {}
+      },
+      "exclude_from_translation": true,
+      "type": "set_variable",
+      "_nested_name": "virtual"
+    },
+    {
+      "name": "has_virtual",
+      "value": "@calc(@local.relevant_form_type_list.includes(@local.virtual))",
+      "_translations": {
+        "value": {}
+      },
+      "exclude_from_translation": true,
+      "type": "set_variable",
+      "_nested_name": "has_virtual",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@calc(@local.relevant_form_type_list.includes(@local.virtual))",
+            "matchedExpression": "@local.relevant_form_type_list.includes",
+            "type": "local",
+            "fieldName": "relevant_form_type_list"
+          },
+          {
+            "fullExpression": "@calc(@local.relevant_form_type_list.includes(@local.virtual))",
+            "matchedExpression": "@local.virtual",
+            "type": "local",
+            "fieldName": "virtual"
+          },
+          {
+            "fullExpression": "@calc(@local.relevant_form_type_list.includes(@local.virtual))",
+            "matchedExpression": "@calc(@local.relevant_form_type_list.includes(@local.virtual))",
+            "type": "calc",
+            "fieldName": "@local.relevant_form_type_list.includes(@local.virtual)"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.relevant_form_type_list.includes": [
+          "value"
+        ],
+        "@local.virtual": [
+          "value"
+        ],
+        "@calc(@local.relevant_form_type_list.includes(@local.virtual))": [
+          "value"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "name": "debug_has_virtual",
+      "value": "@local.has_virtual",
+      "_translations": {
+        "value": {}
+      },
+      "condition": false,
+      "exclude_from_translation": true,
+      "_nested_name": "debug_has_virtual",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@local.has_virtual",
+            "matchedExpression": "@local.has_virtual",
+            "type": "local",
+            "fieldName": "has_virtual"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.has_virtual": [
+          "value"
+        ]
+      }
+    },
+    {
+      "name": "in_person",
+      "value": "in_person",
+      "_translations": {
+        "value": {}
+      },
+      "exclude_from_translation": true,
+      "type": "set_variable",
+      "_nested_name": "in_person"
+    },
+    {
+      "name": "has_in_person",
+      "value": "@calc(@local.relevant_form_type_list.includes(@local.in_person))",
+      "_translations": {
+        "value": {}
+      },
+      "exclude_from_translation": true,
+      "type": "set_variable",
+      "_nested_name": "has_in_person",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@calc(@local.relevant_form_type_list.includes(@local.in_person))",
+            "matchedExpression": "@local.relevant_form_type_list.includes",
+            "type": "local",
+            "fieldName": "relevant_form_type_list"
+          },
+          {
+            "fullExpression": "@calc(@local.relevant_form_type_list.includes(@local.in_person))",
+            "matchedExpression": "@local.in_person",
+            "type": "local",
+            "fieldName": "in_person"
+          },
+          {
+            "fullExpression": "@calc(@local.relevant_form_type_list.includes(@local.in_person))",
+            "matchedExpression": "@calc(@local.relevant_form_type_list.includes(@local.in_person))",
+            "type": "calc",
+            "fieldName": "@local.relevant_form_type_list.includes(@local.in_person)"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.relevant_form_type_list.includes": [
+          "value"
+        ],
+        "@local.in_person": [
+          "value"
+        ],
+        "@calc(@local.relevant_form_type_list.includes(@local.in_person))": [
+          "value"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "name": "debug_has_in_person",
+      "value": "@local.has_in_person",
+      "_translations": {
+        "value": {}
+      },
+      "condition": false,
+      "exclude_from_translation": true,
+      "_nested_name": "debug_has_in_person",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@local.has_in_person",
+            "matchedExpression": "@local.has_in_person",
+            "type": "local",
+            "fieldName": "has_in_person"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.has_in_person": [
+          "value"
+        ]
+      }
+    },
+    {
       "type": "update_action_list",
       "name": "custom_actions_1",
       "action_list": [
@@ -87,10 +558,26 @@
           "parameter_list": {
             "style": "card"
           },
+          "condition": "@local.has_in_person",
           "style_list": [
             "flex: 1"
           ],
-          "_nested_name": "dg_type.button_in_person"
+          "_nested_name": "dg_type.button_in_person",
+          "_dynamicFields": {
+            "condition": [
+              {
+                "fullExpression": "@local.has_in_person",
+                "matchedExpression": "@local.has_in_person",
+                "type": "local",
+                "fieldName": "has_in_person"
+              }
+            ]
+          },
+          "_dynamicDependencies": {
+            "@local.has_in_person": [
+              "condition"
+            ]
+          }
         },
         {
           "type": "button",
@@ -113,7 +600,7 @@
           "parameter_list": {
             "style": "card"
           },
-          "condition": "@fields._deployment_name != \"plh_facilitator_my\" || @fields.current_package == \"kemas_group_b\" || @fields.current_package == \"kemas_group_d\" || @fields.current_package == \"masw\"",
+          "condition": "@local.has_virtual",
           "style_list": [
             "flex: 1"
           ],
@@ -130,28 +617,10 @@
             ],
             "condition": [
               {
-                "fullExpression": "@fields._deployment_name != \"plh_facilitator_my\" || @fields.current_package == \"kemas_group_b\" || @fields.current_package == \"kemas_group_d\" || @fields.current_package == \"masw\"",
-                "matchedExpression": "@fields._deployment_name",
-                "type": "fields",
-                "fieldName": "_deployment_name"
-              },
-              {
-                "fullExpression": "@fields._deployment_name != \"plh_facilitator_my\" || @fields.current_package == \"kemas_group_b\" || @fields.current_package == \"kemas_group_d\" || @fields.current_package == \"masw\"",
-                "matchedExpression": "@fields.current_package",
-                "type": "fields",
-                "fieldName": "current_package"
-              },
-              {
-                "fullExpression": "@fields._deployment_name != \"plh_facilitator_my\" || @fields.current_package == \"kemas_group_b\" || @fields.current_package == \"kemas_group_d\" || @fields.current_package == \"masw\"",
-                "matchedExpression": "@fields.current_package",
-                "type": "fields",
-                "fieldName": "current_package"
-              },
-              {
-                "fullExpression": "@fields._deployment_name != \"plh_facilitator_my\" || @fields.current_package == \"kemas_group_b\" || @fields.current_package == \"kemas_group_d\" || @fields.current_package == \"masw\"",
-                "matchedExpression": "@fields.current_package",
-                "type": "fields",
-                "fieldName": "current_package"
+                "fullExpression": "@local.has_virtual",
+                "matchedExpression": "@local.has_virtual",
+                "type": "local",
+                "fieldName": "has_virtual"
               }
             ]
           },
@@ -159,12 +628,7 @@
             "@global.virtual_session_platform": [
               "value"
             ],
-            "@fields._deployment_name": [
-              "condition"
-            ],
-            "@fields.current_package": [
-              "condition",
-              "condition",
+            "@local.has_virtual": [
               "condition"
             ]
           }
