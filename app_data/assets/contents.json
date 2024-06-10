@@ -67,9 +67,17 @@
     "md5Checksum": "a17c81ede156e953c0dd50cc8f848844",
     "size_kb": 7.4
   },
+  "images/faq_h_no_volunteers.svg": {
+    "md5Checksum": "571efae5f9685799ddc8063e73afb80d",
+    "size_kb": 25.3
+  },
   "images/faq_h_parents_insult.svg": {
     "md5Checksum": "a2cbeb95ae78fc30b81ac1a7987380c5",
     "size_kb": 12.5
+  },
+  "images/faq_h_prompts.svg": {
+    "md5Checksum": "9ec84d3021b439dfaf15ed3bfbc459c4",
+    "size_kb": 19.6
   },
   "images/faq_h_sad_to_end.svg": {
     "md5Checksum": "5f896851ca70caf538be20822724993b",
@@ -122,6 +130,10 @@
   "images/flags/zm.svg": {
     "md5Checksum": "8d658b4d10c327c9d9c74cb524806d60",
     "size_kb": 5.4
+  },
+  "images/group_admin_onboarding.svg": {
+    "md5Checksum": "4a38a010daa3bf9f20cc6cf19261186f",
+    "size_kb": 13.5
   },
   "images/how_to_chat_session.svg": {
     "md5Checksum": "ba6e2f12a3176f7d3fa502e49a3e8260",
