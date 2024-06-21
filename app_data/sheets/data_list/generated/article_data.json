@@ -701,7 +701,9 @@
         "message_title_5": {
           "mx_es": true
         },
-        "message_text_5": {},
+        "message_text_5": {
+          "mx_es": true
+        },
         "message_guidance_5": {
           "mx_es": true
         },
@@ -976,7 +978,9 @@
         "message_title_4": {
           "mx_es": true
         },
-        "message_text_4": {},
+        "message_text_4": {
+          "mx_es": true
+        },
         "message_title_5": {
           "mx_es": true
         },
@@ -1078,14 +1082,18 @@
         "title": {
           "mx_es": true
         },
-        "introduction": {},
+        "introduction": {
+          "mx_es": true
+        },
         "related_articles_title": {
           "mx_es": true
         },
         "message_title_1": {
           "mx_es": true
         },
-        "message_text_1": {},
+        "message_text_1": {
+          "mx_es": true
+        },
         "message_guidance_1": {
           "mx_es": true
         },
@@ -1116,7 +1124,9 @@
         "message_title_5": {
           "mx_es": true
         },
-        "message_text_5": {}
+        "message_text_5": {
+          "mx_es": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -1517,7 +1527,9 @@
         "message_title_1": {
           "mx_es": true
         },
-        "message_text_1": {},
+        "message_text_1": {
+          "mx_es": true
+        },
         "message_title_2": {
           "mx_es": true
         },
@@ -1941,11 +1953,21 @@
         "introduction": {
           "mx_es": true
         },
-        "section_title_1": {},
-        "section_text_1": {},
-        "section_title_2": {},
-        "section_text_2": {},
-        "sections_title": {},
+        "section_title_1": {
+          "mx_es": true
+        },
+        "section_text_1": {
+          "mx_es": true
+        },
+        "section_title_2": {
+          "mx_es": true
+        },
+        "section_text_2": {
+          "mx_es": true
+        },
+        "sections_title": {
+          "mx_es": true
+        },
         "resource_title_1": {
           "mx_es": true
         }
