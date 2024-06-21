@@ -24,7 +24,9 @@
       "pdf_asset": "pdf/programme_details.pdf",
       "title": "Programme Details",
       "_translations": {
-        "title": {}
+        "title": {
+          "mx_es": true
+        }
       },
       "_translatedFields": {
         "title": {

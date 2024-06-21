@@ -59,7 +59,9 @@
       ],
       "name": "Week 2: Self-Talk",
       "_translations": {
-        "name": {}
+        "name": {
+          "mx_es": true
+        }
       },
       "_translatedFields": {
         "name": {
@@ -78,7 +80,9 @@
       ],
       "name": "Week 3: Character Strengths",
       "_translations": {
-        "name": {}
+        "name": {
+          "mx_es": true
+        }
       },
       "_translatedFields": {
         "name": {
@@ -97,7 +101,9 @@
       ],
       "name": "Week 4: Building Pleasant Emotions",
       "_translations": {
-        "name": {}
+        "name": {
+          "mx_es": true
+        }
       },
       "_translatedFields": {
         "name": {
