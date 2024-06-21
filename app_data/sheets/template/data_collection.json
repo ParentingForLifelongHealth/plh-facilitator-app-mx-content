@@ -376,6 +376,7 @@
       "_translations": {
         "value": {}
       },
+      "condition": false,
       "exclude_from_translation": true,
       "_nested_name": "debug_has_virtual",
       "_dynamicFields": {
@@ -454,6 +455,7 @@
       "_translations": {
         "value": {}
       },
+      "condition": false,
       "exclude_from_translation": true,
       "_nested_name": "debug_has_in_person",
       "_dynamicFields": {
@@ -532,6 +534,7 @@
       "_translations": {
         "value": {}
       },
+      "condition": false,
       "exclude_from_translation": true,
       "_nested_name": "debug_has_external",
       "_dynamicFields": {
