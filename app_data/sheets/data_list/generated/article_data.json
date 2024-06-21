@@ -19,7 +19,9 @@
         "title": {
           "mx_es": true
         },
-        "introduction": {},
+        "introduction": {
+          "mx_es": true
+        },
         "related_articles_title": {
           "mx_es": true
         }
@@ -53,7 +55,9 @@
         "title": {
           "mx_es": true
         },
-        "introduction": {},
+        "introduction": {
+          "mx_es": true
+        },
         "related_articles_title": {
           "mx_es": true
         }
@@ -263,16 +267,24 @@
         "message_title_1": {
           "mx_es": true
         },
-        "message_text_1": {},
-        "section_title_1": {},
-        "section_text_1": {},
+        "message_text_1": {
+          "mx_es": true
+        },
+        "section_title_1": {
+          "mx_es": true
+        },
+        "section_text_1": {
+          "mx_es": true
+        },
         "message_guidance_1": {
           "mx_es": true
         },
         "message_title_2": {
           "mx_es": true
         },
-        "message_text_2": {},
+        "message_text_2": {
+          "mx_es": true
+        },
         "message_guidance_2": {
           "mx_es": true
         },
@@ -352,7 +364,9 @@
         "title": {
           "mx_es": true
         },
-        "introduction": {},
+        "introduction": {
+          "mx_es": true
+        },
         "related_articles_title": {
           "mx_es": true
         },
@@ -395,7 +409,9 @@
         "message_text_5": {
           "mx_es": true
         },
-        "message_guidance_5": {}
+        "message_guidance_5": {
+          "mx_es": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -482,23 +498,45 @@
       "status": "released",
       "title": "Day 5: Final Chat Session",
       "_translations": {
-        "title": {},
-        "introduction": {},
+        "title": {
+          "mx_es": true
+        },
+        "introduction": {
+          "mx_es": true
+        },
         "related_articles_title": {
           "mx_es": true
         },
-        "message_title_1": {},
-        "message_text_1": {},
+        "message_title_1": {
+          "mx_es": true
+        },
+        "message_text_1": {
+          "mx_es": true
+        },
         "message_guidance_1": {
           "mx_es": true
         },
-        "message_title_2": {},
-        "message_text_2": {},
-        "message_guidance_2": {},
-        "message_title_3": {},
-        "message_text_3": {},
-        "message_title_4": {},
-        "message_text_4": {}
+        "message_title_2": {
+          "mx_es": true
+        },
+        "message_text_2": {
+          "mx_es": true
+        },
+        "message_guidance_2": {
+          "mx_es": true
+        },
+        "message_title_3": {
+          "mx_es": true
+        },
+        "message_text_3": {
+          "mx_es": true
+        },
+        "message_title_4": {
+          "mx_es": true
+        },
+        "message_text_4": {
+          "mx_es": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -566,15 +604,21 @@
       "status": "released",
       "title": "Before Your Chat Session",
       "_translations": {
-        "title": {},
-        "introduction": {},
+        "title": {
+          "mx_es": true
+        },
+        "introduction": {
+          "mx_es": true
+        },
         "message_title_1": {
           "mx_es": true
         },
         "message_text_1": {
           "mx_es": true
         },
-        "message_guidance_1": {}
+        "message_guidance_1": {
+          "mx_es": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -615,23 +659,55 @@
       "status": "released",
       "title": "Week 1 Chat Session: Thoughts, Feelings, and Actions",
       "_translations": {
-        "title": {},
-        "introduction": {},
-        "message_title_1": {},
-        "message_text_1": {},
-        "message_guidance_1": {},
-        "message_title_2": {},
-        "message_text_2": {},
-        "message_guidance_2": {},
-        "message_title_3": {},
-        "message_text_3": {},
-        "message_guidance_3": {},
-        "message_title_4": {},
-        "message_text_4": {},
-        "message_title_5": {},
+        "title": {
+          "mx_es": true
+        },
+        "introduction": {
+          "mx_es": true
+        },
+        "message_title_1": {
+          "mx_es": true
+        },
+        "message_text_1": {
+          "mx_es": true
+        },
+        "message_guidance_1": {
+          "mx_es": true
+        },
+        "message_title_2": {
+          "mx_es": true
+        },
+        "message_text_2": {
+          "mx_es": true
+        },
+        "message_guidance_2": {
+          "mx_es": true
+        },
+        "message_title_3": {
+          "mx_es": true
+        },
+        "message_text_3": {
+          "mx_es": true
+        },
+        "message_guidance_3": {
+          "mx_es": true
+        },
+        "message_title_4": {
+          "mx_es": true
+        },
+        "message_text_4": {
+          "mx_es": true
+        },
+        "message_title_5": {
+          "mx_es": true
+        },
         "message_text_5": {},
-        "message_guidance_5": {},
-        "message_guidance_4": {}
+        "message_guidance_5": {
+          "mx_es": true
+        },
+        "message_guidance_4": {
+          "mx_es": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -721,25 +797,57 @@
       "status": "released",
       "title": "Week 2: Self-Talk",
       "_translations": {
-        "title": {},
-        "introduction": {},
+        "title": {
+          "mx_es": true
+        },
+        "introduction": {
+          "mx_es": true
+        },
         "related_articles_title": {
           "mx_es": true
         },
-        "message_title_1": {},
-        "message_text_1": {},
-        "message_guidance_1": {},
-        "message_title_2": {},
-        "message_text_2": {},
-        "message_guidance_2": {},
-        "message_title_3": {},
-        "message_text_3": {},
-        "message_guidance_3": {},
-        "message_title_4": {},
-        "message_text_4": {},
-        "message_title_5": {},
-        "message_text_5": {},
-        "message_guidance_5": {}
+        "message_title_1": {
+          "mx_es": true
+        },
+        "message_text_1": {
+          "mx_es": true
+        },
+        "message_guidance_1": {
+          "mx_es": true
+        },
+        "message_title_2": {
+          "mx_es": true
+        },
+        "message_text_2": {
+          "mx_es": true
+        },
+        "message_guidance_2": {
+          "mx_es": true
+        },
+        "message_title_3": {
+          "mx_es": true
+        },
+        "message_text_3": {
+          "mx_es": true
+        },
+        "message_guidance_3": {
+          "mx_es": true
+        },
+        "message_title_4": {
+          "mx_es": true
+        },
+        "message_text_4": {
+          "mx_es": true
+        },
+        "message_title_5": {
+          "mx_es": true
+        },
+        "message_text_5": {
+          "mx_es": true
+        },
+        "message_guidance_5": {
+          "mx_es": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -829,25 +937,55 @@
       "status": "released",
       "title": "Week 3: Character Strengths",
       "_translations": {
-        "title": {},
-        "introduction": {},
+        "title": {
+          "mx_es": true
+        },
+        "introduction": {
+          "mx_es": true
+        },
         "related_articles_title": {
           "mx_es": true
         },
-        "message_title_1": {},
-        "message_text_1": {},
-        "message_guidance_1": {},
-        "message_title_2": {},
-        "message_text_2": {},
-        "message_guidance_2": {},
-        "message_title_3": {},
-        "message_text_3": {},
-        "message_guidance_3": {},
-        "message_title_4": {},
+        "message_title_1": {
+          "mx_es": true
+        },
+        "message_text_1": {
+          "mx_es": true
+        },
+        "message_guidance_1": {
+          "mx_es": true
+        },
+        "message_title_2": {
+          "mx_es": true
+        },
+        "message_text_2": {
+          "mx_es": true
+        },
+        "message_guidance_2": {
+          "mx_es": true
+        },
+        "message_title_3": {
+          "mx_es": true
+        },
+        "message_text_3": {
+          "mx_es": true
+        },
+        "message_guidance_3": {
+          "mx_es": true
+        },
+        "message_title_4": {
+          "mx_es": true
+        },
         "message_text_4": {},
-        "message_title_5": {},
-        "message_text_5": {},
-        "message_guidance_5": {}
+        "message_title_5": {
+          "mx_es": true
+        },
+        "message_text_5": {
+          "mx_es": true
+        },
+        "message_guidance_5": {
+          "mx_es": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -937,23 +1075,47 @@
       "status": "released",
       "title": "Week 4: Building Pleasant Emotions",
       "_translations": {
-        "title": {},
+        "title": {
+          "mx_es": true
+        },
         "introduction": {},
         "related_articles_title": {
           "mx_es": true
         },
-        "message_title_1": {},
+        "message_title_1": {
+          "mx_es": true
+        },
         "message_text_1": {},
-        "message_guidance_1": {},
-        "message_title_2": {},
-        "message_text_2": {},
-        "message_guidance_2": {},
-        "message_title_3": {},
-        "message_text_3": {},
-        "message_guidance_3": {},
-        "message_title_4": {},
-        "message_text_4": {},
-        "message_title_5": {},
+        "message_guidance_1": {
+          "mx_es": true
+        },
+        "message_title_2": {
+          "mx_es": true
+        },
+        "message_text_2": {
+          "mx_es": true
+        },
+        "message_guidance_2": {
+          "mx_es": true
+        },
+        "message_title_3": {
+          "mx_es": true
+        },
+        "message_text_3": {
+          "mx_es": true
+        },
+        "message_guidance_3": {
+          "mx_es": true
+        },
+        "message_title_4": {
+          "mx_es": true
+        },
+        "message_text_4": {
+          "mx_es": true
+        },
+        "message_title_5": {
+          "mx_es": true
+        },
         "message_text_5": {}
       },
       "_translatedFields": {
@@ -1037,7 +1199,9 @@
       "status": "released",
       "title": "A parent needs support accessing the chatbot, and I'm not sure how to answer their question.",
       "_translations": {
-        "title": {},
+        "title": {
+          "mx_es": true
+        },
         "introduction": {
           "mx_es": true
         }
@@ -1064,7 +1228,9 @@
         "title": {
           "mx_es": true
         },
-        "introduction": {},
+        "introduction": {
+          "mx_es": true
+        },
         "message_title_1": {
           "mx_es": true
         },
@@ -1080,7 +1246,9 @@
         "message_title_3": {
           "mx_es": true
         },
-        "message_text_3": {},
+        "message_text_3": {
+          "mx_es": true
+        },
         "message_guidance_3": {
           "mx_es": true
         },
@@ -1149,11 +1317,15 @@
         "title": {
           "mx_es": true
         },
-        "introduction": {},
+        "introduction": {
+          "mx_es": true
+        },
         "message_title_1": {
           "mx_es": true
         },
-        "message_text_1": {}
+        "message_text_1": {
+          "mx_es": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -1185,11 +1357,15 @@
         "title": {
           "mx_es": true
         },
-        "introduction": {},
+        "introduction": {
+          "mx_es": true
+        },
         "message_title_1": {
           "mx_es": true
         },
-        "message_text_1": {},
+        "message_text_1": {
+          "mx_es": true
+        },
         "message_guidance_1": {
           "mx_es": true
         },
@@ -1332,12 +1508,22 @@
       "status": "released",
       "title": "I don’t understand how thoughts, feelings, and actions are connected.",
       "_translations": {
-        "title": {},
-        "introduction": {},
-        "message_title_1": {},
+        "title": {
+          "mx_es": true
+        },
+        "introduction": {
+          "mx_es": true
+        },
+        "message_title_1": {
+          "mx_es": true
+        },
         "message_text_1": {},
-        "message_title_2": {},
-        "message_text_2": {}
+        "message_title_2": {
+          "mx_es": true
+        },
+        "message_text_2": {
+          "mx_es": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -1377,15 +1563,31 @@
       "status": "released",
       "title": "I don’t know what thoughts are affecting my feelings or actions.",
       "_translations": {
-        "title": {},
-        "introduction": {},
-        "message_title_1": {},
-        "message_text_1": {},
+        "title": {
+          "mx_es": true
+        },
+        "introduction": {
+          "mx_es": true
+        },
+        "message_title_1": {
+          "mx_es": true
+        },
+        "message_text_1": {
+          "mx_es": true
+        },
         "section_text_1": {},
-        "message_title_2": {},
-        "message_text_2": {},
-        "message_title_3": {},
-        "message_text_3": {}
+        "message_title_2": {
+          "mx_es": true
+        },
+        "message_text_2": {
+          "mx_es": true
+        },
+        "message_title_3": {
+          "mx_es": true
+        },
+        "message_text_3": {
+          "mx_es": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -1446,7 +1648,9 @@
         "section_title_1": {
           "mx_es": true
         },
-        "section_text_1": {},
+        "section_text_1": {
+          "mx_es": true
+        },
         "section_title_2": {
           "mx_es": true
         },
@@ -1489,11 +1693,15 @@
         "title": {
           "mx_es": true
         },
-        "introduction": {},
+        "introduction": {
+          "mx_es": true
+        },
         "message_title_1": {
           "mx_es": true
         },
-        "message_text_1": {},
+        "message_text_1": {
+          "mx_es": true
+        },
         "message_guidance_1": {
           "mx_es": true
         }
@@ -1529,7 +1737,9 @@
         "title": {
           "mx_es": true
         },
-        "introduction": {},
+        "introduction": {
+          "mx_es": true
+        },
         "message_title_1": {
           "mx_es": true
         },
@@ -1561,12 +1771,24 @@
       "status": "released",
       "title": "I can’t identify my strengths.",
       "_translations": {
-        "title": {},
-        "introduction": {},
-        "message_title_1": {},
-        "message_text_1": {},
-        "message_title_2": {},
-        "message_text_2": {}
+        "title": {
+          "mx_es": true
+        },
+        "introduction": {
+          "mx_es": true
+        },
+        "message_title_1": {
+          "mx_es": true
+        },
+        "message_text_1": {
+          "mx_es": true
+        },
+        "message_title_2": {
+          "mx_es": true
+        },
+        "message_text_2": {
+          "mx_es": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -1606,9 +1828,15 @@
       "status": "released",
       "title": "If parents reach out to you after the group has ended.",
       "_translations": {
-        "title": {},
-        "introduction": {},
-        "message_text_1": {}
+        "title": {
+          "mx_es": true
+        },
+        "introduction": {
+          "mx_es": true
+        },
+        "message_text_1": {
+          "mx_es": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -1676,7 +1904,9 @@
         "message_title_1": {
           "mx_es": true
         },
-        "message_text_1": {}
+        "message_text_1": {
+          "mx_es": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -1708,23 +1938,17 @@
         "title": {
           "mx_es": true
         },
-        "introduction": {},
-        "section_title_1": {
+        "introduction": {
           "mx_es": true
         },
-        "section_text_1": {
+        "section_title_1": {},
+        "section_text_1": {},
+        "section_title_2": {},
+        "section_text_2": {},
+        "sections_title": {},
+        "resource_title_1": {
           "mx_es": true
-        },
-        "section_title_2": {
-          "mx_es": true
-        },
-        "section_text_2": {
-          "mx_es": true
-        },
-        "sections_title": {
-          "mx_es": true
-        },
-        "resource_title_1": {}
+        }
       },
       "_translatedFields": {
         "title": {
@@ -1778,27 +2002,39 @@
         "title": {
           "mx_es": true
         },
-        "introduction": {},
-        "related_articles_title": {},
+        "introduction": {
+          "mx_es": true
+        },
+        "related_articles_title": {
+          "mx_es": true
+        },
         "section_title_1": {
           "mx_es": true
         },
-        "section_text_1": {},
+        "section_text_1": {
+          "mx_es": true
+        },
         "section_title_2": {
           "mx_es": true
         },
-        "section_text_2": {},
+        "section_text_2": {
+          "mx_es": true
+        },
         "sections_title": {
           "mx_es": true
         },
         "section_title_3": {
           "mx_es": true
         },
-        "section_text_3": {},
+        "section_text_3": {
+          "mx_es": true
+        },
         "section_title_4": {
           "mx_es": true
         },
-        "section_text_4": {}
+        "section_text_4": {
+          "mx_es": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -1865,24 +2101,54 @@
       "status": "released",
       "title": "Overview of the @global.programme_name Programme",
       "_translations": {
-        "title": {},
-        "introduction": {},
-        "related_articles_title": {},
-        "section_title_1": {},
-        "section_text_1": {},
-        "section_title_2": {},
-        "section_text_2": {},
+        "title": {
+          "mx_es": true
+        },
+        "introduction": {
+          "mx_es": true
+        },
+        "related_articles_title": {
+          "mx_es": true
+        },
+        "section_title_1": {
+          "mx_es": true
+        },
+        "section_text_1": {
+          "mx_es": true
+        },
+        "section_title_2": {
+          "mx_es": true
+        },
+        "section_text_2": {
+          "mx_es": true
+        },
         "sections_title": {
           "mx_es": true
         },
-        "resource_title_1": {},
-        "section_title_3": {},
-        "section_text_3": {},
-        "section_title_4": {},
-        "section_text_4": {},
-        "resource_title_2": {},
-        "resource_title_3": {},
-        "resource_title_4": {}
+        "resource_title_1": {
+          "mx_es": true
+        },
+        "section_title_3": {
+          "mx_es": true
+        },
+        "section_text_3": {
+          "mx_es": true
+        },
+        "section_title_4": {
+          "mx_es": true
+        },
+        "section_text_4": {
+          "mx_es": true
+        },
+        "resource_title_2": {
+          "mx_es": true
+        },
+        "resource_title_3": {
+          "mx_es": true
+        },
+        "resource_title_4": {
+          "mx_es": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -1976,15 +2242,33 @@
         "title": {
           "mx_es": true
         },
-        "introduction": {},
-        "section_title_1": {},
-        "section_text_1": {},
-        "section_title_2": {},
-        "section_text_2": {},
-        "sections_title": {},
-        "resource_title_1": {},
-        "resource_title_2": {},
-        "resource_title_3": {}
+        "introduction": {
+          "mx_es": true
+        },
+        "section_title_1": {
+          "mx_es": true
+        },
+        "section_text_1": {
+          "mx_es": true
+        },
+        "section_title_2": {
+          "mx_es": true
+        },
+        "section_text_2": {
+          "mx_es": true
+        },
+        "sections_title": {
+          "mx_es": true
+        },
+        "resource_title_1": {
+          "mx_es": true
+        },
+        "resource_title_2": {
+          "mx_es": true
+        },
+        "resource_title_3": {
+          "mx_es": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -2050,32 +2334,48 @@
       "status": "released",
       "title": "How to Conduct WhatsApp Support Group Chat Sessions",
       "_translations": {
-        "title": {},
-        "introduction": {},
-        "related_articles_title": {},
+        "title": {
+          "mx_es": true
+        },
+        "introduction": {
+          "mx_es": true
+        },
+        "related_articles_title": {
+          "mx_es": true
+        },
         "section_title_1": {
           "mx_es": true
         },
-        "section_text_1": {},
+        "section_text_1": {
+          "mx_es": true
+        },
         "section_title_2": {
           "mx_es": true
         },
-        "section_text_2": {},
+        "section_text_2": {
+          "mx_es": true
+        },
         "sections_title": {
           "mx_es": true
         },
-        "resource_title_1": {},
+        "resource_title_1": {
+          "mx_es": true
+        },
         "section_title_3": {
           "mx_es": true
         },
-        "section_text_3": {},
+        "section_text_3": {
+          "mx_es": true
+        },
         "section_title_4": {
           "mx_es": true
         },
         "section_text_4": {
           "mx_es": true
         },
-        "section_title_5": {}
+        "section_title_5": {
+          "mx_es": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -2154,24 +2454,36 @@
         "title": {
           "mx_es": true
         },
-        "introduction": {},
-        "related_articles_title": {},
+        "introduction": {
+          "mx_es": true
+        },
+        "related_articles_title": {
+          "mx_es": true
+        },
         "section_title_1": {
           "mx_es": true
         },
-        "section_text_1": {},
+        "section_text_1": {
+          "mx_es": true
+        },
         "section_title_2": {
           "mx_es": true
         },
-        "section_text_2": {},
+        "section_text_2": {
+          "mx_es": true
+        },
         "sections_title": {
           "mx_es": true
         },
-        "resource_title_1": {},
+        "resource_title_1": {
+          "mx_es": true
+        },
         "section_title_3": {
           "mx_es": true
         },
-        "section_text_3": {},
+        "section_text_3": {
+          "mx_es": true
+        },
         "section_title_4": {
           "mx_es": true
         },
@@ -2260,18 +2572,42 @@
       "status": "released",
       "title": "Coaching support",
       "_translations": {
-        "title": {},
-        "introduction": {},
-        "related_articles_title": {},
-        "section_title_1": {},
-        "section_text_1": {},
-        "section_title_2": {},
-        "section_text_2": {},
-        "sections_title": {},
-        "section_title_3": {},
-        "section_text_3": {},
-        "section_title_4": {},
-        "section_text_4": {}
+        "title": {
+          "mx_es": true
+        },
+        "introduction": {
+          "mx_es": true
+        },
+        "related_articles_title": {
+          "mx_es": true
+        },
+        "section_title_1": {
+          "mx_es": true
+        },
+        "section_text_1": {
+          "mx_es": true
+        },
+        "section_title_2": {
+          "mx_es": true
+        },
+        "section_text_2": {
+          "mx_es": true
+        },
+        "sections_title": {
+          "mx_es": true
+        },
+        "section_title_3": {
+          "mx_es": true
+        },
+        "section_text_3": {
+          "mx_es": true
+        },
+        "section_title_4": {
+          "mx_es": true
+        },
+        "section_text_4": {
+          "mx_es": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -2340,18 +2676,36 @@
       "status": "released",
       "title": "How to hand over to Group Admin",
       "_translations": {
-        "title": {},
-        "introduction": {},
+        "title": {
+          "mx_es": true
+        },
+        "introduction": {
+          "mx_es": true
+        },
         "related_articles_title": {
           "mx_es": true
         },
-        "message_title_1": {},
-        "message_text_1": {},
-        "section_title_1": {},
-        "section_text_1": {},
-        "message_title_2": {},
-        "message_text_2": {},
-        "message_guidance_2": {}
+        "message_title_1": {
+          "mx_es": true
+        },
+        "message_text_1": {
+          "mx_es": true
+        },
+        "section_title_1": {
+          "mx_es": true
+        },
+        "section_text_1": {
+          "mx_es": true
+        },
+        "message_title_2": {
+          "mx_es": true
+        },
+        "message_text_2": {
+          "mx_es": true
+        },
+        "message_guidance_2": {
+          "mx_es": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -2407,11 +2761,21 @@
       "status": "released",
       "title": "Chat session prompts for new group admin",
       "_translations": {
-        "title": {},
-        "introduction": {},
-        "message_text_1": {},
-        "message_text_2": {},
-        "message_text_3": {}
+        "title": {
+          "mx_es": true
+        },
+        "introduction": {
+          "mx_es": true
+        },
+        "message_text_1": {
+          "mx_es": true
+        },
+        "message_text_2": {
+          "mx_es": true
+        },
+        "message_text_3": {
+          "mx_es": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -2447,10 +2811,18 @@
       "status": "released",
       "title": "No one volunteered to be group admin",
       "_translations": {
-        "title": {},
-        "introduction": {},
-        "message_title_1": {},
-        "message_text_1": {}
+        "title": {
+          "mx_es": true
+        },
+        "introduction": {
+          "mx_es": true
+        },
+        "message_title_1": {
+          "mx_es": true
+        },
+        "message_text_1": {
+          "mx_es": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -2494,23 +2866,33 @@
         "message_title_1": {
           "mx_es": true
         },
-        "message_text_1": {},
+        "message_text_1": {
+          "mx_es": true
+        },
         "message_title_2": {
           "mx_es": true
         },
-        "message_text_2": {},
+        "message_text_2": {
+          "mx_es": true
+        },
         "message_title_3": {
           "mx_es": true
         },
-        "message_text_3": {},
+        "message_text_3": {
+          "mx_es": true
+        },
         "message_title_4": {
           "mx_es": true
         },
-        "message_text_4": {},
+        "message_text_4": {
+          "mx_es": true
+        },
         "message_title_5": {
           "mx_es": true
         },
-        "message_text_5": {}
+        "message_text_5": {
+          "mx_es": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -2574,7 +2956,9 @@
         "title": {
           "mx_es": true
         },
-        "introduction": {},
+        "introduction": {
+          "mx_es": true
+        },
         "message_title_1": {
           "mx_es": true
         },
@@ -2640,7 +3024,9 @@
         "title": {
           "mx_es": true
         },
-        "introduction": {},
+        "introduction": {
+          "mx_es": true
+        },
         "message_title_1": {
           "mx_es": true
         },
@@ -2737,7 +3123,9 @@
         "introduction": {
           "mx_es": true
         },
-        "message_title_1": {},
+        "message_title_1": {
+          "mx_es": true
+        },
         "message_text_1": {
           "mx_es": true
         },
@@ -2811,14 +3199,30 @@
       "status": "released",
       "title": "Supporting girl, boy, or teen’s learning",
       "_translations": {
-        "title": {},
-        "introduction": {},
-        "message_title_1": {},
-        "message_text_1": {},
-        "message_title_2": {},
-        "message_text_2": {},
-        "message_title_3": {},
-        "message_text_3": {}
+        "title": {
+          "mx_es": true
+        },
+        "introduction": {
+          "mx_es": true
+        },
+        "message_title_1": {
+          "mx_es": true
+        },
+        "message_text_1": {
+          "mx_es": true
+        },
+        "message_title_2": {
+          "mx_es": true
+        },
+        "message_text_2": {
+          "mx_es": true
+        },
+        "message_title_3": {
+          "mx_es": true
+        },
+        "message_text_3": {
+          "mx_es": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -2869,18 +3273,42 @@
       "status": "released",
       "title": "Helping your girl, boy, or teen give structure",
       "_translations": {
-        "title": {},
-        "introduction": {},
-        "message_title_1": {},
-        "message_text_1": {},
-        "message_title_2": {},
-        "message_text_2": {},
-        "message_title_3": {},
-        "message_text_3": {},
-        "message_title_4": {},
-        "message_text_4": {},
-        "message_title_5": {},
-        "message_text_5": {}
+        "title": {
+          "mx_es": true
+        },
+        "introduction": {
+          "mx_es": true
+        },
+        "message_title_1": {
+          "mx_es": true
+        },
+        "message_text_1": {
+          "mx_es": true
+        },
+        "message_title_2": {
+          "mx_es": true
+        },
+        "message_text_2": {
+          "mx_es": true
+        },
+        "message_title_3": {
+          "mx_es": true
+        },
+        "message_text_3": {
+          "mx_es": true
+        },
+        "message_title_4": {
+          "mx_es": true
+        },
+        "message_text_4": {
+          "mx_es": true
+        },
+        "message_title_5": {
+          "mx_es": true
+        },
+        "message_text_5": {
+          "mx_es": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -2947,18 +3375,42 @@
       "status": "released",
       "title": "Supporting positive child behaviour",
       "_translations": {
-        "title": {},
-        "introduction": {},
-        "message_title_1": {},
-        "message_text_1": {},
-        "message_title_2": {},
-        "message_text_2": {},
-        "message_title_3": {},
-        "message_text_3": {},
-        "message_title_4": {},
-        "message_text_4": {},
-        "message_title_5": {},
-        "message_text_5": {}
+        "title": {
+          "mx_es": true
+        },
+        "introduction": {
+          "mx_es": true
+        },
+        "message_title_1": {
+          "mx_es": true
+        },
+        "message_text_1": {
+          "mx_es": true
+        },
+        "message_title_2": {
+          "mx_es": true
+        },
+        "message_text_2": {
+          "mx_es": true
+        },
+        "message_title_3": {
+          "mx_es": true
+        },
+        "message_text_3": {
+          "mx_es": true
+        },
+        "message_title_4": {
+          "mx_es": true
+        },
+        "message_text_4": {
+          "mx_es": true
+        },
+        "message_title_5": {
+          "mx_es": true
+        },
+        "message_text_5": {
+          "mx_es": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -3025,18 +3477,42 @@
       "status": "released",
       "title": "Keeping the girl, boy, or teen safe and healthy",
       "_translations": {
-        "title": {},
-        "introduction": {},
-        "message_title_1": {},
-        "message_text_1": {},
-        "message_title_2": {},
-        "message_text_2": {},
-        "message_title_3": {},
-        "message_text_3": {},
-        "message_title_4": {},
-        "message_text_4": {},
-        "message_title_5": {},
-        "message_text_5": {}
+        "title": {
+          "mx_es": true
+        },
+        "introduction": {
+          "mx_es": true
+        },
+        "message_title_1": {
+          "mx_es": true
+        },
+        "message_text_1": {
+          "mx_es": true
+        },
+        "message_title_2": {
+          "mx_es": true
+        },
+        "message_text_2": {
+          "mx_es": true
+        },
+        "message_title_3": {
+          "mx_es": true
+        },
+        "message_text_3": {
+          "mx_es": true
+        },
+        "message_title_4": {
+          "mx_es": true
+        },
+        "message_text_4": {
+          "mx_es": true
+        },
+        "message_title_5": {
+          "mx_es": true
+        },
+        "message_text_5": {
+          "mx_es": true
+        }
       },
       "_translatedFields": {
         "title": {

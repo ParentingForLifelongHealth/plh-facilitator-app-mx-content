@@ -1813,7 +1813,9 @@
       "name": "question_how_session_went",
       "value": "How do you feel the session went?",
       "_translations": {
-        "value": {}
+        "value": {
+          "mx_es": true
+        }
       },
       "parameter_list": {
         "style": "emphasised"
@@ -1824,7 +1826,9 @@
       "name": "very_well",
       "value": "Very well",
       "_translations": {
-        "value": {}
+        "value": {
+          "mx_es": true
+        }
       },
       "type": "set_variable",
       "_nested_name": "very_well"
@@ -1833,7 +1837,9 @@
       "name": "well",
       "value": "Well",
       "_translations": {
-        "value": {}
+        "value": {
+          "mx_es": true
+        }
       },
       "type": "set_variable",
       "_nested_name": "well"
@@ -1842,7 +1848,9 @@
       "name": "okay",
       "value": "Acceptable / Okay",
       "_translations": {
-        "value": {}
+        "value": {
+          "mx_es": true
+        }
       },
       "type": "set_variable",
       "_nested_name": "okay"
@@ -1851,7 +1859,9 @@
       "name": "poorly",
       "value": "Poorly",
       "_translations": {
-        "value": {}
+        "value": {
+          "mx_es": true
+        }
       },
       "type": "set_variable",
       "_nested_name": "poorly"
@@ -1860,7 +1870,9 @@
       "name": "very_poorly",
       "value": "Very poorly",
       "_translations": {
-        "value": {}
+        "value": {
+          "mx_es": true
+        }
       },
       "type": "set_variable",
       "_nested_name": "very_poorly"

@@ -313,7 +313,9 @@
           "name": "button_themes",
           "value": "Themes",
           "_translations": {
-            "value": {}
+            "value": {
+              "mx_es": true
+            }
           },
           "action_list": [
             {
@@ -333,7 +335,9 @@
           "name": "button_import_user",
           "value": "Import user",
           "_translations": {
-            "value": {}
+            "value": {
+              "mx_es": true
+            }
           },
           "action_list": [
             {
