@@ -104,6 +104,27 @@
           "eng": "Week 4: Building Pleasant Emotions"
         }
       }
+    },
+    {
+      "id": "test",
+      "type": "external",
+      "tag_list": [
+        "study_dif_bc",
+        "study_dif_chih",
+        "study_dif_cdmx",
+        "study_dif_mich",
+        "scale_dif"
+      ],
+      "external_url": "https://www.idems.international/",
+      "name": "Test",
+      "_translations": {
+        "name": {}
+      },
+      "_translatedFields": {
+        "name": {
+          "eng": "Test"
+        }
+      }
     }
   ],
   "_xlsxPath": "data/FacilitatorApp MX content.xlsx"

@@ -376,7 +376,6 @@
       "_translations": {
         "value": {}
       },
-      "condition": false,
       "exclude_from_translation": true,
       "_nested_name": "debug_has_virtual",
       "_dynamicFields": {
@@ -455,7 +454,6 @@
       "_translations": {
         "value": {}
       },
-      "condition": false,
       "exclude_from_translation": true,
       "_nested_name": "debug_has_in_person",
       "_dynamicFields": {
@@ -470,6 +468,84 @@
       },
       "_dynamicDependencies": {
         "@local.has_in_person": [
+          "value"
+        ]
+      }
+    },
+    {
+      "name": "external",
+      "value": "external",
+      "_translations": {
+        "value": {}
+      },
+      "exclude_from_translation": true,
+      "type": "set_variable",
+      "_nested_name": "external"
+    },
+    {
+      "name": "has_external",
+      "value": "@calc(@local.relevant_form_type_list.includes(@local.external))",
+      "_translations": {
+        "value": {}
+      },
+      "exclude_from_translation": true,
+      "type": "set_variable",
+      "_nested_name": "has_external",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@calc(@local.relevant_form_type_list.includes(@local.external))",
+            "matchedExpression": "@local.relevant_form_type_list.includes",
+            "type": "local",
+            "fieldName": "relevant_form_type_list"
+          },
+          {
+            "fullExpression": "@calc(@local.relevant_form_type_list.includes(@local.external))",
+            "matchedExpression": "@local.external",
+            "type": "local",
+            "fieldName": "external"
+          },
+          {
+            "fullExpression": "@calc(@local.relevant_form_type_list.includes(@local.external))",
+            "matchedExpression": "@calc(@local.relevant_form_type_list.includes(@local.external))",
+            "type": "calc",
+            "fieldName": "@local.relevant_form_type_list.includes(@local.external)"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.relevant_form_type_list.includes": [
+          "value"
+        ],
+        "@local.external": [
+          "value"
+        ],
+        "@calc(@local.relevant_form_type_list.includes(@local.external))": [
+          "value"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "name": "debug_has_external",
+      "value": "@local.has_external",
+      "_translations": {
+        "value": {}
+      },
+      "exclude_from_translation": true,
+      "_nested_name": "debug_has_external",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@local.has_external",
+            "matchedExpression": "@local.has_external",
+            "type": "local",
+            "fieldName": "has_external"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.has_external": [
           "value"
         ]
       }
@@ -635,6 +711,45 @@
         }
       ],
       "_nested_name": "dg_type"
+    },
+    {
+      "type": "button",
+      "name": "button_external",
+      "value": "Reflection for Coaching",
+      "_translations": {
+        "value": {}
+      },
+      "action_list": [
+        {
+          "trigger": "click",
+          "action_id": "pop_up",
+          "args": [
+            "external_form"
+          ],
+          "_raw": "click | pop_up: external_form",
+          "_cleaned": "click | pop_up: external_form"
+        }
+      ],
+      "parameter_list": {
+        "style": "card"
+      },
+      "condition": "@local.has_external",
+      "_nested_name": "button_external",
+      "_dynamicFields": {
+        "condition": [
+          {
+            "fullExpression": "@local.has_external",
+            "matchedExpression": "@local.has_external",
+            "type": "local",
+            "fieldName": "has_external"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.has_external": [
+          "condition"
+        ]
+      }
     },
     {
       "name": "attendance_data_json",
