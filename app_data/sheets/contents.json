@@ -317,6 +317,11 @@
       "flow_name": "exit_dev_mode",
       "_xlsxPath": "templates/app_menu.xlsx"
     },
+    "external_form": {
+      "flow_type": "template",
+      "flow_name": "external_form",
+      "_xlsxPath": "templates/data_collection.xlsx"
+    },
     "feature_feedback_debug": {
       "flow_type": "template",
       "flow_name": "feature_feedback_debug",

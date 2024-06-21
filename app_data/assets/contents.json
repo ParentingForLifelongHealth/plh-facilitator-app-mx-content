@@ -274,5 +274,13 @@
   "pdf/programme_details.pdf": {
     "md5Checksum": "d7f88e6bc4851b986b223a9b536e0e18",
     "size_kb": 123
+  },
+  "videos/add_parent.mp4": {
+    "md5Checksum": "2cdc77cf24738d4dd9a8572bb834cc32",
+    "size_kb": 19312.7
+  },
+  "videos/onboard_caregivers.mp4": {
+    "md5Checksum": "06a87076d38ddaac71e27e9e58b52b96",
+    "size_kb": 91291.6
   }
 }
