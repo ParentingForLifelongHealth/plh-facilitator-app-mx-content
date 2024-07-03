@@ -680,226 +680,291 @@
               }
             },
             {
-              "type": "display_group",
+              "type": "display_grid",
               "name": "resource_@item.id",
-              "style_list": [
-                "justify-content: center"
-              ],
               "parameter_list": {
-                "style": "column"
+                "item_width": "40%"
               },
               "rows": [
                 {
-                  "type": "round_button",
-                  "name": "button_@item.id",
-                  "action_list": [
-                    {
-                      "trigger": "click",
-                      "action_id": "go_to",
-                      "args": [
-                        "@local.resource_data@local.join@local.resource_id"
-                      ],
-                      "_raw": "click | go_to: @local.resource_data@local.join@local.resource_id",
-                      "_cleaned": "click | go_to: @local.resource_data@local.join@local.resource_id"
-                    }
+                  "type": "display_group",
+                  "name": "dg_resource_@item.id",
+                  "style_list": [
+                    "justify-content: center"
                   ],
-                  "condition": "@local.resource_id",
                   "parameter_list": {
-                    "icon_src": "@local.icon_src",
-                    "style": "@local.style"
+                    "style": "column"
                   },
-                  "_nested_name": "dg_resources.items_1.resource_@item.id.button_@item.id",
-                  "_dynamicFields": {
-                    "name": [
-                      {
-                        "fullExpression": "button_@item.id",
-                        "matchedExpression": "@item.id",
-                        "type": "item",
-                        "fieldName": "id"
-                      }
-                    ],
-                    "action_list": {
-                      "0": {
-                        "args": {
-                          "0": [
-                            {
-                              "fullExpression": "@local.resource_data@local.join@local.resource_id",
-                              "matchedExpression": "@local.resource_data",
-                              "type": "local",
-                              "fieldName": "resource_data"
+                  "rows": [
+                    {
+                      "type": "round_button",
+                      "name": "button_@item.id",
+                      "action_list": [
+                        {
+                          "trigger": "click",
+                          "action_id": "go_to",
+                          "args": [
+                            "@local.resource_data@local.join@local.resource_id"
+                          ],
+                          "_raw": "click | go_to: @local.resource_data@local.join@local.resource_id",
+                          "_cleaned": "click | go_to: @local.resource_data@local.join@local.resource_id"
+                        }
+                      ],
+                      "condition": "@local.resource_id",
+                      "parameter_list": {
+                        "icon_src": "@local.icon_src",
+                        "style": "@local.style"
+                      },
+                      "_nested_name": "dg_resources.items_1.resource_@item.id.dg_resource_@item.id.button_@item.id",
+                      "_dynamicFields": {
+                        "name": [
+                          {
+                            "fullExpression": "button_@item.id",
+                            "matchedExpression": "@item.id",
+                            "type": "item",
+                            "fieldName": "id"
+                          }
+                        ],
+                        "action_list": {
+                          "0": {
+                            "args": {
+                              "0": [
+                                {
+                                  "fullExpression": "@local.resource_data@local.join@local.resource_id",
+                                  "matchedExpression": "@local.resource_data",
+                                  "type": "local",
+                                  "fieldName": "resource_data"
+                                },
+                                {
+                                  "fullExpression": "@local.resource_data@local.join@local.resource_id",
+                                  "matchedExpression": "@local.join",
+                                  "type": "local",
+                                  "fieldName": "join"
+                                },
+                                {
+                                  "fullExpression": "@local.resource_data@local.join@local.resource_id",
+                                  "matchedExpression": "@local.resource_id",
+                                  "type": "local",
+                                  "fieldName": "resource_id"
+                                }
+                              ]
                             },
-                            {
-                              "fullExpression": "@local.resource_data@local.join@local.resource_id",
-                              "matchedExpression": "@local.join",
-                              "type": "local",
-                              "fieldName": "join"
-                            },
-                            {
-                              "fullExpression": "@local.resource_data@local.join@local.resource_id",
-                              "matchedExpression": "@local.resource_id",
-                              "type": "local",
-                              "fieldName": "resource_id"
-                            }
-                          ]
+                            "_raw": [
+                              {
+                                "fullExpression": "click | go_to: @local.resource_data@local.join@local.resource_id",
+                                "matchedExpression": "@local.resource_data",
+                                "type": "local",
+                                "fieldName": "resource_data"
+                              },
+                              {
+                                "fullExpression": "click | go_to: @local.resource_data@local.join@local.resource_id",
+                                "matchedExpression": "@local.join",
+                                "type": "local",
+                                "fieldName": "join"
+                              },
+                              {
+                                "fullExpression": "click | go_to: @local.resource_data@local.join@local.resource_id",
+                                "matchedExpression": "@local.resource_id",
+                                "type": "local",
+                                "fieldName": "resource_id"
+                              }
+                            ],
+                            "_cleaned": [
+                              {
+                                "fullExpression": "click | go_to: @local.resource_data@local.join@local.resource_id",
+                                "matchedExpression": "@local.resource_data",
+                                "type": "local",
+                                "fieldName": "resource_data"
+                              },
+                              {
+                                "fullExpression": "click | go_to: @local.resource_data@local.join@local.resource_id",
+                                "matchedExpression": "@local.join",
+                                "type": "local",
+                                "fieldName": "join"
+                              },
+                              {
+                                "fullExpression": "click | go_to: @local.resource_data@local.join@local.resource_id",
+                                "matchedExpression": "@local.resource_id",
+                                "type": "local",
+                                "fieldName": "resource_id"
+                              }
+                            ]
+                          }
                         },
-                        "_raw": [
+                        "condition": [
                           {
-                            "fullExpression": "click | go_to: @local.resource_data@local.join@local.resource_id",
-                            "matchedExpression": "@local.resource_data",
-                            "type": "local",
-                            "fieldName": "resource_data"
-                          },
-                          {
-                            "fullExpression": "click | go_to: @local.resource_data@local.join@local.resource_id",
-                            "matchedExpression": "@local.join",
-                            "type": "local",
-                            "fieldName": "join"
-                          },
-                          {
-                            "fullExpression": "click | go_to: @local.resource_data@local.join@local.resource_id",
+                            "fullExpression": "@local.resource_id",
                             "matchedExpression": "@local.resource_id",
                             "type": "local",
                             "fieldName": "resource_id"
                           }
                         ],
-                        "_cleaned": [
+                        "parameter_list": {
+                          "icon_src": [
+                            {
+                              "fullExpression": "@local.icon_src",
+                              "matchedExpression": "@local.icon_src",
+                              "type": "local",
+                              "fieldName": "icon_src"
+                            }
+                          ],
+                          "style": [
+                            {
+                              "fullExpression": "@local.style",
+                              "matchedExpression": "@local.style",
+                              "type": "local",
+                              "fieldName": "style"
+                            }
+                          ]
+                        },
+                        "_nested_name": [
                           {
-                            "fullExpression": "click | go_to: @local.resource_data@local.join@local.resource_id",
-                            "matchedExpression": "@local.resource_data",
-                            "type": "local",
-                            "fieldName": "resource_data"
+                            "fullExpression": "dg_resources.items_1.resource_@item.id.dg_resource_@item.id.button_@item.id",
+                            "matchedExpression": "@item.id.dg_resource_",
+                            "type": "item",
+                            "fieldName": "id"
                           },
                           {
-                            "fullExpression": "click | go_to: @local.resource_data@local.join@local.resource_id",
-                            "matchedExpression": "@local.join",
-                            "type": "local",
-                            "fieldName": "join"
+                            "fullExpression": "dg_resources.items_1.resource_@item.id.dg_resource_@item.id.button_@item.id",
+                            "matchedExpression": "@item.id.button_",
+                            "type": "item",
+                            "fieldName": "id"
                           },
                           {
-                            "fullExpression": "click | go_to: @local.resource_data@local.join@local.resource_id",
-                            "matchedExpression": "@local.resource_id",
-                            "type": "local",
-                            "fieldName": "resource_id"
+                            "fullExpression": "dg_resources.items_1.resource_@item.id.dg_resource_@item.id.button_@item.id",
+                            "matchedExpression": "@item.id",
+                            "type": "item",
+                            "fieldName": "id"
                           }
+                        ]
+                      },
+                      "_dynamicDependencies": {
+                        "@item.id": [
+                          "name",
+                          "_nested_name"
+                        ],
+                        "@local.resource_data": [
+                          "action_list.0.args.0",
+                          "action_list.0._raw",
+                          "action_list.0._cleaned"
+                        ],
+                        "@local.join": [
+                          "action_list.0.args.0",
+                          "action_list.0._raw",
+                          "action_list.0._cleaned"
+                        ],
+                        "@local.resource_id": [
+                          "action_list.0.args.0",
+                          "action_list.0._raw",
+                          "action_list.0._cleaned",
+                          "condition"
+                        ],
+                        "@local.icon_src": [
+                          "parameter_list.icon_src"
+                        ],
+                        "@local.style": [
+                          "parameter_list.style"
+                        ],
+                        "@item.id.dg_resource_": [
+                          "_nested_name"
+                        ],
+                        "@item.id.button_": [
+                          "_nested_name"
                         ]
                       }
                     },
-                    "condition": [
-                      {
-                        "fullExpression": "@local.resource_id",
-                        "matchedExpression": "@local.resource_id",
-                        "type": "local",
-                        "fieldName": "resource_id"
-                      }
-                    ],
-                    "parameter_list": {
-                      "icon_src": [
-                        {
-                          "fullExpression": "@local.icon_src",
-                          "matchedExpression": "@local.icon_src",
-                          "type": "local",
-                          "fieldName": "icon_src"
-                        }
-                      ],
-                      "style": [
-                        {
-                          "fullExpression": "@local.style",
-                          "matchedExpression": "@local.style",
-                          "type": "local",
-                          "fieldName": "style"
-                        }
-                      ]
-                    },
-                    "_nested_name": [
-                      {
-                        "fullExpression": "dg_resources.items_1.resource_@item.id.button_@item.id",
-                        "matchedExpression": "@item.id.button_",
-                        "type": "item",
-                        "fieldName": "id"
+                    {
+                      "type": "text",
+                      "name": "header_@item.id",
+                      "value": "@local.resource_header",
+                      "_translations": {
+                        "value": {}
                       },
-                      {
-                        "fullExpression": "dg_resources.items_1.resource_@item.id.button_@item.id",
-                        "matchedExpression": "@item.id",
-                        "type": "item",
-                        "fieldName": "id"
+                      "condition": "!!(@local.resource_header)",
+                      "_nested_name": "dg_resources.items_1.resource_@item.id.dg_resource_@item.id.header_@item.id",
+                      "_dynamicFields": {
+                        "name": [
+                          {
+                            "fullExpression": "header_@item.id",
+                            "matchedExpression": "@item.id",
+                            "type": "item",
+                            "fieldName": "id"
+                          }
+                        ],
+                        "value": [
+                          {
+                            "fullExpression": "@local.resource_header",
+                            "matchedExpression": "@local.resource_header",
+                            "type": "local",
+                            "fieldName": "resource_header"
+                          }
+                        ],
+                        "condition": [
+                          {
+                            "fullExpression": "!!(@local.resource_header)",
+                            "matchedExpression": "@local.resource_header",
+                            "type": "local",
+                            "fieldName": "resource_header"
+                          }
+                        ],
+                        "_nested_name": [
+                          {
+                            "fullExpression": "dg_resources.items_1.resource_@item.id.dg_resource_@item.id.header_@item.id",
+                            "matchedExpression": "@item.id.dg_resource_",
+                            "type": "item",
+                            "fieldName": "id"
+                          },
+                          {
+                            "fullExpression": "dg_resources.items_1.resource_@item.id.dg_resource_@item.id.header_@item.id",
+                            "matchedExpression": "@item.id.header_",
+                            "type": "item",
+                            "fieldName": "id"
+                          },
+                          {
+                            "fullExpression": "dg_resources.items_1.resource_@item.id.dg_resource_@item.id.header_@item.id",
+                            "matchedExpression": "@item.id",
+                            "type": "item",
+                            "fieldName": "id"
+                          }
+                        ]
+                      },
+                      "_dynamicDependencies": {
+                        "@item.id": [
+                          "name",
+                          "_nested_name"
+                        ],
+                        "@local.resource_header": [
+                          "value",
+                          "condition"
+                        ],
+                        "@item.id.dg_resource_": [
+                          "_nested_name"
+                        ],
+                        "@item.id.header_": [
+                          "_nested_name"
+                        ]
                       }
-                    ]
-                  },
-                  "_dynamicDependencies": {
-                    "@item.id": [
-                      "name",
-                      "_nested_name"
-                    ],
-                    "@local.resource_data": [
-                      "action_list.0.args.0",
-                      "action_list.0._raw",
-                      "action_list.0._cleaned"
-                    ],
-                    "@local.join": [
-                      "action_list.0.args.0",
-                      "action_list.0._raw",
-                      "action_list.0._cleaned"
-                    ],
-                    "@local.resource_id": [
-                      "action_list.0.args.0",
-                      "action_list.0._raw",
-                      "action_list.0._cleaned",
-                      "condition"
-                    ],
-                    "@local.icon_src": [
-                      "parameter_list.icon_src"
-                    ],
-                    "@local.style": [
-                      "parameter_list.style"
-                    ],
-                    "@item.id.button_": [
-                      "_nested_name"
-                    ]
-                  }
-                },
-                {
-                  "type": "text",
-                  "name": "header_@item.id",
-                  "value": "@local.resource_header",
-                  "_translations": {
-                    "value": {}
-                  },
-                  "condition": "!!(@local.resource_header)",
-                  "_nested_name": "dg_resources.items_1.resource_@item.id.header_@item.id",
+                    }
+                  ],
+                  "_nested_name": "dg_resources.items_1.resource_@item.id.dg_resource_@item.id",
                   "_dynamicFields": {
                     "name": [
                       {
-                        "fullExpression": "header_@item.id",
+                        "fullExpression": "dg_resource_@item.id",
                         "matchedExpression": "@item.id",
                         "type": "item",
                         "fieldName": "id"
                       }
                     ],
-                    "value": [
-                      {
-                        "fullExpression": "@local.resource_header",
-                        "matchedExpression": "@local.resource_header",
-                        "type": "local",
-                        "fieldName": "resource_header"
-                      }
-                    ],
-                    "condition": [
-                      {
-                        "fullExpression": "!!(@local.resource_header)",
-                        "matchedExpression": "@local.resource_header",
-                        "type": "local",
-                        "fieldName": "resource_header"
-                      }
-                    ],
                     "_nested_name": [
                       {
-                        "fullExpression": "dg_resources.items_1.resource_@item.id.header_@item.id",
-                        "matchedExpression": "@item.id.header_",
+                        "fullExpression": "dg_resources.items_1.resource_@item.id.dg_resource_@item.id",
+                        "matchedExpression": "@item.id.dg_resource_",
                         "type": "item",
                         "fieldName": "id"
                       },
                       {
-                        "fullExpression": "dg_resources.items_1.resource_@item.id.header_@item.id",
+                        "fullExpression": "dg_resources.items_1.resource_@item.id.dg_resource_@item.id",
                         "matchedExpression": "@item.id",
                         "type": "item",
                         "fieldName": "id"
@@ -911,11 +976,7 @@
                       "name",
                       "_nested_name"
                     ],
-                    "@local.resource_header": [
-                      "value",
-                      "condition"
-                    ],
-                    "@item.id.header_": [
+                    "@item.id.dg_resource_": [
                       "_nested_name"
                     ]
                   }

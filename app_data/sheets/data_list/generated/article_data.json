@@ -2001,7 +2001,7 @@
       "section_title_2": "1 hour before your session",
       "section_text_2": "- Download the PowerPoint slide to your laptop \n\n- Download the videos embedded in the slides to your laptop \n\n- Go through your PowerPoint slides and videos to make sure everything is working smoothly",
       "resource_data_1": "pdf",
-      "resource_id_1": "pdf/manual.pdf",
+      "resource_id_1": "onboard_guide",
       "sections_title": "Preparation Checklist",
       "resource_title_1": "Onboarding Guide"
     },
@@ -2217,7 +2217,7 @@
       "section_title_2": "What to remember?",
       "section_text_2": "It is important to follow this manual as closely as possible. However, manuals are only a guide to support you after what you have learned in the training workshop. \nWhat you deliver – the content of the manual – is only 20% of the programme. The rest 80%? It’s all about HOW you facilitate the programme and behave towards the parents.",
       "resource_data_1": "pdf",
-      "resource_id_1": "pdf/overview_guide_study.pdf",
+      "resource_id_1": "overview_study",
       "sections_title": "Welcome",
       "resource_title_1": "Overview Guide",
       "section_title_3": "Skills you need",
@@ -2225,7 +2225,7 @@
       "section_title_4": "⭐Remember",
       "section_text_4": "Just as we say to the parents, “It is what you do at home that makes the difference,” the same thing applies to you: “It is how you interact with the parents in your group that makes the difference.” \n\nIf you take the time to deliver a session before it begins, you will be more confident. If there is anything that you cannot remember or feel unsure of, contact another facilitator to practise with. \n\nAccess the Facilitator Guide for your group by clicking on the icon above.",
       "resource_data_2": "pdf",
-      "resource_id_2": "pdf/programme_details.pdf",
+      "resource_id_2": "more_info",
       "resource_title_2": "Know more about the programme"
     },
     {
@@ -2261,9 +2261,7 @@
         "resource_title_1": {
           "mx_es": true
         },
-        "resource_title_2": {
-          "mx_es": true
-        }
+        "resource_title_2": {}
       },
       "_translatedFields": {
         "title": {
@@ -2291,7 +2289,7 @@
           "eng": "Onboarding Guide"
         },
         "resource_title_2": {
-          "eng": "Learn how to onboard caregivers to the course"
+          "eng": "How to onboard caregivers to the course"
         }
       },
       "introduction": "The Onboarding Session sets the tone for the entire @global.programme_name programme. It is important to create an empathetic, welcoming and safe space for the participants to feel at ease and familiarise themselves with the programme.",
@@ -2306,12 +2304,12 @@
       "section_title_2": "To get parents’ research ID",
       "section_text_2": "Type ID in the chatbot",
       "resource_data_1": "pdf",
-      "resource_id_1": "pdf/manual_study.pdf",
+      "resource_id_1": "onboard_guide_study",
       "sections_title": "Trigger Words",
       "resource_title_1": "Onboarding Guide",
       "resource_data_2": "media",
-      "resource_id_2": "videos/onboard_caregivers.mp4",
-      "resource_title_2": "Learn how to onboard caregivers to the course"
+      "resource_id_2": "onboard_caregiver",
+      "resource_title_2": "How to onboard caregivers to the course"
     },
     {
       "id": "how_to_chat_session_study",
@@ -2447,9 +2445,7 @@
         "sections_title": {
           "mx_es": true
         },
-        "resource_title_1": {
-          "mx_es": true
-        },
+        "resource_title_1": {},
         "section_title_3": {
           "mx_es": true
         },
@@ -2510,7 +2506,7 @@
           "eng": "Only edit an attendance report if you have made a mistake.\n\nSelect the pencil icon from the bottom of the navigation bar. \n\nSelect whether you want to edit an in-person or WhatsApp session. \n\nSelect the session that you want to edit.\n\nYour previous selections will appear. You can now edit your selections and select “Save”"
         },
         "resource_title_1": {
-          "eng": "Video: Add a Parent and Co-Parent"
+          "eng": "Add a Parent and Co-Parent"
         },
         "related_articles_title": {
           "eng": "Additional Information"
@@ -2523,9 +2519,9 @@
       "section_title_2": "Add a Parent",
       "section_text_2": "Select the profile icon from the bottom navigation bar. \n\nChoose “Add Parent”\n\nEnter parent details in the form. To enter the parent’s unique identifier (UID), ask them to text “ID” on @global.programme_name. Copy the 6-digit number into the parent profile.",
       "resource_data_1": "media",
-      "resource_id_1": "videos/add_parent.mp4",
+      "resource_id_1": "add_parent",
       "sections_title": "How to:",
-      "resource_title_1": "Video: Add a Parent and Co-Parent",
+      "resource_title_1": "Add a Parent and Co-Parent",
       "section_title_3": "Add a Co-Parent",
       "section_text_3": "If two parents from the same family are participating in the programme, together, you must link their accounts. \n\nOnce you have added the first parent profile, to add a second parent, select “Add Parent”\n\nEnter parent details in the form. To enter the parent’s unique identifier (UID), ask them to text “ID” on @global.programme_name. Copy the 6-digit number into the parent profile. \n\nSelect “Add Co-Parent”\n\nSelect the co-parent from available parent user profiles. \n\nSelect “Save”\n\n*Both parent profiles will be updated to note the co-parent.*",
       "section_title_4": "Report Attendance",

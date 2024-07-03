@@ -620,13 +620,33 @@
       "flow_subtype": "generated",
       "flow_type": "template"
     },
-    "pdf_manual": {
-      "flow_name": "pdf_manual",
+    "media_add_parent": {
+      "flow_name": "media_add_parent",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
-    "pdf_programme_details": {
-      "flow_name": "pdf_programme_details",
+    "media_onboard_caregiver": {
+      "flow_name": "media_onboard_caregiver",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "pdf_more_info": {
+      "flow_name": "pdf_more_info",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "pdf_onboard_guide": {
+      "flow_name": "pdf_onboard_guide",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "pdf_onboard_guide_study": {
+      "flow_name": "pdf_onboard_guide_study",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "pdf_overview_study": {
+      "flow_name": "pdf_overview_study",
       "flow_subtype": "generated",
       "flow_type": "template"
     },

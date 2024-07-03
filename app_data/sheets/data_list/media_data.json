@@ -3,6 +3,20 @@
   "flow_name": "media_data",
   "status": "released",
   "data_list_name": "media",
-  "rows": [],
+  "rows": [
+    {
+      "id": "onboard_caregiver",
+      "type": "audio",
+      "title": "Onboarding Caregivers into the Course",
+      "introduction": "In this video, learn how to onboard caregivers to the course in the programme.",
+      "media_asset": "videos/onboard_caregivers.mp4"
+    },
+    {
+      "id": "add_parent",
+      "title": "Add a Parent or Co-Parent",
+      "introduction": "In this video, learn how to add a parent and co-parent in the app",
+      "media_asset": "videos/add_parent.mp4"
+    }
+  ],
   "_xlsxPath": "data/FacilitatorApp MX content.xlsx"
 }

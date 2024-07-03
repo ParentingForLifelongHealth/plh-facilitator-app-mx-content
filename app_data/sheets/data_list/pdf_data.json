@@ -5,9 +5,9 @@
   "data_list_name": "pdf",
   "rows": [
     {
-      "id": "manual",
+      "id": "onboard_guide",
       "pdf_asset": "pdf/manual.pdf",
-      "title": "Facilitator Manual",
+      "title": "Onboarding Guide",
       "_translations": {
         "title": {
           "mx_es": true
@@ -15,12 +15,27 @@
       },
       "_translatedFields": {
         "title": {
-          "eng": "Facilitator Manual"
+          "eng": "Onboarding Guide"
         }
       }
     },
     {
-      "id": "programme_details",
+      "id": "onboard_guide_study",
+      "pdf_asset": "pdf/manual_study.pdf",
+      "title": "Onboarding Guide",
+      "_translations": {
+        "title": {
+          "mx_es": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Onboarding Guide"
+        }
+      }
+    },
+    {
+      "id": "more_info",
       "pdf_asset": "pdf/programme_details.pdf",
       "title": "Programme Details",
       "_translations": {
@@ -31,6 +46,21 @@
       "_translatedFields": {
         "title": {
           "eng": "Programme Details"
+        }
+      }
+    },
+    {
+      "id": "overview_study",
+      "pdf_asset": "pdf/overview_guide_study.pdf",
+      "title": "Overview Guide",
+      "_translations": {
+        "title": {
+          "mx_es": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Overview Guide"
         }
       }
     }

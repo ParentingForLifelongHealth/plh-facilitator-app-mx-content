@@ -1,5 +1,5 @@
 {
-  "flow_name": "pdf_manual",
+  "flow_name": "pdf_more_info",
   "flow_subtype": "generated",
   "flow_type": "template",
   "rows": [
@@ -21,7 +21,7 @@
         },
         {
           "name": "pdf_id",
-          "value": "manual",
+          "value": "more_info",
           "_translations": {
             "value": {}
           },
