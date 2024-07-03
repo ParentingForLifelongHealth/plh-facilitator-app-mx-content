@@ -683,12 +683,14 @@
               "type": "display_grid",
               "name": "resource_@item.id",
               "parameter_list": {
-                "item_width": "40%"
+                "item_width": "40%",
+                "item_border": "none"
               },
               "rows": [
                 {
                   "type": "display_group",
                   "name": "dg_resource_@item.id",
+                  "condition": "@local.resource_id",
                   "style_list": [
                     "justify-content: center"
                   ],
@@ -710,7 +712,6 @@
                           "_cleaned": "click | go_to: @local.resource_data@local.join@local.resource_id"
                         }
                       ],
-                      "condition": "@local.resource_id",
                       "parameter_list": {
                         "icon_src": "@local.icon_src",
                         "style": "@local.style"
@@ -791,14 +792,6 @@
                             ]
                           }
                         },
-                        "condition": [
-                          {
-                            "fullExpression": "@local.resource_id",
-                            "matchedExpression": "@local.resource_id",
-                            "type": "local",
-                            "fieldName": "resource_id"
-                          }
-                        ],
                         "parameter_list": {
                           "icon_src": [
                             {
@@ -856,8 +849,7 @@
                         "@local.resource_id": [
                           "action_list.0.args.0",
                           "action_list.0._raw",
-                          "action_list.0._cleaned",
-                          "condition"
+                          "action_list.0._cleaned"
                         ],
                         "@local.icon_src": [
                           "parameter_list.icon_src"
@@ -956,6 +948,14 @@
                         "fieldName": "id"
                       }
                     ],
+                    "condition": [
+                      {
+                        "fullExpression": "@local.resource_id",
+                        "matchedExpression": "@local.resource_id",
+                        "type": "local",
+                        "fieldName": "resource_id"
+                      }
+                    ],
                     "_nested_name": [
                       {
                         "fullExpression": "dg_resources.items_1.resource_@item.id.dg_resource_@item.id",
@@ -975,6 +975,9 @@
                     "@item.id": [
                       "name",
                       "_nested_name"
+                    ],
+                    "@local.resource_id": [
+                      "condition"
                     ],
                     "@item.id.dg_resource_": [
                       "_nested_name"

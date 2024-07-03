@@ -7,15 +7,39 @@
     {
       "id": "onboard_caregiver",
       "type": "audio",
+      "media_asset": "videos/onboard_caregivers.mp4",
       "title": "Onboarding Caregivers into the Course",
-      "introduction": "In this video, learn how to onboard caregivers to the course in the programme.",
-      "media_asset": "videos/onboard_caregivers.mp4"
+      "_translations": {
+        "title": {},
+        "introduction": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Onboarding Caregivers into the Course"
+        },
+        "introduction": {
+          "eng": "In this video, learn how to onboard caregivers to the course in the programme."
+        }
+      },
+      "introduction": "In this video, learn how to onboard caregivers to the course in the programme."
     },
     {
       "id": "add_parent",
+      "media_asset": "videos/add_parent.mp4",
       "title": "Add a Parent or Co-Parent",
-      "introduction": "In this video, learn how to add a parent and co-parent in the app",
-      "media_asset": "videos/add_parent.mp4"
+      "_translations": {
+        "title": {},
+        "introduction": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Add a Parent or Co-Parent"
+        },
+        "introduction": {
+          "eng": "In this video, learn how to add a parent and co-parent in the app."
+        }
+      },
+      "introduction": "In this video, learn how to add a parent and co-parent in the app."
     }
   ],
   "_xlsxPath": "data/FacilitatorApp MX content.xlsx"
