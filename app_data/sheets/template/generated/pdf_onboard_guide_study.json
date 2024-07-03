@@ -1,5 +1,5 @@
 {
-  "flow_name": "pdf_programme_details",
+  "flow_name": "pdf_onboard_guide_study",
   "flow_subtype": "generated",
   "flow_type": "template",
   "rows": [
@@ -21,7 +21,7 @@
         },
         {
           "name": "pdf_id",
-          "value": "programme_details",
+          "value": "onboard_guide_study",
           "_translations": {
             "value": {}
           },
