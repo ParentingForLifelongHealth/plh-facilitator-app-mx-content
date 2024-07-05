@@ -2409,7 +2409,10 @@
       "section_title_1": "Create a WhatsApp Group",
       "section_text_1": "**Make sure you have done the following before the onboarding session starts:** \n\n- Save the names and WhatsApp numbers of the parents assigned to you on your phone (if available), so you can easily confirm details during the onboarding session. \n\n- Create your WhatsApp group (with the temporary group name, icon, and description). The name of each WhatsApp group has the same structure:\n“CC+ WhatsApp Support Group”\nA name selected by the group \n\nWhen you create your temporary group name, you will use \"CC+ WhatsApp Support Group” \n\nYou can keep your temporary group name or you can add a name to the temporary group name. For example, “CC+ __HappyFamilies”.",
       "tag_list": [
-        "scale_dif"
+        "study_dif_bc",
+        "study_dif_chih",
+        "study_dif_cdmx",
+        "study_dif_mich"
       ],
       "section_title_2": "Conduct Chat Session",
       "section_text_2": "**Before conducting the chat sessions, make sure you:** \n\nCreate a WhatsApp Group during the onboarding session. \nIdentify the ground rules for the WhatsApp Group\n\n**Structure for the chat sessions**: \r\rDay  1 (immediately after the onboarding session): Welcome, introductions, and reminder of home practice. \n\nWeek 1: Thoughts, feelings, and actions\n\nWeek 2: Kind self-talk\n\nWeek 3: Character strengths\n\nWeek 4: Building pleasant emotions\n\n**When to send the messages** \n\nYou and your group will decide a time to chat during the onboarding session. \r\rBefore each chat session, send the reminder message few hours before the chat session. You can set alarms on your phone to remind you when to send messages.\n\nSend the remaining messages during the scheduled chat time.",
@@ -2425,7 +2428,6 @@
         "programme"
       ],
       "icon_asset": "images/how_to_report.svg",
-      "related_article_id_1": "how_to_chat_session",
       "status": "released",
       "title": "How to Report on Programme Delivery",
       "_translations": {
@@ -2433,9 +2435,6 @@
           "mx_es": true
         },
         "introduction": {
-          "mx_es": true
-        },
-        "related_articles_title": {
           "mx_es": true
         },
         "section_title_1": {
@@ -2517,13 +2516,9 @@
         },
         "resource_title_1": {
           "eng": "Add a Parent and Co-Parent"
-        },
-        "related_articles_title": {
-          "eng": "Additional Information"
         }
       },
       "introduction": "The Formando Conciencia+ also makes reporting on the delivery of @global.programme_name much easier than paper forms.\n\nAfter adding each parent’s name to the App, you will be able to report on their participation during in-person and WhatsApp group sessions.\n\nYou will also report on your own experience, including the time spent conducting each session and whether you were able to do all the activities in the session. Be honest with the information, we are really interested in knowing your experience",
-      "related_articles_title": "Additional Information",
       "section_title_1": "Set up your profile",
       "section_text_1": "Select the profile icon from the bottom navigation bar. \n\nChoose “About you” \n\nType your name under “Your name” \n\nSelect your state from the dropdown menu \n\rTap Save",
       "section_title_2": "Add a Parent",
@@ -2545,7 +2540,7 @@
         "programme"
       ],
       "icon_asset": "images/faq_h_prompts.svg",
-      "related_article_id_1": "how_to_chat_session",
+      "related_article_id_1": "how_to_chat_session_study",
       "status": "released",
       "title": "Coaching support",
       "_translations": {

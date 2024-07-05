@@ -16,10 +16,9 @@
       "name": "data",
       "value": "media",
       "_translations": {
-        "value": {
-          "mx_es": true
-        }
+        "value": {}
       },
+      "exclude_from_translation": true,
       "type": "set_variable",
       "_nested_name": "data"
     },
