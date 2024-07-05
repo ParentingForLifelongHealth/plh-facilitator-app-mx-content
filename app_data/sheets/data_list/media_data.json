@@ -10,8 +10,12 @@
       "media_asset": "videos/onboard_caregivers.mp4",
       "title": "Onboarding Caregivers into the Course",
       "_translations": {
-        "title": {},
-        "introduction": {}
+        "title": {
+          "mx_es": true
+        },
+        "introduction": {
+          "mx_es": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -29,8 +33,12 @@
       "media_asset": "videos/add_parent.mp4",
       "title": "Add a Parent or Co-Parent",
       "_translations": {
-        "title": {},
-        "introduction": {}
+        "title": {
+          "mx_es": true
+        },
+        "introduction": {
+          "mx_es": true
+        }
       },
       "_translatedFields": {
         "title": {
