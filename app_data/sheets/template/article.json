@@ -691,9 +691,6 @@
                   "type": "display_group",
                   "name": "dg_resource_@item.id",
                   "condition": "@local.resource_id",
-                  "style_list": [
-                    "justify-content: center"
-                  ],
                   "parameter_list": {
                     "style": "column"
                   },
