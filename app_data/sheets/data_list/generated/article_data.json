@@ -1846,9 +1846,7 @@
         "introduction": {
           "mx_es": true
         },
-        "message_text_1": {
-          "mx_es": true
-        }
+        "message_text_1": {}
       },
       "_translatedFields": {
         "title": {
@@ -1858,11 +1856,11 @@
           "eng": "If parents or group admins reach out to you after the group has ended, it means that you have been helpful to them, which is amazing! \n\nParents may see you as a source of support outside of @global.programme_name, but it is important to keep things balanced. \n\nShare this message to guide the parents to other places for support gently."
         },
         "message_text_1": {
-          "eng": "Hi!😃Thank you for your message. \n\nMy role with @global.programme_name was limited. I unfortunately will not be further involved with the programme. \n\nIf your WhatsApp Support group is still active, feel free to post your questions in the group. Other parents may be able to support you with helpful suggestions. 💡\n\nYou can replay the programme by typing {MENU} or typing {HELP} if you need assistance for an emergency."
+          "eng": "Hi!😃Thank you for your message. \n\nMy role with @global.programme_name was limited. I unfortunately will not be further involved with the programme. \n\nIf your WhatsApp Support group is still active, feel free to post your questions in the group. Other parents may be able to support you with helpful suggestions. 💡\n\nYou can replay the programme by typing @global.trigger_menu or typing @global.trigger_help if you need assistance for an emergency."
         }
       },
       "introduction": "If parents or group admins reach out to you after the group has ended, it means that you have been helpful to them, which is amazing! \n\nParents may see you as a source of support outside of @global.programme_name, but it is important to keep things balanced. \n\nShare this message to guide the parents to other places for support gently.",
-      "message_text_1": "Hi!😃Thank you for your message. \n\nMy role with @global.programme_name was limited. I unfortunately will not be further involved with the programme. \n\nIf your WhatsApp Support group is still active, feel free to post your questions in the group. Other parents may be able to support you with helpful suggestions. 💡\n\nYou can replay the programme by typing {MENU} or typing {HELP} if you need assistance for an emergency."
+      "message_text_1": "Hi!😃Thank you for your message. \n\nMy role with @global.programme_name was limited. I unfortunately will not be further involved with the programme. \n\nIf your WhatsApp Support group is still active, feel free to post your questions in the group. Other parents may be able to support you with helpful suggestions. 💡\n\nYou can replay the programme by typing @global.trigger_menu or typing @global.trigger_help if you need assistance for an emergency."
     },
     {
       "id": "faq_h_still_struggling",
@@ -3180,9 +3178,7 @@
         "message_title_1": {
           "mx_es": true
         },
-        "message_text_1": {
-          "mx_es": true
-        },
+        "message_text_1": {},
         "message_title_2": {
           "mx_es": true
         },
@@ -3207,7 +3203,7 @@
           "eng": "My girl or boy does not want to learn."
         },
         "message_text_1": {
-          "eng": "💡Try to understand why girl or boy doesn't want to learn. It could be due to frustration, lack of motivation, unidentified learning difficulties, or simply disinterest in the teaching method.\n\n🎵Adapt the activities to what girl or boy enjoys. For example, if they enjoy music, consider songs about numbers and words. Make it fun! \n\n🎨Let girl or boy choose what they want to learn. Celebrate their achievements, no matter how small. This will help girl or boy feel confident and be independent. \n\n💙 Model the behaviour. When a girl or boy will see you be enthusiastic about learning, they will want to learn too! \n\n📱 For playful, educational ideas, type {PLAY} at any time!"
+          "eng": "💡Try to understand why girl or boy doesn't want to learn. It could be due to frustration, lack of motivation, unidentified learning difficulties, or simply disinterest in the teaching method.\n\n🎵Adapt the activities to what girl or boy enjoys. For example, if they enjoy music, consider songs about numbers and words. Make it fun! \n\n🎨Let girl or boy choose what they want to learn. Celebrate their achievements, no matter how small. This will help girl or boy feel confident and be independent. \n\n💙 Model the behaviour. When a girl or boy will see you be enthusiastic about learning, they will want to learn too! \n\n📱 For playful, educational ideas, type @global.trigger_play at any time!"
         },
         "message_title_2": {
           "eng": "I don't know what to do with my teen."
@@ -3224,7 +3220,7 @@
       },
       "introduction": "Here are some common challenges and possible solutions for supporting caregivers to help their girl, boy, or teen’s learning. \n\rYou can share the following messages as responses during your weekly chat when parents share challenges with this topic.",
       "message_title_1": "My girl or boy does not want to learn.",
-      "message_text_1": "💡Try to understand why girl or boy doesn't want to learn. It could be due to frustration, lack of motivation, unidentified learning difficulties, or simply disinterest in the teaching method.\n\n🎵Adapt the activities to what girl or boy enjoys. For example, if they enjoy music, consider songs about numbers and words. Make it fun! \n\n🎨Let girl or boy choose what they want to learn. Celebrate their achievements, no matter how small. This will help girl or boy feel confident and be independent. \n\n💙 Model the behaviour. When a girl or boy will see you be enthusiastic about learning, they will want to learn too! \n\n📱 For playful, educational ideas, type {PLAY} at any time!",
+      "message_text_1": "💡Try to understand why girl or boy doesn't want to learn. It could be due to frustration, lack of motivation, unidentified learning difficulties, or simply disinterest in the teaching method.\n\n🎵Adapt the activities to what girl or boy enjoys. For example, if they enjoy music, consider songs about numbers and words. Make it fun! \n\n🎨Let girl or boy choose what they want to learn. Celebrate their achievements, no matter how small. This will help girl or boy feel confident and be independent. \n\n💙 Model the behaviour. When a girl or boy will see you be enthusiastic about learning, they will want to learn too! \n\n📱 For playful, educational ideas, type @global.trigger_play at any time!",
       "message_title_2": "I don't know what to do with my teen.",
       "message_text_2": "📝 You could make a weekly plan with your teen for after school and weekends. \n\n🌙 Include activities for learning, relaxing, and fun so that it is enjoyable for your teen. Come up with these ideas together!\n \n🎉 Helping your teen have more routine is a great way to support their learning!",
       "message_title_3": "I am feeling overwhelmed.",
@@ -3272,9 +3268,7 @@
         "message_title_4": {
           "mx_es": true
         },
-        "message_text_4": {
-          "mx_es": true
-        },
+        "message_text_4": {},
         "message_title_5": {
           "mx_es": true
         },
@@ -3311,7 +3305,7 @@
           "eng": "My teen is finding it challenging to adapt to a new routine or structure."
         },
         "message_text_4": {
-          "eng": "⏰ Adjusting to a new routine can be tough for both teens and us adults, too! Remember, it takes time.\n\n🔑 Introduce the new routine gradually, starting with small changes and building on what’s familiar. Give them cues to signal upcoming transitions. \n\n🌷 If you are concerned about your teen’s ability to adapt, type {GROW} to take the developmental assessment and explore if there is a need for additional support."
+          "eng": "⏰ Adjusting to a new routine can be tough for both teens and us adults, too! Remember, it takes time.\n\n🔑 Introduce the new routine gradually, starting with small changes and building on what’s familiar. Give them cues to signal upcoming transitions. \n\n🌷 If you are concerned about your teen’s ability to adapt, type @global.trigger_grow to take the developmental assessment and explore if there is a need for additional support."
         },
         "message_title_5": {
           "eng": "I felt uncomfortable because I think an adult should create the rule, not my girl or boy."
@@ -3334,7 +3328,7 @@
         "study_dif_mich"
       ],
       "message_title_4": "My teen is finding it challenging to adapt to a new routine or structure.",
-      "message_text_4": "⏰ Adjusting to a new routine can be tough for both teens and us adults, too! Remember, it takes time.\n\n🔑 Introduce the new routine gradually, starting with small changes and building on what’s familiar. Give them cues to signal upcoming transitions. \n\n🌷 If you are concerned about your teen’s ability to adapt, type {GROW} to take the developmental assessment and explore if there is a need for additional support.",
+      "message_text_4": "⏰ Adjusting to a new routine can be tough for both teens and us adults, too! Remember, it takes time.\n\n🔑 Introduce the new routine gradually, starting with small changes and building on what’s familiar. Give them cues to signal upcoming transitions. \n\n🌷 If you are concerned about your teen’s ability to adapt, type @global.trigger_grow to take the developmental assessment and explore if there is a need for additional support.",
       "message_title_5": "I felt uncomfortable because I think an adult should create the rule, not my girl or boy.",
       "message_text_5": "🌷 When we create rules together with our girls and boys, we build trust and an open relationship with them.\n\n🔑 The rules we set will be more realistic and girl or boy will be more willing and able to follow the rule.\n\n💡Think about the valuable lessons you’ll be teaching girl or boy, such as working together and taking initiative."
     },
@@ -3476,9 +3470,7 @@
         "message_title_4": {
           "mx_es": true
         },
-        "message_text_4": {
-          "mx_es": true
-        },
+        "message_text_4": {},
         "message_title_5": {
           "mx_es": true
         },
@@ -3515,7 +3507,7 @@
           "eng": "My girl or boy told me that school or the house of someone I trust is an unsafe place. I was shocked and did not know what to do!"
         },
         "message_text_4": {
-          "eng": "😔 It is shocking to learn that people who we trust may cause discomfort to our girls and boys. \n\n👂 Listen to girl or boy if they want to talk about why it seems dangerous or uncomfortable. Ask if it’s the place, a particular person, or both that makes them uncomfortable. \r\rStay calm and open during the conversation. Trust what they say - they will not say such things for no reason!\n\n🔔Talk with someone and get support. Type {HELP} if you need more assistance.\n\n💙 Remember to take a pause when you are stressed."
+          "eng": "😔 It is shocking to learn that people who we trust may cause discomfort to our girls and boys. \n\n👂 Listen to girl or boy if they want to talk about why it seems dangerous or uncomfortable. Ask if it’s the place, a particular person, or both that makes them uncomfortable. \n\nStay calm and open during the conversation. Trust what they say - they will not say such things for no reason!\n\n🔔Talk with someone and get support. Type @global.trigger_help if you need more assistance.\n\n💙 Remember to take a pause when you are stressed."
         },
         "message_title_5": {
           "eng": "I am shy to talk to my young girl or boy about bodies and safe touch."
@@ -3538,7 +3530,7 @@
         "study_dif_mich"
       ],
       "message_title_4": "My girl or boy told me that school or the house of someone I trust is an unsafe place. I was shocked and did not know what to do!",
-      "message_text_4": "😔 It is shocking to learn that people who we trust may cause discomfort to our girls and boys. \n\n👂 Listen to girl or boy if they want to talk about why it seems dangerous or uncomfortable. Ask if it’s the place, a particular person, or both that makes them uncomfortable. \r\rStay calm and open during the conversation. Trust what they say - they will not say such things for no reason!\n\n🔔Talk with someone and get support. Type {HELP} if you need more assistance.\n\n💙 Remember to take a pause when you are stressed.",
+      "message_text_4": "😔 It is shocking to learn that people who we trust may cause discomfort to our girls and boys. \n\n👂 Listen to girl or boy if they want to talk about why it seems dangerous or uncomfortable. Ask if it’s the place, a particular person, or both that makes them uncomfortable. \n\nStay calm and open during the conversation. Trust what they say - they will not say such things for no reason!\n\n🔔Talk with someone and get support. Type @global.trigger_help if you need more assistance.\n\n💙 Remember to take a pause when you are stressed.",
       "message_title_5": "I am shy to talk to my young girl or boy about bodies and safe touch.",
       "message_text_5": "💙 It is slightly uncomfortable to talk to our children about male and female body parts. However, it helps to keep our girls and boys safe.\n\n💡Start a conversation with girl or boy about their body, its functions, and the importance of naming each part. Stories and puppets can be a helpful tool in facilitating this dialogue.\n\n💚 Talk with confidence about the body, especially private parts. Initially, it may feel awkward, but the more you do it, the more natural and comfortable it will become for both. girl or boy will learn how to talk about their body and can communicate with you if anything happens.\n\n🔑 Answer any questions from girl or boy honestly. You can do this to keep our girls and boys safe!🌷"
     }
