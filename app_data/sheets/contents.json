@@ -249,6 +249,11 @@
       "override_target": "supervisor_name",
       "override_condition": "@fields.current_package == \"study_dif_bc\" || @fields.current_package == \"study_dif_chih\" || @fields.current_package == \"study_dif_cdmx\" || @fields.current_package == \"study_dif_mich\" || @fields.current_package == \"scale_dif\"",
       "_xlsxPath": "data/dynamic_global_mx.xlsx"
+    },
+    "trigger_words": {
+      "flow_type": "global",
+      "flow_name": "trigger_words",
+      "_xlsxPath": "data/dynamic_global_mx.xlsx"
     }
   },
   "template": {
