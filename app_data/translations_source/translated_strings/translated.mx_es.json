@@ -1273,7 +1273,7 @@
   },
   {
     "SourceText": "A parent needs support accessing the chatbot, and I'm not sure how to answer their question.",
-    "text": "Una madre, un padre o una persona cuidadora necesita ayuda para usar al chatbot y no sé cómo responder a su pregunta.",
+    "text": "Una madre, un padre o una persona cuidadora necesita ayuda para usar el chat automatizado del Curso de WhatsApp y no sé cómo responder a su pregunta.",
     "type": "data_list",
     "note": ""
   },
@@ -1698,10 +1698,10 @@
     "note": "The string @global.programme_name, should not be translated."
   },
   {
-    "SourceText": "Hi!😃Thank you for your message. \n\nMy role with @global.programme_name was limited. I unfortunately will not be further involved with the programme. \n\nIf your WhatsApp Support group is still active, feel free to post your questions in the group. Other parents may be able to support you with helpful suggestions. 💡\n\nYou can replay the programme by typing {MENU} or typing {HELP} if you need assistance for an emergency.",
-    "text": "¡Hola! 😃 Gracias por tu mensaje. \n\nEl rol que desempeño en @global.programme_name es limitado. Tristemente, no seré parte de los siguientes pasos del programa. \n\nSi tu Grupo de Comunidad de WhatsApp sigue activo, no dudes en publicar tus preguntas en el grupo. Es posible que otras madres, padres o personas cuidadoras puedan apoyarte con sugerencias útiles. 💡\n\nPuedes repetir el programa al mandar la palabra {MENU} o si necesitas ayuda en una situación de emergencia, puedes mandar la palabra {HELP}.",
+    "SourceText": "Hi!😃Thank you for your message. \n\nMy role with @global.programme_name was limited. I unfortunately will not be further involved with the programme. \n\nIf your WhatsApp Support group is still active, feel free to post your questions in the group. Other parents may be able to support you with helpful suggestions. 💡\n\nYou can replay the programme by typing @global.trigger_menu or typing @global.trigger_help if you need assistance for an emergency.",
+    "text": "¡Hola! 😃 Gracias por tu mensaje. \n\nEl rol que desempeño en @global.programme_name es limitado. Tristemente, no seré parte de los siguientes pasos del programa. \n\nSi tu Grupo de Comunidad de WhatsApp sigue activo, no dudes en publicar tus preguntas en el grupo. Es posible que otras madres, padres o personas cuidadoras puedan apoyarte con sugerencias útiles. 💡\n\nPuedes repetir el programa al mandar la palabra @global.trigger_menu o si necesitas ayuda en una situación de emergencia, puedes mandar la palabra @global.trigger_help.",
     "type": "data_list",
-    "note": "The string @global.programme_name should not be translated."
+    "note": "The following strings should not be translated:\n@global.programme_name\n@global.trigger_menu\n@global.trigger_help"
   },
   {
     "SourceText": "Participants share that the programme was not helpful or that they are still struggling",
@@ -2538,10 +2538,10 @@
     "note": ""
   },
   {
-    "SourceText": "💡Try to understand why girl or boy doesn't want to learn. It could be due to frustration, lack of motivation, unidentified learning difficulties, or simply disinterest in the teaching method.\n\n🎵Adapt the activities to what girl or boy enjoys. For example, if they enjoy music, consider songs about numbers and words. Make it fun! \n\n🎨Let girl or boy choose what they want to learn. Celebrate their achievements, no matter how small. This will help girl or boy feel confident and be independent. \n\n💙 Model the behaviour. When a girl or boy will see you be enthusiastic about learning, they will want to learn too! \n\n📱 For playful, educational ideas, type {PLAY} at any time!",
-    "text": "💡 Trata de entender por qué la niña o el niño no quiere aprender. Puede deberse a frustración, falta de motivación, dificultades de aprendizaje no identificadas o simplemente desinterés por el método de enseñanza.\n\n🎵 Adapta las actividades a lo que le gusta a la niña o al niño. Por ejemplo, si les gusta la música, considera usar canciones sobre números y palabras. ¡Haz que sea divertido! \n\n🎨 Deja que la niña o el niño escoja lo que quiere aprender. Celebra todos sus logros, por pequeños que sean. Esto fomentará la confianza y la independencia de la niña o el niño. \n\n💙 Modela el comportamiento. Cuando una niña o un niño ve tu entusiasmo por aprender, ¡querrá aprender también! \n\n📱 ¡Para ver ideas divertidas y educativas, escribe {PLAY} en cualquier momento!",
+    "SourceText": "💡Try to understand why girl or boy doesn't want to learn. It could be due to frustration, lack of motivation, unidentified learning difficulties, or simply disinterest in the teaching method.\n\n🎵Adapt the activities to what girl or boy enjoys. For example, if they enjoy music, consider songs about numbers and words. Make it fun! \n\n🎨Let girl or boy choose what they want to learn. Celebrate their achievements, no matter how small. This will help girl or boy feel confident and be independent. \n\n💙 Model the behaviour. When a girl or boy will see you be enthusiastic about learning, they will want to learn too! \n\n📱 For playful, educational ideas, type @global.trigger_play at any time!",
+    "text": "💡 Trata de entender por qué la niña o el niño no quiere aprender. Puede deberse a frustración, falta de motivación, dificultades de aprendizaje no identificadas o simplemente desinterés por el método de enseñanza.\n\n🎵 Adapta las actividades a lo que le gusta a la niña o al niño. Por ejemplo, si les gusta la música, considera usar canciones sobre números y palabras. ¡Haz que sea divertido! \n\n🎨 Deja que la niña o el niño escoja lo que quiere aprender. Celebra todos sus logros, por pequeños que sean. Esto fomentará la confianza y la independencia de la niña o el niño. \n\n💙 Modela el comportamiento. Cuando una niña o un niño ve tu entusiasmo por aprender, ¡querrá aprender también! \n\n📱 ¡Para ver ideas divertidas y educativas, escribe @global.trigger_play en cualquier momento!",
     "type": "data_list",
-    "note": ""
+    "note": "The string @global.trigger_play should not be translated."
   },
   {
     "SourceText": "I don't know what to do with my teen.",
@@ -2622,10 +2622,10 @@
     "note": ""
   },
   {
-    "SourceText": "⏰ Adjusting to a new routine can be tough for both teens and us adults, too! Remember, it takes time.\n\n🔑 Introduce the new routine gradually, starting with small changes and building on what’s familiar. Give them cues to signal upcoming transitions. \n\n🌷 If you are concerned about your teen’s ability to adapt, type {GROW} to take the developmental assessment and explore if there is a need for additional support.",
-    "text": "⏰ ¡Adaptarse a una rutina nueva puede ser difícil tanto para un adolescente como para un adulto! Recuerda que lleva su tiempo.\n\n🔑 Poco a poco, ve metiendo la rutina nueva en tu día a día, empezando con cambios pequeños y construyendo sobre lo que ya conocen. Dales señales que indiquen las próximas transiciones. \n\n🌷 Si te preocupa la capacidad de adaptación de tu adolescente, escribe {GROW} para realizar la evaluación de desarrollo y explorar la posibilidad de que necesite apoyo adicional.",
+    "SourceText": "⏰ Adjusting to a new routine can be tough for both teens and us adults, too! Remember, it takes time.\n\n🔑 Introduce the new routine gradually, starting with small changes and building on what’s familiar. Give them cues to signal upcoming transitions. \n\n🌷 If you are concerned about your teen’s ability to adapt, type @global.trigger_grow to take the developmental assessment and explore if there is a need for additional support.",
+    "text": "⏰ ¡Adaptarse a una rutina nueva puede ser difícil tanto para un adolescente como para un adulto! Recuerda que lleva su tiempo.\n\n🔑 Poco a poco, ve metiendo la rutina nueva en tu día a día, empezando con cambios pequeños y construyendo sobre lo que ya conocen. Dales señales que indiquen las próximas transiciones. \n\n🌷 Si te preocupa la capacidad de adaptación de tu adolescente, escribe @global.trigger_grow para realizar la evaluación de desarrollo y explorar la posibilidad de que necesite apoyo adicional.",
     "type": "data_list",
-    "note": ""
+    "note": "The string @global.trigger_grow should not be translated."
   },
   {
     "SourceText": "I felt uncomfortable because I think an adult should create the rule, not my girl or boy.",
@@ -2766,10 +2766,10 @@
     "note": ""
   },
   {
-    "SourceText": "😔 It is shocking to learn that people who we trust may cause discomfort to our girls and boys. \n\n👂 Listen to girl or boy if they want to talk about why it seems dangerous or uncomfortable. Ask if it’s the place, a particular person, or both that makes them uncomfortable. \r\rStay calm and open during the conversation. Trust what they say - they will not say such things for no reason!\n\n🔔Talk with someone and get support. Type {HELP} if you need more assistance.\n\n💙 Remember to take a pause when you are stressed.",
-    "text": "😔 Es difícil creer que hay personas en las que confiamos que pueden llegar a incomodar a nuestras niñas y niños. \n\n👂 Escucha a tu niña o niño si quiere hablar de por qué le parece peligroso o incómodo. Pregúntale si lo que le incomoda es el lugar, una persona en particular o ambas cosas. \r\rMantén la calma y tu mente abierta durante la conversación. Confía en lo que te dice: ¡no diría esas cosas sin un motivo!\n\n🔔 Habla con alguien y busca apoyo. Escribe {HELP} si necesitas más ayuda.\n\n💙 Recuerda hacer una pausa cuando te encuentres en situaciones estresantes.",
+    "SourceText": "😔 It is shocking to learn that people who we trust may cause discomfort to our girls and boys. \n\n👂 Listen to girl or boy if they want to talk about why it seems dangerous or uncomfortable. Ask if it’s the place, a particular person, or both that makes them uncomfortable. \n\nStay calm and open during the conversation. Trust what they say - they will not say such things for no reason!\n\n🔔Talk with someone and get support. Type @global.trigger_help if you need more assistance.\n\n💙 Remember to take a pause when you are stressed.",
+    "text": "😔 Es difícil creer que hay personas en las que confiamos que pueden llegar a incomodar a nuestras niñas y niños. \n\n👂 Escucha a tu niña o niño si quiere hablar de por qué le parece peligroso o incómodo. Pregúntale si lo que le incomoda es el lugar, una persona en particular o ambas cosas. \n\nMantén la calma y tu mente abierta durante la conversación. Confía en lo que te dice: ¡no diría esas cosas sin un motivo!\n\n🔔 Habla con alguien y busca apoyo. Escribe @global.trigger_help si necesitas más ayuda.\n\n💙 Recuerda hacer una pausa cuando te encuentres en situaciones estresantes.",
     "type": "data_list",
-    "note": ""
+    "note": "The string @global.trigger_help should not be translated."
   },
   {
     "SourceText": "I am shy to talk to my young girl or boy about bodies and safe touch.",
