@@ -1124,9 +1124,7 @@
         "message_title_5": {
           "mx_es": true
         },
-        "message_text_5": {
-          "mx_es": true
-        }
+        "message_text_5": {}
       },
       "_translatedFields": {
         "title": {
@@ -1172,7 +1170,7 @@
           "eng": "Message 5: Goodbye"
         },
         "message_text_5": {
-          "eng": "It's been wonderful being part of this amazing parent program with all of you! Saying goodbye makes me a bit sad. \n\nAs I shared with you during the onboarding session, I will now be exiting this WhatsApp Group. 👋\n\nYou are the best parents to your girls, boys and teens.  *You can still complete your final Crianza con Conciencia+ lessons if you have not done so yet*. 🌱\n\nWe all face difficult situations sometimes, and these final parts of Crianza con Conciencia+ will help you and your girl, boy or teen to get through them well. \n\nYou’ve got this! ⭐You are doing a wonderful job as a caregiver. It has been a pleasure to be on this journey with you!"
+          "eng": "It's been wonderful being part of this amazing parent program with all of you! Saying goodbye makes me a bit sad. \n\nAs I shared with you during the onboarding session, I will now be exiting this WhatsApp Group. 👋\n\nYou are the best parents to your girls, boys and teens.  *You can still complete your final Crianza con Conciencia+ lessons if you have not done so yet*. 🌱\n\nWe all face difficult situations sometimes, and these final parts of @global.programme_name will help you and your girl, boy or teen to get through them well. \n\nYou’ve got this! ⭐You are doing a wonderful job as a caregiver. It has been a pleasure to be on this journey with you!"
         },
         "related_articles_title": {
           "eng": "FAQ"
@@ -1198,7 +1196,7 @@
       "message_title_4": "Message 4: Three Good Things and Group Admin",
       "message_text_4": "Thank you for sharing. 🏅\n\nBefore we close, let’s share our three good things from this week all together.  \n\nRemember, they can be personal, work-related, or family-related. The more detailed, the better! You can keep this up after I leave the WhatsApp Group.\n\nAlthough this is my last chat session with you, you are in good hands with your new chat group admin: [INSERT NAMES OF MODERATORS] 💙",
       "message_title_5": "Message 5: Goodbye",
-      "message_text_5": "It's been wonderful being part of this amazing parent program with all of you! Saying goodbye makes me a bit sad. \n\nAs I shared with you during the onboarding session, I will now be exiting this WhatsApp Group. 👋\n\nYou are the best parents to your girls, boys and teens.  *You can still complete your final Crianza con Conciencia+ lessons if you have not done so yet*. 🌱\n\nWe all face difficult situations sometimes, and these final parts of Crianza con Conciencia+ will help you and your girl, boy or teen to get through them well. \n\nYou’ve got this! ⭐You are doing a wonderful job as a caregiver. It has been a pleasure to be on this journey with you!"
+      "message_text_5": "It's been wonderful being part of this amazing parent program with all of you! Saying goodbye makes me a bit sad. \n\nAs I shared with you during the onboarding session, I will now be exiting this WhatsApp Group. 👋\n\nYou are the best parents to your girls, boys and teens.  *You can still complete your final Crianza con Conciencia+ lessons if you have not done so yet*. 🌱\n\nWe all face difficult situations sometimes, and these final parts of @global.programme_name will help you and your girl, boy or teen to get through them well. \n\nYou’ve got this! ⭐You are doing a wonderful job as a caregiver. It has been a pleasure to be on this journey with you!"
     },
     {
       "id": "faq_text_support",
@@ -1711,9 +1709,7 @@
         "message_title_1": {
           "mx_es": true
         },
-        "message_text_1": {
-          "mx_es": true
-        },
+        "message_text_1": {},
         "message_guidance_1": {
           "mx_es": true
         }
@@ -1729,7 +1725,7 @@
           "eng": "Send this message"
         },
         "message_text_1": {
-          "eng": "Dear [INSERT NAME], \n\nThis space is here to support you. If you or someone else is in immediate danger, consider calling La Línea de la Vida at 800 911 2000 or SAPTEL at 55 5259 8121 for assistance.\r\rYou can also type HELP in@global.programme_name ParentText to find more resources for support. \r\rYour safety and well-being is important to us, and we are here to help. Asking for help is a brave and healthy act"
+          "eng": "Dear [INSERT NAME], \n\nThis space is here to support you. If you or someone else is in immediate danger, consider calling La Línea de la Vida at 800 911 2000 or SAPTEL at 55 5259 8121 for assistance.\n\nYou can also type @global.trigger_help in @global.programme_name to find more resources for support. \n\nYour safety and well-being is important to us, and we are here to help. Asking for help is a brave and healthy act"
         },
         "message_guidance_1": {
           "eng": "Write the name of the parent before sending the message."
@@ -1737,7 +1733,7 @@
       },
       "introduction": "If a parent is showing intention to self-harm or harm to their girls and boys, remember, they may be experiencing an intense emotion. Remember, the best thing you can do is follow safeguarding protocols and refer them to services that can provide the help they need.\n\nReport to your supervisor after sending the following message privately to the parent:",
       "message_title_1": "Send this message",
-      "message_text_1": "Dear [INSERT NAME], \n\nThis space is here to support you. If you or someone else is in immediate danger, consider calling La Línea de la Vida at 800 911 2000 or SAPTEL at 55 5259 8121 for assistance.\r\rYou can also type HELP in@global.programme_name ParentText to find more resources for support. \r\rYour safety and well-being is important to us, and we are here to help. Asking for help is a brave and healthy act",
+      "message_text_1": "Dear [INSERT NAME], \n\nThis space is here to support you. If you or someone else is in immediate danger, consider calling La Línea de la Vida at 800 911 2000 or SAPTEL at 55 5259 8121 for assistance.\n\nYou can also type @global.trigger_help in @global.programme_name to find more resources for support. \n\nYour safety and well-being is important to us, and we are here to help. Asking for help is a brave and healthy act",
       "message_guidance_1": "Write the name of the parent before sending the message."
     },
     {
@@ -1879,9 +1875,7 @@
         "message_title_1": {
           "mx_es": true
         },
-        "message_text_1": {
-          "mx_es": true
-        }
+        "message_text_1": {}
       },
       "_translatedFields": {
         "title": {
@@ -1894,12 +1888,12 @@
           "eng": "Message of Support"
         },
         "message_text_1": {
-          "eng": "Hello 👋\n\nThank you for sharing your thoughts about the programme. I’m sorry that you’re facing challenges. Here are a couple of things you can try: \n\n1️⃣If there’s a lesson that you are finding difficult, remember you can always go back to it by typing MENU. Practice makes perfect! ✨\n\n2️⃣If you feel comfortable, please feel free to chat about the areas you’re finding tough with your peers in the WhatsApp Support Group. Your peers might have some helpful tips 👍\n\n3️⃣If you are facing a severe situation, please type HELP to access a list of resources. \n\nRemember, everyone’s learning journey is unique, and change takes time. But trust me, if you keep practising the skills you’ve learned, you’ll start to see progress. 🏅"
+          "eng": "Hello 👋\n\nThank you for sharing your thoughts about the programme. I’m sorry that you’re facing challenges. Here are a couple of things you can try: \n\n1️⃣If there’s a lesson that you are finding difficult, remember you can always go back to it by typing @global.trigger_menu. Practice makes perfect! ✨\n\n2️⃣If you feel comfortable, please feel free to chat about the areas you’re finding tough with your peers in the WhatsApp Support Group. Your peers might have some helpful tips 👍\n\n3️⃣If you are facing a severe situation, please type @global.trigger_help to access a list of resources. \n\nRemember, everyone’s learning journey is unique, and change takes time. But trust me, if you keep practising the skills you’ve learned, you’ll start to see progress. 🏅"
         }
       },
       "introduction": "Every family is different, and some parents may need more help than others.\n\nConsider sending the message below if a parent is still struggling or needs more support.",
       "message_title_1": "Message of Support",
-      "message_text_1": "Hello 👋\n\nThank you for sharing your thoughts about the programme. I’m sorry that you’re facing challenges. Here are a couple of things you can try: \n\n1️⃣If there’s a lesson that you are finding difficult, remember you can always go back to it by typing MENU. Practice makes perfect! ✨\n\n2️⃣If you feel comfortable, please feel free to chat about the areas you’re finding tough with your peers in the WhatsApp Support Group. Your peers might have some helpful tips 👍\n\n3️⃣If you are facing a severe situation, please type HELP to access a list of resources. \n\nRemember, everyone’s learning journey is unique, and change takes time. But trust me, if you keep practising the skills you’ve learned, you’ll start to see progress. 🏅"
+      "message_text_1": "Hello 👋\n\nThank you for sharing your thoughts about the programme. I’m sorry that you’re facing challenges. Here are a couple of things you can try: \n\n1️⃣If there’s a lesson that you are finding difficult, remember you can always go back to it by typing @global.trigger_menu. Practice makes perfect! ✨\n\n2️⃣If you feel comfortable, please feel free to chat about the areas you’re finding tough with your peers in the WhatsApp Support Group. Your peers might have some helpful tips 👍\n\n3️⃣If you are facing a severe situation, please type @global.trigger_help to access a list of resources. \n\nRemember, everyone’s learning journey is unique, and change takes time. But trust me, if you keep practising the skills you’ve learned, you’ll start to see progress. 🏅"
     },
     {
       "id": "faq_h_sad_to_end",
@@ -2934,9 +2928,7 @@
         "message_title_1": {
           "mx_es": true
         },
-        "message_text_1": {
-          "mx_es": true
-        },
+        "message_text_1": {},
         "message_title_2": {
           "mx_es": true
         },
@@ -2961,7 +2953,7 @@
           "eng": "I forgot to praise my boy, girl, or teen."
         },
         "message_text_1": {
-          "eng": "💚It can be difficult to juggle all the different things we need to do. \n\n🌱Next time you spend one-on-one time, try and think of one thing you can praise them for. \n\n☀️You can even say, “Thank you for\nspending time with me!”"
+          "eng": "💚It can be difficult to juggle all the different things we need to do. \n\n🌱Next time you spend one-on-one time, try and think of one thing you can praise them for. \n\n☀️You can even say, “Thank you for spending time with me!”"
         },
         "message_title_2": {
           "eng": "I felt embarrassed or weird when praising my boy, girl, or teen."
@@ -2978,7 +2970,7 @@
       },
       "introduction": "It is normal for caregivers to feel uncomfortable or have challenges when praising their boys, girls, and teens. They may at first think that praise will either inflate their girls, boys, or teens or is not part of what they were taught. \n\nIt is important to remember that there are many different ways to praise boys, girls, and teens. @global.programme_name focuses mainly on praise as a method to reinforce positive behaviour. We praise the behaviour more than just the girl, boy, or teen! With practice it will become easier and more comfortable.\n\nHere are some common challenges and possible solutions for praising your girl, boy, or teen. \n\rYou can share the following messages as responses during your weekly chat when parents share challenges with this topic.",
       "message_title_1": "I forgot to praise my boy, girl, or teen.",
-      "message_text_1": "💚It can be difficult to juggle all the different things we need to do. \n\n🌱Next time you spend one-on-one time, try and think of one thing you can praise them for. \n\n☀️You can even say, “Thank you for\nspending time with me!”",
+      "message_text_1": "💚It can be difficult to juggle all the different things we need to do. \n\n🌱Next time you spend one-on-one time, try and think of one thing you can praise them for. \n\n☀️You can even say, “Thank you for spending time with me!”",
       "message_title_2": "I felt embarrassed or weird when praising my boy, girl, or teen.",
       "message_text_2": "⭐It’s normal to feel uneasy about doing new things.\n\n🌷This is especially true of praise when we are not used to hearing it ourselves. \n\n👀But it will get easier with practice, I promise!",
       "message_title_3": "I can’t think of anything to praise my girl, boy, or teen.",
