@@ -1124,7 +1124,9 @@
         "message_title_5": {
           "mx_es": true
         },
-        "message_text_5": {}
+        "message_text_5": {
+          "mx_es": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -1709,7 +1711,9 @@
         "message_title_1": {
           "mx_es": true
         },
-        "message_text_1": {},
+        "message_text_1": {
+          "mx_es": true
+        },
         "message_guidance_1": {
           "mx_es": true
         }
@@ -1875,7 +1879,9 @@
         "message_title_1": {
           "mx_es": true
         },
-        "message_text_1": {}
+        "message_text_1": {
+          "mx_es": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -2928,7 +2934,9 @@
         "message_title_1": {
           "mx_es": true
         },
-        "message_text_1": {},
+        "message_text_1": {
+          "mx_es": true
+        },
         "message_title_2": {
           "mx_es": true
         },

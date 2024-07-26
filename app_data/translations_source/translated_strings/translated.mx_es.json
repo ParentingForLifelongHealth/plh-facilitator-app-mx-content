@@ -1266,10 +1266,10 @@
     "note": ""
   },
   {
-    "SourceText": "It's been wonderful being part of this amazing parent program with all of you! Saying goodbye makes me a bit sad. \n\nAs I shared with you during the onboarding session, I will now be exiting this WhatsApp Group. 👋\n\nYou are the best parents to your girls, boys and teens.  *You can still complete your final Crianza con Conciencia+ lessons if you have not done so yet*. 🌱\n\nWe all face difficult situations sometimes, and these final parts of Crianza con Conciencia+ will help you and your girl, boy or teen to get through them well. \n\nYou’ve got this! ⭐You are doing a wonderful job as a caregiver. It has been a pleasure to be on this journey with you!",
-    "text": "¡Ser parte de este programa con ustedes ha sido maravilloso! Me pone un poco triste tener que despedirme. \n\nComo les compartí al principio, durante la sesión de integración, me saldré de este Grupo de WhatsApp. 👋\n\nEres la mejor persona cuidadora para tu niña, niño o adolescente.  *Todavía están a tiempo para completar las últimas sesiones de Crianza con Conciencia + si aún no lo han hecho*. 🌱\n\nTodas las personas nos enfrentamos a situaciones difíciles de vez en cuando, y estas últimas sesiones de Crianza con Conciencia + les ayudarán, a tu niña, niño o adolescente y a ti, a superarlas con éxito. \n\n¡Ustedes pueden! ⭐ Están haciendo un buen trabajo en la crianza de sus niñas, niños y adolescentes. ¡Ha sido un placer compartir este viaje con ustedes!",
+    "SourceText": "It's been wonderful being part of this amazing parent program with all of you! Saying goodbye makes me a bit sad. \n\nAs I shared with you during the onboarding session, I will now be exiting this WhatsApp Group. 👋\n\nYou are the best parents to your girls, boys and teens.  *You can still complete your final Crianza con Conciencia+ lessons if you have not done so yet*. 🌱\n\nWe all face difficult situations sometimes, and these final parts of @global.programme_name will help you and your girl, boy or teen to get through them well. \n\nYou’ve got this! ⭐You are doing a wonderful job as a caregiver. It has been a pleasure to be on this journey with you!",
+    "text": "¡Ser parte de este programa con ustedes ha sido maravilloso! Me pone un poco triste tener que despedirme. \n\nComo les compartí al principio, durante la sesión de integración, me saldré de este Grupo de WhatsApp. 👋\n\nEres la mejor persona cuidadora para tu niña, niño o adolescente.  *Todavía están a tiempo para completar las últimas sesiones de Crianza con Conciencia + si aún no lo han hecho*. 🌱\n\nTodas las personas nos enfrentamos a situaciones difíciles de vez en cuando, y estas últimas sesiones de @global.programme_name les ayudarán, a tu niña, niño o adolescente y a ti, a superarlas con éxito. \n\n¡Ustedes pueden! ⭐ Están haciendo un buen trabajo en la crianza de sus niñas, niños y adolescentes. ¡Ha sido un placer compartir este viaje con ustedes!",
     "type": "data_list",
-    "note": ""
+    "note": "The string @global.programme_name should not be translated."
   },
   {
     "SourceText": "A parent needs support accessing the chatbot, and I'm not sure how to answer their question.",
@@ -1620,10 +1620,10 @@
     "note": ""
   },
   {
-    "SourceText": "Dear [INSERT NAME], \n\nThis space is here to support you. If you or someone else is in immediate danger, consider calling La Línea de la Vida at 800 911 2000 or SAPTEL at 55 5259 8121 for assistance.\r\rYou can also type HELP in@global.programme_name ParentText to find more resources for support. \r\rYour safety and well-being is important to us, and we are here to help. Asking for help is a brave and healthy act",
-    "text": "Estimada o Estimado [INSERTAR NOMBRE], \n\nEste espacio está aquí para apoyarte. Si tú u otra persona están en peligro inmediato, considera llamar a La Línea de la Vida al 800 911 2000 o a SAPTEL al 55 5259 8121 para pedir ayuda.\r\rTambién puedes escribir AYUDA en @global.programme_name para encontrar más recursos de apoyo. \r\rTu seguridad y bienestar son importantes para nosotros y estamos aquí para apoyarte. Buscar ayuda es un acto de valentía y cuidado.",
+    "SourceText": "Dear [INSERT NAME], \n\nThis space is here to support you. If you or someone else is in immediate danger, consider calling La Línea de la Vida at 800 911 2000 or SAPTEL at 55 5259 8121 for assistance.\n\nYou can also type @global.trigger_help in @global.programme_name to find more resources for support. \n\nYour safety and well-being is important to us, and we are here to help. Asking for help is a brave and healthy act",
+    "text": "Estimada o Estimado [INSERTAR NOMBRE], \n\nEste espacio está aquí para apoyarte. Si tú u otra persona están en peligro inmediato, considera llamar a La Línea de la Vida al 800 911 2000 o a SAPTEL al 55 5259 8121 para pedir ayuda.\n\nTambién puedes escribir @global.trigger_help en @global.programme_name para encontrar más recursos de apoyo. \n\nTu seguridad y bienestar son importantes para nosotros y estamos aquí para apoyarte. Buscar ayuda es un acto de valentía y cuidado",
     "type": "data_list",
-    "note": "The string in@global.programme_name should not be translated."
+    "note": "The following strings should not be translated:\n@global.trigger_help\n@global.programme_name"
   },
   {
     "SourceText": "Write the name of the parent before sending the message.",
@@ -1716,10 +1716,10 @@
     "note": ""
   },
   {
-    "SourceText": "Hello 👋\n\nThank you for sharing your thoughts about the programme. I’m sorry that you’re facing challenges. Here are a couple of things you can try: \n\n1️⃣If there’s a lesson that you are finding difficult, remember you can always go back to it by typing MENU. Practice makes perfect! ✨\n\n2️⃣If you feel comfortable, please feel free to chat about the areas you’re finding tough with your peers in the WhatsApp Support Group. Your peers might have some helpful tips 👍\n\n3️⃣If you are facing a severe situation, please type HELP to access a list of resources. \n\nRemember, everyone’s learning journey is unique, and change takes time. But trust me, if you keep practising the skills you’ve learned, you’ll start to see progress. 🏅",
-    "text": "Hola 👋\n\nGracias por compartir tu opinión sobre el programa. Lamento escuchar que te estás enfrentando a algunas dificultades. Aquí tienes un par de cosas que puedes intentar: \n\n1️⃣Si estás teniendo dificultades con uno de los temas de las sesiones pasadas, recuerda que siempre puedes volver a ella al mandar la palabra MENÚ. Recuerda, ¡La práctica hace al maestro! ✨\n\n2️⃣Si te sientes cómodo compartiendo la situación con tus compañeros del chat, puedes mandar un mensaje al Grupo de WhatsApp. Puede que ahí te den algunos consejos útiles 👍\n\n3️⃣Si estás pasando por una situación grave, escribe AYUDA para tener acceso a una lista de recursos. \n\nRecuerda, la trayectoria de aprendizaje de cada persona es única y el cambio lleva su tiempo. Pero créeme, si sigues practicando las habilidades que has aprendido, empezarás a ver cambios. 🏅",
+    "SourceText": "Hello 👋\n\nThank you for sharing your thoughts about the programme. I’m sorry that you’re facing challenges. Here are a couple of things you can try: \n\n1️⃣If there’s a lesson that you are finding difficult, remember you can always go back to it by typing @global.trigger_menu. Practice makes perfect! ✨\n\n2️⃣If you feel comfortable, please feel free to chat about the areas you’re finding tough with your peers in the WhatsApp Support Group. Your peers might have some helpful tips 👍\n\n3️⃣If you are facing a severe situation, please type @global.trigger_help to access a list of resources. \n\nRemember, everyone’s learning journey is unique, and change takes time. But trust me, if you keep practising the skills you’ve learned, you’ll start to see progress. 🏅",
+    "text": "Hola 👋\n\nGracias por compartir tu opinión sobre el programa. Lamento escuchar que te estás enfrentando a algunas dificultades. Aquí tienes un par de cosas que puedes intentar: \n\n1️⃣Si estás teniendo dificultades con uno de los temas de las sesiones pasadas, recuerda que siempre puedes volver a ella al mandar la palabra @global.trigger_menu. Recuerda, ¡La práctica hace al maestro! ✨\n\n2️⃣Si te sientes cómodo compartiendo la situación con tus compañeros del chat, puedes mandar un mensaje al Grupo de WhatsApp. Puede que ahí te den algunos consejos útiles 👍\n\n3️⃣Si estás pasando por una situación grave, escribe @global.trigger_help para tener acceso a una lista de recursos. \n\nRecuerda, la trayectoria de aprendizaje de cada persona es única y el cambio lleva su tiempo. Pero créeme, si sigues practicando las habilidades que has aprendido, empezarás a ver cambios. 🏅",
     "type": "data_list",
-    "note": ""
+    "note": "The following strings should not be translated:\n@global.trigger_menu.\n@global.trigger_help"
   },
   {
     "SourceText": "Parents are feeling concerned, stressed or sad as the programme comes to an end.",
@@ -2358,8 +2358,8 @@
     "note": ""
   },
   {
-    "SourceText": "💚It can be difficult to juggle all the different things we need to do. \n\n🌱Next time you spend one-on-one time, try and think of one thing you can praise them for. \n\n☀️You can even say, “Thank you for\nspending time with me!”",
-    "text": "💚 Puede ser difícil malabarear todas las cosas que tenemos que hacer. \n\n🌱La próxima vez que pases Tiempo Uno a Uno, intenten identificar alguna cosa pequeña que tu niña, niño o adolescente haya hecho bien y que puedas halagar. \n\n☀️Incluso le puedes decir: \"¡Gracias por\npasar tiempo conmigo!\"",
+    "SourceText": "💚It can be difficult to juggle all the different things we need to do. \n\n🌱Next time you spend one-on-one time, try and think of one thing you can praise them for. \n\n☀️You can even say, “Thank you for spending time with me!”",
+    "text": "💚 Puede ser difícil malabarear todas las cosas que tenemos que hacer. \n\n🌱La próxima vez que pases Tiempo Uno a Uno, intenten identificar alguna cosa pequeña que tu niña, niño o adolescente haya hecho bien y que puedas halagar. \n\n☀️Incluso le puedes decir: \"¡Gracias por pasar tiempo conmigo!\"",
     "type": "data_list",
     "note": ""
   },
