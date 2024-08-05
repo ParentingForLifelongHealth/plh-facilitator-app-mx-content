@@ -32,7 +32,7 @@
     },
     {
       "name": "user_id",
-      "value": "@calc(this.app_user_id)",
+      "value": "@fields._app_user_id",
       "_translations": {
         "value": {}
       },
@@ -42,15 +42,15 @@
       "_dynamicFields": {
         "value": [
           {
-            "fullExpression": "@calc(this.app_user_id)",
-            "matchedExpression": "@calc(this.app_user_id)",
-            "type": "calc",
-            "fieldName": "this.app_user_id"
+            "fullExpression": "@fields._app_user_id",
+            "matchedExpression": "@fields._app_user_id",
+            "type": "fields",
+            "fieldName": "_app_user_id"
           }
         ]
       },
       "_dynamicDependencies": {
-        "@calc(this.app_user_id)": [
+        "@fields._app_user_id": [
           "value"
         ]
       }
