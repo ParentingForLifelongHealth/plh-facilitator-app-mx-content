@@ -15,5 +15,27 @@
       "value": "@gen.description"
     }
   ],
-  "_xlsxPath": "templates/help.xlsx"
+  "_xlsxPath": "templates/help.xlsx",
+  "_output_flows": [
+    {
+      "flow_name": "help_about",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "help_id",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "help_group",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "help_groups",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    }
+  ]
 }

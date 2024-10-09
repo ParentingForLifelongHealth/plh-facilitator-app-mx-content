@@ -25,5 +25,32 @@
       ]
     }
   ],
-  "_xlsxPath": "templates/media.xlsx"
+  "_xlsxPath": "templates/media.xlsx",
+  "_output_flows": [
+    {
+      "flow_name": "pdf_onboard_guide",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "pdf_onboard_guide_study",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "pdf_more_info",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "pdf_overview_study",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "pdf_peas",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    }
+  ]
 }
