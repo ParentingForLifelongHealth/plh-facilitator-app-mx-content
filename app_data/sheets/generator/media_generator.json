@@ -26,5 +26,17 @@
       ]
     }
   ],
-  "_xlsxPath": "templates/media.xlsx"
+  "_xlsxPath": "templates/media.xlsx",
+  "_output_flows": [
+    {
+      "flow_name": "media_onboard_caregiver",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "media_add_parent",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    }
+  ]
 }

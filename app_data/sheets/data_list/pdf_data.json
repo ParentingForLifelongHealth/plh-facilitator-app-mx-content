@@ -63,6 +63,19 @@
           "eng": "Overview Guide"
         }
       }
+    },
+    {
+      "id": "peas",
+      "pdf_asset": "pdf/peas.pdf",
+      "title": "Reporting Abuse from Programme Partners",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Reporting Abuse from Programme Partners"
+        }
+      }
     }
   ],
   "_xlsxPath": "data/FacilitatorApp MX content.xlsx"

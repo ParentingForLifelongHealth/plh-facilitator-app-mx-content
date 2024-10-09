@@ -9,6 +9,8 @@
         "safeguarding"
       ],
       "icon_asset": "images/what_is_safeguarding.svg",
+      "resource_data_1": "pdf",
+      "resource_id_1": "peas",
       "related_article_id_1": "during_disclosed_abuse",
       "related_article_id_2": "after_disclosed_abuse",
       "related_article_id_3": "how_to_report_abuse",
@@ -22,6 +24,7 @@
         "introduction": {
           "mx_es": true
         },
+        "resource_title_1": {},
         "related_articles_title": {
           "mx_es": true
         }
@@ -33,11 +36,15 @@
         "introduction": {
           "eng": "It is important to know the following guidelines for handling disclosures of abuse, neglect, and violence from participants:\n\n1️⃣ **Understand abuse, neglect and exploitation.**\n\n❗ **Abuse** refers to a deliberate act of maltreatment that can damage a boy or girl’s security, wellbeing, dignity and development. Abuse includes all forms of physical, sexual, psychological and emotional maltreatment. (Save the Children definition)\n\n❗ **Violence** against girls and boys is defined as forms of physical or mental violence, damage and abuse, neglect or neglectful treatment or maltreatment or exploitation, including sexual abuse. (Office of the High Commissioner for Human Rights, 1990,\nArticle 19)\n\n❗ **Child exploitation** refers to using girls and boys for economic or sexual benefit, gratification or profit, often resulting in unjust, cruel and harmful treatment of the girl or boy. (Save the Children definition)\n\n2️⃣ **Know your organisation’s child safeguarding policies and referral procedures.**\n\n📖 All organisations should have or develop child rights safeguarding policies and referral procedures, including details on how to respond appropriately when a caregiver, other adults, girl or boy discloses abuse. \n\n📝 You should have accurate knowledge of all protocols and response plans. These will tell you what to do within your organisation if a caregiver or girl or boy reports abuse (e.g. who to report to, internal resources for supporting the girl or boy), as well as how to engage outside resources (e.g. local referral pathways, when to engage with authorities). \n\n🔑 It is your responsibility to act regardless of whether you are responding to disclosures of past and/or present abuse. However, you are not responsible for resolving the situation on your own. It is important that you discuss the situation with your supervisor to agree on what steps to take next.\n\n3️⃣ **Ensure parents know that you are someone who can help.**\n\n🌷Parents participating in your sessions need to know that they can come to you for help, regardless of when the abuse occurred. \n\n👂You should make sure that they know that they can trust you and that you will listen and support them without judgement or any further harm."
         },
+        "resource_title_1": {
+          "eng": "Reporting Abuse from Programme Partners"
+        },
         "related_articles_title": {
           "eng": "Additional Safeguarding Resources"
         }
       },
       "introduction": "It is important to know the following guidelines for handling disclosures of abuse, neglect, and violence from participants:\n\n1️⃣ **Understand abuse, neglect and exploitation.**\n\n❗ **Abuse** refers to a deliberate act of maltreatment that can damage a boy or girl’s security, wellbeing, dignity and development. Abuse includes all forms of physical, sexual, psychological and emotional maltreatment. (Save the Children definition)\n\n❗ **Violence** against girls and boys is defined as forms of physical or mental violence, damage and abuse, neglect or neglectful treatment or maltreatment or exploitation, including sexual abuse. (Office of the High Commissioner for Human Rights, 1990,\nArticle 19)\n\n❗ **Child exploitation** refers to using girls and boys for economic or sexual benefit, gratification or profit, often resulting in unjust, cruel and harmful treatment of the girl or boy. (Save the Children definition)\n\n2️⃣ **Know your organisation’s child safeguarding policies and referral procedures.**\n\n📖 All organisations should have or develop child rights safeguarding policies and referral procedures, including details on how to respond appropriately when a caregiver, other adults, girl or boy discloses abuse. \n\n📝 You should have accurate knowledge of all protocols and response plans. These will tell you what to do within your organisation if a caregiver or girl or boy reports abuse (e.g. who to report to, internal resources for supporting the girl or boy), as well as how to engage outside resources (e.g. local referral pathways, when to engage with authorities). \n\n🔑 It is your responsibility to act regardless of whether you are responding to disclosures of past and/or present abuse. However, you are not responsible for resolving the situation on your own. It is important that you discuss the situation with your supervisor to agree on what steps to take next.\n\n3️⃣ **Ensure parents know that you are someone who can help.**\n\n🌷Parents participating in your sessions need to know that they can come to you for help, regardless of when the abuse occurred. \n\n👂You should make sure that they know that they can trust you and that you will listen and support them without judgement or any further harm.",
+      "resource_title_1": "Reporting Abuse from Programme Partners",
       "related_articles_title": "Additional Safeguarding Resources"
     },
     {
@@ -82,6 +89,8 @@
         "safeguarding"
       ],
       "icon_asset": "images/after_disclosed_abuse.svg",
+      "resource_data_1": "pdf",
+      "resource_id_1": "peas",
       "related_article_id_1": "how_to_report_abuse",
       "related_article_id_2": "contact_for_reporting_abuse",
       "related_article_id_3": "crisis_hotlines",
@@ -94,6 +103,7 @@
         "introduction": {
           "mx_es": true
         },
+        "resource_title_1": {},
         "related_articles_title": {
           "mx_es": true
         }
@@ -105,11 +115,15 @@
         "introduction": {
           "eng": "**After disclosure:**\n\n❌ Avoid engaging with the alleged abuser – that may make things worse and make next steps difficult. It could also jeopardise future legal proceedings.\n\n🌷 You are not alone. Get help from your supervisor to agree on the next steps."
         },
+        "resource_title_1": {
+          "eng": "Reporting Abuse from Programme Partners"
+        },
         "related_articles_title": {
           "eng": "Additional Safeguarding Resources"
         }
       },
       "introduction": "**After disclosure:**\n\n❌ Avoid engaging with the alleged abuser – that may make things worse and make next steps difficult. It could also jeopardise future legal proceedings.\n\n🌷 You are not alone. Get help from your supervisor to agree on the next steps.",
+      "resource_title_1": "Reporting Abuse from Programme Partners",
       "related_articles_title": "Additional Safeguarding Resources"
     },
     {
@@ -118,6 +132,8 @@
         "safeguarding"
       ],
       "icon_asset": "images/how_to_report_abuse.svg",
+      "resource_data_1": "pdf",
+      "resource_id_1": "peas",
       "related_article_id_1": "contact_for_reporting_abuse",
       "related_article_id_2": "crisis_hotlines",
       "related_article_id_3": "after_disclosed_abuse",
@@ -130,6 +146,7 @@
         "introduction": {
           "mx_es": true
         },
+        "resource_title_1": {},
         "related_articles_title": {
           "mx_es": true
         }
@@ -141,11 +158,15 @@
         "introduction": {
           "eng": "✅ Follow your organisation’s protocol.\n\n📝 If your organisation needs assistance in developing or improving its policies and procedures, please refer to the following resources:\n\n**Mexican resources**\n1️⃣ [National Inter-institutional Coordination Protocol for the Protection of Girls, Boys and Adolescent Victims of Violence](https://www.gob.mx/sipinna/documentos/protocolo-nacional-de-coordinacion-interinstitucional-para-la-proteccion-de-ninas-ninos-y-adolescentes-victimas-de-violencia) \n\n2️⃣ [National System for the Protection of Girls, Boys, and Adolescents](https://www.gob.mx/sipinna)\n\n3️⃣ [National Human Rights Commission of Mexico](https://www.cndh.org.mx/pagina/tematicas-y-talleres) \n\n4️⃣[Inter-ministerial Commission to prevent, punish and eradicate crimes related to trafficking in persons.](https://www.gob.mx/segob/acciones-y-programas/comision-intersecretarial-para-prevenir-sancionar-y-erradicar-los-delitos-en-materia-de-trata-de-personas)\n\n**International resources**\n1️⃣ [World Health Organization Guidelines Responding to Girls, Boys, and Adolescents who have Been Sexually Abused](https://iris.paho.org/handle/10665.2/52043) \n\n2️⃣ [Keeping Girls and Boys Safe](https://www.keepingchildrensafe.global/)\n\n3️⃣ [Caring for Child Survivors of Sexual Abuse](https://www.unicef.org/documents/caring-child-survivors-sexual-abuse) \n\n4️⃣ [Strengthening Linkages between Clinical and Social Services for Girls, Boys, and Adolescents who have Experienced Sexual Violence: A Companion Guide](https://www.togetherforgirls.org/en/resources/strengthening-linkages-between-clinical-and-social-community-services-for-children-and-adolescents-who-have-experienced-sexual-violence-a-companion-guide) \n\n5️⃣ [Together for Girls: Every Hour Matters](https://www.togetherforgirls.org/en/campaigns/every-hour-matters)"
         },
+        "resource_title_1": {
+          "eng": "Reporting Abuse from Programme Partners"
+        },
         "related_articles_title": {
           "eng": "Additional Safeguarding Resources"
         }
       },
       "introduction": "✅ Follow your organisation’s protocol.\n\n📝 If your organisation needs assistance in developing or improving its policies and procedures, please refer to the following resources:\n\n**Mexican resources**\n1️⃣ [National Inter-institutional Coordination Protocol for the Protection of Girls, Boys and Adolescent Victims of Violence](https://www.gob.mx/sipinna/documentos/protocolo-nacional-de-coordinacion-interinstitucional-para-la-proteccion-de-ninas-ninos-y-adolescentes-victimas-de-violencia) \n\n2️⃣ [National System for the Protection of Girls, Boys, and Adolescents](https://www.gob.mx/sipinna)\n\n3️⃣ [National Human Rights Commission of Mexico](https://www.cndh.org.mx/pagina/tematicas-y-talleres) \n\n4️⃣[Inter-ministerial Commission to prevent, punish and eradicate crimes related to trafficking in persons.](https://www.gob.mx/segob/acciones-y-programas/comision-intersecretarial-para-prevenir-sancionar-y-erradicar-los-delitos-en-materia-de-trata-de-personas)\n\n**International resources**\n1️⃣ [World Health Organization Guidelines Responding to Girls, Boys, and Adolescents who have Been Sexually Abused](https://iris.paho.org/handle/10665.2/52043) \n\n2️⃣ [Keeping Girls and Boys Safe](https://www.keepingchildrensafe.global/)\n\n3️⃣ [Caring for Child Survivors of Sexual Abuse](https://www.unicef.org/documents/caring-child-survivors-sexual-abuse) \n\n4️⃣ [Strengthening Linkages between Clinical and Social Services for Girls, Boys, and Adolescents who have Experienced Sexual Violence: A Companion Guide](https://www.togetherforgirls.org/en/resources/strengthening-linkages-between-clinical-and-social-community-services-for-children-and-adolescents-who-have-experienced-sexual-violence-a-companion-guide) \n\n5️⃣ [Together for Girls: Every Hour Matters](https://www.togetherforgirls.org/en/campaigns/every-hour-matters)",
+      "resource_title_1": "Reporting Abuse from Programme Partners",
       "related_articles_title": "Additional Safeguarding Resources"
     },
     {
@@ -1944,6 +1965,8 @@
         "programme"
       ],
       "icon_asset": "images/onboarding_cc.svg",
+      "resource_data_1": "pdf",
+      "resource_id_1": "onboard_guide",
       "status": "released",
       "title": "Guide for In-Person Onboarding",
       "_translations": {
@@ -1951,6 +1974,9 @@
           "mx_es": true
         },
         "introduction": {
+          "mx_es": true
+        },
+        "resource_title_1": {
           "mx_es": true
         },
         "section_title_1": {
@@ -1966,9 +1992,6 @@
           "mx_es": true
         },
         "sections_title": {
-          "mx_es": true
-        },
-        "resource_title_1": {
           "mx_es": true
         }
       },
@@ -1999,6 +2022,7 @@
         }
       },
       "introduction": "The Onboarding Session sets the tone for the entire @global.programme_name programme. It is important to create a welcoming and safe space for the participants to feel at ease and familiarise themselves with the programme.",
+      "resource_title_1": "Onboarding Guide",
       "section_title_1": "1 week before your session",
       "section_text_1": "- Read the Facilitator Guide on Formando Conciencia+ \n\n- Practise the onboarding session with a peer or supervisor",
       "tag_list": [
@@ -2006,10 +2030,7 @@
       ],
       "section_title_2": "1 hour before your session",
       "section_text_2": "- Download the PowerPoint slide to your laptop \n\n- Download the videos embedded in the slides to your laptop \n\n- Go through your PowerPoint slides and videos to make sure everything is working smoothly",
-      "resource_data_1": "pdf",
-      "resource_id_1": "onboard_guide",
-      "sections_title": "Preparation Checklist",
-      "resource_title_1": "Onboarding Guide"
+      "sections_title": "Preparation Checklist"
     },
     {
       "id": "how_to_chat_session_scale",
@@ -2117,6 +2138,8 @@
         "programme"
       ],
       "icon_asset": "images/overview_cc.svg",
+      "resource_data_1": "pdf",
+      "resource_id_1": "overview_study",
       "related_article_id_1": "onboarding_cc_study",
       "related_article_id_2": "how_to_chat_session_study",
       "related_article_id_3": "how_to_report",
@@ -2127,6 +2150,9 @@
           "mx_es": true
         },
         "introduction": {
+          "mx_es": true
+        },
+        "resource_title_1": {
           "mx_es": true
         },
         "related_articles_title": {
@@ -2145,9 +2171,6 @@
           "mx_es": true
         },
         "sections_title": {
-          "mx_es": true
-        },
-        "resource_title_1": {
           "mx_es": true
         },
         "section_title_3": {
@@ -2211,6 +2234,7 @@
         }
       },
       "introduction": "Welcome to the @global.programme_name Positive Parenting Programme! \n\nThank you for your commitment and dedication to supporting girls, boys, teens and families in your community. \nYou are a shining star!",
+      "resource_title_1": "Overview Guide",
       "related_articles_title": "Additional Information",
       "section_title_1": "What’s inside the Facilitator Guide?",
       "section_text_1": "This guide is for YOU!! \nA comprehensive guide to help you deliver @global.programme_name to families around you. \nSteps on how to introduce caregivers to the programme and support them\nSpecific information on the programme’s content.",
@@ -2222,10 +2246,7 @@
       ],
       "section_title_2": "What to remember?",
       "section_text_2": "It is important to follow this manual as closely as possible. However, manuals are only a guide to support you after what you have learned in the training workshop. \nWhat you deliver – the content of the manual – is only 20% of the programme. The rest 80%? It’s all about HOW you facilitate the programme and behave towards the parents.",
-      "resource_data_1": "pdf",
-      "resource_id_1": "overview_study",
       "sections_title": "Welcome",
-      "resource_title_1": "Overview Guide",
       "section_title_3": "Skills you need",
       "section_text_3": "The core skills of a good facilitator are a mirror for parents to learn how to bring about the change we want to see in parents and the community. These include understanding stages of child development, praising and encouraging parents, using active listening skills, being consistent and compassionate, exploring problems, and finding solutions together.",
       "section_title_4": "⭐Remember",
@@ -2240,6 +2261,8 @@
         "programme"
       ],
       "icon_asset": "images/onboarding_cc.svg",
+      "resource_data_1": "pdf",
+      "resource_id_1": "onboard_guide_study",
       "status": "released",
       "title": "Guide for In-Person Onboarding",
       "_translations": {
@@ -2247,6 +2270,9 @@
           "mx_es": true
         },
         "introduction": {
+          "mx_es": true
+        },
+        "resource_title_1": {
           "mx_es": true
         },
         "section_title_1": {
@@ -2262,9 +2288,6 @@
           "mx_es": true
         },
         "sections_title": {
-          "mx_es": true
-        },
-        "resource_title_1": {
           "mx_es": true
         },
         "resource_title_2": {
@@ -2301,6 +2324,7 @@
         }
       },
       "introduction": "The Onboarding Session sets the tone for the entire @global.programme_name programme. It is important to create an empathetic, welcoming and safe space for the participants to feel at ease and familiarise themselves with the programme.",
+      "resource_title_1": "Onboarding Guide",
       "section_title_1": "To start the chatbot in WhatsApp",
       "section_text_1": "Parents can type: \nAFECTIVA to start the programme, if you are in Chihuahua state. \r\rFORMANDO to start the programme, for all other states.",
       "tag_list": [
@@ -2311,10 +2335,7 @@
       ],
       "section_title_2": "To get parents’ research ID",
       "section_text_2": "Type ID in the chatbot",
-      "resource_data_1": "pdf",
-      "resource_id_1": "onboard_guide_study",
       "sections_title": "Trigger Words",
-      "resource_title_1": "Onboarding Guide",
       "resource_data_2": "media",
       "resource_id_2": "onboard_caregiver",
       "resource_title_2": "How to onboard caregivers to the course"
@@ -2428,6 +2449,8 @@
         "programme"
       ],
       "icon_asset": "images/how_to_report.svg",
+      "resource_data_1": "media",
+      "resource_id_1": "add_parent",
       "status": "released",
       "title": "How to Report on Programme Delivery",
       "_translations": {
@@ -2435,6 +2458,9 @@
           "mx_es": true
         },
         "introduction": {
+          "mx_es": true
+        },
+        "resource_title_1": {
           "mx_es": true
         },
         "section_title_1": {
@@ -2450,9 +2476,6 @@
           "mx_es": true
         },
         "sections_title": {
-          "mx_es": true
-        },
-        "resource_title_1": {
           "mx_es": true
         },
         "section_title_3": {
@@ -2519,14 +2542,12 @@
         }
       },
       "introduction": "The Formando Conciencia+ also makes reporting on the delivery of @global.programme_name much easier than paper forms.\n\nAfter adding each parent’s name to the App, you will be able to report on their participation during in-person and WhatsApp group sessions.\n\nYou will also report on your own experience, including the time spent conducting each session and whether you were able to do all the activities in the session. Be honest with the information, we are really interested in knowing your experience",
+      "resource_title_1": "Add a Parent and Co-Parent",
       "section_title_1": "Set up your profile",
       "section_text_1": "Select the profile icon from the bottom navigation bar. \n\nChoose “About you” \n\nType your name under “Your name” \n\nSelect your state from the dropdown menu \n\rTap Save",
       "section_title_2": "Add a Parent",
       "section_text_2": "Select the profile icon from the bottom navigation bar. \n\nChoose “Add Parent”\n\nEnter parent details in the form. To enter the parent’s unique identifier (UID), ask them to text “ID” on @global.programme_name. Copy the 6-digit number into the parent profile.",
-      "resource_data_1": "media",
-      "resource_id_1": "add_parent",
       "sections_title": "How to:",
-      "resource_title_1": "Add a Parent and Co-Parent",
       "section_title_3": "Add a Co-Parent",
       "section_text_3": "If two parents from the same family are participating in the programme, together, you must link their accounts. \n\nOnce you have added the first parent profile, to add a second parent, select “Add Parent”\n\nEnter parent details in the form. To enter the parent’s unique identifier (UID), ask them to text “ID” on @global.programme_name. Copy the 6-digit number into the parent profile. \n\nSelect “Add Co-Parent”\n\nSelect the co-parent from available parent user profiles. \n\nSelect “Save”\n\n*Both parent profiles will be updated to note the co-parent.*",
       "section_title_4": "Report Attendance",
@@ -3541,6 +3562,136 @@
       "message_text_4": "😔 It is shocking to learn that people who we trust may cause discomfort to our girls and boys. \n\n👂 Listen to girl or boy if they want to talk about why it seems dangerous or uncomfortable. Ask if it’s the place, a particular person, or both that makes them uncomfortable. \n\nStay calm and open during the conversation. Trust what they say - they will not say such things for no reason!\n\n🔔Talk with someone and get support. Type @global.trigger_help if you need more assistance.\n\n💙 Remember to take a pause when you are stressed.",
       "message_title_5": "I am shy to talk to my young girl or boy about bodies and safe touch.",
       "message_text_5": "💙 It is slightly uncomfortable to talk to our children about male and female body parts. However, it helps to keep our girls and boys safe.\n\n💡Start a conversation with girl or boy about their body, its functions, and the importance of naming each part. Stories and puppets can be a helpful tool in facilitating this dialogue.\n\n💚 Talk with confidence about the body, especially private parts. Initially, it may feel awkward, but the more you do it, the more natural and comfortable it will become for both. girl or boy will learn how to talk about their body and can communicate with you if anything happens.\n\n🔑 Answer any questions from girl or boy honestly. You can do this to keep our girls and boys safe!🌷"
+    },
+    {
+      "id": "week_4_chat",
+      "home_screen_section_list": [
+        "sessions"
+      ],
+      "icon_asset": "images/onboarding_cc.svg",
+      "related_article_id_1": "faq_h_still_struggling",
+      "related_article_id_2": "faq_h_sad_to_end",
+      "related_article_id_3": "faq_h_no_volunteers",
+      "status": "released",
+      "title": "Week 4: Building Pleasant Emotions",
+      "_translations": {
+        "title": {
+          "mx_es": true
+        },
+        "introduction": {
+          "mx_es": true
+        },
+        "related_articles_title": {
+          "mx_es": true
+        },
+        "message_title_1": {
+          "mx_es": true
+        },
+        "message_text_1": {
+          "mx_es": true
+        },
+        "message_guidance_1": {
+          "mx_es": true
+        },
+        "message_title_2": {
+          "mx_es": true
+        },
+        "message_text_2": {
+          "mx_es": true
+        },
+        "message_guidance_2": {
+          "mx_es": true
+        },
+        "message_title_3": {
+          "mx_es": true
+        },
+        "message_text_3": {
+          "mx_es": true
+        },
+        "message_guidance_3": {
+          "mx_es": true
+        },
+        "message_title_4": {
+          "mx_es": true
+        },
+        "message_text_4": {
+          "mx_es": true
+        },
+        "message_title_5": {
+          "mx_es": true
+        },
+        "message_text_5": {
+          "mx_es": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Week 4: Building Pleasant Emotions"
+        },
+        "introduction": {
+          "eng": "This is your final chat session with the group.You should congratulate yourself for taking the parents through the Crianza con Conciencia+ journey and celebrate with them the positive changes in their lives and for their girls, boys, and teens.\n\rIn this chat session, you will also help parents understand how they can use pleasant emotions to improve the well-being of themselves and their child or teen. \n\nYou can choose to stay or leave the WhatsApp Group after the program ends."
+        },
+        "message_title_1": {
+          "eng": "Message 1: Welcome and Check-in"
+        },
+        "message_text_1": {
+          "eng": "Hello, everyone! 😃\n\nWelcome to our final chat session! \n\nToday, we are wrapping up our conversation about building blocks for mental wellbeing. So far, we’ve identified the relationship between thoughts, feelings, and behaviours, learned about positive self talk, and relying on our character strengths. Great job!\n\nCongratulations on completing the Crianza con Conciencia+ Programme! You can continue to complete the course on the CC+.\n\n✨ Take a moment to think back to the beginning of the programme. You should be so proud of yourself. How was your experience in Crianza con Conciencia+?"
+        },
+        "message_guidance_1": {
+          "eng": "Allow caregivers to share their experience during the programme. You can give brief words of encouragement like “Wonderful!” or “I am happy to hear that!” or even share celebration emojis like 🎉 or ⭐."
+        },
+        "message_title_2": {
+          "eng": "Message 2: Pleasant time with your girl, boy or teen"
+        },
+        "message_text_2": {
+          "eng": "Thank you for sharing your experiences. \r\rNow, let’s think back to a time when you and your girl, boy or teen did something together that made you feel really good. \n\nHow did it make you feel? Did it make you feel joy, love, pride or inspired? What were you doing? \n\nIf you feel comfortable, you can tell us about it in the chat. We would love to hear your story!"
+        },
+        "message_guidance_2": {
+          "eng": "Allow time for caregivers to share stories. If needed, feel free to share an example: \n\nMy teen and I cooked dinner together, and we had such a great time. I felt so joyful doing a fun activity together. He is learning all the best recipes from me:)."
+        },
+        "message_title_3": {
+          "eng": "Message 3: Pleasant emotions"
+        },
+        "message_text_3": {
+          "eng": "Thank you for sharing! \n\nWe all experience pleasant emotions throughout our lives, but did you know that you can boost your well-being by boosting pleasant emotions and thoughts? This works for you and your child or teen! \r\rSome ways we have talked about in our chat sessions are: \nThinking of three good things that happened during the day. \nRemember our chat last time about positive qualities? You and your girl, boy or teen could do activities together that brings out the positive qualities in both of you. \nWhen you feel pleasant emotions and share it with your girl, boy, or teen, they feel it too! \n\nWhen your well-being needs a boost, start by trying these activities. \n\rWhich of these do you think you can continue doing even after the programme has ended?"
+        },
+        "message_guidance_3": {
+          "eng": "Allow caregivers to respond. You can reply to the parents with an emoji ⭐ or words of encouragement, like “That sounds great!” or “Don’t worry, you can always plan to try it later this week.”"
+        },
+        "message_title_4": {
+          "eng": "Message 4: Three Good Things and Group Admin"
+        },
+        "message_text_4": {
+          "eng": "Thank you for sharing. 🏅\n\nBefore we close, let’s share our three good things from this week all together.  \n\nRemember, they can be personal, work-related, or family-related. The more detailed, the better! You can keep this up after I leave the WhatsApp Group.\n\nAlthough this is my last chat session with you, you are in good hands with your new chat group admin: [INSERT NAMES OF MODERATORS] 💙"
+        },
+        "message_title_5": {
+          "eng": "Message 5: Goodbye"
+        },
+        "message_text_5": {
+          "eng": "It's been wonderful being part of this amazing parent program with all of you! Saying goodbye makes me a bit sad. \n\nAs I shared with you during the onboarding session, I will now be exiting this WhatsApp Group. 👋\n\nYou are the best parents to your girls, boys and teens.  *You can still complete your final Crianza con Conciencia+ lessons if you have not done so yet*. 🌱\n\nWe all face difficult situations sometimes, and these final parts of @global.programme_name will help you and your girl, boy or teen to get through them well. \n\nYou’ve got this! ⭐You are doing a wonderful job as a caregiver. It has been a pleasure to be on this journey with you!"
+        },
+        "related_articles_title": {
+          "eng": "FAQ"
+        }
+      },
+      "introduction": "This is your final chat session with the group.You should congratulate yourself for taking the parents through the Crianza con Conciencia+ journey and celebrate with them the positive changes in their lives and for their girls, boys, and teens.\n\rIn this chat session, you will also help parents understand how they can use pleasant emotions to improve the well-being of themselves and their child or teen. \n\nYou can choose to stay or leave the WhatsApp Group after the program ends.",
+      "related_articles_title": "FAQ",
+      "message_title_1": "Message 1: Welcome and Check-in",
+      "message_text_1": "Hello, everyone! 😃\n\nWelcome to our final chat session! \n\nToday, we are wrapping up our conversation about building blocks for mental wellbeing. So far, we’ve identified the relationship between thoughts, feelings, and behaviours, learned about positive self talk, and relying on our character strengths. Great job!\n\nCongratulations on completing the Crianza con Conciencia+ Programme! You can continue to complete the course on the CC+.\n\n✨ Take a moment to think back to the beginning of the programme. You should be so proud of yourself. How was your experience in Crianza con Conciencia+?",
+      "message_guidance_1": "Allow caregivers to share their experience during the programme. You can give brief words of encouragement like “Wonderful!” or “I am happy to hear that!” or even share celebration emojis like 🎉 or ⭐.",
+      "message_title_2": "Message 2: Pleasant time with your girl, boy or teen",
+      "message_text_2": "Thank you for sharing your experiences. \r\rNow, let’s think back to a time when you and your girl, boy or teen did something together that made you feel really good. \n\nHow did it make you feel? Did it make you feel joy, love, pride or inspired? What were you doing? \n\nIf you feel comfortable, you can tell us about it in the chat. We would love to hear your story!",
+      "message_guidance_2": "Allow time for caregivers to share stories. If needed, feel free to share an example: \n\nMy teen and I cooked dinner together, and we had such a great time. I felt so joyful doing a fun activity together. He is learning all the best recipes from me:).",
+      "message_title_3": "Message 3: Pleasant emotions",
+      "message_text_3": "Thank you for sharing! \n\nWe all experience pleasant emotions throughout our lives, but did you know that you can boost your well-being by boosting pleasant emotions and thoughts? This works for you and your child or teen! \r\rSome ways we have talked about in our chat sessions are: \nThinking of three good things that happened during the day. \nRemember our chat last time about positive qualities? You and your girl, boy or teen could do activities together that brings out the positive qualities in both of you. \nWhen you feel pleasant emotions and share it with your girl, boy, or teen, they feel it too! \n\nWhen your well-being needs a boost, start by trying these activities. \n\rWhich of these do you think you can continue doing even after the programme has ended?",
+      "tag_list": [
+        "scale_dif"
+      ],
+      "message_guidance_3": "Allow caregivers to respond. You can reply to the parents with an emoji ⭐ or words of encouragement, like “That sounds great!” or “Don’t worry, you can always plan to try it later this week.”",
+      "message_title_4": "Message 4: Three Good Things and Group Admin",
+      "message_text_4": "Thank you for sharing. 🏅\n\nBefore we close, let’s share our three good things from this week all together.  \n\nRemember, they can be personal, work-related, or family-related. The more detailed, the better! You can keep this up after I leave the WhatsApp Group.\n\nAlthough this is my last chat session with you, you are in good hands with your new chat group admin: [INSERT NAMES OF MODERATORS] 💙",
+      "message_title_5": "Message 5: Goodbye",
+      "message_text_5": "It's been wonderful being part of this amazing parent program with all of you! Saying goodbye makes me a bit sad. \n\nAs I shared with you during the onboarding session, I will now be exiting this WhatsApp Group. 👋\n\nYou are the best parents to your girls, boys and teens.  *You can still complete your final Crianza con Conciencia+ lessons if you have not done so yet*. 🌱\n\nWe all face difficult situations sometimes, and these final parts of @global.programme_name will help you and your girl, boy or teen to get through them well. \n\nYou’ve got this! ⭐You are doing a wonderful job as a caregiver. It has been a pleasure to be on this journey with you!"
     }
   ]
 }

@@ -13,5 +13,12 @@
       ]
     }
   ],
-  "_xlsxPath": "data/content_data_pipes.xlsx"
+  "_xlsxPath": "data/content_data_pipes.xlsx",
+  "_output_flows": [
+    {
+      "flow_name": "article_data",
+      "flow_subtype": "generated",
+      "flow_type": "data_list"
+    }
+  ]
 }

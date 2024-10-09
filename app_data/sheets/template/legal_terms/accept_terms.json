@@ -162,11 +162,6 @@
       "_nested_name": "dg_checkbox"
     },
     {
-      "type": "begin_template",
-      "name": "begin_template_8",
-      "_nested_name": "begin_template_8"
-    },
-    {
       "type": "button",
       "name": "button_completed",
       "value": "Continue",
