@@ -69,7 +69,9 @@
       "pdf_asset": "pdf/peas.pdf",
       "title": "Reporting Abuse from Programme Partners",
       "_translations": {
-        "title": {}
+        "title": {
+          "mx_es": true
+        }
       },
       "_translatedFields": {
         "title": {
