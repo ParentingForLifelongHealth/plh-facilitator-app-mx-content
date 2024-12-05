@@ -1,568 +1,701 @@
 {
-  "template_components": [
-    {
-      "type": "accordion",
-      "count": 1
-    },
-    {
-      "type": "audio",
-      "count": 1
-    },
-    {
-      "type": "button",
-      "count": 31
-    },
-    {
-      "type": "combo_box",
-      "count": 1
-    },
-    {
-      "type": "display_group",
-      "count": 25
-    },
-    {
-      "type": "items",
-      "count": 22
-    },
-    {
-      "type": "navigation_bar",
-      "count": 2
-    },
-    {
-      "type": "odk_form",
-      "count": 1
-    },
-    {
-      "type": "pdf",
-      "count": 1
-    },
-    {
-      "type": "radio_button_grid",
-      "count": 4
-    },
-    {
-      "type": "round_button",
-      "count": 1
-    },
-    {
-      "type": "set_field",
-      "count": 1
-    },
-    {
-      "type": "set_variable",
-      "count": 201
-    },
-    {
-      "type": "template",
-      "count": 66
-    },
-    {
-      "type": "text",
-      "count": 50
-    },
-    {
-      "type": "text_area",
-      "count": 2
-    },
-    {
-      "type": "text_box",
-      "count": 11
-    },
-    {
-      "type": "title",
-      "count": 24
-    },
-    {
-      "type": "update_action_list",
-      "count": 3
-    },
-    {
-      "type": "video",
-      "count": 1
-    }
-  ],
-  "template_actions": [
-    {
-      "type": "app_update",
-      "count": 1
-    },
-    {
-      "type": "emit: completed",
-      "count": 7
-    },
-    {
-      "type": "emit: force_reload",
-      "count": 4
-    },
-    {
-      "type": "emit: force_reprocess",
-      "count": 6
-    },
-    {
-      "type": "emit: force_restart",
-      "count": 2
-    },
-    {
-      "type": "emit: server_sync",
-      "count": 3
-    },
-    {
-      "type": "emit: set_language",
-      "count": 1
-    },
-    {
-      "type": "emit: uncompleted",
-      "count": 2
-    },
-    {
-      "type": "feedback",
-      "count": 7
-    },
-    {
-      "type": "go_to",
-      "count": 8
-    },
-    {
-      "type": "pop_up",
-      "count": 5
-    },
-    {
-      "type": "set_field",
-      "count": 22
-    },
-    {
-      "type": "set_local",
-      "count": 7
-    },
-    {
-      "type": "user",
-      "count": 1
-    }
-  ],
-  "assets_size": [
-    {
-      "assets": "total",
-      "KB": "115957 KB",
-      "MB": "116 MB"
-    },
-    {
-      "assets": "unused",
-      "KB": "735 KB",
-      "MB": "0.7 MB"
-    }
-  ],
-  "assets_unused": [
-    {
-      "path": "android/icon-background.png",
-      "size_kb": 7
-    },
-    {
-      "path": "android/icon-foreground.png",
-      "size_kb": 31.1
-    },
-    {
-      "path": "android/icon.png",
-      "size_kb": 108.2
-    },
-    {
-      "path": "android/splash.png",
-      "size_kb": 290.4
-    },
-    {
-      "path": "contents.json",
-      "size_kb": 2.7
-    },
-    {
-      "path": "images/flags/my.svg",
-      "size_kb": 1.4
-    },
-    {
-      "path": "images/flags/tz.svg",
-      "size_kb": 0.5
-    },
-    {
-      "path": "images/flags/ug.svg",
-      "size_kb": 3.9
-    },
-    {
-      "path": "images/flags/zm.svg",
-      "size_kb": 5.4
-    },
-    {
-      "path": "images/icons/bar_chart_white.svg",
-      "size_kb": 1.5
-    },
-    {
-      "path": "images/icons/book_white.svg",
-      "size_kb": 1.5
-    },
-    {
-      "path": "images/icons/globe_blue.svg",
-      "size_kb": 3.9
-    },
-    {
-      "path": "images/icons/paper_plane_white.svg",
-      "size_kb": 1.4
-    },
-    {
-      "path": "images/icons/reader_blue.svg",
-      "size_kb": 1.4
-    },
-    {
-      "path": "images/logos/KEMAS.png",
-      "size_kb": 5.6
-    },
-    {
-      "path": "images/logos/LPPKN.png",
-      "size_kb": 41.2
-    },
-    {
-      "path": "images/logos/Oxford.png",
-      "size_kb": 50
-    },
-    {
-      "path": "images/logos/UPM.png",
-      "size_kb": 120.8
-    },
-    {
-      "path": "images/logos/bird_on_dark.svg",
-      "size_kb": 2.1
-    },
-    {
-      "path": "images/logos/bird_on_light.svg",
-      "size_kb": 2
-    },
-    {
-      "path": "images/logos/lego.png",
-      "size_kb": 10.4
-    },
-    {
-      "path": "images/logos/masw.png",
-      "size_kb": 7.1
-    },
-    {
-      "path": "images/logos/thsn.png",
-      "size_kb": 35.5
-    }
-  ],
-  "assets_missing": [],
-  "asset_summary": [
-    {
-      "path": "images/after_disclosed_abuse.svg",
-      "count": 2,
-      "size_kb": 4.7
-    },
-    {
-      "path": "images/contact_for_reporting_abuse.svg",
-      "count": 1,
-      "size_kb": 6.3
-    },
-    {
-      "path": "images/crisis_hotlines.svg",
-      "count": 1,
-      "size_kb": 12.6
-    },
-    {
-      "path": "images/day_1_introduction.svg",
-      "count": 1,
-      "size_kb": 6.7
-    },
-    {
-      "path": "images/day_3_check_in.svg",
-      "count": 1,
-      "size_kb": 6.5
-    },
-    {
-      "path": "images/day_3_mh_stress_self_talk.svg",
-      "count": 2,
-      "size_kb": 5.4
-    },
-    {
-      "path": "images/day_4_check_in.svg",
-      "count": 1,
-      "size_kb": 11.3
-    },
-    {
-      "path": "images/day_5_goodbye.svg",
-      "count": 1,
-      "size_kb": 19.4
-    },
-    {
-      "path": "images/during_disclosed_abuse.svg",
-      "count": 2,
-      "size_kb": 7.7
-    },
-    {
-      "path": "images/faq_ground_rules.svg",
-      "count": 2,
-      "size_kb": 12.1
-    },
-    {
-      "path": "images/faq_h_after_group_ended.svg",
-      "count": 2,
-      "size_kb": 19.8
-    },
-    {
-      "path": "images/faq_h_no_neg_to_pos.svg",
-      "count": 2,
-      "size_kb": 7.4
-    },
-    {
-      "path": "images/faq_h_no_volunteers.svg",
-      "count": 1,
-      "size_kb": 19.6
-    },
-    {
-      "path": "images/faq_h_parents_insult.svg",
-      "count": 2,
-      "size_kb": 12.5
-    },
-    {
-      "path": "images/faq_h_prompts.svg",
-      "count": 2,
-      "size_kb": 19.6
-    },
-    {
-      "path": "images/faq_h_sad_to_end.svg",
-      "count": 2,
-      "size_kb": 9.2
-    },
-    {
-      "path": "images/faq_h_self_harm.svg",
-      "count": 1,
-      "size_kb": 14.9
-    },
-    {
-      "path": "images/faq_h_still_struggling.svg",
-      "count": 1,
-      "size_kb": 23.2
-    },
-    {
-      "path": "images/faq_misbehaviour.svg",
-      "count": 1,
-      "size_kb": 7.8
-    },
-    {
-      "path": "images/faq_no_participation_general.svg",
-      "count": 1,
-      "size_kb": 20.3
-    },
-    {
-      "path": "images/faq_small_group_active.svg",
-      "count": 1,
-      "size_kb": 8.1
-    },
-    {
-      "path": "images/faq_text_support.svg",
-      "count": 1,
-      "size_kb": 6.8
-    },
-    {
-      "path": "images/flags/gb.svg",
-      "count": 2,
-      "size_kb": 0.5
-    },
-    {
-      "path": "images/flags/mx.svg",
-      "count": 2,
-      "size_kb": 91.3
-    },
-    {
-      "path": "images/group_admin_onboarding.svg",
-      "count": 1,
-      "size_kb": 13.5
-    },
-    {
-      "path": "images/how_to_chat_session.svg",
-      "count": 2,
-      "size_kb": 11
-    },
-    {
-      "path": "images/how_to_report.svg",
-      "count": 1,
-      "size_kb": 5.8
-    },
-    {
-      "path": "images/how_to_report_abuse.svg",
-      "count": 2,
-      "size_kb": 12.2
-    },
-    {
-      "path": "images/icons/home_white.svg",
-      "count": 2,
-      "size_kb": 1.7
-    },
-    {
-      "path": "images/icons/pencil_white.svg",
-      "count": 2,
-      "size_kb": 1.4
-    },
-    {
-      "path": "images/icons/person_white.svg",
-      "count": 2,
-      "size_kb": 1.5
-    },
-    {
-      "path": "images/logos/IDEMS.png",
-      "count": 1,
-      "size_kb": 84.6
-    },
-    {
-      "path": "images/logos/PLH.png",
-      "count": 1,
-      "size_kb": 26.6
-    },
-    {
-      "path": "images/logos/UNICEF.jpg",
-      "count": 1,
-      "size_kb": 27.7
-    },
-    {
-      "path": "images/logos/bird_white.svg",
-      "count": 1,
-      "size_kb": 1.9
-    },
-    {
-      "path": "images/logos/nip.png",
-      "count": 1,
-      "size_kb": 11.9
-    },
-    {
-      "path": "images/onboarding_cc.svg",
-      "count": 4,
-      "size_kb": 19.3
-    },
-    {
-      "path": "images/one_on_one_challenges.svg",
-      "count": 1,
-      "size_kb": 13.1
-    },
-    {
-      "path": "images/overview_cc.svg",
-      "count": 1,
-      "size_kb": 7.8
-    },
-    {
-      "path": "images/praise_challenges.svg",
-      "count": 1,
-      "size_kb": 20.6
-    },
-    {
-      "path": "images/routine_challenges.svg",
-      "count": 1,
-      "size_kb": 20.5
-    },
-    {
-      "path": "images/talk_feelings_challenges.svg",
-      "count": 1,
-      "size_kb": 19.3
-    },
-    {
-      "path": "images/what_is_safeguarding.svg",
-      "count": 1,
-      "size_kb": 5.6
-    },
-    {
-      "path": "odk_forms/eplh_pilot_facilitator_weekly_survey_combined.json",
-      "count": 1,
-      "size_kb": 209.4
-    },
-    {
-      "path": "pdf/manual.pdf",
-      "count": 1,
-      "size_kb": 470.3
-    },
-    {
-      "path": "pdf/manual_study.pdf",
-      "count": 1,
-      "size_kb": 1047
-    },
-    {
-      "path": "pdf/overview_guide_study.pdf",
-      "count": 1,
-      "size_kb": 2252.6
-    },
-    {
-      "path": "pdf/peas.pdf",
-      "count": 1,
-      "size_kb": 590.3
-    },
-    {
-      "path": "pdf/programme_details.pdf",
-      "count": 1,
-      "size_kb": 123
-    },
-    {
-      "path": "videos/add_parent.mp4",
-      "count": 1,
-      "size_kb": 19312.7
-    },
-    {
-      "path": "videos/onboard_caregivers.mp4",
-      "count": 1,
-      "size_kb": 91291.6
-    }
-  ],
-  "flows_by_type": [
-    {
-      "type": "data_list",
-      "subtype": null,
-      "total": 13
-    },
-    {
-      "type": "data_list",
-      "subtype": "app_config_language_list",
-      "total": 1
-    },
-    {
-      "type": "data_list",
-      "subtype": "generated",
-      "total": 2
-    },
-    {
-      "type": "data_list",
-      "subtype": "legal_terms",
-      "total": 2
-    },
-    {
-      "type": "data_list",
-      "subtype": "lifecycle_actions",
-      "total": 1
-    },
-    {
-      "type": "data_pipe",
-      "subtype": null,
-      "total": 2
-    },
-    {
-      "type": "generator",
-      "subtype": null,
-      "total": 5
-    },
-    {
-      "type": "global",
-      "subtype": null,
-      "total": 11
-    },
-    {
-      "type": "global",
-      "subtype": "legal_terms",
-      "total": 1
-    },
-    {
-      "type": "template",
-      "subtype": null,
-      "total": 45
-    },
-    {
-      "type": "template",
-      "subtype": "generated",
-      "total": 60
-    },
-    {
-      "type": "template",
-      "subtype": "legal_terms",
-      "total": 4
-    }
-  ]
+  "template_components": {
+    "data": [
+      {
+        "type": "accordion",
+        "count": 1
+      },
+      {
+        "type": "accordion_section",
+        "count": 1
+      },
+      {
+        "type": "audio",
+        "count": 1
+      },
+      {
+        "type": "begin_display_group",
+        "count": 1
+      },
+      {
+        "type": "begin_items",
+        "count": 1
+      },
+      {
+        "type": "button",
+        "count": 61
+      },
+      {
+        "type": "carousel",
+        "count": 1
+      },
+      {
+        "type": "combo_box",
+        "count": 2
+      },
+      {
+        "type": "data_items",
+        "count": 4
+      },
+      {
+        "type": "debug_toggle",
+        "count": 1
+      },
+      {
+        "type": "display_grid",
+        "count": 3
+      },
+      {
+        "type": "display_group",
+        "count": 52
+      },
+      {
+        "type": "drawer",
+        "count": 1
+      },
+      {
+        "type": "image",
+        "count": 6
+      },
+      {
+        "type": "items",
+        "count": 35
+      },
+      {
+        "type": "navigation_bar",
+        "count": 2
+      },
+      {
+        "type": "odk_form",
+        "count": 1
+      },
+      {
+        "type": "pdf",
+        "count": 1
+      },
+      {
+        "type": "qr_code",
+        "count": 1
+      },
+      {
+        "type": "radio_button_grid",
+        "count": 4
+      },
+      {
+        "type": "round_button",
+        "count": 20
+      },
+      {
+        "type": "select_text",
+        "count": 1
+      },
+      {
+        "type": "set_field",
+        "count": 1
+      },
+      {
+        "type": "set_variable",
+        "count": 623
+      },
+      {
+        "type": "simple_checkbox",
+        "count": 1
+      },
+      {
+        "type": "task_card",
+        "count": 4
+      },
+      {
+        "type": "task_progress_bar",
+        "count": 2
+      },
+      {
+        "type": "template",
+        "count": 107
+      },
+      {
+        "type": "text",
+        "count": 109
+      },
+      {
+        "type": "text_area",
+        "count": 2
+      },
+      {
+        "type": "text_box",
+        "count": 12
+      },
+      {
+        "type": "title",
+        "count": 36
+      },
+      {
+        "type": "toggle_bar",
+        "count": 3
+      },
+      {
+        "type": "update_action_list",
+        "count": 3
+      },
+      {
+        "type": "video",
+        "count": 1
+      }
+    ]
+  },
+  "template_actions": {
+    "data": [
+      {
+        "type": "app_update",
+        "count": 1
+      },
+      {
+        "type": "emit: completed",
+        "count": 19
+      },
+      {
+        "type": "emit: force_reload",
+        "count": 6
+      },
+      {
+        "type": "emit: force_reprocess",
+        "count": 9
+      },
+      {
+        "type": "emit: force_restart",
+        "count": 2
+      },
+      {
+        "type": "emit: server_sync",
+        "count": 6
+      },
+      {
+        "type": "emit: set_language",
+        "count": 1
+      },
+      {
+        "type": "emit: uncompleted",
+        "count": 9
+      },
+      {
+        "type": "feedback",
+        "count": 13
+      },
+      {
+        "type": "go_to",
+        "count": 27
+      },
+      {
+        "type": "go_to_url",
+        "count": 1
+      },
+      {
+        "type": "nav_stack",
+        "count": 4
+      },
+      {
+        "type": "pop_up",
+        "count": 10
+      },
+      {
+        "type": "reset_app",
+        "count": 1
+      },
+      {
+        "type": "save_to_device",
+        "count": 1
+      },
+      {
+        "type": "set_data",
+        "count": 4
+      },
+      {
+        "type": "set_field",
+        "count": 38
+      },
+      {
+        "type": "set_item",
+        "count": 3
+      },
+      {
+        "type": "set_local",
+        "count": 9
+      },
+      {
+        "type": "share",
+        "count": 2
+      },
+      {
+        "type": "task",
+        "count": 1
+      },
+      {
+        "type": "user",
+        "count": 1
+      }
+    ]
+  },
+  "assets_size": {
+    "data": [
+      {
+        "assets": "total",
+        "KB": "115959 KB",
+        "MB": "116 MB"
+      },
+      {
+        "assets": "unused",
+        "KB": "733 KB",
+        "MB": "0.7 MB"
+      }
+    ]
+  },
+  "assets_unused": {
+    "data": [
+      {
+        "path": "android/icon-background.png",
+        "size_kb": 7
+      },
+      {
+        "path": "android/icon-foreground.png",
+        "size_kb": 31.1
+      },
+      {
+        "path": "android/icon.png",
+        "size_kb": 108.2
+      },
+      {
+        "path": "android/splash.png",
+        "size_kb": 290.4
+      },
+      {
+        "path": "contents.json",
+        "size_kb": 2.8
+      },
+      {
+        "path": "images/flags/my.svg",
+        "size_kb": 1.4
+      },
+      {
+        "path": "images/flags/tz.svg",
+        "size_kb": 0.5
+      },
+      {
+        "path": "images/flags/ug.svg",
+        "size_kb": 3.9
+      },
+      {
+        "path": "images/flags/zm.svg",
+        "size_kb": 5.4
+      },
+      {
+        "path": "images/icons/bar_chart_white.svg",
+        "size_kb": 1.5
+      },
+      {
+        "path": "images/icons/book_white.svg",
+        "size_kb": 1.5
+      },
+      {
+        "path": "images/icons/globe_blue.svg",
+        "size_kb": 3.9
+      },
+      {
+        "path": "images/icons/paper_plane_white.svg",
+        "size_kb": 1.4
+      },
+      {
+        "path": "images/icons/reader_blue.svg",
+        "size_kb": 1.4
+      },
+      {
+        "path": "images/logos/KEMAS.png",
+        "size_kb": 5.6
+      },
+      {
+        "path": "images/logos/LPPKN.png",
+        "size_kb": 41.2
+      },
+      {
+        "path": "images/logos/Oxford.png",
+        "size_kb": 50
+      },
+      {
+        "path": "images/logos/UPM.png",
+        "size_kb": 120.8
+      },
+      {
+        "path": "images/logos/bird_on_dark.svg",
+        "size_kb": 2.1
+      },
+      {
+        "path": "images/logos/lego.png",
+        "size_kb": 10.4
+      },
+      {
+        "path": "images/logos/masw.png",
+        "size_kb": 7.1
+      },
+      {
+        "path": "images/logos/thsn.png",
+        "size_kb": 35.5
+      }
+    ]
+  },
+  "assets_missing": {
+    "data": [
+      {
+        "path": "images/icons/in_progress.svg",
+        "count": 6,
+        "missing": true
+      },
+      {
+        "path": "images/icons/tick.svg",
+        "count": 1,
+        "missing": true
+      },
+      {
+        "path": "images/icons/tick_white.svg",
+        "count": 5,
+        "missing": true
+      }
+    ]
+  },
+  "asset_summary": {
+    "data": [
+      {
+        "path": "images/after_disclosed_abuse.svg",
+        "count": 2,
+        "size_kb": 4.7
+      },
+      {
+        "path": "images/contact_for_reporting_abuse.svg",
+        "count": 1,
+        "size_kb": 6.3
+      },
+      {
+        "path": "images/crisis_hotlines.svg",
+        "count": 1,
+        "size_kb": 12.6
+      },
+      {
+        "path": "images/day_1_introduction.svg",
+        "count": 1,
+        "size_kb": 6.7
+      },
+      {
+        "path": "images/day_3_check_in.svg",
+        "count": 1,
+        "size_kb": 6.5
+      },
+      {
+        "path": "images/day_3_mh_stress_self_talk.svg",
+        "count": 5,
+        "size_kb": 5.4
+      },
+      {
+        "path": "images/day_4_check_in.svg",
+        "count": 1,
+        "size_kb": 11.3
+      },
+      {
+        "path": "images/day_5_goodbye.svg",
+        "count": 1,
+        "size_kb": 19.4
+      },
+      {
+        "path": "images/during_disclosed_abuse.svg",
+        "count": 2,
+        "size_kb": 7.7
+      },
+      {
+        "path": "images/faq_ground_rules.svg",
+        "count": 2,
+        "size_kb": 12.1
+      },
+      {
+        "path": "images/faq_h_after_group_ended.svg",
+        "count": 2,
+        "size_kb": 19.8
+      },
+      {
+        "path": "images/faq_h_no_neg_to_pos.svg",
+        "count": 2,
+        "size_kb": 7.4
+      },
+      {
+        "path": "images/faq_h_no_volunteers.svg",
+        "count": 1,
+        "size_kb": 19.6
+      },
+      {
+        "path": "images/faq_h_parents_insult.svg",
+        "count": 2,
+        "size_kb": 12.5
+      },
+      {
+        "path": "images/faq_h_prompts.svg",
+        "count": 2,
+        "size_kb": 19.6
+      },
+      {
+        "path": "images/faq_h_sad_to_end.svg",
+        "count": 2,
+        "size_kb": 9.2
+      },
+      {
+        "path": "images/faq_h_self_harm.svg",
+        "count": 1,
+        "size_kb": 14.9
+      },
+      {
+        "path": "images/faq_h_still_struggling.svg",
+        "count": 1,
+        "size_kb": 23.2
+      },
+      {
+        "path": "images/faq_misbehaviour.svg",
+        "count": 1,
+        "size_kb": 7.8
+      },
+      {
+        "path": "images/faq_no_participation_general.svg",
+        "count": 1,
+        "size_kb": 20.3
+      },
+      {
+        "path": "images/faq_small_group_active.svg",
+        "count": 1,
+        "size_kb": 8.1
+      },
+      {
+        "path": "images/faq_text_support.svg",
+        "count": 1,
+        "size_kb": 6.8
+      },
+      {
+        "path": "images/flags/gb.svg",
+        "count": 2,
+        "size_kb": 0.5
+      },
+      {
+        "path": "images/flags/mx.svg",
+        "count": 2,
+        "size_kb": 91.3
+      },
+      {
+        "path": "images/group_admin_onboarding.svg",
+        "count": 1,
+        "size_kb": 13.5
+      },
+      {
+        "path": "images/how_to_chat_session.svg",
+        "count": 2,
+        "size_kb": 11
+      },
+      {
+        "path": "images/how_to_report.svg",
+        "count": 1,
+        "size_kb": 5.8
+      },
+      {
+        "path": "images/how_to_report_abuse.svg",
+        "count": 2,
+        "size_kb": 12.2
+      },
+      {
+        "path": "images/icons/home_white.svg",
+        "count": 2,
+        "size_kb": 1.7
+      },
+      {
+        "path": "images/icons/pencil_white.svg",
+        "count": 2,
+        "size_kb": 1.4
+      },
+      {
+        "path": "images/icons/person_white.svg",
+        "count": 2,
+        "size_kb": 1.5
+      },
+      {
+        "path": "images/logos/IDEMS.png",
+        "count": 1,
+        "size_kb": 84.6
+      },
+      {
+        "path": "images/logos/PLH.png",
+        "count": 1,
+        "size_kb": 26.6
+      },
+      {
+        "path": "images/logos/UNICEF.jpg",
+        "count": 1,
+        "size_kb": 27.7
+      },
+      {
+        "path": "images/logos/bird_on_light.svg",
+        "count": 2,
+        "size_kb": 2
+      },
+      {
+        "path": "images/logos/bird_white.svg",
+        "count": 1,
+        "size_kb": 1.9
+      },
+      {
+        "path": "images/logos/nip.png",
+        "count": 1,
+        "size_kb": 11.9
+      },
+      {
+        "path": "images/onboarding_cc.svg",
+        "count": 3,
+        "size_kb": 19.3
+      },
+      {
+        "path": "images/one_on_one_challenges.svg",
+        "count": 1,
+        "size_kb": 13.1
+      },
+      {
+        "path": "images/overview_cc.svg",
+        "count": 1,
+        "size_kb": 7.8
+      },
+      {
+        "path": "images/praise_challenges.svg",
+        "count": 1,
+        "size_kb": 20.6
+      },
+      {
+        "path": "images/routine_challenges.svg",
+        "count": 1,
+        "size_kb": 20.5
+      },
+      {
+        "path": "images/talk_feelings_challenges.svg",
+        "count": 1,
+        "size_kb": 19.3
+      },
+      {
+        "path": "images/what_is_safeguarding.svg",
+        "count": 1,
+        "size_kb": 5.6
+      },
+      {
+        "path": "odk_forms/eplh_pilot_facilitator_weekly_survey_combined.json",
+        "count": 1,
+        "size_kb": 209.4
+      },
+      {
+        "path": "pdf/manual.pdf",
+        "count": 1,
+        "size_kb": 470.3
+      },
+      {
+        "path": "pdf/manual_study.pdf",
+        "count": 1,
+        "size_kb": 1047
+      },
+      {
+        "path": "pdf/overview_guide_study.pdf",
+        "count": 1,
+        "size_kb": 2252.6
+      },
+      {
+        "path": "pdf/peas.pdf",
+        "count": 1,
+        "size_kb": 590.3
+      },
+      {
+        "path": "pdf/programme_details.pdf",
+        "count": 1,
+        "size_kb": 123
+      },
+      {
+        "path": "videos/add_parent.mp4",
+        "count": 1,
+        "size_kb": 19312.7
+      },
+      {
+        "path": "videos/onboard_caregivers.mp4",
+        "count": 1,
+        "size_kb": 91291.6
+      }
+    ]
+  },
+  "flows_by_type": {
+    "data": [
+      {
+        "type": "data_list",
+        "subtype": null,
+        "total": 20
+      },
+      {
+        "type": "data_list",
+        "subtype": "app_config_language_list",
+        "total": 1
+      },
+      {
+        "type": "data_list",
+        "subtype": "generated",
+        "total": 5
+      },
+      {
+        "type": "data_list",
+        "subtype": "legal_terms",
+        "total": 2
+      },
+      {
+        "type": "data_list",
+        "subtype": "lifecycle_actions",
+        "total": 1
+      },
+      {
+        "type": "data_pipe",
+        "subtype": null,
+        "total": 2
+      },
+      {
+        "type": "data_pipe",
+        "subtype": "generated",
+        "total": 17
+      },
+      {
+        "type": "generator",
+        "subtype": null,
+        "total": 10
+      },
+      {
+        "type": "global",
+        "subtype": null,
+        "total": 11
+      },
+      {
+        "type": "global",
+        "subtype": "legal_terms",
+        "total": 1
+      },
+      {
+        "type": "template",
+        "subtype": null,
+        "total": 58
+      },
+      {
+        "type": "template",
+        "subtype": "generated",
+        "total": 87
+      },
+      {
+        "type": "template",
+        "subtype": "legal_terms",
+        "total": 4
+      },
+      {
+        "type": "template",
+        "subtype": "menu",
+        "total": 1
+      }
+    ]
+  }
 }

@@ -1,0 +1,26 @@
+{
+  "flow_type": "template",
+  "flow_name": "module_final",
+  "status": "released",
+  "rows": [
+    {
+      "name": "module_id",
+      "value": "test",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "module_id"
+    },
+    {
+      "type": "text",
+      "value": "This will be final report",
+      "_translations": {
+        "value": {}
+      },
+      "name": "text_3",
+      "_nested_name": "text_3"
+    }
+  ],
+  "_xlsxPath": "menu_sub_tasks/menu_sub_tasks.xlsx"
+}

@@ -1,0 +1,197 @@
+{
+  "flow_type": "data_list",
+  "flow_name": "sub_items",
+  "status": "released",
+  "data_list_name": "sub_items",
+  "rows": [
+    {
+      "id": "onboarding_day_chat",
+      "loop_id": "onboarding_day_chat",
+      "id_x": "onboarding_day_chat_1",
+      "foreign_key": "onboarding_day_chat",
+      "type": "article",
+      "next_article": "onboarding_day_chat_2",
+      "previous_article": "",
+      "test": "onboarding_day_chat",
+      "create_loop": "create",
+      "description": "This chat session should happen on the same day or day after you complete the in-person onboarding session. As the first chat session, it offers a chance for parents to introduce themselves to the group."
+    },
+    {
+      "id": "onboarding_day_chat_2",
+      "loop_id": "onboarding_day_chat",
+      "id_x": "onboarding_this_should_show",
+      "foreign_key": "onboarding_day_chat",
+      "type": "article",
+      "next_article": "onboarding_day_chat_3",
+      "previous_article": "onboarding_day_chat",
+      "test": "onboarding_day_chat",
+      "create_loop": 0
+    },
+    {
+      "id": "onboarding_day_chat_3",
+      "loop_id": "onboarding_day_chat",
+      "id_x": "onboarding_day_chat_3",
+      "foreign_key": "onboarding_day_chat",
+      "type": "article",
+      "next_article": "onboarding_day_chat_4",
+      "previous_article": "onboarding_day_chat_2",
+      "test": "onboarding_day_chat",
+      "create_loop": 0
+    },
+    {
+      "id": "onboarding_day_chat_4",
+      "loop_id": "onboarding_day_chat",
+      "id_x": "onboarding_day_chat_4",
+      "foreign_key": "onboarding_day_chat",
+      "type": "article",
+      "next_article": "",
+      "previous_article": "onboarding_day_chat_3",
+      "test": "onboarding_day_chat",
+      "create_loop": 0
+    },
+    {
+      "id": "day_3_mh_stress_self_talk",
+      "loop_id": "day_3_mh_stress_self_talk",
+      "id_x": "day_3_mh_stress_1",
+      "foreign_key": "day_3_mh_stress_self_talk",
+      "type": "article",
+      "next_article": "day_3_mh_stress_2",
+      "previous_article": "",
+      "test": "day_3_mh_stress_self_talk",
+      "create_loop": "create",
+      "image_asset": "images/day_3_mh_stress_self_talk.svg",
+      "description": "**Before conducting the chat sessions, make sure you:** \n\nCreate a WhatsApp Group during the onboarding session. \nIdentify the ground rules for the WhatsApp Group\n\nMake sure all participants are already in the WhatsApp group and know the session time.\n\n**Structure for the chat sessions**: \n\nDay  1 (immediately after the onboarding session): Welcome, introductions, and reminder of home practice. \n\nDay 3: Self-talk: WhatsApp Chat session on self-talk and stress\n\nDay 5: Saying Goodbye\n\n**When to send the messages** \n\nYou and your group will decide a time to chat during the onboarding session. \n\nEach chat session has a reminder message (Message 1) that you should send a few hours before the chat session. \n\nSend the remaining messages during the scheduled chat time."
+    },
+    {
+      "id": "day_3_mh_stress_2",
+      "loop_id": "day_3_mh_stress_self_talk",
+      "id_x": "day_3_mh_stress_2",
+      "foreign_key": "day_3_mh_stress_self_talk",
+      "type": "article",
+      "next_article": "day_3_mh_stress_3",
+      "previous_article": "day_3_mh_stress_self_talk",
+      "test": "day_3_mh_stress_self_talk",
+      "create_loop": 0
+    },
+    {
+      "id": "day_3_mh_stress_3",
+      "loop_id": "day_3_mh_stress_self_talk",
+      "id_x": "day_3_mh_stress_3",
+      "foreign_key": "day_3_mh_stress_self_talk",
+      "type": "article",
+      "next_article": "day_3_mh_stress_4",
+      "previous_article": "day_3_mh_stress_2",
+      "test": "day_3_mh_stress_self_talk",
+      "create_loop": 0
+    },
+    {
+      "id": "day_3_mh_stress_4",
+      "loop_id": "day_3_mh_stress_self_talk",
+      "id_x": "day_3_mh_stress_4",
+      "foreign_key": "day_3_mh_stress_self_talk",
+      "type": "article",
+      "next_article": "day_3_mh_stress_5",
+      "previous_article": "day_3_mh_stress_3",
+      "test": "day_3_mh_stress_self_talk",
+      "create_loop": 0
+    },
+    {
+      "id": "day_3_mh_stress_5",
+      "loop_id": "day_3_mh_stress_self_talk",
+      "id_x": "day_3_mh_stress_5",
+      "foreign_key": "day_3_mh_stress_self_talk",
+      "type": "article",
+      "next_article": "day_3_mh_stress_6",
+      "previous_article": "day_3_mh_stress_4",
+      "test": "day_3_mh_stress_self_talk",
+      "create_loop": 0
+    },
+    {
+      "id": "day_3_mh_stress_6",
+      "loop_id": "day_3_mh_stress_self_talk",
+      "id_x": "day_3_mh_stress_6",
+      "foreign_key": "day_3_mh_stress_self_talk",
+      "type": "article",
+      "next_article": "",
+      "previous_article": "day_3_mh_stress_5",
+      "test": "day_3_mh_stress_self_talk",
+      "create_loop": 0
+    },
+    {
+      "id": "day_5_final_chat_session_5ux",
+      "loop_id": "day_5_final_chat_session_5ux",
+      "id_x": "day_5_final_chat_session_5ux_1",
+      "foreign_key": "day_5_final_chat_session_5ux",
+      "type": "article",
+      "next_article": "day_5_final_chat_session_5ux_2",
+      "previous_article": "",
+      "test": "day_5_final_chat_session_5ux",
+      "create_loop": "create",
+      "description": "This is your final chat session with the group. You should congratulate yourself for taking the parents through the @global.programme_name journey and celebrate with them the positive changes in their lives and for their girls, boys, and teens.\n\nYou can choose to stay or leave the WhatsApp Group after the program ends."
+    },
+    {
+      "id": "day_5_final_chat_session_5ux_2",
+      "loop_id": "day_5_final_chat_session_5ux",
+      "id_x": "day_5_final_chat_session_5ux_2",
+      "foreign_key": "day_5_final_chat_session_5ux",
+      "type": "article",
+      "next_article": "day_5_final_chat_session_5ux_3",
+      "previous_article": "day_5_final_chat_session_5ux",
+      "test": "day_5_final_chat_session_5ux",
+      "create_loop": 0
+    },
+    {
+      "id": "day_5_final_chat_session_5ux_3",
+      "loop_id": "day_5_final_chat_session_5ux",
+      "id_x": "day_5_final_chat_session_5ux_3",
+      "foreign_key": "day_5_final_chat_session_5ux",
+      "type": "article",
+      "next_article": "day_5_final_chat_session_5ux_4",
+      "previous_article": "day_5_final_chat_session_5ux_2",
+      "test": "day_5_final_chat_session_5ux",
+      "create_loop": 0
+    },
+    {
+      "id": "day_5_final_chat_session_5ux_4",
+      "loop_id": "day_5_final_chat_session_5ux",
+      "id_x": "day_5_final_chat_session_5ux_4",
+      "foreign_key": "day_5_final_chat_session_5ux",
+      "type": "article",
+      "next_article": "day_5_final_chat_session_5ux_5",
+      "previous_article": "day_5_final_chat_session_5ux_3",
+      "test": "day_5_final_chat_session_5ux",
+      "create_loop": 0
+    },
+    {
+      "id": "day_5_final_chat_session_5ux_5",
+      "loop_id": "day_5_final_chat_session_5ux",
+      "id_x": "day_5_final_chat_session_5ux_5",
+      "foreign_key": "day_5_final_chat_session_5ux",
+      "type": "article",
+      "next_article": "day_5_final_chat_session_5ux_6",
+      "previous_article": "day_5_final_chat_session_5ux_4",
+      "test": "day_5_final_chat_session_5ux",
+      "create_loop": 0
+    },
+    {
+      "id": "day_5_final_chat_session_5ux_6",
+      "loop_id": "day_5_final_chat_session_5ux",
+      "id_x": "day_5_final_chat_session_5ux_6",
+      "foreign_key": "day_5_final_chat_session_5ux",
+      "type": "article",
+      "next_article": "",
+      "previous_article": "day_5_final_chat_session_5ux_5",
+      "test": "day_5_final_chat_session_5ux",
+      "create_loop": 0
+    },
+    {
+      "id": "testing",
+      "loop_id": "onboarding_day_chat",
+      "foreign_key": "onboarding_day_chat",
+      "type": "menu",
+      "test": "onboarding_day_chat",
+      "create_loop": 0
+    }
+  ],
+  "_xlsxPath": "data/FacilitatorApp MX modules.xlsx"
+}

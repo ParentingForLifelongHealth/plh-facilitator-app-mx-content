@@ -1,0 +1,250 @@
+{
+  "flow_type": "template",
+  "flow_name": "article_message",
+  "status": "released",
+  "rows": [
+    {
+      "name": "article_id",
+      "value": "test",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "article_id"
+    },
+    {
+      "type": "data_items",
+      "name": "loop_messages",
+      "value": "@data.a_messages",
+      "rows": [
+        {
+          "type": "display_group",
+          "name": "dg_box",
+          "condition": "@item.foreign_key == @local.article_id",
+          "style_list": [
+            "style: dashed_box"
+          ],
+          "rows": [
+            {
+              "type": "title",
+              "name": "title",
+              "value": "@item.title",
+              "_translations": {
+                "value": {}
+              },
+              "_nested_name": "loop_messages.dg_box.title",
+              "_dynamicFields": {
+                "value": [
+                  {
+                    "fullExpression": "@item.title",
+                    "matchedExpression": "@item.title",
+                    "type": "item",
+                    "fieldName": "title"
+                  }
+                ]
+              },
+              "_dynamicDependencies": {
+                "@item.title": [
+                  "value"
+                ]
+              }
+            },
+            {
+              "type": "display_group",
+              "rows": [
+                {
+                  "type": "text",
+                  "name": "message_text",
+                  "value": "@item.text",
+                  "_translations": {
+                    "value": {}
+                  },
+                  "_nested_name": "loop_messages.dg_box.display_group_2.message_text",
+                  "_dynamicFields": {
+                    "value": [
+                      {
+                        "fullExpression": "@item.text",
+                        "matchedExpression": "@item.text",
+                        "type": "item",
+                        "fieldName": "text"
+                      }
+                    ]
+                  },
+                  "_dynamicDependencies": {
+                    "@item.text": [
+                      "value"
+                    ]
+                  }
+                }
+              ],
+              "name": "display_group_2",
+              "_nested_name": "loop_messages.dg_box.display_group_2"
+            },
+            {
+              "name": "share_message",
+              "value": "@item.text",
+              "_translations": {
+                "value": {}
+              },
+              "type": "set_variable",
+              "_nested_name": "loop_messages.dg_box.share_message",
+              "_dynamicFields": {
+                "value": [
+                  {
+                    "fullExpression": "@item.text",
+                    "matchedExpression": "@item.text",
+                    "type": "item",
+                    "fieldName": "text"
+                  }
+                ]
+              },
+              "_dynamicDependencies": {
+                "@item.text": [
+                  "value"
+                ]
+              }
+            },
+            {
+              "type": "display_group",
+              "name": "dg_bottom",
+              "rows": [
+                {
+                  "type": "text",
+                  "name": "message_guidance",
+                  "value": "@item.guidence",
+                  "_translations": {
+                    "value": {}
+                  },
+                  "style_list": [
+                    "style: contextual"
+                  ],
+                  "parameter_list": {
+                    "flex": "1"
+                  },
+                  "_nested_name": "loop_messages.dg_box.dg_bottom.message_guidance",
+                  "_dynamicFields": {
+                    "value": [
+                      {
+                        "fullExpression": "@item.guidence",
+                        "matchedExpression": "@item.guidence",
+                        "type": "item",
+                        "fieldName": "guidence"
+                      }
+                    ]
+                  },
+                  "_dynamicDependencies": {
+                    "@item.guidence": [
+                      "value"
+                    ]
+                  }
+                },
+                {
+                  "type": "round_button",
+                  "name": "button",
+                  "action_list": [
+                    {
+                      "trigger": "click",
+                      "action_id": "share",
+                      "args": [
+                        "@item.text"
+                      ],
+                      "_raw": "click | share: @item.text",
+                      "_cleaned": "click | share: @item.text"
+                    }
+                  ],
+                  "style_list": [
+                    "icon_src: share-social",
+                    "style: navigation"
+                  ],
+                  "_nested_name": "loop_messages.dg_box.dg_bottom.button",
+                  "_dynamicFields": {
+                    "action_list": {
+                      "0": {
+                        "args": {
+                          "0": [
+                            {
+                              "fullExpression": "@item.text",
+                              "matchedExpression": "@item.text",
+                              "type": "item",
+                              "fieldName": "text"
+                            }
+                          ]
+                        },
+                        "_raw": [
+                          {
+                            "fullExpression": "click | share: @item.text",
+                            "matchedExpression": "@item.text",
+                            "type": "item",
+                            "fieldName": "text"
+                          }
+                        ],
+                        "_cleaned": [
+                          {
+                            "fullExpression": "click | share: @item.text",
+                            "matchedExpression": "@item.text",
+                            "type": "item",
+                            "fieldName": "text"
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  "_dynamicDependencies": {
+                    "@item.text": [
+                      "action_list.0.args.0",
+                      "action_list.0._raw",
+                      "action_list.0._cleaned"
+                    ]
+                  }
+                }
+              ],
+              "_nested_name": "loop_messages.dg_box.dg_bottom"
+            }
+          ],
+          "_nested_name": "loop_messages.dg_box",
+          "_dynamicFields": {
+            "condition": [
+              {
+                "fullExpression": "@item.foreign_key == @local.article_id",
+                "matchedExpression": "@item.foreign_key",
+                "type": "item",
+                "fieldName": "foreign_key"
+              },
+              {
+                "fullExpression": "@item.foreign_key == @local.article_id",
+                "matchedExpression": "@local.article_id",
+                "type": "local",
+                "fieldName": "article_id"
+              }
+            ]
+          },
+          "_dynamicDependencies": {
+            "@item.foreign_key": [
+              "condition"
+            ],
+            "@local.article_id": [
+              "condition"
+            ]
+          }
+        }
+      ],
+      "_nested_name": "loop_messages",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@data.a_messages",
+            "matchedExpression": "@data.a_messages",
+            "type": "data",
+            "fieldName": "a_messages"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@data.a_messages": [
+          "value"
+        ]
+      }
+    }
+  ],
+  "_xlsxPath": "menu_sub_tasks/menu_sub_tasks.xlsx"
+}

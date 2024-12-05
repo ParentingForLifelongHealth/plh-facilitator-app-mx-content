@@ -4,23 +4,38 @@
 | type | count |
 | --- | --- |
 | accordion | 1 |
+| accordion_section | 1 |
 | audio | 1 |
-| button | 31 |
-| combo_box | 1 |
-| display_group | 25 |
-| items | 22 |
+| begin_display_group | 1 |
+| begin_items | 1 |
+| button | 61 |
+| carousel | 1 |
+| combo_box | 2 |
+| data_items | 4 |
+| debug_toggle | 1 |
+| display_grid | 3 |
+| display_group | 52 |
+| drawer | 1 |
+| image | 6 |
+| items | 35 |
 | navigation_bar | 2 |
 | odk_form | 1 |
 | pdf | 1 |
+| qr_code | 1 |
 | radio_button_grid | 4 |
-| round_button | 1 |
+| round_button | 20 |
+| select_text | 1 |
 | set_field | 1 |
-| set_variable | 201 |
-| template | 66 |
-| text | 50 |
+| set_variable | 623 |
+| simple_checkbox | 1 |
+| task_card | 4 |
+| task_progress_bar | 2 |
+| template | 107 |
+| text | 109 |
 | text_area | 2 |
-| text_box | 11 |
-| title | 24 |
+| text_box | 12 |
+| title | 36 |
+| toggle_bar | 3 |
 | update_action_list | 3 |
 | video | 1 |
 </details>
@@ -31,18 +46,26 @@
 | type | count |
 | --- | --- |
 | app_update | 1 |
-| emit: completed | 7 |
-| emit: force_reload | 4 |
-| emit: force_reprocess | 6 |
+| emit: completed | 19 |
+| emit: force_reload | 6 |
+| emit: force_reprocess | 9 |
 | emit: force_restart | 2 |
-| emit: server_sync | 3 |
+| emit: server_sync | 6 |
 | emit: set_language | 1 |
-| emit: uncompleted | 2 |
-| feedback | 7 |
-| go_to | 8 |
-| pop_up | 5 |
-| set_field | 22 |
-| set_local | 7 |
+| emit: uncompleted | 9 |
+| feedback | 13 |
+| go_to | 27 |
+| go_to_url | 1 |
+| nav_stack | 4 |
+| pop_up | 10 |
+| reset_app | 1 |
+| save_to_device | 1 |
+| set_data | 4 |
+| set_field | 38 |
+| set_item | 3 |
+| set_local | 9 |
+| share | 2 |
+| task | 1 |
 | user | 1 |
 </details>
 
@@ -51,8 +74,8 @@
 
 | assets | KB | MB |
 | --- | --- | --- |
-| total | 115957 KB | 116 MB |
-| unused | 735 KB | 0.7 MB |
+| total | 115959 KB | 116 MB |
+| unused | 733 KB | 0.7 MB |
 </details>
 
 <details open>
@@ -66,7 +89,7 @@ Assets that appear in app-data but do not have references within sheets
 | android/icon-foreground.png | 31.1 |
 | android/icon.png | 108.2 |
 | android/splash.png | 290.4 |
-| contents.json | 2.7 |
+| contents.json | 2.8 |
 | images/flags/my.svg | 1.4 |
 | images/flags/tz.svg | 0.5 |
 | images/flags/ug.svg | 3.9 |
@@ -81,7 +104,6 @@ Assets that appear in app-data but do not have references within sheets
 | images/logos/Oxford.png | 50 |
 | images/logos/UPM.png | 120.8 |
 | images/logos/bird_on_dark.svg | 2.1 |
-| images/logos/bird_on_light.svg | 2 |
 | images/logos/lego.png | 10.4 |
 | images/logos/masw.png | 7.1 |
 | images/logos/thsn.png | 35.5 |
@@ -94,6 +116,9 @@ Assets that have references within sheets but do not appear in app-data
 
 | path | count |
 | --- | --- |
+| images/icons/in_progress.svg | 6 |
+| images/icons/tick.svg | 1 |
+| images/icons/tick_white.svg | 5 |
 </details>
 
 <details >
@@ -108,7 +133,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/crisis_hotlines.svg | 12.6 | 1 |
 | images/day_1_introduction.svg | 6.7 | 1 |
 | images/day_3_check_in.svg | 6.5 | 1 |
-| images/day_3_mh_stress_self_talk.svg | 5.4 | 2 |
+| images/day_3_mh_stress_self_talk.svg | 5.4 | 5 |
 | images/day_4_check_in.svg | 11.3 | 1 |
 | images/day_5_goodbye.svg | 19.4 | 1 |
 | images/during_disclosed_abuse.svg | 7.7 | 2 |
@@ -137,9 +162,10 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/logos/IDEMS.png | 84.6 | 1 |
 | images/logos/PLH.png | 26.6 | 1 |
 | images/logos/UNICEF.jpg | 27.7 | 1 |
+| images/logos/bird_on_light.svg | 2 | 2 |
 | images/logos/bird_white.svg | 1.9 | 1 |
 | images/logos/nip.png | 11.9 | 1 |
-| images/onboarding_cc.svg | 19.3 | 4 |
+| images/onboarding_cc.svg | 19.3 | 3 |
 | images/one_on_one_challenges.svg | 13.1 | 1 |
 | images/overview_cc.svg | 7.8 | 1 |
 | images/praise_challenges.svg | 20.6 | 1 |
@@ -161,16 +187,18 @@ Assets that are used within sheets and also can be found in the synced asset dat
 
 | type | subtype | total |
 | --- | --- | --- |
-| data_list |  | 13 |
+| data_list |  | 20 |
 | data_list | app_config_language_list | 1 |
-| data_list | generated | 2 |
+| data_list | generated | 5 |
 | data_list | legal_terms | 2 |
 | data_list | lifecycle_actions | 1 |
 | data_pipe |  | 2 |
-| generator |  | 5 |
+| data_pipe | generated | 17 |
+| generator |  | 10 |
 | global |  | 11 |
 | global | legal_terms | 1 |
-| template |  | 45 |
-| template | generated | 60 |
+| template |  | 58 |
+| template | generated | 87 |
 | template | legal_terms | 4 |
+| template | menu | 1 |
 </details>

@@ -1,0 +1,57 @@
+{
+  "flow_type": "data_list",
+  "flow_name": "a_sections",
+  "status": "released",
+  "data_list_name": "a_sections",
+  "rows": [
+    {
+      "id": "section_1",
+      "foreign_key": "onboarding_day_chat",
+      "title": "Add Ground Rules, previously agreed, to the WhatsApp Group Description",
+      "_translations": {
+        "title": {
+          "mx_es": true
+        },
+        "text": {},
+        "button_text": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Add Ground Rules, previously agreed, to the WhatsApp Group Description"
+        },
+        "text": {
+          "eng": "Remember to add the ground rules to the WhatsApp Group Description. \n\n​​To add the ground rules to the Group Description:\n \nOpen the WhatsApp group chat. \n\nTap the group name. \n\nTap the existing description, or tap Add Group Description. \nPaste the ground rules. \n\nTap Save."
+        },
+        "button_text": {
+          "eng": "Sample Ground Rules"
+        }
+      },
+      "text": "Remember to add the ground rules to the WhatsApp Group Description. \n\n​​To add the ground rules to the Group Description:\n \nOpen the WhatsApp group chat. \n\nTap the group name. \n\nTap the existing description, or tap Add Group Description. \nPaste the ground rules. \n\nTap Save.",
+      "button_text": "Sample Ground Rules"
+    },
+    {
+      "id": "section_2",
+      "foreign_key": "testing",
+      "title": "blank",
+      "_translations": {
+        "title": {},
+        "text": {},
+        "button_text": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "blank"
+        },
+        "text": {
+          "eng": "blank"
+        },
+        "button_text": {
+          "eng": "blank"
+        }
+      },
+      "text": "blank",
+      "button_text": "blank"
+    }
+  ],
+  "_xlsxPath": "data/FacilitatorApp MX modules.xlsx"
+}

@@ -1,0 +1,61 @@
+{
+  "flow_type": "data_list",
+  "flow_name": "related",
+  "status": "released",
+  "data_list_name": "related",
+  "rows": [
+    {
+      "id": "related_1",
+      "foreign_key": "day_3_mh_stress_self_talk",
+      "related_article_id": "faq_h_parents_insult",
+      "title": "FAQ",
+      "_translations": {
+        "title": {
+          "mx_es": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "FAQ"
+        }
+      }
+    },
+    {
+      "id": "related_2",
+      "foreign_key": "day_3_mh_stress_self_talk",
+      "related_article_id": "faq_h_self_harm"
+    },
+    {
+      "id": "related_3",
+      "foreign_key": "day_3_mh_stress_self_talk",
+      "related_article_id": "faq_h_no_neg_to_pos"
+    },
+    {
+      "id": "related_4",
+      "foreign_key": "day_5_final_chat_session_5ux",
+      "related_article_id": "faq_h_after_group_ended",
+      "title": "FAQ",
+      "_translations": {
+        "title": {
+          "mx_es": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "FAQ"
+        }
+      }
+    },
+    {
+      "id": "related_5",
+      "foreign_key": "day_5_final_chat_session_5ux",
+      "related_article_id": "faq_h_still_struggling"
+    },
+    {
+      "id": "related_6",
+      "foreign_key": "day_5_final_chat_session_5ux",
+      "related_article_id": "faq_h_sad_to_end"
+    }
+  ],
+  "_xlsxPath": "data/FacilitatorApp MX modules.xlsx"
+}

@@ -109,5 +109,10 @@
       ]
     }
   ],
-  "_xlsxPath": "templates/app_launch.xlsx"
+  "_xlsxPath": "templates/app_launch.xlsx",
+  "_metadata": {
+    "priority": {
+      "type": "number"
+    }
+  }
 }
