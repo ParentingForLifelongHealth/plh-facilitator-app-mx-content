@@ -108,38 +108,6 @@
               "value"
             ]
           }
-        },
-        {
-          "type": "template",
-          "name": "help_button",
-          "value": "help_button",
-          "rows": [
-            {
-              "name": "help_template",
-              "value": "help_@local.section_id",
-              "_translations": {
-                "value": {}
-              },
-              "type": "set_variable",
-              "_nested_name": "dg_header.help_button.help_template",
-              "_dynamicFields": {
-                "value": [
-                  {
-                    "fullExpression": "help_@local.section_id",
-                    "matchedExpression": "@local.section_id",
-                    "type": "local",
-                    "fieldName": "section_id"
-                  }
-                ]
-              },
-              "_dynamicDependencies": {
-                "@local.section_id": [
-                  "value"
-                ]
-              }
-            }
-          ],
-          "_nested_name": "dg_header.help_button"
         }
       ],
       "_nested_name": "dg_header"

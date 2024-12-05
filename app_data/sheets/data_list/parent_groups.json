@@ -1,0 +1,38 @@
+{
+  "flow_type": "data_list",
+  "flow_name": "parent_groups",
+  "status": "released",
+  "data_list_name": "parent_groups",
+  "rows": [
+    {
+      "id": "id1",
+      "name": "test 1",
+      "text": "test 1",
+      "archived": false
+    },
+    {
+      "id": "id2",
+      "name": "testing",
+      "text": "testing",
+      "archived": true
+    },
+    {
+      "id": "id3",
+      "name": "group 3",
+      "text": "group 3",
+      "archived": false
+    },
+    {
+      "id": "id4",
+      "name": "test group",
+      "text": "test group",
+      "archived": false
+    }
+  ],
+  "_xlsxPath": "data/profile_data.xlsx",
+  "_metadata": {
+    "archived": {
+      "type": "boolean"
+    }
+  }
+}
