@@ -14,14 +14,20 @@
       "_nested_name": "article_id"
     },
     {
+      "name": "stack_navigation",
+      "value": true,
+      "type": "set_variable",
+      "_nested_name": "stack_navigation"
+    },
+    {
       "type": "text",
       "value": "article_story - article_id: @local.article_id",
       "_translations": {
         "value": {}
       },
-      "condition": true,
-      "name": "text_3",
-      "_nested_name": "text_3",
+      "condition": false,
+      "name": "text_4",
+      "_nested_name": "text_4",
       "_dynamicFields": {
         "value": [
           {

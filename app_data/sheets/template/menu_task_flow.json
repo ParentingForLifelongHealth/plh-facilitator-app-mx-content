@@ -80,7 +80,7 @@
         },
         {
           "name": "completed_prefix",
-          "value": "task_",
+          "value": "completed_",
           "_translations": {
             "value": {}
           },

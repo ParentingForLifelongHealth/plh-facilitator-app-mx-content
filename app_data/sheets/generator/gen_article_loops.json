@@ -24,6 +24,16 @@
           "name": "foreign_key",
           "value": "@gen.foreign_key",
           "exclude_from_translation": true
+        },
+        {
+          "name": "next_article",
+          "value": "@gen.next_article",
+          "exclude_from_translation": true
+        },
+        {
+          "name": "previous_article",
+          "value": "@gen.previous_article",
+          "exclude_from_translation": true
         }
       ]
     }

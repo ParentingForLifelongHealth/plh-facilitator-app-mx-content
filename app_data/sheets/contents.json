@@ -40,22 +40,45 @@
     "article_loops": {
       "flow_name": "article_loops",
       "flow_subtype": "generated",
-      "flow_type": "data_list"
+      "flow_type": "data_list",
+      "_metadata": {
+        "completed": {
+          "type": "boolean"
+        },
+        "completed_id1": {
+          "type": "boolean"
+        },
+        "completed_id3": {
+          "type": "boolean"
+        },
+        "completed_id4": {
+          "type": "boolean"
+        }
+      }
     },
     "articles": {
       "flow_name": "articles",
       "flow_subtype": "generated",
-      "flow_type": "data_list"
+      "flow_type": "data_list",
+      "_metadata": {
+        "completed": {
+          "type": "boolean"
+        },
+        "completed_id1": {
+          "type": "boolean"
+        },
+        "completed_id3": {
+          "type": "boolean"
+        },
+        "completed_id4": {
+          "type": "boolean"
+        }
+      }
     },
     "menus": {
       "flow_name": "menus",
       "flow_subtype": "generated",
-      "flow_type": "data_list",
-      "_metadata": {
-        "create_loop": {
-          "type": "number"
-        }
-      }
+      "flow_type": "data_list"
     },
     "package": {
       "flow_name": "package",
@@ -140,13 +163,7 @@
       "data_list_name": "parents",
       "_xlsxPath": "data/profile_data.xlsx",
       "_metadata": {
-        "group_id": {
-          "type": "number"
-        },
         "text_id": {
-          "type": "number"
-        },
-        "co_parent": {
           "type": "number"
         },
         "archived": {
@@ -194,7 +211,21 @@
       "flow_type": "data_list",
       "flow_name": "sub_items",
       "data_list_name": "sub_items",
-      "_xlsxPath": "data/FacilitatorApp MX modules.xlsx"
+      "_xlsxPath": "data/FacilitatorApp MX modules.xlsx",
+      "_metadata": {
+        "completed": {
+          "type": "boolean"
+        },
+        "completed_id1": {
+          "type": "boolean"
+        },
+        "completed_id3": {
+          "type": "boolean"
+        },
+        "completed_id4": {
+          "type": "boolean"
+        }
+      }
     },
     "tag_data": {
       "flow_type": "data_list",
@@ -561,28 +592,6 @@
     },
     "prep_onboarding_day_chat_sub_items": {
       "flow_name": "prep_onboarding_day_chat_sub_items",
-      "flow_subtype": "generated",
-      "flow_type": "data_pipe",
-      "_output_flows": [
-        {
-          "flow_name": "article_loops",
-          "flow_subtype": "generated",
-          "flow_type": "data_list"
-        },
-        {
-          "flow_name": "articles",
-          "flow_subtype": "generated",
-          "flow_type": "data_list"
-        },
-        {
-          "flow_name": "menus",
-          "flow_subtype": "generated",
-          "flow_type": "data_list"
-        }
-      ]
-    },
-    "prep_testing_sub_items": {
-      "flow_name": "prep_testing_sub_items",
       "flow_subtype": "generated",
       "flow_type": "data_pipe",
       "_output_flows": [
@@ -984,13 +993,7 @@
         "output_flow_subtype": "generated"
       },
       "_xlsxPath": "menu_sub_tasks/menu_sub_tasks.xlsx",
-      "_output_flows": [
-        {
-          "flow_name": "sub_item_onboarding_day_chat",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        }
-      ]
+      "_output_flows": []
     },
     "gen_module_final": {
       "flow_type": "generator",
@@ -1133,11 +1136,6 @@
         },
         {
           "flow_name": "prep_day_5_final_chat_session_5ux_6_sub_items",
-          "flow_subtype": "generated",
-          "flow_type": "data_pipe"
-        },
-        {
-          "flow_name": "prep_testing_sub_items",
           "flow_subtype": "generated",
           "flow_type": "data_pipe"
         }
@@ -1988,6 +1986,11 @@
       "flow_name": "app_menu_terms",
       "_xlsxPath": "templates/legal_terms.xlsx"
     },
+    "loop_issues": {
+      "flow_type": "template",
+      "flow_name": "loop_issues",
+      "_xlsxPath": "menu_sub_tasks/menu_sub_tasks.xlsx"
+    },
     "media": {
       "flow_type": "template",
       "flow_name": "media",
@@ -2059,6 +2062,11 @@
       "flow_type": "template",
       "flow_name": "pdf",
       "_xlsxPath": "templates/media.xlsx"
+    },
+    "popup_nav": {
+      "flow_type": "template",
+      "flow_name": "popup_nav",
+      "_xlsxPath": "menu_sub_tasks/menu_sub_tasks.xlsx"
     },
     "profile": {
       "flow_type": "template",

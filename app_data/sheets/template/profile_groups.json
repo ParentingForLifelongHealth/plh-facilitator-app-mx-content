@@ -40,7 +40,7 @@
       "_nested_name": "group_desc"
     },
     {
-      "type": "items",
+      "type": "data_items",
       "value": "@data.parent_groups",
       "rows": [
         {
@@ -56,7 +56,7 @@
                 "value": {}
               },
               "type": "set_variable",
-              "_nested_name": "items_5.parent_group.group_id",
+              "_nested_name": "data_items_5.parent_group.group_id",
               "_dynamicFields": {
                 "value": [
                   {
@@ -80,7 +80,7 @@
                 "value": {}
               },
               "type": "set_variable",
-              "_nested_name": "items_5.parent_group.group_name",
+              "_nested_name": "data_items_5.parent_group.group_name",
               "_dynamicFields": {
                 "value": [
                   {
@@ -98,7 +98,7 @@
               }
             }
           ],
-          "_nested_name": "items_5.parent_group",
+          "_nested_name": "data_items_5.parent_group",
           "_dynamicFields": {
             "condition": [
               {
@@ -116,8 +116,8 @@
           }
         }
       ],
-      "name": "items_5",
-      "_nested_name": "items_5",
+      "name": "data_items_5",
+      "_nested_name": "data_items_5",
       "_dynamicFields": {
         "value": [
           {
@@ -135,37 +135,72 @@
       }
     },
     {
-      "type": "button",
-      "name": "add_group",
-      "value": "Create New Group",
-      "_translations": {
-        "value": {}
+      "type": "display_group",
+      "parameter_list": {
+        "sticky": "bottom"
       },
-      "action_list": [
+      "rows": [
         {
-          "trigger": "click",
-          "action_id": "set_field",
-          "args": [
-            "current_group_no",
-            "\"\""
+          "type": "button",
+          "name": "add_group",
+          "value": "Create New Group",
+          "_translations": {
+            "value": {}
+          },
+          "action_list": [
+            {
+              "trigger": "click",
+              "action_id": "add_data",
+              "args": [],
+              "_raw": "click | add_data | \n_list_id: parent_groups,\nname: new group,\narchived: false",
+              "_cleaned": "click | add_data | \n_list_id: parent_groups,\nname: new group,\narchived: false",
+              "params": {
+                "_list_id": "parent_groups",
+                "name": "new group",
+                "archived": false
+              }
+            },
+            {
+              "trigger": "click",
+              "action_id": "set_field",
+              "args": [
+                "current_group_no",
+                "new"
+              ],
+              "_raw": "click | set_field: current_group_no: new",
+              "_cleaned": "click | set_field: current_group_no: new"
+            },
+            {
+              "trigger": "click",
+              "action_id": "set_field",
+              "args": [
+                "current_group_name",
+                "new group"
+              ],
+              "_raw": "click | set_field: current_group_name: new group",
+              "_cleaned": "click | set_field: current_group_name: new group"
+            },
+            {
+              "trigger": "click",
+              "action_id": "pop_up",
+              "args": [
+                "edit_parent_group"
+              ],
+              "_raw": "click | pop_up: edit_parent_group | fullscreen: true",
+              "_cleaned": "click | pop_up: edit_parent_group | fullscreen: true",
+              "params": {
+                "fullscreen": true
+              }
+            }
           ],
-          "_raw": "click | set_field: current_group_no: \"\"",
-          "_cleaned": "click | set_field: current_group_no: \"\""
-        },
-        {
-          "trigger": "click",
-          "action_id": "go_to",
-          "args": [
-            "edit_parent_group"
-          ],
-          "_raw": "click | go_to: edit_parent_group",
-          "_cleaned": "click | go_to: edit_parent_group"
+          "parameter_list": {
+            "style": "card"
+          },
+          "_nested_name": "display_group_8.add_group"
         }
       ],
-      "parameter_list": {
-        "style": "card"
-      },
-      "_nested_name": "add_group"
+      "name": "display_group_8",
+      "_nested_name": "display_group_8"
     }
   ],
   "_xlsxPath": "templates/profile.xlsx"

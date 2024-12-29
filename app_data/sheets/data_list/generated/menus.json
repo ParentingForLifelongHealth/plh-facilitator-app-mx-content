@@ -2,19 +2,5 @@
   "flow_name": "menus",
   "flow_subtype": "generated",
   "flow_type": "data_list",
-  "rows": [
-    {
-      "id": "testing",
-      "loop_id": "onboarding_day_chat",
-      "foreign_key": "onboarding_day_chat",
-      "type": "menu",
-      "test": "onboarding_day_chat",
-      "create_loop": 0
-    }
-  ],
-  "_metadata": {
-    "create_loop": {
-      "type": "number"
-    }
-  }
+  "rows": []
 }

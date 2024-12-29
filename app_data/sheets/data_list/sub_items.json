@@ -6,6 +6,10 @@
   "rows": [
     {
       "id": "onboarding_day_chat",
+      "completed": false,
+      "completed_id1": false,
+      "completed_id3": false,
+      "completed_id4": false,
       "loop_id": "onboarding_day_chat",
       "id_x": "onboarding_day_chat_1",
       "foreign_key": "onboarding_day_chat",
@@ -18,6 +22,10 @@
     },
     {
       "id": "onboarding_day_chat_2",
+      "completed": false,
+      "completed_id1": false,
+      "completed_id3": false,
+      "completed_id4": false,
       "loop_id": "onboarding_day_chat",
       "id_x": "onboarding_this_should_show",
       "foreign_key": "onboarding_day_chat",
@@ -29,6 +37,10 @@
     },
     {
       "id": "onboarding_day_chat_3",
+      "completed": false,
+      "completed_id1": false,
+      "completed_id3": false,
+      "completed_id4": false,
       "loop_id": "onboarding_day_chat",
       "id_x": "onboarding_day_chat_3",
       "foreign_key": "onboarding_day_chat",
@@ -40,6 +52,10 @@
     },
     {
       "id": "onboarding_day_chat_4",
+      "completed": false,
+      "completed_id1": false,
+      "completed_id3": false,
+      "completed_id4": false,
       "loop_id": "onboarding_day_chat",
       "id_x": "onboarding_day_chat_4",
       "foreign_key": "onboarding_day_chat",
@@ -51,6 +67,10 @@
     },
     {
       "id": "day_3_mh_stress_self_talk",
+      "completed": false,
+      "completed_id1": false,
+      "completed_id3": false,
+      "completed_id4": false,
       "loop_id": "day_3_mh_stress_self_talk",
       "id_x": "day_3_mh_stress_1",
       "foreign_key": "day_3_mh_stress_self_talk",
@@ -64,6 +84,10 @@
     },
     {
       "id": "day_3_mh_stress_2",
+      "completed": false,
+      "completed_id1": false,
+      "completed_id3": false,
+      "completed_id4": false,
       "loop_id": "day_3_mh_stress_self_talk",
       "id_x": "day_3_mh_stress_2",
       "foreign_key": "day_3_mh_stress_self_talk",
@@ -75,6 +99,10 @@
     },
     {
       "id": "day_3_mh_stress_3",
+      "completed": false,
+      "completed_id1": false,
+      "completed_id3": false,
+      "completed_id4": false,
       "loop_id": "day_3_mh_stress_self_talk",
       "id_x": "day_3_mh_stress_3",
       "foreign_key": "day_3_mh_stress_self_talk",
@@ -86,6 +114,10 @@
     },
     {
       "id": "day_3_mh_stress_4",
+      "completed": false,
+      "completed_id1": false,
+      "completed_id3": false,
+      "completed_id4": false,
       "loop_id": "day_3_mh_stress_self_talk",
       "id_x": "day_3_mh_stress_4",
       "foreign_key": "day_3_mh_stress_self_talk",
@@ -97,6 +129,10 @@
     },
     {
       "id": "day_3_mh_stress_5",
+      "completed": false,
+      "completed_id1": false,
+      "completed_id3": false,
+      "completed_id4": false,
       "loop_id": "day_3_mh_stress_self_talk",
       "id_x": "day_3_mh_stress_5",
       "foreign_key": "day_3_mh_stress_self_talk",
@@ -108,6 +144,10 @@
     },
     {
       "id": "day_3_mh_stress_6",
+      "completed": false,
+      "completed_id1": false,
+      "completed_id3": false,
+      "completed_id4": false,
       "loop_id": "day_3_mh_stress_self_talk",
       "id_x": "day_3_mh_stress_6",
       "foreign_key": "day_3_mh_stress_self_talk",
@@ -119,6 +159,10 @@
     },
     {
       "id": "day_5_final_chat_session_5ux",
+      "completed": false,
+      "completed_id1": false,
+      "completed_id3": false,
+      "completed_id4": false,
       "loop_id": "day_5_final_chat_session_5ux",
       "id_x": "day_5_final_chat_session_5ux_1",
       "foreign_key": "day_5_final_chat_session_5ux",
@@ -131,6 +175,10 @@
     },
     {
       "id": "day_5_final_chat_session_5ux_2",
+      "completed": false,
+      "completed_id1": false,
+      "completed_id3": false,
+      "completed_id4": false,
       "loop_id": "day_5_final_chat_session_5ux",
       "id_x": "day_5_final_chat_session_5ux_2",
       "foreign_key": "day_5_final_chat_session_5ux",
@@ -142,6 +190,10 @@
     },
     {
       "id": "day_5_final_chat_session_5ux_3",
+      "completed": false,
+      "completed_id1": false,
+      "completed_id3": false,
+      "completed_id4": false,
       "loop_id": "day_5_final_chat_session_5ux",
       "id_x": "day_5_final_chat_session_5ux_3",
       "foreign_key": "day_5_final_chat_session_5ux",
@@ -153,6 +205,10 @@
     },
     {
       "id": "day_5_final_chat_session_5ux_4",
+      "completed": false,
+      "completed_id1": false,
+      "completed_id3": false,
+      "completed_id4": false,
       "loop_id": "day_5_final_chat_session_5ux",
       "id_x": "day_5_final_chat_session_5ux_4",
       "foreign_key": "day_5_final_chat_session_5ux",
@@ -164,6 +220,10 @@
     },
     {
       "id": "day_5_final_chat_session_5ux_5",
+      "completed": false,
+      "completed_id1": false,
+      "completed_id3": false,
+      "completed_id4": false,
       "loop_id": "day_5_final_chat_session_5ux",
       "id_x": "day_5_final_chat_session_5ux_5",
       "foreign_key": "day_5_final_chat_session_5ux",
@@ -175,6 +235,10 @@
     },
     {
       "id": "day_5_final_chat_session_5ux_6",
+      "completed": false,
+      "completed_id1": false,
+      "completed_id3": false,
+      "completed_id4": false,
       "loop_id": "day_5_final_chat_session_5ux",
       "id_x": "day_5_final_chat_session_5ux_6",
       "foreign_key": "day_5_final_chat_session_5ux",
@@ -183,15 +247,21 @@
       "previous_article": "day_5_final_chat_session_5ux_5",
       "test": "day_5_final_chat_session_5ux",
       "create_loop": 0
-    },
-    {
-      "id": "testing",
-      "loop_id": "onboarding_day_chat",
-      "foreign_key": "onboarding_day_chat",
-      "type": "menu",
-      "test": "onboarding_day_chat",
-      "create_loop": 0
     }
   ],
-  "_xlsxPath": "data/FacilitatorApp MX modules.xlsx"
+  "_xlsxPath": "data/FacilitatorApp MX modules.xlsx",
+  "_metadata": {
+    "completed": {
+      "type": "boolean"
+    },
+    "completed_id1": {
+      "type": "boolean"
+    },
+    "completed_id3": {
+      "type": "boolean"
+    },
+    "completed_id4": {
+      "type": "boolean"
+    }
+  }
 }
