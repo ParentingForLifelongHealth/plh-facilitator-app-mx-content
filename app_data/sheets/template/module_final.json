@@ -13,15 +13,6 @@
       "_nested_name": "module_id"
     },
     {
-      "type": "text",
-      "value": "This will be final report",
-      "_translations": {
-        "value": {}
-      },
-      "name": "text_3",
-      "_nested_name": "text_3"
-    },
-    {
       "type": "image",
       "name": "logo",
       "value": "images/logos/bird_on_light.svg",

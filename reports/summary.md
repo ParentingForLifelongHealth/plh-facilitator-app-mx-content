@@ -29,7 +29,7 @@
 | task_card | 4 |
 | task_progress_bar | 2 |
 | template | 111 |
-| text | 132 |
+| text | 131 |
 | text_area | 2 |
 | text_box | 12 |
 | title | 38 |
