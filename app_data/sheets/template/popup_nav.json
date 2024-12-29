@@ -127,7 +127,7 @@
               "_translations": {
                 "value": {}
               },
-              "condition": "!@item.next_article",
+              "condition": false,
               "name": "text_4",
               "_nested_name": "items_3.display_group_1.text_4",
               "_dynamicFields": {
@@ -138,22 +138,11 @@
                     "type": "local",
                     "fieldName": "final_page"
                   }
-                ],
-                "condition": [
-                  {
-                    "fullExpression": "!@item.next_article",
-                    "matchedExpression": "!@item.next_article",
-                    "type": "item",
-                    "fieldName": "next_article"
-                  }
                 ]
               },
               "_dynamicDependencies": {
                 "@local.final_page": [
                   "value"
-                ],
-                "!@item.next_article": [
-                  "condition"
                 ]
               }
             },
