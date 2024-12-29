@@ -6,7 +6,7 @@
   "rows": [
     {
       "id": "onboarding_day_chat",
-      "image_asset": "images/day_1_introduction.svg",
+      "image_asset": "images/icons/task_0.png",
       "title": "After Onboarding Session",
       "_translations": {
         "title": {
@@ -29,7 +29,7 @@
       "tag_list": [
         "scale_dif"
       ],
-      "image_asset": "images/day_3_mh_stress_self_talk.svg",
+      "image_asset": "images/icons/task_1.png",
       "title": "Day 3: Self-Talk",
       "_translations": {
         "title": {
@@ -47,7 +47,7 @@
       "tag_list": [
         "scale_dif"
       ],
-      "image_asset": "images/how_to_report_abuse.svg",
+      "image_asset": "images/icons/task_2.png",
       "title": "Day 5: Final Chat Session",
       "_translations": {
         "title": {
@@ -73,7 +73,7 @@
         "study_dif_cdmx",
         "study_dif_mich"
       ],
-      "image_asset": "images/day_3_check_in.svg",
+      "image_asset": "images/icons/task_3.png",
       "title": "Before Your Chat Session",
       "_translations": {
         "title": {
@@ -94,7 +94,7 @@
         "study_dif_cdmx",
         "study_dif_mich"
       ],
-      "image_asset": "images/day_3_mh_stress_self_talk.svg",
+      "image_asset": "images/icons/task_4.png",
       "title": "Week 1 Chat Session: Thoughts, Feelings, and Actions",
       "_translations": {
         "title": {
@@ -120,7 +120,7 @@
         "study_dif_cdmx",
         "study_dif_mich"
       ],
-      "image_asset": "images/day_4_check_in.svg",
+      "image_asset": "images/icons/task_5.png",
       "title": "Week 2: Self-Talk",
       "_translations": {
         "title": {
@@ -146,7 +146,7 @@
         "study_dif_cdmx",
         "study_dif_mich"
       ],
-      "image_asset": "images/day_5_goodbye.svg",
+      "image_asset": "images/icons/task_6.png",
       "title": "Week 3: Character Strengths",
       "_translations": {
         "title": {
@@ -172,7 +172,7 @@
         "study_dif_cdmx",
         "study_dif_mich"
       ],
-      "image_asset": "images/onboarding_cc.svg",
+      "image_asset": "images/icons/task_7.png",
       "title": "Week 4: Building Pleasant Emotions",
       "_translations": {
         "title": {

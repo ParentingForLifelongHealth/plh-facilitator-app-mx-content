@@ -94,12 +94,15 @@
           "action_list": [
             {
               "trigger": "click",
-              "action_id": "go_to",
+              "action_id": "pop_up",
               "args": [
                 "profile_@item.id"
               ],
-              "_raw": "click | go_to: profile_@item.id",
-              "_cleaned": "click | go_to: profile_@item.id"
+              "_raw": "click | pop_up: profile_@item.id  | fullscreen: true",
+              "_cleaned": "click | pop_up: profile_@item.id  | fullscreen: true",
+              "params": {
+                "fullscreen": true
+              }
             }
           ],
           "condition": "@item.show",
@@ -138,7 +141,7 @@
                 },
                 "_raw": [
                   {
-                    "fullExpression": "click | go_to: profile_@item.id",
+                    "fullExpression": "click | pop_up: profile_@item.id  | fullscreen: true",
                     "matchedExpression": "@item.id",
                     "type": "item",
                     "fieldName": "id"
@@ -146,7 +149,7 @@
                 ],
                 "_cleaned": [
                   {
-                    "fullExpression": "click | go_to: profile_@item.id",
+                    "fullExpression": "click | pop_up: profile_@item.id  | fullscreen: true",
                     "matchedExpression": "@item.id",
                     "type": "item",
                     "fieldName": "id"

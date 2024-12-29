@@ -21,6 +21,9 @@
           "type": "display_group",
           "name": "dg_box",
           "condition": "@item.foreign_key == @local.article_id",
+          "parameter_list": {
+            "style": "column"
+          },
           "rows": [
             {
               "type": "title",

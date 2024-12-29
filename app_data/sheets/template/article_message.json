@@ -21,9 +21,9 @@
           "type": "display_group",
           "name": "dg_box",
           "condition": "@item.foreign_key == @local.article_id",
-          "style_list": [
-            "style: dashed_box"
-          ],
+          "parameter_list": {
+            "style": "column"
+          },
           "rows": [
             {
               "type": "title",
@@ -51,6 +51,9 @@
             },
             {
               "type": "display_group",
+              "parameter_list": {
+                "style": "column"
+              },
               "rows": [
                 {
                   "type": "text",
@@ -107,6 +110,9 @@
             {
               "type": "display_group",
               "name": "dg_bottom",
+              "parameter_list": {
+                "style": "column"
+              },
               "rows": [
                 {
                   "type": "text",
@@ -139,8 +145,12 @@
                   }
                 },
                 {
-                  "type": "round_button",
+                  "type": "button",
                   "name": "button",
+                  "value": "Share Message",
+                  "_translations": {
+                    "value": {}
+                  },
                   "action_list": [
                     {
                       "trigger": "click",
@@ -153,8 +163,7 @@
                     }
                   ],
                   "style_list": [
-                    "icon_src: share-social",
-                    "style: navigation"
+                    "icon_src: share-social"
                   ],
                   "_nested_name": "loop_messages.dg_box.dg_bottom.button",
                   "_dynamicFields": {

@@ -28,11 +28,5 @@
     }
   ],
   "_xlsxPath": "menu_sub_tasks/menu_sub_tasks.xlsx",
-  "_output_flows": [
-    {
-      "flow_name": "sub_item_onboarding_day_chat",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    }
-  ]
+  "_output_flows": []
 }

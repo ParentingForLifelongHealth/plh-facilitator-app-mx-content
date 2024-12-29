@@ -6,26 +6,26 @@
   "rows": [
     {
       "id": "id1",
-      "name": "test 1",
-      "text": "test 1",
+      "name": "id1",
+      "text": "placeholder 1",
       "archived": false
     },
     {
       "id": "id2",
-      "name": "testing",
-      "text": "testing",
+      "name": "id2",
+      "text": "deleted",
       "archived": true
     },
     {
       "id": "id3",
-      "name": "group 3",
-      "text": "group 3",
+      "name": "id3",
+      "text": "placeholder 2",
       "archived": false
     },
     {
       "id": "id4",
-      "name": "test group",
-      "text": "test group",
+      "name": "id4",
+      "text": "placeholder 3",
       "archived": false
     }
   ],
