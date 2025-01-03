@@ -1,26 +1,26 @@
 {
-  "flow_name": "final_day_5_final_chat_sessions_5ux",
+  "flow_name": "articles_day_3_mh_stress",
   "flow_subtype": "generated",
   "flow_type": "template",
   "rows": [
     {
       "type": "template",
-      "name": "module_final",
-      "value": "module_final",
+      "name": "article_story",
+      "value": "article_story",
       "exclude_from_translation": true,
       "rows": [
         {
-          "name": "module_id",
-          "value": "day_5_final_chat_sessions_5ux",
+          "name": "article_id",
+          "value": "day_3_mh_stress",
           "_translations": {
             "value": {}
           },
           "exclude_from_translation": true,
           "type": "set_variable",
-          "_nested_name": "module_final.module_id"
+          "_nested_name": "article_story.article_id"
         }
       ],
-      "_nested_name": "module_final"
+      "_nested_name": "article_story"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "flow_name": "sub_item_day_3_mh_stress_self_talk",
+  "flow_name": "sub_item_week_1_chat",
   "flow_subtype": "generated",
   "flow_type": "template",
   "rows": [
@@ -11,7 +11,7 @@
       "rows": [
         {
           "name": "article_id",
-          "value": "day_3_mh_stress_self_talk",
+          "value": "week_1_chat",
           "_translations": {
             "value": {}
           },
@@ -21,7 +21,7 @@
         },
         {
           "name": "foreign_key",
-          "value": "day_3_mh_stress_self_talk",
+          "value": "week_1_chat",
           "_translations": {
             "value": {}
           },
@@ -31,7 +31,7 @@
         },
         {
           "name": "next_article",
-          "value": "day_3_mh_stress_2",
+          "value": "week_1_chat_2",
           "_translations": {
             "value": {}
           },

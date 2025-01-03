@@ -27,7 +27,7 @@
       },
       {
         "type": "data_items",
-        "count": 10
+        "count": 11
       },
       {
         "type": "debug_toggle",
@@ -39,7 +39,7 @@
       },
       {
         "type": "display_group",
-        "count": 58
+        "count": 59
       },
       {
         "type": "drawer",
@@ -47,7 +47,7 @@
       },
       {
         "type": "image",
-        "count": 7
+        "count": 8
       },
       {
         "type": "items",
@@ -87,7 +87,7 @@
       },
       {
         "type": "set_variable",
-        "count": 597
+        "count": 647
       },
       {
         "type": "simple_checkbox",
@@ -103,11 +103,11 @@
       },
       {
         "type": "template",
-        "count": 111
+        "count": 145
       },
       {
         "type": "text",
-        "count": 131
+        "count": 132
       },
       {
         "type": "text_area",
@@ -235,12 +235,12 @@
     "data": [
       {
         "assets": "total",
-        "KB": "115944 KB",
-        "MB": "115.9 MB"
+        "KB": "115955 KB",
+        "MB": "116 MB"
       },
       {
         "assets": "unused",
-        "KB": "783 KB",
+        "KB": "772 KB",
         "MB": "0.8 MB"
       }
     ]
@@ -274,10 +274,6 @@
       {
         "path": "images/day_3_check_in.svg",
         "size_kb": 6.5
-      },
-      {
-        "path": "images/day_4_check_in.svg",
-        "size_kb": 11.3
       },
       {
         "path": "images/day_5_goodbye.svg",
@@ -407,8 +403,13 @@
       },
       {
         "path": "images/day_3_mh_stress_self_talk.svg",
-        "count": 3,
+        "count": 2,
         "size_kb": 5.4
+      },
+      {
+        "path": "images/day_4_check_in.svg",
+        "count": 1,
+        "size_kb": 11.3
       },
       {
         "path": "images/during_disclosed_abuse.svg",
@@ -647,7 +648,7 @@
       },
       {
         "path": "images/onboarding_cc.svg",
-        "count": 2,
+        "count": 3,
         "size_kb": 19.3
       },
       {
@@ -727,7 +728,7 @@
       {
         "type": "data_list",
         "subtype": null,
-        "total": 20
+        "total": 21
       },
       {
         "type": "data_list",
@@ -757,7 +758,7 @@
       {
         "type": "data_pipe",
         "subtype": "generated",
-        "total": 16
+        "total": 44
       },
       {
         "type": "generator",
@@ -777,12 +778,12 @@
       {
         "type": "template",
         "subtype": null,
-        "total": 60
+        "total": 61
       },
       {
         "type": "template",
         "subtype": "generated",
-        "total": 87
+        "total": 119
       },
       {
         "type": "template",
