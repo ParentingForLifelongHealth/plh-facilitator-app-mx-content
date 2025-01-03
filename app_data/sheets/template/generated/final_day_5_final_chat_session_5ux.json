@@ -1,0 +1,26 @@
+{
+  "flow_name": "final_day_5_final_chat_session_5ux",
+  "flow_subtype": "generated",
+  "flow_type": "template",
+  "rows": [
+    {
+      "type": "template",
+      "name": "module_final",
+      "value": "module_final",
+      "exclude_from_translation": true,
+      "rows": [
+        {
+          "name": "module_id",
+          "value": "day_5_final_chat_session_5ux",
+          "_translations": {
+            "value": {}
+          },
+          "exclude_from_translation": true,
+          "type": "set_variable",
+          "_nested_name": "module_final.module_id"
+        }
+      ],
+      "_nested_name": "module_final"
+    }
+  ]
+}

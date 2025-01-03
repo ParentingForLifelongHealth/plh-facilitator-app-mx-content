@@ -6,8 +6,10 @@
   "rows": [
     {
       "id": "related_1",
-      "foreign_key": "day_3_mh_stress_self_talk",
-      "related_article_id": "faq_h_parents_insult",
+      "foreign_key": "day_3_mh_stress_self_talk_artic",
+      "related_article_id": "faq_h_self_harm",
+      "ignore": 1,
+      "ignore_2": "day_3_mh_stress_self_talk_artic",
       "title": "FAQ",
       "_translations": {
         "title": {
@@ -22,18 +24,46 @@
     },
     {
       "id": "related_2",
-      "foreign_key": "day_3_mh_stress_self_talk",
-      "related_article_id": "faq_h_self_harm"
+      "foreign_key": "day_5_final_chat_sessions_5ux_a",
+      "related_article_id": "faq_h_still_struggling",
+      "ignore": 2,
+      "ignore_2": "day_5_final_chat_sessions_5ux_a",
+      "title": "FAQ",
+      "_translations": {
+        "title": {
+          "mx_es": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "FAQ"
+        }
+      }
     },
     {
       "id": "related_3",
-      "foreign_key": "day_3_mh_stress_self_talk",
-      "related_article_id": "faq_h_no_neg_to_pos"
+      "foreign_key": "before_chat_articles",
+      "related_article_id": "faq_ground_rules",
+      "ignore": 3,
+      "ignore_2": "before_chat_articles",
+      "title": "Support",
+      "_translations": {
+        "title": {
+          "mx_es": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Support"
+        }
+      }
     },
     {
       "id": "related_4",
-      "foreign_key": "day_5_final_chat_session_5ux",
-      "related_article_id": "faq_h_after_group_ended",
+      "foreign_key": "week_1_chat_articles",
+      "related_article_id": "faq_h_no_thoughts",
+      "ignore": 4,
+      "ignore_2": "week_1_chat_articles",
       "title": "FAQ",
       "_translations": {
         "title": {
@@ -48,14 +78,171 @@
     },
     {
       "id": "related_5",
-      "foreign_key": "day_5_final_chat_session_5ux",
-      "related_article_id": "faq_h_still_struggling"
+      "foreign_key": "week_2_chat_articles",
+      "related_article_id": "faq_h_self_harm",
+      "ignore": 5,
+      "ignore_2": "week_2_chat_articles",
+      "title": "FAQ",
+      "_translations": {
+        "title": {
+          "mx_es": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "FAQ"
+        }
+      }
     },
     {
       "id": "related_6",
-      "foreign_key": "day_5_final_chat_session_5ux",
-      "related_article_id": "faq_h_sad_to_end"
+      "foreign_key": "week_3_chat_articles",
+      "related_article_id": "faq_h_no_volunteers",
+      "ignore": 6,
+      "ignore_2": "week_3_chat_articles",
+      "title": "FAQ",
+      "_translations": {
+        "title": {
+          "mx_es": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "FAQ"
+        }
+      }
+    },
+    {
+      "id": "related_7",
+      "foreign_key": "week_4_chat_articles",
+      "related_article_id": "faq_h_sad_to_end",
+      "ignore": 7,
+      "ignore_2": "week_4_chat_articles",
+      "title": "FAQ",
+      "_translations": {
+        "title": {
+          "mx_es": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "FAQ"
+        }
+      }
+    },
+    {
+      "id": "related_8",
+      "foreign_key": "day_3_mh_stress_self_talk_artic",
+      "related_article_id": "faq_h_no_neg_to_pos",
+      "ignore": 8,
+      "ignore_2": "day_3_mh_stress_self_talk_artic",
+      "title": "FAQ",
+      "_translations": {
+        "title": {
+          "mx_es": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "FAQ"
+        }
+      }
+    },
+    {
+      "id": "related_9",
+      "foreign_key": "day_5_final_chat_sessions_5ux_a",
+      "related_article_id": "faq_h_sad_to_end",
+      "ignore": 9,
+      "ignore_2": "day_5_final_chat_sessions_5ux_a",
+      "title": "FAQ",
+      "_translations": {
+        "title": {
+          "mx_es": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "FAQ"
+        }
+      }
+    },
+    {
+      "id": "related_10",
+      "foreign_key": "before_chat_articles",
+      "related_article_id": "faq_misbehaviour",
+      "ignore": 10,
+      "ignore_2": "before_chat_articles",
+      "title": "Support",
+      "_translations": {
+        "title": {
+          "mx_es": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Support"
+        }
+      }
+    },
+    {
+      "id": "related_11",
+      "foreign_key": "week_2_chat_articles",
+      "related_article_id": "faq_h_no_neg_to_pos",
+      "ignore": 11,
+      "ignore_2": "week_2_chat_articles",
+      "title": "FAQ",
+      "_translations": {
+        "title": {
+          "mx_es": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "FAQ"
+        }
+      }
+    },
+    {
+      "id": "related_12",
+      "foreign_key": "week_3_chat_articles",
+      "related_article_id": "group_admin_onboarding",
+      "ignore": 12,
+      "ignore_2": "week_3_chat_articles",
+      "title": "FAQ",
+      "_translations": {
+        "title": {
+          "mx_es": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "FAQ"
+        }
+      }
+    },
+    {
+      "id": "related_13",
+      "foreign_key": "week_4_chat_articles",
+      "related_article_id": "faq_h_no_volunteers",
+      "ignore": 13,
+      "ignore_2": "week_4_chat_articles",
+      "title": "FAQ",
+      "_translations": {
+        "title": {
+          "mx_es": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "FAQ"
+        }
+      }
     }
   ],
-  "_xlsxPath": "data/FacilitatorApp MX modules.xlsx"
+  "_xlsxPath": "data/FacilitatorApp MX modules.xlsx",
+  "_metadata": {
+    "ignore": {
+      "type": "number"
+    }
+  }
 }

@@ -46,12 +46,37 @@
       "flow_type": "template"
     },
     {
-      "flow_name": "sub_item_day_3_mh_stress_self_talk",
+      "flow_name": "sub_item_day_3_mh_stress",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
     {
       "flow_name": "sub_item_day_5_final_chat_session_5ux",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "sub_item_before_chat",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "sub_item_week_1_chat",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "sub_item_week_2_chat",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "sub_item_week_3_chat",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "sub_item_week_4_chat",
       "flow_subtype": "generated",
       "flow_type": "template"
     }

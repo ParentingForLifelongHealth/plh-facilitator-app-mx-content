@@ -9,12 +9,12 @@
 | button | 63 |
 | carousel | 1 |
 | combo_box | 2 |
-| data_items | 10 |
+| data_items | 11 |
 | debug_toggle | 1 |
 | display_grid | 3 |
-| display_group | 58 |
+| display_group | 59 |
 | drawer | 1 |
-| image | 7 |
+| image | 8 |
 | items | 32 |
 | navigation_bar | 2 |
 | odk_form | 1 |
@@ -24,12 +24,12 @@
 | round_button | 22 |
 | select_text | 1 |
 | set_field | 2 |
-| set_variable | 597 |
+| set_variable | 647 |
 | simple_checkbox | 2 |
 | task_card | 4 |
 | task_progress_bar | 2 |
-| template | 111 |
-| text | 131 |
+| template | 145 |
+| text | 132 |
 | text_area | 2 |
 | text_box | 12 |
 | title | 38 |
@@ -73,8 +73,8 @@
 
 | assets | KB | MB |
 | --- | --- | --- |
-| total | 115944 KB | 115.9 MB |
-| unused | 783 KB | 0.8 MB |
+| total | 115955 KB | 116 MB |
+| unused | 772 KB | 0.8 MB |
 </details>
 
 <details open>
@@ -91,7 +91,6 @@ Assets that appear in app-data but do not have references within sheets
 | contents.json | 2.8 |
 | images/day_1_introduction.svg | 6.7 |
 | images/day_3_check_in.svg | 6.5 |
-| images/day_4_check_in.svg | 11.3 |
 | images/day_5_goodbye.svg | 19.4 |
 | images/flags/my.svg | 1.4 |
 | images/flags/tz.svg | 0.5 |
@@ -138,7 +137,8 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/after_disclosed_abuse.svg | 4.7 | 2 |
 | images/contact_for_reporting_abuse.svg | 6.3 | 1 |
 | images/crisis_hotlines.svg | 12.6 | 1 |
-| images/day_3_mh_stress_self_talk.svg | 5.4 | 3 |
+| images/day_3_mh_stress_self_talk.svg | 5.4 | 2 |
+| images/day_4_check_in.svg | 11.3 | 1 |
 | images/during_disclosed_abuse.svg | 7.7 | 2 |
 | images/faq_ground_rules.svg | 12.1 | 2 |
 | images/faq_h_after_group_ended.svg | 19.8 | 2 |
@@ -186,7 +186,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/logos/bird_on_light.svg | 2 | 2 |
 | images/logos/nip.png | 11.9 | 1 |
 | images/no_group_selected.svg | 3.5 | 1 |
-| images/onboarding_cc.svg | 19.3 | 2 |
+| images/onboarding_cc.svg | 19.3 | 3 |
 | images/one_on_one_challenges.svg | 13.1 | 1 |
 | images/overview_cc.svg | 7.8 | 1 |
 | images/praise_challenges.svg | 20.6 | 1 |
@@ -208,18 +208,18 @@ Assets that are used within sheets and also can be found in the synced asset dat
 
 | type | subtype | total |
 | --- | --- | --- |
-| data_list |  | 20 |
+| data_list |  | 21 |
 | data_list | app_config_language_list | 1 |
 | data_list | generated | 5 |
 | data_list | legal_terms | 2 |
 | data_list | lifecycle_actions | 1 |
 | data_pipe |  | 2 |
-| data_pipe | generated | 16 |
+| data_pipe | generated | 44 |
 | generator |  | 10 |
 | global |  | 11 |
 | global | legal_terms | 1 |
-| template |  | 60 |
-| template | generated | 87 |
+| template |  | 61 |
+| template | generated | 119 |
 | template | legal_terms | 4 |
 | template | menu | 1 |
 </details>
