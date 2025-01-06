@@ -78,6 +78,22 @@
         }
       },
       "description": "Your profile provides your facilitator ID and is also where you can edit the list of parents attending your groups."
+    },
+    {
+      "id": "library",
+      "icon_asset": "images/icons/library.png",
+      "template": "library",
+      "image": "images/icons/library.png",
+      "target_template": "library",
+      "title": "Library",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Library"
+        }
+      }
     }
   ],
   "_xlsxPath": "data/navigation_data.xlsx"

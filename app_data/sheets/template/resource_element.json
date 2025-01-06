@@ -1,0 +1,562 @@
+{
+  "flow_type": "template",
+  "flow_name": "resource_element",
+  "status": "released",
+  "rows": [
+    {
+      "name": "resource_type",
+      "type": "set_variable",
+      "_nested_name": "resource_type"
+    },
+    {
+      "name": "resource_id",
+      "type": "set_variable",
+      "_nested_name": "resource_id"
+    },
+    {
+      "type": "text",
+      "value": "@local.resource_type",
+      "_translations": {
+        "value": {}
+      },
+      "condition": true,
+      "name": "text_4",
+      "_nested_name": "text_4",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@local.resource_type",
+            "matchedExpression": "@local.resource_type",
+            "type": "local",
+            "fieldName": "resource_type"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.resource_type": [
+          "value"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "value": "@local.resource_id",
+      "_translations": {
+        "value": {}
+      },
+      "condition": true,
+      "name": "text_5",
+      "_nested_name": "text_5",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@local.resource_id",
+            "matchedExpression": "@local.resource_id",
+            "type": "local",
+            "fieldName": "resource_id"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.resource_id": [
+          "value"
+        ]
+      }
+    },
+    {
+      "type": "begin_display_group",
+      "name": "pdf",
+      "condition": "@local.resource_type == \"pdf\"",
+      "_nested_name": "pdf",
+      "_dynamicFields": {
+        "condition": [
+          {
+            "fullExpression": "@local.resource_type == \"pdf\"",
+            "matchedExpression": "@local.resource_type",
+            "type": "local",
+            "fieldName": "resource_type"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.resource_type": [
+          "condition"
+        ]
+      }
+    },
+    {
+      "type": "begin_items",
+      "value": "@data.pdf_data",
+      "_translations": {
+        "value": {}
+      },
+      "name": "begin_items_7",
+      "_nested_name": "begin_items_7",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@data.pdf_data",
+            "matchedExpression": "@data.pdf_data",
+            "type": "data",
+            "fieldName": "pdf_data"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@data.pdf_data": [
+          "value"
+        ]
+      }
+    },
+    {
+      "type": "display_group",
+      "condition": "@item.id == @local.resource_id",
+      "rows": [
+        {
+          "type": "round_button",
+          "name": "main_view",
+          "action_list": [
+            {
+              "trigger": "click",
+              "action_id": "go_to",
+              "args": [
+                "pdf_@local.resource_id"
+              ],
+              "_raw": "click | go_to: pdf_@local.resource_id",
+              "_cleaned": "click | go_to: pdf_@local.resource_id"
+            }
+          ],
+          "parameter_list": {
+            "icon_src": "images/icons/docs.svg"
+          },
+          "_nested_name": "display_group_8.main_view",
+          "_dynamicFields": {
+            "action_list": {
+              "0": {
+                "args": {
+                  "0": [
+                    {
+                      "fullExpression": "pdf_@local.resource_id",
+                      "matchedExpression": "@local.resource_id",
+                      "type": "local",
+                      "fieldName": "resource_id"
+                    }
+                  ]
+                },
+                "_raw": [
+                  {
+                    "fullExpression": "click | go_to: pdf_@local.resource_id",
+                    "matchedExpression": "@local.resource_id",
+                    "type": "local",
+                    "fieldName": "resource_id"
+                  }
+                ],
+                "_cleaned": [
+                  {
+                    "fullExpression": "click | go_to: pdf_@local.resource_id",
+                    "matchedExpression": "@local.resource_id",
+                    "type": "local",
+                    "fieldName": "resource_id"
+                  }
+                ]
+              }
+            }
+          },
+          "_dynamicDependencies": {
+            "@local.resource_id": [
+              "action_list.0.args.0",
+              "action_list.0._raw",
+              "action_list.0._cleaned"
+            ]
+          }
+        },
+        {
+          "type": "text",
+          "value": "@item.title",
+          "_translations": {
+            "value": {}
+          },
+          "name": "text_2",
+          "_nested_name": "display_group_8.text_2",
+          "_dynamicFields": {
+            "value": [
+              {
+                "fullExpression": "@item.title",
+                "matchedExpression": "@item.title",
+                "type": "item",
+                "fieldName": "title"
+              }
+            ]
+          },
+          "_dynamicDependencies": {
+            "@item.title": [
+              "value"
+            ]
+          }
+        },
+        {
+          "type": "round_button",
+          "name": "view",
+          "action_list": [
+            {
+              "trigger": "click",
+              "action_id": "go_to",
+              "args": [
+                "pdf_@local.resource_id"
+              ],
+              "_raw": "click | go_to: pdf_@local.resource_id",
+              "_cleaned": "click | go_to: pdf_@local.resource_id"
+            }
+          ],
+          "parameter_list": {
+            "icon_src": "images/icons/visibility.svg"
+          },
+          "_nested_name": "display_group_8.view",
+          "_dynamicFields": {
+            "action_list": {
+              "0": {
+                "args": {
+                  "0": [
+                    {
+                      "fullExpression": "pdf_@local.resource_id",
+                      "matchedExpression": "@local.resource_id",
+                      "type": "local",
+                      "fieldName": "resource_id"
+                    }
+                  ]
+                },
+                "_raw": [
+                  {
+                    "fullExpression": "click | go_to: pdf_@local.resource_id",
+                    "matchedExpression": "@local.resource_id",
+                    "type": "local",
+                    "fieldName": "resource_id"
+                  }
+                ],
+                "_cleaned": [
+                  {
+                    "fullExpression": "click | go_to: pdf_@local.resource_id",
+                    "matchedExpression": "@local.resource_id",
+                    "type": "local",
+                    "fieldName": "resource_id"
+                  }
+                ]
+              }
+            }
+          },
+          "_dynamicDependencies": {
+            "@local.resource_id": [
+              "action_list.0.args.0",
+              "action_list.0._raw",
+              "action_list.0._cleaned"
+            ]
+          }
+        },
+        {
+          "type": "round_button",
+          "name": "download",
+          "action_list": [
+            {
+              "trigger": "click",
+              "action_id": "save_to_device",
+              "args": [
+                "@item.pdf_asset"
+              ],
+              "_raw": "click | save_to_device: @item.pdf_asset",
+              "_cleaned": "click | save_to_device: @item.pdf_asset"
+            }
+          ],
+          "parameter_list": {
+            "icon_src": "images/icons/download.svg"
+          },
+          "_nested_name": "display_group_8.download",
+          "_dynamicFields": {
+            "action_list": {
+              "0": {
+                "args": {
+                  "0": [
+                    {
+                      "fullExpression": "@item.pdf_asset",
+                      "matchedExpression": "@item.pdf_asset",
+                      "type": "item",
+                      "fieldName": "pdf_asset"
+                    }
+                  ]
+                },
+                "_raw": [
+                  {
+                    "fullExpression": "click | save_to_device: @item.pdf_asset",
+                    "matchedExpression": "@item.pdf_asset",
+                    "type": "item",
+                    "fieldName": "pdf_asset"
+                  }
+                ],
+                "_cleaned": [
+                  {
+                    "fullExpression": "click | save_to_device: @item.pdf_asset",
+                    "matchedExpression": "@item.pdf_asset",
+                    "type": "item",
+                    "fieldName": "pdf_asset"
+                  }
+                ]
+              }
+            }
+          },
+          "_dynamicDependencies": {
+            "@item.pdf_asset": [
+              "action_list.0.args.0",
+              "action_list.0._raw",
+              "action_list.0._cleaned"
+            ]
+          }
+        },
+        {
+          "type": "display_group",
+          "rows": [],
+          "name": "display_group_5",
+          "_nested_name": "display_group_8.display_group_5"
+        }
+      ],
+      "name": "display_group_8",
+      "_nested_name": "display_group_8",
+      "_dynamicFields": {
+        "condition": [
+          {
+            "fullExpression": "@item.id == @local.resource_id",
+            "matchedExpression": "@item.id",
+            "type": "item",
+            "fieldName": "id"
+          },
+          {
+            "fullExpression": "@item.id == @local.resource_id",
+            "matchedExpression": "@local.resource_id",
+            "type": "local",
+            "fieldName": "resource_id"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@item.id": [
+          "condition"
+        ],
+        "@local.resource_id": [
+          "condition"
+        ]
+      }
+    },
+    {
+      "type": "begin_display_group",
+      "condition": "@local.resource_type == \"media\"",
+      "name": "begin_display_group_10",
+      "_nested_name": "begin_display_group_10",
+      "_dynamicFields": {
+        "condition": [
+          {
+            "fullExpression": "@local.resource_type == \"media\"",
+            "matchedExpression": "@local.resource_type",
+            "type": "local",
+            "fieldName": "resource_type"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.resource_type": [
+          "condition"
+        ]
+      }
+    },
+    {
+      "type": "begin_items",
+      "value": "@data.media_data",
+      "_translations": {
+        "value": {}
+      },
+      "name": "begin_items_11",
+      "_nested_name": "begin_items_11",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@data.media_data",
+            "matchedExpression": "@data.media_data",
+            "type": "data",
+            "fieldName": "media_data"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@data.media_data": [
+          "value"
+        ]
+      }
+    },
+    {
+      "type": "display_group",
+      "condition": "@item.id == @local.resource_id",
+      "rows": [
+        {
+          "type": "video",
+          "name": "video",
+          "value": "@item.media_asset",
+          "_translations": {
+            "value": {}
+          },
+          "style_list": "@item.type == \"video\"",
+          "_nested_name": "display_group_12.video",
+          "_dynamicFields": {
+            "value": [
+              {
+                "fullExpression": "@item.media_asset",
+                "matchedExpression": "@item.media_asset",
+                "type": "item",
+                "fieldName": "media_asset"
+              }
+            ],
+            "style_list": [
+              {
+                "fullExpression": "@item.type == \"video\"",
+                "matchedExpression": "@item.type",
+                "type": "item",
+                "fieldName": "type"
+              }
+            ]
+          },
+          "_dynamicDependencies": {
+            "@item.media_asset": [
+              "value"
+            ],
+            "@item.type": [
+              "style_list"
+            ]
+          }
+        },
+        {
+          "type": "audio",
+          "name": "audio",
+          "value": "@item.media_asset",
+          "_translations": {
+            "value": {}
+          },
+          "style_list": "@item.type == \"audio\"",
+          "_nested_name": "display_group_12.audio",
+          "_dynamicFields": {
+            "value": [
+              {
+                "fullExpression": "@item.media_asset",
+                "matchedExpression": "@item.media_asset",
+                "type": "item",
+                "fieldName": "media_asset"
+              }
+            ],
+            "style_list": [
+              {
+                "fullExpression": "@item.type == \"audio\"",
+                "matchedExpression": "@item.type",
+                "type": "item",
+                "fieldName": "type"
+              }
+            ]
+          },
+          "_dynamicDependencies": {
+            "@item.media_asset": [
+              "value"
+            ],
+            "@item.type": [
+              "style_list"
+            ]
+          }
+        },
+        {
+          "type": "round_button",
+          "name": "download",
+          "action_list": [
+            {
+              "trigger": "click",
+              "action_id": "save_to_device",
+              "args": [
+                "@item.media_asset"
+              ],
+              "_raw": "click | save_to_device: @item.media_asset",
+              "_cleaned": "click | save_to_device: @item.media_asset"
+            }
+          ],
+          "parameter_list": {
+            "icon_src": "images/icons/download.svg"
+          },
+          "_nested_name": "display_group_12.download",
+          "_dynamicFields": {
+            "action_list": {
+              "0": {
+                "args": {
+                  "0": [
+                    {
+                      "fullExpression": "@item.media_asset",
+                      "matchedExpression": "@item.media_asset",
+                      "type": "item",
+                      "fieldName": "media_asset"
+                    }
+                  ]
+                },
+                "_raw": [
+                  {
+                    "fullExpression": "click | save_to_device: @item.media_asset",
+                    "matchedExpression": "@item.media_asset",
+                    "type": "item",
+                    "fieldName": "media_asset"
+                  }
+                ],
+                "_cleaned": [
+                  {
+                    "fullExpression": "click | save_to_device: @item.media_asset",
+                    "matchedExpression": "@item.media_asset",
+                    "type": "item",
+                    "fieldName": "media_asset"
+                  }
+                ]
+              }
+            }
+          },
+          "_dynamicDependencies": {
+            "@item.media_asset": [
+              "action_list.0.args.0",
+              "action_list.0._raw",
+              "action_list.0._cleaned"
+            ]
+          }
+        },
+        {
+          "type": "display_group",
+          "rows": [],
+          "name": "display_group_4",
+          "_nested_name": "display_group_12.display_group_4"
+        }
+      ],
+      "name": "display_group_12",
+      "_nested_name": "display_group_12",
+      "_dynamicFields": {
+        "condition": [
+          {
+            "fullExpression": "@item.id == @local.resource_id",
+            "matchedExpression": "@item.id",
+            "type": "item",
+            "fieldName": "id"
+          },
+          {
+            "fullExpression": "@item.id == @local.resource_id",
+            "matchedExpression": "@local.resource_id",
+            "type": "local",
+            "fieldName": "resource_id"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@item.id": [
+          "condition"
+        ],
+        "@local.resource_id": [
+          "condition"
+        ]
+      }
+    }
+  ],
+  "_xlsxPath": "article_elements.xlsx"
+}

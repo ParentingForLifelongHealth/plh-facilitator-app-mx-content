@@ -19,6 +19,14 @@
     "md5Checksum": "f43e00d6cf28795684ec50b5a016e896",
     "size_kb": 2.8
   },
+  "images/Message.png": {
+    "md5Checksum": "f2c7b9e7f8a158c6a9f4bf7b680a7e11",
+    "size_kb": 1.3
+  },
+  "images/Message.svg": {
+    "md5Checksum": "3216df1581701cb24c813dd207c37f9a",
+    "size_kb": 0.7
+  },
   "images/after_disclosed_abuse.svg": {
     "md5Checksum": "68e4168e8a69c3f751831cf00ccbd22c",
     "size_kb": 4.7
@@ -30,6 +38,10 @@
   "images/crisis_hotlines.svg": {
     "md5Checksum": "efc36ee797be0478022d1da51217fe61",
     "size_kb": 12.6
+  },
+  "images/cyber_security.png": {
+    "md5Checksum": "14c36ebc198d0cc241ea320dbc986432",
+    "size_kb": 14.9
   },
   "images/day_1_introduction.svg": {
     "md5Checksum": "a2d5ce4f538b73b2fcb45c13ed911611",
@@ -167,6 +179,18 @@
     "md5Checksum": "e8404ba08cfe7dab2511fdc6645514a2",
     "size_kb": 1.7
   },
+  "images/icons/docs.svg": {
+    "md5Checksum": "60bf89fa3b19a3c7a1665d3ff90d4e89",
+    "size_kb": 0.7
+  },
+  "images/icons/download.svg": {
+    "md5Checksum": "1b792cf72d591e778ede91c054b1f2a7",
+    "size_kb": 0.7
+  },
+  "images/icons/download_white.svg": {
+    "md5Checksum": "db448963b5810df4f13445491545973c",
+    "size_kb": 0.7
+  },
   "images/icons/edit.svg": {
     "md5Checksum": "8e798678adcd89011b7b48b2d07930b8",
     "size_kb": 0.9
@@ -223,6 +247,10 @@
     "md5Checksum": "171008694d663cee3a923e739e755c78",
     "size_kb": 1.1
   },
+  "images/icons/share.svg": {
+    "md5Checksum": "97cf4442204e48f1592e0cca9d58623b",
+    "size_kb": 2.3
+  },
   "images/icons/task_0.png": {
     "md5Checksum": "063aaf6dd242f94e424f27e1d1a32fdc",
     "size_kb": 2
@@ -258,6 +286,10 @@
   "images/icons/task_8.png": {
     "md5Checksum": "ed14afd874c2212606b57454c707a6c6",
     "size_kb": 2.4
+  },
+  "images/icons/visibility.svg": {
+    "md5Checksum": "02bc1e4bc182806b6d6d2d9430366a1f",
+    "size_kb": 1.9
   },
   "images/logos/IDEMS.png": {
     "md5Checksum": "dd7be17e1082bfc5fb5800ac17754d0c",
@@ -315,6 +347,10 @@
     "md5Checksum": "d982884da389684da2937e4c10b16d2b",
     "size_kb": 35.5
   },
+  "images/man_looking_at_laptop.png": {
+    "md5Checksum": "f5d87ce440453613f7b4ee687c9f3921",
+    "size_kb": 8.6
+  },
   "images/no_group_selected.svg": {
     "md5Checksum": "82767136bb58f06e6402ca136d3df590",
     "size_kb": 3.5
@@ -346,6 +382,10 @@
   "images/talk_feelings_challenges.svg": {
     "md5Checksum": "694bc272bb2cc36de45efd3e3b259918",
     "size_kb": 19.3
+  },
+  "images/thinking_about_the_question.png": {
+    "md5Checksum": "28ad71d4a0afb2f5ba5c5aa9c684ec4c",
+    "size_kb": 12.8
   },
   "images/what_is_safeguarding.svg": {
     "md5Checksum": "720cf48f780d84ba2d4810c4befeee45",
