@@ -6,6 +6,7 @@
   "rows": [
     {
       "id": "programme",
+      "image": "images/man_looking_at_laptop.png",
       "title": "Facilitator Guide",
       "_translations": {
         "title": {
@@ -20,6 +21,7 @@
     },
     {
       "id": "sessions",
+      "image": "images/man_looking_at_laptop.png",
       "title": "Chat Sessions",
       "_translations": {
         "title": {
@@ -34,6 +36,7 @@
     },
     {
       "id": "faq",
+      "image": "images/thinking_about_the_question.png",
       "title": "Frequently Asked Questions",
       "_translations": {
         "title": {
@@ -48,6 +51,7 @@
     },
     {
       "id": "safeguarding",
+      "image": "images/cyber_security.png",
       "title": "Safeguarding",
       "_translations": {
         "title": {
@@ -62,6 +66,7 @@
     },
     {
       "id": "challenges",
+      "image": "images/man_looking_at_laptop.png",
       "title": "Common Challenges",
       "_translations": {
         "title": {

@@ -31,6 +31,11 @@
       "flow_name": "help_profile",
       "flow_subtype": "generated",
       "flow_type": "template"
+    },
+    {
+      "flow_name": "help_library",
+      "flow_subtype": "generated",
+      "flow_type": "template"
     }
   ]
 }

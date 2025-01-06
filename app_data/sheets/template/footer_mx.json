@@ -18,7 +18,7 @@
         },
         {
           "image": "images/icons/library.png",
-          "target_template": "@data.app_section.home.template"
+          "target_template": "@data.app_section.library.template"
         },
         {
           "image": "images/icons/settings.png",
@@ -52,8 +52,8 @@
           "2": {
             "target_template": [
               {
-                "fullExpression": "@data.app_section.home.template",
-                "matchedExpression": "@data.app_section.home.template",
+                "fullExpression": "@data.app_section.library.template",
+                "matchedExpression": "@data.app_section.library.template",
                 "type": "data",
                 "fieldName": "app_section"
               }
@@ -73,11 +73,13 @@
       },
       "_dynamicDependencies": {
         "@data.app_section.home.template": [
-          "value.0.target_template",
-          "value.2.target_template"
+          "value.0.target_template"
         ],
         "@data.app_section.data_collection.template": [
           "value.1.target_template"
+        ],
+        "@data.app_section.library.template": [
+          "value.2.target_template"
         ],
         "@data.app_section.profile.template": [
           "value.3.target_template"
