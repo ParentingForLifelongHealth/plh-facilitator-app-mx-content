@@ -320,6 +320,15 @@
               }
             },
             {
+              "value": "module_1,module_2,module_3,module_4",
+              "_translations": {
+                "value": {}
+              },
+              "type": "set_variable",
+              "name": "set_variable_5",
+              "_nested_name": "display_group_21.items_1.set_variable_5"
+            },
+            {
               "name": "card_title",
               "value": "@calc(@local.module_data[@local.title])",
               "_translations": {
@@ -556,7 +565,7 @@
               "parameter_list": {
                 "task_group_id": "@item.id",
                 "task_group_data": "sub_items",
-                "completed_field": "completed",
+                "completed_column_name": "completed",
                 "filter": "@task_item.foreign_key == @item.id",
                 "title": "@local.card_title",
                 "style": "button",

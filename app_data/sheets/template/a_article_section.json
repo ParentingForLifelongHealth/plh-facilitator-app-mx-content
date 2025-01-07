@@ -18,21 +18,19 @@
       "value": "@data.a_sections",
       "rows": [
         {
-          "type": "display_group",
-          "name": "dg_box",
+          "type": "template",
+          "name": "section_element",
+          "value": "section_element",
           "condition": "@item.foreign_key == @local.article_id",
-          "parameter_list": {
-            "style": "column"
-          },
           "rows": [
             {
-              "type": "title",
               "name": "title",
               "value": "@item.title",
               "_translations": {
                 "value": {}
               },
-              "_nested_name": "loop_sections.dg_box.title",
+              "type": "set_variable",
+              "_nested_name": "loop_sections.section_element.title",
               "_dynamicFields": {
                 "value": [
                   {
@@ -50,13 +48,13 @@
               }
             },
             {
-              "type": "text",
               "name": "text",
               "value": "@item.text",
               "_translations": {
                 "value": {}
               },
-              "_nested_name": "loop_sections.dg_box.text",
+              "type": "set_variable",
+              "_nested_name": "loop_sections.section_element.text",
               "_dynamicFields": {
                 "value": [
                   {
@@ -74,7 +72,7 @@
               }
             }
           ],
-          "_nested_name": "loop_sections.dg_box",
+          "_nested_name": "loop_sections.section_element",
           "_dynamicFields": {
             "condition": [
               {

@@ -14,16 +14,8 @@
         "count": 2
       },
       {
-        "type": "begin_display_group",
-        "count": 2
-      },
-      {
-        "type": "begin_items",
-        "count": 2
-      },
-      {
         "type": "button",
-        "count": 67
+        "count": 66
       },
       {
         "type": "carousel",
@@ -35,7 +27,7 @@
       },
       {
         "type": "data_items",
-        "count": 11
+        "count": 14
       },
       {
         "type": "debug_toggle",
@@ -47,7 +39,7 @@
       },
       {
         "type": "display_group",
-        "count": 70
+        "count": 65
       },
       {
         "type": "drawer",
@@ -55,7 +47,7 @@
       },
       {
         "type": "image",
-        "count": 9
+        "count": 8
       },
       {
         "type": "items",
@@ -95,7 +87,7 @@
       },
       {
         "type": "set_variable",
-        "count": 751
+        "count": 760
       },
       {
         "type": "simple_checkbox",
@@ -111,11 +103,11 @@
       },
       {
         "type": "template",
-        "count": 193
+        "count": 197
       },
       {
         "type": "text",
-        "count": 141
+        "count": 137
       },
       {
         "type": "text_area",
@@ -127,7 +119,7 @@
       },
       {
         "type": "title",
-        "count": 45
+        "count": 43
       },
       {
         "type": "toggle_bar",
@@ -231,7 +223,7 @@
       },
       {
         "type": "share",
-        "count": 3
+        "count": 2
       },
       {
         "type": "user",
