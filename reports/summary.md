@@ -6,17 +6,15 @@
 | accordion | 1 |
 | accordion_section | 1 |
 | audio | 2 |
-| begin_display_group | 2 |
-| begin_items | 2 |
-| button | 67 |
+| button | 66 |
 | carousel | 1 |
 | combo_box | 2 |
-| data_items | 11 |
+| data_items | 14 |
 | debug_toggle | 1 |
 | display_grid | 4 |
-| display_group | 70 |
+| display_group | 65 |
 | drawer | 2 |
-| image | 9 |
+| image | 8 |
 | items | 38 |
 | navigation_bar | 2 |
 | odk_form | 1 |
@@ -26,15 +24,15 @@
 | round_button | 26 |
 | select_text | 1 |
 | set_field | 2 |
-| set_variable | 751 |
+| set_variable | 760 |
 | simple_checkbox | 2 |
 | task_card | 4 |
 | task_progress_bar | 2 |
-| template | 193 |
-| text | 141 |
+| template | 197 |
+| text | 137 |
 | text_area | 2 |
 | text_box | 12 |
-| title | 45 |
+| title | 43 |
 | toggle_bar | 3 |
 | update_action_list | 3 |
 | video | 2 |
@@ -66,7 +64,7 @@
 | set_field | 40 |
 | set_item | 6 |
 | set_local | 12 |
-| share | 3 |
+| share | 2 |
 | user | 1 |
 </details>
 

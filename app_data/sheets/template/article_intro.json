@@ -18,21 +18,19 @@
       "value": "@data.intro",
       "rows": [
         {
-          "type": "display_group",
-          "name": "dg_box",
+          "type": "template",
+          "name": "intro_element",
+          "value": "intro_element",
           "condition": "@item.foreign_key == @local.article_id",
-          "parameter_list": {
-            "style": "column"
-          },
           "rows": [
             {
-              "type": "image",
               "name": "image",
               "value": "@item.image_asset",
               "_translations": {
                 "value": {}
               },
-              "_nested_name": "loop_intros.dg_box.image",
+              "type": "set_variable",
+              "_nested_name": "loop_intros.intro_element.image",
               "_dynamicFields": {
                 "value": [
                   {
@@ -50,13 +48,13 @@
               }
             },
             {
-              "type": "text",
               "name": "text",
               "value": "@item.text",
               "_translations": {
                 "value": {}
               },
-              "_nested_name": "loop_intros.dg_box.text",
+              "type": "set_variable",
+              "_nested_name": "loop_intros.intro_element.text",
               "_dynamicFields": {
                 "value": [
                   {
@@ -74,7 +72,7 @@
               }
             }
           ],
-          "_nested_name": "loop_intros.dg_box",
+          "_nested_name": "loop_intros.intro_element",
           "_dynamicFields": {
             "condition": [
               {
