@@ -31,6 +31,18 @@
     "md5Checksum": "68e4168e8a69c3f751831cf00ccbd22c",
     "size_kb": 4.7
   },
+  "images/backgrounds/home_bottom_right.svg": {
+    "md5Checksum": "d1e5c20120116837424d9a646f8ee10e",
+    "size_kb": 2.3
+  },
+  "images/backgrounds/home_top_left.svg": {
+    "md5Checksum": "9c6fead93bbe9f07c631858cbc55caca",
+    "size_kb": 2.4
+  },
+  "images/backgrounds/reports_top_right.svg": {
+    "md5Checksum": "4e2e277101d4b49b034466abe2242b6d",
+    "size_kb": 2
+  },
   "images/contact_for_reporting_abuse.svg": {
     "md5Checksum": "c679f71748e3404da92acda6ca85bdcd",
     "size_kb": 6.3
@@ -159,6 +171,10 @@
     "md5Checksum": "7b4343c61608a8e7e504d005b64017ab",
     "size_kb": 12.2
   },
+  "images/icons/add_circle.svg": {
+    "md5Checksum": "304eca731886658ad743dbbd0841b592",
+    "size_kb": 1
+  },
   "images/icons/arrow_back.svg": {
     "md5Checksum": "878951da30fb77058b77d74964ba9f18",
     "size_kb": 0.5
@@ -178,6 +194,14 @@
   "images/icons/cancel.svg": {
     "md5Checksum": "e8404ba08cfe7dab2511fdc6645514a2",
     "size_kb": 1.7
+  },
+  "images/icons/content.svg": {
+    "md5Checksum": "be5b6579df10ff99b930cc87494a3945",
+    "size_kb": 7.2
+  },
+  "images/icons/delete.svg": {
+    "md5Checksum": "c826cae44139a913440643fa7cbfacdd",
+    "size_kb": 0.8
   },
   "images/icons/docs.svg": {
     "md5Checksum": "60bf89fa3b19a3c7a1665d3ff90d4e89",
@@ -199,6 +223,10 @@
     "md5Checksum": "17709dbf6ff432c362ac51477203d44a",
     "size_kb": 3.9
   },
+  "images/icons/group_add.svg": {
+    "md5Checksum": "f4934986d164f6df1fc758bf669afa26",
+    "size_kb": 2.3
+  },
   "images/icons/help.svg": {
     "md5Checksum": "2e9840b9096dd99e734fb684290836e4",
     "size_kb": 2.6
@@ -206,6 +234,10 @@
   "images/icons/home_white.svg": {
     "md5Checksum": "8295155017de0dbe37fac5b29cbbf75b",
     "size_kb": 1.7
+  },
+  "images/icons/key.svg": {
+    "md5Checksum": "4562489152bfb97bcac63e5398cf6a31",
+    "size_kb": 5.5
   },
   "images/icons/library.png": {
     "md5Checksum": "90469558432e9eb51d9e4931951e0d6c",
@@ -219,6 +251,10 @@
     "md5Checksum": "cb11de3cf5b5f3341d9a4df5378595e3",
     "size_kb": 1.4
   },
+  "images/icons/people_network.svg": {
+    "md5Checksum": "c14d8d94530073424cbf99515095e932",
+    "size_kb": 6.9
+  },
   "images/icons/person_cog.png": {
     "md5Checksum": "61b9b963c98b98e1ad6d14693b982f69",
     "size_kb": 0.8
@@ -227,9 +263,17 @@
     "md5Checksum": "28e4dc947af50227e674b56a2a748d39",
     "size_kb": 2.9
   },
+  "images/icons/person_remove.svg": {
+    "md5Checksum": "b3d9592e8638b1eda554a1a92597e29c",
+    "size_kb": 1.5
+  },
   "images/icons/person_white.svg": {
     "md5Checksum": "d7d788336585562ba8a3574ff152bbb5",
     "size_kb": 1.5
+  },
+  "images/icons/profile_card.svg": {
+    "md5Checksum": "a876c58133c1701508f960074b70376b",
+    "size_kb": 7.4
   },
   "images/icons/reader_blue.svg": {
     "md5Checksum": "841a27e6e013d797d2bcf20391632cee",
@@ -290,6 +334,10 @@
   "images/icons/visibility.svg": {
     "md5Checksum": "02bc1e4bc182806b6d6d2d9430366a1f",
     "size_kb": 1.9
+  },
+  "images/icons/world.svg": {
+    "md5Checksum": "2bc42d376e1950a1a65ed37ff07f613d",
+    "size_kb": 6.2
   },
   "images/logos/IDEMS.png": {
     "md5Checksum": "dd7be17e1082bfc5fb5800ac17754d0c",

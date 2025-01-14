@@ -6,13 +6,13 @@
 | accordion | 1 |
 | accordion_section | 1 |
 | audio | 2 |
-| button | 66 |
+| button | 70 |
 | carousel | 1 |
-| combo_box | 2 |
-| data_items | 14 |
+| combo_box | 3 |
+| data_items | 18 |
 | debug_toggle | 1 |
 | display_grid | 4 |
-| display_group | 65 |
+| display_group | 80 |
 | drawer | 2 |
 | image | 8 |
 | items | 38 |
@@ -21,19 +21,19 @@
 | pdf | 1 |
 | qr_code | 1 |
 | radio_button_grid | 4 |
-| round_button | 26 |
+| round_button | 31 |
 | select_text | 1 |
 | set_field | 2 |
-| set_variable | 760 |
+| set_variable | 778 |
 | simple_checkbox | 2 |
 | task_card | 4 |
 | task_progress_bar | 2 |
 | template | 197 |
-| text | 137 |
+| text | 157 |
 | text_area | 2 |
-| text_box | 12 |
-| title | 43 |
-| toggle_bar | 3 |
+| text_box | 23 |
+| title | 47 |
+| toggle_bar | 4 |
 | update_action_list | 3 |
 | video | 2 |
 </details>
@@ -43,9 +43,9 @@
 
 | type | count |
 | --- | --- |
-| add_data | 2 |
+| add_data | 4 |
 | app_update | 1 |
-| emit: completed | 19 |
+| emit: completed | 21 |
 | emit: force_reload | 6 |
 | emit: force_reprocess | 9 |
 | emit: force_restart | 2 |
@@ -54,16 +54,16 @@
 | emit: uncompleted | 8 |
 | feedback | 13 |
 | filter | 1 |
-| go_to | 28 |
+| go_to | 32 |
 | go_to_url | 1 |
 | nav_stack | 5 |
-| pop_up | 15 |
+| pop_up | 18 |
 | reset_app | 1 |
 | save_to_device | 3 |
-| set_data | 7 |
-| set_field | 40 |
+| set_data | 8 |
+| set_field | 49 |
 | set_item | 6 |
-| set_local | 12 |
+| set_local | 19 |
 | share | 2 |
 | user | 1 |
 </details>
@@ -73,7 +73,7 @@
 
 | assets | KB | MB |
 | --- | --- | --- |
-| total | 115997 KB | 116 MB |
+| total | 116043 KB | 116 MB |
 | unused | 774 KB | 0.8 MB |
 </details>
 
@@ -138,6 +138,9 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | path | size_kb | count |
 | --- | --- | --- |
 | images/after_disclosed_abuse.svg | 4.7 | 2 |
+| images/backgrounds/home_bottom_right.svg | 2.3 | 1 |
+| images/backgrounds/home_top_left.svg | 2.4 | 1 |
+| images/backgrounds/reports_top_right.svg | 2 | 1 |
 | images/contact_for_reporting_abuse.svg | 6.3 | 1 |
 | images/crisis_hotlines.svg | 12.6 | 1 |
 | images/cyber_security.png | 14.9 | 1 |
@@ -163,18 +166,26 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/how_to_chat_session.svg | 11 | 2 |
 | images/how_to_report.svg | 5.8 | 1 |
 | images/how_to_report_abuse.svg | 12.2 | 1 |
+| images/icons/add_circle.svg | 1 | 1 |
 | images/icons/arrow_back.svg | 0.5 | 1 |
 | images/icons/arrow_forward.svg | 0.4 | 2 |
 | images/icons/cancel.svg | 1.7 | 1 |
+| images/icons/content.svg | 7.2 | 1 |
+| images/icons/delete.svg | 0.8 | 2 |
 | images/icons/docs.svg | 0.7 | 1 |
 | images/icons/download.svg | 0.7 | 2 |
-| images/icons/edit.svg | 0.9 | 1 |
+| images/icons/edit.svg | 0.9 | 3 |
+| images/icons/group_add.svg | 2.3 | 1 |
 | images/icons/help.svg | 2.6 | 1 |
 | images/icons/home_white.svg | 1.7 | 2 |
+| images/icons/key.svg | 5.5 | 1 |
 | images/icons/library.png | 1.5 | 3 |
 | images/icons/pencil_white.svg | 1.4 | 2 |
-| images/icons/person_cog.svg | 2.9 | 1 |
+| images/icons/people_network.svg | 6.9 | 1 |
+| images/icons/person_cog.svg | 2.9 | 2 |
+| images/icons/person_remove.svg | 1.5 | 1 |
 | images/icons/person_white.svg | 1.5 | 2 |
+| images/icons/profile_card.svg | 7.4 | 1 |
 | images/icons/report.png | 1.1 | 1 |
 | images/icons/sessions.png | 1.3 | 1 |
 | images/icons/settings.png | 1.1 | 1 |
@@ -188,6 +199,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/icons/task_6.png | 2.2 | 1 |
 | images/icons/task_7.png | 1.5 | 1 |
 | images/icons/visibility.svg | 1.9 | 1 |
+| images/icons/world.svg | 6.2 | 1 |
 | images/logos/IDEMS.png | 84.6 | 1 |
 | images/logos/PLH.png | 26.6 | 1 |
 | images/logos/UNICEF.jpg | 27.7 | 1 |
@@ -218,7 +230,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 
 | type | subtype | total |
 | --- | --- | --- |
-| data_list |  | 21 |
+| data_list |  | 23 |
 | data_list | app_config_language_list | 1 |
 | data_list | generated | 5 |
 | data_list | legal_terms | 2 |
@@ -228,7 +240,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | generator |  | 12 |
 | global |  | 11 |
 | global | legal_terms | 1 |
-| template |  | 69 |
+| template |  | 74 |
 | template | generated | 163 |
 | template | legal_terms | 4 |
 | template | menu | 1 |

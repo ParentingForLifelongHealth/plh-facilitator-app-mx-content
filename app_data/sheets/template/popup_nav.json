@@ -20,9 +20,12 @@
           "type": "display_group",
           "parameter_list": {
             "sticky": "bottom",
-            "style": "navigation"
+            "style": "background_solid"
           },
           "condition": "@item.id == @local.article_id",
+          "style_list": [
+            "padding: 12px 24px"
+          ],
           "rows": [
             {
               "type": "round_button",
@@ -40,8 +43,7 @@
               ],
               "parameter_list": {
                 "variant": "no-background",
-                "icon_src": "images/icons/arrow_back.svg",
-                "style": "navigation"
+                "icon_src": "images/icons/arrow_back.svg"
               },
               "condition": "@item.previous_article",
               "_nested_name": "items_3.display_group_1.previous_article",
@@ -62,6 +64,14 @@
               }
             },
             {
+              "type": "text",
+              "name": "spacer",
+              "style_list": [
+                "flex: 1"
+              ],
+              "_nested_name": "items_3.display_group_1.spacer"
+            },
+            {
               "type": "round_button",
               "name": "next_article",
               "action_list": [
@@ -76,8 +86,7 @@
                 }
               ],
               "parameter_list": {
-                "icon_src": "images/icons/arrow_forward.svg",
-                "style": "navigation"
+                "icon_src": "images/icons/arrow_forward.svg"
               },
               "condition": "@item.next_article",
               "_nested_name": "items_3.display_group_1.next_article",
@@ -128,8 +137,8 @@
                 "value": {}
               },
               "condition": false,
-              "name": "text_4",
-              "_nested_name": "items_3.display_group_1.text_4",
+              "name": "text_5",
+              "_nested_name": "items_3.display_group_1.text_5",
               "_dynamicFields": {
                 "value": [
                   {
@@ -179,8 +188,7 @@
                 }
               ],
               "parameter_list": {
-                "icon_src": "images/icons/arrow_forward.svg",
-                "style": "navigation"
+                "icon_src": "images/icons/arrow_forward.svg"
               },
               "condition": "!@item.next_article",
               "_nested_name": "items_3.display_group_1.report",
