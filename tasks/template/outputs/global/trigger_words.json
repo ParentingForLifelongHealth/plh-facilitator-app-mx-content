@@ -1,0 +1,56 @@
+{
+  "flow_type": "global",
+  "flow_name": "trigger_words",
+  "status": "released",
+  "rows": [
+    {
+      "type": "declare_global_constant",
+      "name": "trigger_help",
+      "value": "AYUDA",
+      "exclude_from_translation": true
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "trigger_menu",
+      "value": "MENÚ",
+      "exclude_from_translation": true
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "trigger_play",
+      "value": "JUGAR",
+      "exclude_from_translation": true
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "trigger_grow",
+      "value": "CRECER",
+      "exclude_from_translation": true
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "trigger_stop",
+      "value": "DETENER",
+      "exclude_from_translation": true
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "trigger_book",
+      "value": "LIBRO",
+      "exclude_from_translation": true
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "trigger_review",
+      "value": "RESEÑA",
+      "exclude_from_translation": true
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "trigger_pause",
+      "value": "PAUSAR",
+      "exclude_from_translation": true
+    }
+  ],
+  "_xlsxPath": "data/dynamic_global_mx.xlsx"
+}

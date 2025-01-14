@@ -1,0 +1,27 @@
+{
+  "flow_name": "pdf_overview_study",
+  "flow_subtype": "generated",
+  "flow_type": "template",
+  "rows": [
+    {
+      "type": "template",
+      "name": "pdf",
+      "value": "pdf",
+      "rows": [
+        {
+          "name": "data",
+          "value": "pdf",
+          "type": "set_variable",
+          "_nested_name": "pdf.data"
+        },
+        {
+          "name": "pdf_id",
+          "value": "overview_study",
+          "type": "set_variable",
+          "_nested_name": "pdf.pdf_id"
+        }
+      ],
+      "_nested_name": "pdf"
+    }
+  ]
+}

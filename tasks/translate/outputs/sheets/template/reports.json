@@ -1,0 +1,257 @@
+{
+  "flow_type": "template",
+  "flow_name": "reports",
+  "status": "released",
+  "rows": [
+    {
+      "type": "title",
+      "value": "Your Reports",
+      "_translations": {
+        "value": {}
+      },
+      "exclude_from_translation": false,
+      "name": "title_2",
+      "_nested_name": "title_2"
+    },
+    {
+      "type": "text",
+      "name": "label_group",
+      "value": "Parent Group",
+      "_translations": {
+        "value": {}
+      },
+      "exclude_from_translation": false,
+      "_nested_name": "label_group"
+    },
+    {
+      "type": "display_group",
+      "style_list": [
+        "justify-content: space-between",
+        "padding: 0 24px"
+      ],
+      "rows": [
+        {
+          "type": "combo_box",
+          "name": "report_group",
+          "parameter_list": {
+            "placeholder": "Select Parent Group"
+          },
+          "style_list": [
+            "width: 80%"
+          ],
+          "rows": [
+            {
+              "type": "data_items",
+              "value": "parent_groups",
+              "parameter_list": {
+                "filter": "!@item.archived"
+              },
+              "condition": "Data list should include columns for name and text",
+              "rows": [],
+              "name": "data_items_1",
+              "_nested_name": "display_group_4.report_group.data_items_1",
+              "_dynamicFields": {
+                "parameter_list": {
+                  "filter": [
+                    {
+                      "fullExpression": "!@item.archived",
+                      "matchedExpression": "!@item.archived",
+                      "type": "item",
+                      "fieldName": "archived"
+                    }
+                  ]
+                }
+              },
+              "_dynamicDependencies": {
+                "!@item.archived": [
+                  "parameter_list.filter"
+                ]
+              }
+            }
+          ],
+          "_nested_name": "display_group_4.report_group"
+        },
+        {
+          "type": "round_button",
+          "name": "groups_go_to",
+          "action_list": [
+            {
+              "trigger": "click",
+              "action_id": "go_to",
+              "args": [
+                "profile_groups"
+              ],
+              "_raw": "click | go_to: profile_groups",
+              "_cleaned": "click | go_to: profile_groups"
+            }
+          ],
+          "parameter_list": {
+            "variant": "no-background",
+            "icon_src": "images/icons/person_cog.svg"
+          },
+          "style_list": [
+            "width: 96px"
+          ],
+          "_nested_name": "display_group_4.groups_go_to"
+        }
+      ],
+      "name": "display_group_4",
+      "_nested_name": "display_group_4"
+    },
+    {
+      "type": "text",
+      "value": "report group: @local.report_group",
+      "_translations": {
+        "value": {}
+      },
+      "condition": false,
+      "name": "text_6",
+      "_nested_name": "text_6",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "report group: @local.report_group",
+            "matchedExpression": "@local.report_group",
+            "type": "local",
+            "fieldName": "report_group"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.report_group": [
+          "value"
+        ]
+      }
+    },
+    {
+      "type": "display_group",
+      "parameter_list": {
+        "style": "column"
+      },
+      "condition": "@local.report_group",
+      "rows": [
+        {
+          "type": "items",
+          "value": "@data.modules",
+          "rows": [
+            {
+              "type": "template",
+              "name": "report_card",
+              "value": "report_card",
+              "rows": [
+                {
+                  "name": "group_id",
+                  "value": "@local.report_group",
+                  "_translations": {
+                    "value": {}
+                  },
+                  "type": "set_variable",
+                  "_nested_name": "display_group_7.items_1.report_card.group_id",
+                  "_dynamicFields": {
+                    "value": [
+                      {
+                        "fullExpression": "@local.report_group",
+                        "matchedExpression": "@local.report_group",
+                        "type": "local",
+                        "fieldName": "report_group"
+                      }
+                    ]
+                  },
+                  "_dynamicDependencies": {
+                    "@local.report_group": [
+                      "value"
+                    ]
+                  }
+                },
+                {
+                  "name": "module_id",
+                  "value": "@item.id",
+                  "_translations": {
+                    "value": {}
+                  },
+                  "type": "set_variable",
+                  "_nested_name": "display_group_7.items_1.report_card.module_id",
+                  "_dynamicFields": {
+                    "value": [
+                      {
+                        "fullExpression": "@item.id",
+                        "matchedExpression": "@item.id",
+                        "type": "item",
+                        "fieldName": "id"
+                      }
+                    ]
+                  },
+                  "_dynamicDependencies": {
+                    "@item.id": [
+                      "value"
+                    ]
+                  }
+                },
+                {
+                  "name": "module_name",
+                  "value": "@item.title",
+                  "_translations": {
+                    "value": {}
+                  },
+                  "type": "set_variable",
+                  "_nested_name": "display_group_7.items_1.report_card.module_name",
+                  "_dynamicFields": {
+                    "value": [
+                      {
+                        "fullExpression": "@item.title",
+                        "matchedExpression": "@item.title",
+                        "type": "item",
+                        "fieldName": "title"
+                      }
+                    ]
+                  },
+                  "_dynamicDependencies": {
+                    "@item.title": [
+                      "value"
+                    ]
+                  }
+                }
+              ],
+              "_nested_name": "display_group_7.items_1.report_card"
+            }
+          ],
+          "name": "items_1",
+          "_nested_name": "display_group_7.items_1",
+          "_dynamicFields": {
+            "value": [
+              {
+                "fullExpression": "@data.modules",
+                "matchedExpression": "@data.modules",
+                "type": "data",
+                "fieldName": "modules"
+              }
+            ]
+          },
+          "_dynamicDependencies": {
+            "@data.modules": [
+              "value"
+            ]
+          }
+        }
+      ],
+      "name": "display_group_7",
+      "_nested_name": "display_group_7",
+      "_dynamicFields": {
+        "condition": [
+          {
+            "fullExpression": "@local.report_group",
+            "matchedExpression": "@local.report_group",
+            "type": "local",
+            "fieldName": "report_group"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.report_group": [
+          "condition"
+        ]
+      }
+    }
+  ],
+  "_xlsxPath": "reports.xlsx"
+}

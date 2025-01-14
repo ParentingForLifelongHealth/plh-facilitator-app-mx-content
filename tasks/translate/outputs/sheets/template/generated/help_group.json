@@ -1,0 +1,18 @@
+{
+  "flow_name": "help_group",
+  "flow_subtype": "generated",
+  "flow_type": "template",
+  "rows": [
+    {
+      "type": "text",
+      "name": "text",
+      "value": "See and edit the list of parents attending your groups.",
+      "_translations": {
+        "value": {
+          "mx_es": true
+        }
+      },
+      "_nested_name": "text"
+    }
+  ]
+}

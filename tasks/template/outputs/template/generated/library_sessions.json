@@ -1,0 +1,30 @@
+{
+  "flow_name": "library_sessions",
+  "flow_subtype": "generated",
+  "flow_type": "template",
+  "rows": [
+    {
+      "type": "template",
+      "name": "library_list",
+      "value": "library_list",
+      "exclude_from_translation": true,
+      "rows": [
+        {
+          "name": "library_id",
+          "value": "sessions",
+          "exclude_from_translation": true,
+          "type": "set_variable",
+          "_nested_name": "library_list.library_id"
+        },
+        {
+          "name": "display_title",
+          "value": "Chat Sessions",
+          "exclude_from_translation": true,
+          "type": "set_variable",
+          "_nested_name": "library_list.display_title"
+        }
+      ],
+      "_nested_name": "library_list"
+    }
+  ]
+}

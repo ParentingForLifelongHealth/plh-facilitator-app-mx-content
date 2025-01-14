@@ -221,6 +221,16 @@
         }
       }
     },
+    "report_answers": {
+      "flow_type": "data_list",
+      "flow_name": "report_answers",
+      "_xlsxPath": "reports.xlsx",
+      "_metadata": {
+        "archived": {
+          "type": "boolean"
+        }
+      }
+    },
     "report_data": {
       "flow_type": "data_list",
       "flow_name": "report_data",
@@ -232,6 +242,11 @@
       "flow_name": "report_onboarding_data",
       "data_list_name": "report_onboarding",
       "_xlsxPath": "data/FacilitatorApp MX articles.xlsx"
+    },
+    "report_questions": {
+      "flow_type": "data_list",
+      "flow_name": "report_questions",
+      "_xlsxPath": "reports.xlsx"
     },
     "state": {
       "flow_type": "data_list",
@@ -2514,6 +2529,11 @@
       "flow_name": "add_coparent",
       "_xlsxPath": "templates/profile.xlsx"
     },
+    "add_parent": {
+      "flow_type": "template",
+      "flow_name": "add_parent",
+      "_xlsxPath": "templates/profile.xlsx"
+    },
     "app_about": {
       "flow_type": "template",
       "flow_name": "app_about",
@@ -2594,10 +2614,27 @@
       "flow_name": "download_header",
       "_xlsxPath": "templates/media.xlsx"
     },
+    "edit_parent": {
+      "flow_type": "template",
+      "flow_name": "edit_parent",
+      "_xlsxPath": "templates/profile.xlsx"
+    },
     "edit_parent_group": {
       "flow_type": "template",
       "flow_name": "edit_parent_group",
+      "parameter_list": {
+        "app_config": {
+          "APP_FOOTER_DEFAULTS": {
+            "templateName": false
+          }
+        }
+      },
       "_xlsxPath": "templates/profile.xlsx"
+    },
+    "edit_report": {
+      "flow_type": "template",
+      "flow_name": "edit_report",
+      "_xlsxPath": "reports.xlsx"
     },
     "enter_dev_mode": {
       "flow_type": "template",
@@ -3666,6 +3703,13 @@
     "profile_groups": {
       "flow_type": "template",
       "flow_name": "profile_groups",
+      "parameter_list": {
+        "app_config": {
+          "APP_FOOTER_DEFAULTS": {
+            "templateName": false
+          }
+        }
+      },
       "_xlsxPath": "templates/profile.xlsx"
     },
     "profile_id": {
@@ -3677,6 +3721,16 @@
       "flow_type": "template",
       "flow_name": "related_element",
       "_xlsxPath": "article_elements.xlsx"
+    },
+    "report_card": {
+      "flow_type": "template",
+      "flow_name": "report_card",
+      "_xlsxPath": "reports.xlsx"
+    },
+    "reports": {
+      "flow_type": "template",
+      "flow_name": "reports",
+      "_xlsxPath": "reports.xlsx"
     },
     "resource_element": {
       "flow_type": "template",

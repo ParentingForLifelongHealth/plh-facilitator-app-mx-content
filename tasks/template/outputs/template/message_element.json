@@ -1,0 +1,197 @@
+{
+  "flow_type": "template",
+  "flow_name": "message_element",
+  "status": "released",
+  "rows": [
+    {
+      "name": "title",
+      "type": "set_variable",
+      "_nested_name": "title"
+    },
+    {
+      "name": "has_disclaimer",
+      "value": false,
+      "type": "set_variable",
+      "_nested_name": "has_disclaimer"
+    },
+    {
+      "name": "message_text",
+      "type": "set_variable",
+      "_nested_name": "message_text"
+    },
+    {
+      "name": "message_guidance",
+      "type": "set_variable",
+      "_nested_name": "message_guidance"
+    },
+    {
+      "type": "display_group",
+      "name": "dg_box",
+      "style_list": [
+        "background-color: #EDEEEF"
+      ],
+      "parameter_list": {
+        "style": "column"
+      },
+      "rows": [
+        {
+          "type": "title",
+          "name": "title",
+          "value": "@local.title",
+          "_nested_name": "dg_box.title",
+          "_dynamicFields": {
+            "value": [
+              {
+                "fullExpression": "@local.title",
+                "matchedExpression": "@local.title",
+                "type": "local",
+                "fieldName": "title"
+              }
+            ]
+          },
+          "_dynamicDependencies": {
+            "@local.title": [
+              "value"
+            ]
+          }
+        },
+        {
+          "type": "display_group",
+          "style_list": [
+            "background-color: white"
+          ],
+          "parameter_list": {
+            "style": "column"
+          },
+          "rows": [
+            {
+              "type": "text",
+              "name": "message_text",
+              "value": "@local.message_text",
+              "_nested_name": "dg_box.display_group_2.message_text",
+              "_dynamicFields": {
+                "value": [
+                  {
+                    "fullExpression": "@local.message_text",
+                    "matchedExpression": "@local.message_text",
+                    "type": "local",
+                    "fieldName": "message_text"
+                  }
+                ]
+              },
+              "_dynamicDependencies": {
+                "@local.message_text": [
+                  "value"
+                ]
+              }
+            }
+          ],
+          "name": "display_group_2",
+          "_nested_name": "dg_box.display_group_2"
+        },
+        {
+          "type": "display_group",
+          "name": "dg_bottom",
+          "parameter_list": {
+            "style": "column"
+          },
+          "rows": [
+            {
+              "type": "text",
+              "name": "message_guidance",
+              "value": "@local.message_guidance",
+              "style_list": [
+                "style: contextual"
+              ],
+              "parameter_list": {
+                "flex": "1"
+              },
+              "_nested_name": "dg_box.dg_bottom.message_guidance",
+              "_dynamicFields": {
+                "value": [
+                  {
+                    "fullExpression": "@local.message_guidance",
+                    "matchedExpression": "@local.message_guidance",
+                    "type": "local",
+                    "fieldName": "message_guidance"
+                  }
+                ]
+              },
+              "_dynamicDependencies": {
+                "@local.message_guidance": [
+                  "value"
+                ]
+              }
+            },
+            {
+              "type": "button",
+              "name": "button",
+              "value": "Share",
+              "action_list": [
+                {
+                  "trigger": "click",
+                  "action_id": "share",
+                  "args": [
+                    "@local.message_text"
+                  ],
+                  "_raw": "click | share: @local.message_text",
+                  "_cleaned": "click | share: @local.message_text"
+                }
+              ],
+              "style_list": [
+                "color: #0F696D"
+              ],
+              "parameter_list": {
+                "icon": "images/icons/share.svg",
+                "icon_position": "right"
+              },
+              "_nested_name": "dg_box.dg_bottom.button",
+              "_dynamicFields": {
+                "action_list": {
+                  "0": {
+                    "args": {
+                      "0": [
+                        {
+                          "fullExpression": "@local.message_text",
+                          "matchedExpression": "@local.message_text",
+                          "type": "local",
+                          "fieldName": "message_text"
+                        }
+                      ]
+                    },
+                    "_raw": [
+                      {
+                        "fullExpression": "click | share: @local.message_text",
+                        "matchedExpression": "@local.message_text",
+                        "type": "local",
+                        "fieldName": "message_text"
+                      }
+                    ],
+                    "_cleaned": [
+                      {
+                        "fullExpression": "click | share: @local.message_text",
+                        "matchedExpression": "@local.message_text",
+                        "type": "local",
+                        "fieldName": "message_text"
+                      }
+                    ]
+                  }
+                }
+              },
+              "_dynamicDependencies": {
+                "@local.message_text": [
+                  "action_list.0.args.0",
+                  "action_list.0._raw",
+                  "action_list.0._cleaned"
+                ]
+              }
+            }
+          ],
+          "_nested_name": "dg_box.dg_bottom"
+        }
+      ],
+      "_nested_name": "dg_box"
+    }
+  ],
+  "_xlsxPath": "article_elements.xlsx"
+}

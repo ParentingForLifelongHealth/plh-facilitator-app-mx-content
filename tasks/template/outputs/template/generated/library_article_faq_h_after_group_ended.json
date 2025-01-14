@@ -1,0 +1,23 @@
+{
+  "flow_name": "library_article_faq_h_after_group_ended",
+  "flow_subtype": "generated",
+  "flow_type": "template",
+  "rows": [
+    {
+      "type": "template",
+      "name": "library_article",
+      "value": "library_article",
+      "exclude_from_translation": true,
+      "rows": [
+        {
+          "name": "article_id",
+          "value": "faq_h_after_group_ended",
+          "exclude_from_translation": true,
+          "type": "set_variable",
+          "_nested_name": "library_article.article_id"
+        }
+      ],
+      "_nested_name": "library_article"
+    }
+  ]
+}

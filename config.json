@@ -1,0 +1,123 @@
+{
+  "_content_version": "",
+  "_app_builder_version": "",
+  "name": "plh_facilitator_mx",
+  "api": {
+    "enabled": true,
+    "db_name": "plh_facilitator_mx",
+    "endpoint": "https://apps-server.idems.international/api"
+  },
+  "analytics": {
+    "enabled": true,
+    "provider": "matomo",
+    "siteId": 1,
+    "endpoint": "https://apps-server.idems.international/analytics"
+  },
+  "app_config": {
+    "APP_HEADER_DEFAULTS": {
+      "title": "Formando Conciencia+",
+      "collapse": false,
+      "variant": "compact",
+      "colour": "none",
+      "hidden": true
+    },
+    "APP_LANGUAGES": {
+      "default": "mx_es"
+    },
+    "APP_SIDEMENU_DEFAULTS": {
+      "title": "Formando Conciencia+"
+    },
+    "APP_FOOTER_DEFAULTS": {
+      "templateName": "footer"
+    },
+    "APP_THEMES": {
+      "available": [
+        "plh_facilitator_mx"
+      ],
+      "defaultThemeName": "plh_facilitator_mx"
+    },
+    "APP_UPDATES": {
+      "enabled": true,
+      "completeUpdateTemplate": "app_update_complete"
+    },
+    "NOTIFICATION_DEFAULTS": {
+      "title": "Nuevo mensaje de Formando Conciencia+",
+      "text": "Tienes un mensaje nuevo de Formando Conciencia+"
+    }
+  },
+  "auth": {},
+  "firebase": {
+    "config": null,
+    "crashlytics": {
+      "enabled": true
+    }
+  },
+  "supabase": {
+    "enabled": false
+  },
+  "web": {
+    "favicon_asset": "images/logos/bird_on_light.svg"
+  },
+  "google_drive": {
+    "sheets_folder_ids": [
+      "1k8zJfBeOm18gYDsk0XmdUm7OFtZDUY9R",
+      "1x0aOv4In_zNyC_e-h6LkjSYa7NHnXZpW",
+      "1TX3aDkdUjk_4ZHQMR5crPkjzgN0ZMxl7"
+    ],
+    "assets_folder_ids": [
+      "1KcHDI7O4o2_FZ_YlXsz-8OqN3ehsfdVf",
+      "1tr76W9OusHHkjJ4DNR84x-B26VgGCSFy"
+    ]
+  },
+  "android": {
+    "app_id": "international.idems.plh_facilitator_mx",
+    "app_name": "Formando Conciencia+",
+    "splash_asset_path": "C:\\Users\\Esmee\\Documents\\GitHub\\parenting-app-ui\\.idems_app\\deployments\\plh_facilitator_mx\\app_data\\assets\\android\\splash.png",
+    "icon_asset_path": "C:\\Users\\Esmee\\Documents\\GitHub\\parenting-app-ui\\.idems_app\\deployments\\plh_facilitator_mx\\app_data\\assets\\android\\icon.png",
+    "icon_asset_foreground_path": "C:\\Users\\Esmee\\Documents\\GitHub\\parenting-app-ui\\.idems_app\\deployments\\plh_facilitator_mx\\app_data\\assets\\android\\icon-foreground.png",
+    "icon_asset_background_path": "C:\\Users\\Esmee\\Documents\\GitHub\\parenting-app-ui\\.idems_app\\deployments\\plh_facilitator_mx\\app_data\\assets\\android\\icon-background.png"
+  },
+  "local_drive": {
+    "assets_path": "C:\\Users\\Esmee\\Documents\\GitHub\\parenting-app-ui\\.idems_app\\deployments\\plh_facilitator\\assets",
+    "sheets_path": "C:\\Users\\Esmee\\Documents\\GitHub\\parenting-app-ui\\.idems_app\\deployments\\plh_facilitator\\sheets"
+  },
+  "app_data": {
+    "output_path": "C:\\Users\\Esmee\\Documents\\GitHub\\parenting-app-ui\\.idems_app\\deployments\\plh_facilitator_mx\\app_data",
+    "sheets_filter_function": "(flow)=>true",
+    "assets_filter_function": "(fileEntry)=>true"
+  },
+  "ios": {
+    "app_id": "international.idems.plh-facilitator-mx",
+    "app_name": "Formando Conciencia+"
+  },
+  "optimisation": {},
+  "translations": {
+    "filter_language_codes": null,
+    "source_strings_path": "C:\\Users\\Esmee\\Documents\\GitHub\\parenting-app-ui\\.idems_app\\deployments\\plh_facilitator\\app_data\\translations_source\\source_strings",
+    "translated_strings_path": "C:\\Users\\Esmee\\Documents\\GitHub\\parenting-app-ui\\.idems_app\\deployments\\plh_facilitator_mx\\app_data\\translations_source\\translated_strings"
+  },
+  "workflows": {
+    "custom_ts_files": [],
+    "task_cache_path": "C:\\Users\\Esmee\\Documents\\GitHub\\parenting-app-ui\\.idems_app\\deployments\\plh_facilitator\\tasks"
+  },
+  "_validated": true,
+  "_parent_config": {
+    "name": "plh_facilitator",
+    "_workspace_path": "C:\\Users\\Esmee\\Documents\\GitHub\\parenting-app-ui\\.idems_app\\deployments\\plh_facilitator",
+    "git": {
+      "content_repo": "https://github.com/IDEMSInternational/plh-facilitator-app-content.git",
+      "content_tag_latest": "1.1.15"
+    }
+  },
+  "_version": 1,
+  "error_logging": {
+    "dsn": "https://5adf6bcd892f43cd91d6eaa22cc45e40@app.glitchtip.com/5665"
+  },
+  "_workspace_path": "C:\\Users\\Esmee\\Documents\\GitHub\\parenting-app-ui\\.idems_app\\deployments\\plh_facilitator_mx",
+  "_config_ts_path": "C:\\Users\\Esmee\\Documents\\GitHub\\parenting-app-ui\\.idems_app\\deployments\\plh_facilitator_mx\\config.ts",
+  "_config_version": 20241215.1,
+  "git": {
+    "content_repo": "https://github.com/IDEMSInternational/plh-facilitator-app-mx-content.git",
+    "content_tag_latest": "2.0.5"
+  }
+}
