@@ -446,6 +446,9 @@
               "parameter_list": {
                 "style": "column"
               },
+              "style_list": [
+                "flex: 1"
+              ],
               "rows": [
                 {
                   "type": "text",
@@ -454,9 +457,6 @@
                   "_translations": {
                     "value": {}
                   },
-                  "style_list": [
-                    "flex: 1"
-                  ],
                   "condition": true,
                   "_nested_name": "data_items_12.display_group_3.display_group_2.text_@item.parent_no",
                   "_dynamicFields": {
@@ -1165,33 +1165,12 @@
           "action_list": [
             {
               "trigger": "click",
-              "action_id": "add_data",
-              "args": [],
-              "_raw": "click | add_data | \n_list_id: parents,\ngroup_id: @fields.current_group_no\narchived: false",
-              "_cleaned": "click | add_data | \n_list_id: parents,\ngroup_id: @fields.current_group_no\narchived: false",
-              "params": {
-                "_list_id": "parents",
-                "group_id": "@fields.current_group_no\narchived"
-              }
-            },
-            {
-              "trigger": "click",
-              "action_id": "set_field",
-              "args": [
-                "current_parent_no",
-                "new"
-              ],
-              "_raw": "click | set_field: current_parent_no: new",
-              "_cleaned": "click | set_field: current_parent_no: new"
-            },
-            {
-              "trigger": "click",
               "action_id": "pop_up",
               "args": [
-                "edit_parent"
+                "add_parent"
               ],
-              "_raw": "click | pop_up: edit_parent | fullscreen: true",
-              "_cleaned": "click | pop_up: edit_parent | fullscreen: true",
+              "_raw": "click | pop_up: add_parent | fullscreen: true",
+              "_cleaned": "click | pop_up: add_parent | fullscreen: true",
               "params": {
                 "fullscreen": true
               }
@@ -1202,46 +1181,7 @@
             "icon_src": "images/icons/add_circle.svg"
           },
           "name": "round_button_2",
-          "_nested_name": "display_group_14.round_button_2",
-          "_dynamicFields": {
-            "action_list": {
-              "0": {
-                "_raw": [
-                  {
-                    "fullExpression": "click | add_data | \n_list_id: parents,\ngroup_id: @fields.current_group_no\narchived: false",
-                    "matchedExpression": "@fields.current_group_no",
-                    "type": "fields",
-                    "fieldName": "current_group_no"
-                  }
-                ],
-                "_cleaned": [
-                  {
-                    "fullExpression": "click | add_data | \n_list_id: parents,\ngroup_id: @fields.current_group_no\narchived: false",
-                    "matchedExpression": "@fields.current_group_no",
-                    "type": "fields",
-                    "fieldName": "current_group_no"
-                  }
-                ],
-                "params": {
-                  "group_id": [
-                    {
-                      "fullExpression": "@fields.current_group_no\narchived",
-                      "matchedExpression": "@fields.current_group_no",
-                      "type": "fields",
-                      "fieldName": "current_group_no"
-                    }
-                  ]
-                }
-              }
-            }
-          },
-          "_dynamicDependencies": {
-            "@fields.current_group_no": [
-              "action_list.0._raw",
-              "action_list.0._cleaned",
-              "action_list.0.params.group_id"
-            ]
-          }
+          "_nested_name": "display_group_14.round_button_2"
         }
       ],
       "name": "display_group_14",

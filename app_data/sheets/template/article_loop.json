@@ -108,11 +108,14 @@
         {
           "type": "display_group",
           "parameter_list": {
-            "sticky": "top"
+            "sticky": "top",
+            "style": "background_solid",
+            "variant": "inline_padding"
           },
           "condition": "@item.id == @local.foreign_key",
           "style_list": [
-            "align: center"
+            "align: center",
+            "align-items: center"
           ],
           "rows": [
             {

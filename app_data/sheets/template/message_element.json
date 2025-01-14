@@ -27,21 +27,21 @@
     {
       "type": "display_group",
       "name": "dg_box",
-      "style_list": [
-        "background-color: #EDEEEF"
-      ],
       "parameter_list": {
         "style": "column"
       },
       "rows": [
         {
-          "type": "title",
-          "name": "title",
+          "type": "text",
+          "name": "message_title",
           "value": "@local.title",
           "_translations": {
             "value": {}
           },
-          "_nested_name": "dg_box.title",
+          "parameter_list": {
+            "style": "emphasised"
+          },
+          "_nested_name": "dg_box.message_title",
           "_dynamicFields": {
             "value": [
               {
@@ -60,9 +60,6 @@
         },
         {
           "type": "display_group",
-          "style_list": [
-            "background-color: white"
-          ],
           "parameter_list": {
             "style": "column"
           },
@@ -99,7 +96,8 @@
           "type": "display_group",
           "name": "dg_bottom",
           "parameter_list": {
-            "style": "column"
+            "style": "column",
+            "variant": "box_secondary"
           },
           "rows": [
             {
@@ -152,12 +150,9 @@
                   "_cleaned": "click | share: @local.message_text"
                 }
               ],
-              "style_list": [
-                "color: #0F696D"
-              ],
               "parameter_list": {
-                "icon": "images/icons/share.svg",
-                "icon_position": "right"
+                "variant": "card",
+                "icon_secondary_asset": "images/icons/share.svg"
               },
               "_nested_name": "dg_box.dg_bottom.button",
               "_dynamicFields": {

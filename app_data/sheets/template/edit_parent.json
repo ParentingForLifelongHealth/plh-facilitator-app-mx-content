@@ -21,7 +21,7 @@
         {
           "type": "text_box",
           "name": "first_name",
-          "value": "current_parent_first_name",
+          "value": "@fields.current_parent_first_name",
           "_translations": {
             "value": {}
           },
@@ -40,7 +40,22 @@
           "parameter_list": {
             "placeholder": "Parent's first name"
           },
-          "_nested_name": "display_group_2.first_name"
+          "_nested_name": "display_group_2.first_name",
+          "_dynamicFields": {
+            "value": [
+              {
+                "fullExpression": "@fields.current_parent_first_name",
+                "matchedExpression": "@fields.current_parent_first_name",
+                "type": "fields",
+                "fieldName": "current_parent_first_name"
+              }
+            ]
+          },
+          "_dynamicDependencies": {
+            "@fields.current_parent_first_name": [
+              "value"
+            ]
+          }
         },
         {
           "type": "text",
@@ -54,7 +69,7 @@
         {
           "type": "text_box",
           "name": "last_name",
-          "value": "current_parent_last_name",
+          "value": "@fields.current_parent_last_name",
           "_translations": {
             "value": {}
           },
@@ -73,7 +88,22 @@
           "parameter_list": {
             "placeholder": "Parent's last name"
           },
-          "_nested_name": "display_group_2.last_name"
+          "_nested_name": "display_group_2.last_name",
+          "_dynamicFields": {
+            "value": [
+              {
+                "fullExpression": "@fields.current_parent_last_name",
+                "matchedExpression": "@fields.current_parent_last_name",
+                "type": "fields",
+                "fieldName": "current_parent_last_name"
+              }
+            ]
+          },
+          "_dynamicDependencies": {
+            "@fields.current_parent_last_name": [
+              "value"
+            ]
+          }
         },
         {
           "type": "text",
@@ -87,7 +117,7 @@
         {
           "type": "text_box",
           "name": "text_id",
-          "value": "current_parent_text_id",
+          "value": "@fields.current_parent_text_id",
           "_translations": {
             "value": {}
           },
@@ -106,7 +136,22 @@
           "parameter_list": {
             "placeholder": "Parent App ID"
           },
-          "_nested_name": "display_group_2.text_id"
+          "_nested_name": "display_group_2.text_id",
+          "_dynamicFields": {
+            "value": [
+              {
+                "fullExpression": "@fields.current_parent_text_id",
+                "matchedExpression": "@fields.current_parent_text_id",
+                "type": "fields",
+                "fieldName": "current_parent_text_id"
+              }
+            ]
+          },
+          "_dynamicDependencies": {
+            "@fields.current_parent_text_id": [
+              "value"
+            ]
+          }
         }
       ],
       "name": "display_group_2",
