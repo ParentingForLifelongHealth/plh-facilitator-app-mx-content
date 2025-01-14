@@ -1,0 +1,575 @@
+{
+  "flow_type": "template",
+  "flow_name": "edit_report",
+  "status": "released",
+  "rows": [
+    {
+      "name": "module_name",
+      "value": "@fields.module_name",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "module_name",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@fields.module_name",
+            "matchedExpression": "@fields.module_name",
+            "type": "fields",
+            "fieldName": "module_name"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@fields.module_name": [
+          "value"
+        ]
+      }
+    },
+    {
+      "name": "report_answer_id",
+      "value": "@fields.answer_id",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "report_answer_id",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@fields.answer_id",
+            "matchedExpression": "@fields.answer_id",
+            "type": "fields",
+            "fieldName": "answer_id"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@fields.answer_id": [
+          "value"
+        ]
+      }
+    },
+    {
+      "type": "title",
+      "value": "@local.module_name",
+      "_translations": {
+        "value": {}
+      },
+      "name": "title_4",
+      "_nested_name": "title_4",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@local.module_name",
+            "matchedExpression": "@local.module_name",
+            "type": "local",
+            "fieldName": "module_name"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.module_name": [
+          "value"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "value": "@fields.answer_id",
+      "_translations": {
+        "value": {}
+      },
+      "name": "text_5",
+      "_nested_name": "text_5",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@fields.answer_id",
+            "matchedExpression": "@fields.answer_id",
+            "type": "fields",
+            "fieldName": "answer_id"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@fields.answer_id": [
+          "value"
+        ]
+      }
+    },
+    {
+      "name": "current_answer_1",
+      "value": "",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "current_answer_1"
+    },
+    {
+      "name": "current_answer_2",
+      "value": "",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "current_answer_2"
+    },
+    {
+      "name": "current_answer_3",
+      "value": "",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "current_answer_3"
+    },
+    {
+      "name": "current_answer_4",
+      "value": "",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "current_answer_4"
+    },
+    {
+      "type": "text_box",
+      "name": "answer_4",
+      "value": "before @local.current_answer_4",
+      "_translations": {
+        "value": {}
+      },
+      "_nested_name": "answer_4",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "before @local.current_answer_4",
+            "matchedExpression": "@local.current_answer_4",
+            "type": "local",
+            "fieldName": "current_answer_4"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.current_answer_4": [
+          "value"
+        ]
+      }
+    },
+    {
+      "name": "test_value",
+      "value": "should change",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "test_value"
+    },
+    {
+      "type": "text",
+      "value": "before: @local.test_value",
+      "_translations": {
+        "value": {}
+      },
+      "name": "text_38",
+      "_nested_name": "text_38",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "before: @local.test_value",
+            "matchedExpression": "@local.test_value",
+            "type": "local",
+            "fieldName": "test_value"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.test_value": [
+          "value"
+        ]
+      }
+    },
+    {
+      "type": "data_items",
+      "value": "report_answers",
+      "action_list": [
+        {
+          "trigger": "data_changed",
+          "action_id": "set_local",
+          "args": [
+            "current_answer_1",
+            "@items[0].question_1"
+          ],
+          "_raw": "data_changed | set_local : current_answer_1: @items[0].question_1",
+          "_cleaned": "data_changed | set_local : current_answer_1: @items[0].question_1"
+        },
+        {
+          "trigger": "data_changed",
+          "action_id": "set_local",
+          "args": [
+            "current_answer_2",
+            "@items[0].question_2"
+          ],
+          "_raw": "data_changed | set_local : current_answer_2: @items[0].question_2",
+          "_cleaned": "data_changed | set_local : current_answer_2: @items[0].question_2"
+        },
+        {
+          "trigger": "data_changed",
+          "action_id": "set_local",
+          "args": [
+            "current_answer_3",
+            "@items[0].question_3"
+          ],
+          "_raw": "data_changed | set_local : current_answer_3: @items[0].question_3",
+          "_cleaned": "data_changed | set_local : current_answer_3: @items[0].question_3"
+        },
+        {
+          "trigger": "data_changed",
+          "action_id": "set_local",
+          "args": [
+            "current_answer_4",
+            "@items[0].question_4"
+          ],
+          "_raw": "data_changed | set_local : current_answer_4: @items[0].question_4",
+          "_cleaned": "data_changed | set_local : current_answer_4: @items[0].question_4"
+        }
+      ],
+      "parameter_list": {
+        "filter": "@item.id == @fields.answer_id"
+      },
+      "rows": [],
+      "name": "data_items_39",
+      "_nested_name": "data_items_39",
+      "_dynamicFields": {
+        "parameter_list": {
+          "filter": [
+            {
+              "fullExpression": "@item.id == @fields.answer_id",
+              "matchedExpression": "@item.id",
+              "type": "item",
+              "fieldName": "id"
+            },
+            {
+              "fullExpression": "@item.id == @fields.answer_id",
+              "matchedExpression": "@fields.answer_id",
+              "type": "fields",
+              "fieldName": "answer_id"
+            }
+          ]
+        }
+      },
+      "_dynamicDependencies": {
+        "@item.id": [
+          "parameter_list.filter"
+        ],
+        "@fields.answer_id": [
+          "parameter_list.filter"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "value": "after: @local.test_value",
+      "_translations": {
+        "value": {}
+      },
+      "name": "text_41",
+      "_nested_name": "text_41",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "after: @local.test_value",
+            "matchedExpression": "@local.test_value",
+            "type": "local",
+            "fieldName": "test_value"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.test_value": [
+          "value"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "name": "question_1",
+      "value": "How many minutes did it take you to prepare for this session?",
+      "_translations": {
+        "value": {}
+      },
+      "_nested_name": "question_1"
+    },
+    {
+      "type": "text_box",
+      "name": "answer_1",
+      "value": "@local.current_answer_1",
+      "_translations": {
+        "value": {}
+      },
+      "_nested_name": "answer_1",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@local.current_answer_1",
+            "matchedExpression": "@local.current_answer_1",
+            "type": "local",
+            "fieldName": "current_answer_1"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.current_answer_1": [
+          "value"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "name": "question_2",
+      "value": "How many minutes did it take you to travel to the location where the session was delivered?",
+      "_translations": {
+        "value": {
+          "mx_es": true
+        }
+      },
+      "_nested_name": "question_2"
+    },
+    {
+      "type": "text_box",
+      "name": "answer_2",
+      "value": "@local.current_answer_2",
+      "_translations": {
+        "value": {}
+      },
+      "_nested_name": "answer_2",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@local.current_answer_2",
+            "matchedExpression": "@local.current_answer_2",
+            "type": "local",
+            "fieldName": "current_answer_2"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.current_answer_2": [
+          "value"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "name": "question_3",
+      "value": "How many minutes did it take you to deliver the sessions?",
+      "_translations": {
+        "value": {}
+      },
+      "_nested_name": "question_3"
+    },
+    {
+      "type": "text_box",
+      "name": "answer_3",
+      "value": "@local.current_answer_3",
+      "_translations": {
+        "value": {}
+      },
+      "_nested_name": "answer_3",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@local.current_answer_3",
+            "matchedExpression": "@local.current_answer_3",
+            "type": "local",
+            "fieldName": "current_answer_3"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.current_answer_3": [
+          "value"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "value": "@local.current_answer_4",
+      "_translations": {
+        "value": {}
+      },
+      "name": "text_48",
+      "_nested_name": "text_48",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@local.current_answer_4",
+            "matchedExpression": "@local.current_answer_4",
+            "type": "local",
+            "fieldName": "current_answer_4"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.current_answer_4": [
+          "value"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "name": "question_4",
+      "value": "Which of the parents in this group attended your in-person session?",
+      "_translations": {
+        "value": {}
+      },
+      "_nested_name": "question_4"
+    },
+    {
+      "type": "text_box",
+      "name": "answer_4",
+      "value": "@local.current_answer_4",
+      "_translations": {
+        "value": {}
+      },
+      "_nested_name": "answer_4",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@local.current_answer_4",
+            "matchedExpression": "@local.current_answer_4",
+            "type": "local",
+            "fieldName": "current_answer_4"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.current_answer_4": [
+          "value"
+        ]
+      }
+    },
+    {
+      "name": "count",
+      "type": "set_variable",
+      "_nested_name": "count"
+    },
+    {
+      "type": "data_items",
+      "value": "parents",
+      "rows": [
+        {
+          "type": "display_group",
+          "rows": [
+            {
+              "type": "text",
+              "value": "@item.first_name @item.last_name",
+              "_translations": {
+                "value": {}
+              },
+              "name": "text_1",
+              "_nested_name": "data_items_54.display_group_1.text_1",
+              "_dynamicFields": {
+                "value": [
+                  {
+                    "fullExpression": "@item.first_name @item.last_name",
+                    "matchedExpression": "@item.first_name",
+                    "type": "item",
+                    "fieldName": "first_name"
+                  },
+                  {
+                    "fullExpression": "@item.first_name @item.last_name",
+                    "matchedExpression": "@item.last_name",
+                    "type": "item",
+                    "fieldName": "last_name"
+                  }
+                ]
+              },
+              "_dynamicDependencies": {
+                "@item.first_name": [
+                  "value"
+                ],
+                "@item.last_name": [
+                  "value"
+                ]
+              }
+            },
+            {
+              "type": "toggle_bar",
+              "name": "toggle@item.id",
+              "action_list": [
+                {
+                  "trigger": "changed",
+                  "action_id": "set_field",
+                  "args": [
+                    "test1",
+                    "this.value"
+                  ],
+                  "_raw": "changed | set_field: test1: this.value",
+                  "_cleaned": "changed | set_field: test1: this.value"
+                }
+              ],
+              "_nested_name": "data_items_54.display_group_1.toggle@item.id",
+              "_dynamicFields": {
+                "name": [
+                  {
+                    "fullExpression": "toggle@item.id",
+                    "matchedExpression": "@item.id",
+                    "type": "item",
+                    "fieldName": "id"
+                  }
+                ],
+                "_nested_name": [
+                  {
+                    "fullExpression": "data_items_54.display_group_1.toggle@item.id",
+                    "matchedExpression": "@item.id",
+                    "type": "item",
+                    "fieldName": "id"
+                  }
+                ]
+              },
+              "_dynamicDependencies": {
+                "@item.id": [
+                  "name",
+                  "_nested_name"
+                ]
+              }
+            }
+          ],
+          "name": "display_group_1",
+          "_nested_name": "data_items_54.display_group_1"
+        }
+      ],
+      "name": "data_items_54",
+      "_nested_name": "data_items_54"
+    },
+    {
+      "type": "text",
+      "value": "this will be a value @field.test1",
+      "_translations": {
+        "value": {}
+      },
+      "name": "text_57",
+      "_nested_name": "text_57",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "this will be a value @field.test1",
+            "matchedExpression": "@field.test1",
+            "type": "field",
+            "fieldName": "test1"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@field.test1": [
+          "value"
+        ]
+      }
+    }
+  ],
+  "_xlsxPath": "reports.xlsx"
+}
