@@ -2,6 +2,13 @@
   "flow_type": "template",
   "flow_name": "profile_groups",
   "status": "released",
+  "parameter_list": {
+    "app_config": {
+      "APP_FOOTER_DEFAULTS": {
+        "templateName": false
+      }
+    }
+  },
   "rows": [
     {
       "type": "template",
@@ -175,32 +182,26 @@
               "action_id": "set_field",
               "args": [
                 "current_group_name",
-                "new group"
+                ""
               ],
-              "_raw": "click | set_field: current_group_name: new group",
-              "_cleaned": "click | set_field: current_group_name: new group"
+              "_raw": "click | set_field: current_group_name:",
+              "_cleaned": "click | set_field: current_group_name:"
             },
             {
               "trigger": "click",
-              "action_id": "pop_up",
+              "action_id": "go_to",
               "args": [
                 "edit_parent_group"
               ],
-              "_raw": "click | pop_up: edit_parent_group | fullscreen: true",
-              "_cleaned": "click | pop_up: edit_parent_group | fullscreen: true",
-              "params": {
-                "fullscreen": true
-              }
+              "_raw": "click | go_to: edit_parent_group",
+              "_cleaned": "click | go_to: edit_parent_group"
             }
           ],
-          "parameter_list": {
-            "style": "card"
-          },
-          "_nested_name": "display_group_8.add_group"
+          "_nested_name": "display_group_7.add_group"
         }
       ],
-      "name": "display_group_8",
-      "_nested_name": "display_group_8"
+      "name": "display_group_7",
+      "_nested_name": "display_group_7"
     }
   ],
   "_xlsxPath": "templates/profile.xlsx"
