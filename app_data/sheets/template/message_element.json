@@ -61,7 +61,8 @@
         {
           "type": "display_group",
           "parameter_list": {
-            "style": "column"
+            "style": "column",
+            "variant": "box_secondary"
           },
           "rows": [
             {
@@ -96,8 +97,7 @@
           "type": "display_group",
           "name": "dg_bottom",
           "parameter_list": {
-            "style": "column",
-            "variant": "box_secondary"
+            "style": "column"
           },
           "rows": [
             {
