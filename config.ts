@@ -39,6 +39,7 @@ config.app_data.output_path = "./app_data";
 config.app_config.APP_LANGUAGES.default = "mx_es";
 config.app_config.APP_SIDEMENU_DEFAULTS.title = "Formando Conciencia+";
 config.app_config.APP_HEADER_DEFAULTS.title = "Formando Conciencia+";
+config.app_config.APP_HEADER_DEFAULTS.hidden = true;
 config.app_config.NOTIFICATION_DEFAULTS.title = "Nuevo mensaje de Formando Conciencia+";
 config.app_config.NOTIFICATION_DEFAULTS.text = "Tienes un mensaje nuevo de Formando Conciencia+";
 config.app_config.APP_THEMES.available = ["plh_facilitator_mx"];
