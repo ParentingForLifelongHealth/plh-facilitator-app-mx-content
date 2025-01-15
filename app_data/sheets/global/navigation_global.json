@@ -76,6 +76,11 @@
         "value": {}
       },
       "exclude_from_translation": true
+    },
+    {
+      "type": "declare_field_default",
+      "name": "splash_screens_completed",
+      "value": false
     }
   ],
   "_xlsxPath": "data/navigation_data.xlsx"

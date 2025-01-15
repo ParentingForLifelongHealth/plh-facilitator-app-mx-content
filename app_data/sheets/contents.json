@@ -2604,7 +2604,7 @@
     "delete_report": {
       "flow_type": "template",
       "flow_name": "delete_report",
-      "_xlsxPath": "templates/data_collection.xlsx"
+      "_xlsxPath": "reports.xlsx"
     },
     "download_header": {
       "flow_type": "template",
@@ -2631,6 +2631,13 @@
     "edit_report": {
       "flow_type": "template",
       "flow_name": "edit_report",
+      "parameter_list": {
+        "app_config": {
+          "APP_FOOTER_DEFAULTS": {
+            "templateName": false
+          }
+        }
+      },
       "_xlsxPath": "reports.xlsx"
     },
     "enter_dev_mode": {
@@ -3514,6 +3521,13 @@
     "home_screen": {
       "flow_type": "template",
       "flow_name": "home_screen",
+      "parameter_list": {
+        "app_config": {
+          "APP_FOOTER_DEFAULTS": {
+            "templateName": "footer"
+          }
+        }
+      },
       "_xlsxPath": "templates/menu_overrides.xlsx"
     },
     "home_screen_card": {
@@ -3554,7 +3568,7 @@
     "language_select": {
       "flow_type": "template",
       "flow_name": "language_select",
-      "_xlsxPath": "templates/app_launch.xlsx"
+      "_xlsxPath": "templates/MX app_launch.xlsx"
     },
     "accept_terms": {
       "flow_type": "template",
@@ -3583,6 +3597,13 @@
     "library": {
       "flow_type": "template",
       "flow_name": "library",
+      "parameter_list": {
+        "app_config": {
+          "APP_FOOTER_DEFAULTS": {
+            "templateName": "footer"
+          }
+        }
+      },
       "_xlsxPath": "library.xlsx"
     },
     "library_article": {
@@ -3660,7 +3681,7 @@
     "package_select": {
       "flow_type": "template",
       "flow_name": "package_select",
-      "_xlsxPath": "templates/app_launch.xlsx"
+      "_xlsxPath": "templates/MX app_launch.xlsx"
     },
     "parent_group": {
       "flow_type": "template",
@@ -3685,6 +3706,13 @@
     "profile": {
       "flow_type": "template",
       "flow_name": "profile",
+      "parameter_list": {
+        "app_config": {
+          "APP_FOOTER_DEFAULTS": {
+            "templateName": "footer"
+          }
+        }
+      },
       "_xlsxPath": "templates/profile.xlsx"
     },
     "profile_about": {
@@ -3727,6 +3755,13 @@
     "reports": {
       "flow_type": "template",
       "flow_name": "reports",
+      "parameter_list": {
+        "app_config": {
+          "APP_FOOTER_DEFAULTS": {
+            "templateName": "footer"
+          }
+        }
+      },
       "_xlsxPath": "reports.xlsx"
     },
     "resource_element": {

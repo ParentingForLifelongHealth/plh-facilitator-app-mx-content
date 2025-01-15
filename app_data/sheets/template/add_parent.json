@@ -69,6 +69,9 @@
       "parameter_list": {
         "sticky": "bottom"
       },
+      "style_list": [
+        "padding: 12px 24px"
+      ],
       "rows": [
         {
           "type": "button",
@@ -102,6 +105,12 @@
               "_raw": "click | emit: completed",
               "_cleaned": "click | emit: completed"
             }
+          ],
+          "parameter_list": {
+            "variant": "card"
+          },
+          "style_list": [
+            "flex: 1"
           ],
           "_nested_name": "display_group_4.save",
           "_dynamicFields": {
@@ -272,6 +281,12 @@
               "_raw": "click | set_local: text_id:",
               "_cleaned": "click | set_local: text_id:"
             }
+          ],
+          "parameter_list": {
+            "variant": "card"
+          },
+          "style_list": [
+            "flex: 1"
           ],
           "_nested_name": "display_group_4.save_new",
           "_dynamicFields": {

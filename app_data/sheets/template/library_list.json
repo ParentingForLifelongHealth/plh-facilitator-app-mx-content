@@ -22,28 +22,48 @@
       "_nested_name": "display_title"
     },
     {
-      "type": "title",
-      "value": "@local.display_title",
-      "_translations": {
-        "value": {}
-      },
-      "name": "title_4",
-      "_nested_name": "title_4",
-      "_dynamicFields": {
-        "value": [
-          {
-            "fullExpression": "@local.display_title",
-            "matchedExpression": "@local.display_title",
-            "type": "local",
-            "fieldName": "display_title"
+      "type": "template",
+      "name": "header",
+      "value": "section_header",
+      "action_list": [
+        {
+          "trigger": "uncompleted",
+          "action_id": "emit",
+          "args": [
+            "uncompleted"
+          ],
+          "_raw": "uncompleted | emit: uncompleted",
+          "_cleaned": "uncompleted | emit: uncompleted"
+        }
+      ],
+      "rows": [
+        {
+          "name": "title",
+          "value": "@local.display_title",
+          "_translations": {
+            "value": {}
+          },
+          "exclude_from_translation": true,
+          "type": "set_variable",
+          "_nested_name": "header.title",
+          "_dynamicFields": {
+            "value": [
+              {
+                "fullExpression": "@local.display_title",
+                "matchedExpression": "@local.display_title",
+                "type": "local",
+                "fieldName": "display_title"
+              }
+            ]
+          },
+          "_dynamicDependencies": {
+            "@local.display_title": [
+              "value"
+            ]
           }
-        ]
-      },
-      "_dynamicDependencies": {
-        "@local.display_title": [
-          "value"
-        ]
-      }
+        }
+      ],
+      "_nested_name": "header"
     },
     {
       "type": "items",
@@ -71,7 +91,7 @@
           },
           "condition": "@item.home_screen_section_list == @local.library_id",
           "name": "button_1",
-          "_nested_name": "items_5.button_1",
+          "_nested_name": "items_6.button_1",
           "_dynamicFields": {
             "value": [
               {
@@ -144,8 +164,8 @@
           }
         }
       ],
-      "name": "items_5",
-      "_nested_name": "items_5",
+      "name": "items_6",
+      "_nested_name": "items_6",
       "_dynamicFields": {
         "value": [
           {
@@ -161,6 +181,21 @@
           "value"
         ]
       }
+    },
+    {
+      "type": "display_group",
+      "name": "dg_footer",
+      "parameter_list": {
+        "sticky": "bottom",
+        "background_image_asset": "images/backgrounds/library_bottom_left.svg",
+        "background_image_position": "bottom left"
+      },
+      "style_list": [
+        "width: 105%",
+        "min-height: 144px"
+      ],
+      "rows": [],
+      "_nested_name": "dg_footer"
     }
   ],
   "_xlsxPath": "library.xlsx"

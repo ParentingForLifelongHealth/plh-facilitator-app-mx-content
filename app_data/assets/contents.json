@@ -39,6 +39,14 @@
     "md5Checksum": "9c6fead93bbe9f07c631858cbc55caca",
     "size_kb": 2.4
   },
+  "images/backgrounds/library_bottom_left.svg": {
+    "md5Checksum": "a59168c9e9ce9f722cda2c54f3eae369",
+    "size_kb": 2.3
+  },
+  "images/backgrounds/report_edit.svg": {
+    "md5Checksum": "3e4a45f91225fc7b3abcc9ada2961143",
+    "size_kb": 0.2
+  },
   "images/backgrounds/reports_top_right.svg": {
     "md5Checksum": "4e2e277101d4b49b034466abe2242b6d",
     "size_kb": 2
@@ -194,6 +202,14 @@
   "images/icons/cancel.svg": {
     "md5Checksum": "e8404ba08cfe7dab2511fdc6645514a2",
     "size_kb": 1.7
+  },
+  "images/icons/check_circle.png": {
+    "md5Checksum": "ceae6d1de6e8d2eb4eab37227b717e35",
+    "size_kb": 0.6
+  },
+  "images/icons/check_circle.svg": {
+    "md5Checksum": "1be7ee8ef948e4080cae2badd9cdfe74",
+    "size_kb": 1.2
   },
   "images/icons/content.svg": {
     "md5Checksum": "be5b6579df10ff99b930cc87494a3945",

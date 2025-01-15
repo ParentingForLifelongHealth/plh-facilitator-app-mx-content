@@ -126,6 +126,10 @@
                 "filter": "@task_item.foreign_key == @local.foreign_key",
                 "variant": "wheel"
               },
+              "style_list": [
+                "margin-bottom: -48px",
+                "margin-inline-end: 12px"
+              ],
               "_nested_name": "get_title_from_module.display_group_1.task_progress_bar",
               "_dynamicFields": {
                 "parameter_list": {

@@ -2,6 +2,13 @@
   "flow_type": "template",
   "flow_name": "library",
   "status": "released",
+  "parameter_list": {
+    "app_config": {
+      "APP_FOOTER_DEFAULTS": {
+        "templateName": "footer"
+      }
+    }
+  },
   "rows": [
     {
       "type": "title",
@@ -15,7 +22,8 @@
     {
       "type": "display_grid",
       "parameter_list": {
-        "item_border": "none"
+        "item_border": "none",
+        "item_width": "160px"
       },
       "rows": [
         {

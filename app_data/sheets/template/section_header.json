@@ -79,9 +79,51 @@
       }
     },
     {
+      "name": "show_back",
+      "value": true,
+      "type": "set_variable",
+      "_nested_name": "show_back"
+    },
+    {
       "type": "display_group",
       "name": "dg_header",
       "rows": [
+        {
+          "type": "round_button",
+          "name": "back",
+          "action_list": [
+            {
+              "trigger": "click",
+              "action_id": "emit",
+              "args": [
+                "uncompleted"
+              ],
+              "_raw": "click | emit: uncompleted",
+              "_cleaned": "click | emit: uncompleted"
+            }
+          ],
+          "parameter_list": {
+            "icon_src": "chevron-back",
+            "variant": "navigation"
+          },
+          "condition": "@local.show_back",
+          "_nested_name": "dg_header.back",
+          "_dynamicFields": {
+            "condition": [
+              {
+                "fullExpression": "@local.show_back",
+                "matchedExpression": "@local.show_back",
+                "type": "local",
+                "fieldName": "show_back"
+              }
+            ]
+          },
+          "_dynamicDependencies": {
+            "@local.show_back": [
+              "condition"
+            ]
+          }
+        },
         {
           "type": "title",
           "name": "title",
