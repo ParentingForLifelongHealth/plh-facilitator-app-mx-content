@@ -787,13 +787,29 @@
         "background_image_asset": "images/backgrounds/home_bottom_right.svg",
         "background_image_position": "bottom right"
       },
+      "condition": "!@local.selected_group",
       "exclude_from_translation": true,
       "style_list": [
         "width: 110%",
         "min-height: 144px"
       ],
       "rows": [],
-      "_nested_name": "dg_footer"
+      "_nested_name": "dg_footer",
+      "_dynamicFields": {
+        "condition": [
+          {
+            "fullExpression": "!@local.selected_group",
+            "matchedExpression": "!@local.selected_group",
+            "type": "local",
+            "fieldName": "selected_group"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "!@local.selected_group": [
+          "condition"
+        ]
+      }
     }
   ],
   "_xlsxPath": "menu_multi_run_task_flow.xlsx"

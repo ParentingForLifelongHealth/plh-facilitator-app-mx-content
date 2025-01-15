@@ -4,24 +4,13 @@
   "status": "released",
   "rows": [
     {
-      "id": "answer_1",
-      "group_id": "g_id",
-      "module_id": "m_id",
+      "id": "text",
+      "group_id": "text",
+      "module_id": "text",
       "archived": true,
       "question_1": "text",
       "question_2": "text",
-      "question_3": "text",
-      "question_4": "list"
-    },
-    {
-      "id": "answer_2",
-      "group_id": "id1",
-      "module_id": "onboarding_day_chat",
-      "archived": false,
-      "question_1": "test",
-      "question_2": "test",
-      "question_3": "test",
-      "attendance": "parent_1, parent_2"
+      "question_3": "text"
     }
   ],
   "_xlsxPath": "reports.xlsx",

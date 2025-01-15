@@ -15,7 +15,7 @@
       },
       {
         "type": "button",
-        "count": 70
+        "count": 71
       },
       {
         "type": "carousel",
@@ -27,7 +27,7 @@
       },
       {
         "type": "data_items",
-        "count": 18
+        "count": 19
       },
       {
         "type": "debug_toggle",
@@ -39,7 +39,7 @@
       },
       {
         "type": "display_group",
-        "count": 80
+        "count": 85
       },
       {
         "type": "drawer",
@@ -47,7 +47,7 @@
       },
       {
         "type": "image",
-        "count": 8
+        "count": 9
       },
       {
         "type": "items",
@@ -83,11 +83,11 @@
       },
       {
         "type": "set_field",
-        "count": 2
+        "count": 3
       },
       {
         "type": "set_variable",
-        "count": 778
+        "count": 770
       },
       {
         "type": "simple_checkbox",
@@ -107,7 +107,7 @@
       },
       {
         "type": "text",
-        "count": 157
+        "count": 153
       },
       {
         "type": "text_area",
@@ -115,7 +115,7 @@
       },
       {
         "type": "text_box",
-        "count": 23
+        "count": 21
       },
       {
         "type": "title",
@@ -147,7 +147,7 @@
       },
       {
         "type": "emit: completed",
-        "count": 21
+        "count": 22
       },
       {
         "type": "emit: force_reload",
@@ -179,11 +179,11 @@
       },
       {
         "type": "filter",
-        "count": 1
+        "count": 2
       },
       {
         "type": "go_to",
-        "count": 32
+        "count": 31
       },
       {
         "type": "go_to_url",
@@ -195,7 +195,7 @@
       },
       {
         "type": "pop_up",
-        "count": 18
+        "count": 19
       },
       {
         "type": "reset_app",
@@ -207,19 +207,19 @@
       },
       {
         "type": "set_data",
-        "count": 8
+        "count": 10
       },
       {
         "type": "set_field",
-        "count": 49
+        "count": 52
       },
       {
         "type": "set_item",
-        "count": 6
+        "count": 7
       },
       {
         "type": "set_local",
-        "count": 19
+        "count": 18
       },
       {
         "type": "share",
@@ -235,12 +235,12 @@
     "data": [
       {
         "assets": "total",
-        "KB": "116043 KB",
+        "KB": "116044 KB",
         "MB": "116 MB"
       },
       {
         "assets": "unused",
-        "KB": "774 KB",
+        "KB": "775 KB",
         "MB": "0.8 MB"
       }
     ]
@@ -310,6 +310,10 @@
       {
         "path": "images/icons/book_white.svg",
         "size_kb": 1.5
+      },
+      {
+        "path": "images/icons/check_circle.svg",
+        "size_kb": 1.2
       },
       {
         "path": "images/icons/download_white.svg",
@@ -412,6 +416,11 @@
         "path": "images/backgrounds/home_top_left.svg",
         "count": 1,
         "size_kb": 2.4
+      },
+      {
+        "path": "images/backgrounds/report_edit.svg",
+        "count": 1,
+        "size_kb": 0.2
       },
       {
         "path": "images/backgrounds/reports_top_right.svg",
@@ -545,7 +554,7 @@
       },
       {
         "path": "images/icons/add_circle.svg",
-        "count": 1,
+        "count": 2,
         "size_kb": 1
       },
       {
@@ -564,13 +573,18 @@
         "size_kb": 1.7
       },
       {
+        "path": "images/icons/check_circle.png",
+        "count": 1,
+        "size_kb": 0.6
+      },
+      {
         "path": "images/icons/content.svg",
         "count": 1,
         "size_kb": 7.2
       },
       {
         "path": "images/icons/delete.svg",
-        "count": 2,
+        "count": 3,
         "size_kb": 0.8
       },
       {
@@ -585,7 +599,7 @@
       },
       {
         "path": "images/icons/edit.svg",
-        "count": 3,
+        "count": 4,
         "size_kb": 0.9
       },
       {
