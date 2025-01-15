@@ -143,8 +143,7 @@
           ],
           "hidden": "@local.use_completed_chevron",
           "parameter_list": {
-            "variant": "card",
-            "text_align": "center"
+            "variant": "card"
           },
           "style_list": [
             "flex:1"

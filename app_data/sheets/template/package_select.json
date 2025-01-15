@@ -45,7 +45,7 @@
         },
         {
           "name": "title",
-          "value": "@global.language",
+          "value": "@global.your_package",
           "_translations": {
             "value": {}
           },
@@ -54,15 +54,15 @@
           "_dynamicFields": {
             "value": [
               {
-                "fullExpression": "@global.language",
-                "matchedExpression": "@global.language",
+                "fullExpression": "@global.your_package",
+                "matchedExpression": "@global.your_package",
                 "type": "global",
-                "fieldName": "language"
+                "fieldName": "your_package"
               }
             ]
           },
           "_dynamicDependencies": {
-            "@global.language": [
+            "@global.your_package": [
               "value"
             ]
           }
@@ -73,26 +73,7 @@
     {
       "type": "title",
       "name": "title",
-      "value": "@global.your_package",
-      "_translations": {
-        "value": {}
-      },
-      "_nested_name": "title",
-      "_dynamicFields": {
-        "value": [
-          {
-            "fullExpression": "@global.your_package",
-            "matchedExpression": "@global.your_package",
-            "type": "global",
-            "fieldName": "your_package"
-          }
-        ]
-      },
-      "_dynamicDependencies": {
-        "@global.your_package": [
-          "value"
-        ]
-      }
+      "_nested_name": "title"
     },
     {
       "type": "text",
@@ -198,8 +179,7 @@
             }
           ],
           "parameter_list": {
-            "variant": "card",
-            "text_align": "center"
+            "variant": "card"
           },
           "_nested_name": "dg_bottom.button_completed"
         }
