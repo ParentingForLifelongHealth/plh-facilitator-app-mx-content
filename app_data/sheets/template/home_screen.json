@@ -2,6 +2,13 @@
   "flow_type": "template",
   "flow_name": "home_screen",
   "status": "released",
+  "parameter_list": {
+    "app_config": {
+      "APP_FOOTER_DEFAULTS": {
+        "templateName": "footer"
+      }
+    }
+  },
   "rows": [
     {
       "type": "template",

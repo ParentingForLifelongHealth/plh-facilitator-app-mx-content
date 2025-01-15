@@ -1232,12 +1232,12 @@
               "trigger": "click",
               "action_id": "set_data",
               "args": [],
-              "_raw": "click | set_data |\n_list_id: parent_groups,\n_id: @fields.current_group_no,\nname: @local.text_box,\ntext: @local.text_box",
-              "_cleaned": "click | set_data |\n_list_id: parent_groups,\n_id: @fields.current_group_no,\nname: @local.text_box,\ntext: @local.text_box",
+              "_raw": "click | set_data |\n_list_id: parent_groups,\n_id: @fields.current_group_no,\nname: @item.id,\ntext: @local.text_box",
+              "_cleaned": "click | set_data |\n_list_id: parent_groups,\n_id: @fields.current_group_no,\nname: @item.id,\ntext: @local.text_box",
               "params": {
                 "_list_id": "parent_groups",
                 "_id": "@fields.current_group_no",
-                "name": "@local.text_box",
+                "name": "@item.id",
                 "text": "@local.text_box"
               }
             },
@@ -1260,19 +1260,19 @@
               "0": {
                 "_raw": [
                   {
-                    "fullExpression": "click | set_data |\n_list_id: parent_groups,\n_id: @fields.current_group_no,\nname: @local.text_box,\ntext: @local.text_box",
+                    "fullExpression": "click | set_data |\n_list_id: parent_groups,\n_id: @fields.current_group_no,\nname: @item.id,\ntext: @local.text_box",
                     "matchedExpression": "@fields.current_group_no",
                     "type": "fields",
                     "fieldName": "current_group_no"
                   },
                   {
-                    "fullExpression": "click | set_data |\n_list_id: parent_groups,\n_id: @fields.current_group_no,\nname: @local.text_box,\ntext: @local.text_box",
-                    "matchedExpression": "@local.text_box",
-                    "type": "local",
-                    "fieldName": "text_box"
+                    "fullExpression": "click | set_data |\n_list_id: parent_groups,\n_id: @fields.current_group_no,\nname: @item.id,\ntext: @local.text_box",
+                    "matchedExpression": "@item.id",
+                    "type": "item",
+                    "fieldName": "id"
                   },
                   {
-                    "fullExpression": "click | set_data |\n_list_id: parent_groups,\n_id: @fields.current_group_no,\nname: @local.text_box,\ntext: @local.text_box",
+                    "fullExpression": "click | set_data |\n_list_id: parent_groups,\n_id: @fields.current_group_no,\nname: @item.id,\ntext: @local.text_box",
                     "matchedExpression": "@local.text_box",
                     "type": "local",
                     "fieldName": "text_box"
@@ -1280,19 +1280,19 @@
                 ],
                 "_cleaned": [
                   {
-                    "fullExpression": "click | set_data |\n_list_id: parent_groups,\n_id: @fields.current_group_no,\nname: @local.text_box,\ntext: @local.text_box",
+                    "fullExpression": "click | set_data |\n_list_id: parent_groups,\n_id: @fields.current_group_no,\nname: @item.id,\ntext: @local.text_box",
                     "matchedExpression": "@fields.current_group_no",
                     "type": "fields",
                     "fieldName": "current_group_no"
                   },
                   {
-                    "fullExpression": "click | set_data |\n_list_id: parent_groups,\n_id: @fields.current_group_no,\nname: @local.text_box,\ntext: @local.text_box",
-                    "matchedExpression": "@local.text_box",
-                    "type": "local",
-                    "fieldName": "text_box"
+                    "fullExpression": "click | set_data |\n_list_id: parent_groups,\n_id: @fields.current_group_no,\nname: @item.id,\ntext: @local.text_box",
+                    "matchedExpression": "@item.id",
+                    "type": "item",
+                    "fieldName": "id"
                   },
                   {
-                    "fullExpression": "click | set_data |\n_list_id: parent_groups,\n_id: @fields.current_group_no,\nname: @local.text_box,\ntext: @local.text_box",
+                    "fullExpression": "click | set_data |\n_list_id: parent_groups,\n_id: @fields.current_group_no,\nname: @item.id,\ntext: @local.text_box",
                     "matchedExpression": "@local.text_box",
                     "type": "local",
                     "fieldName": "text_box"
@@ -1309,10 +1309,10 @@
                   ],
                   "name": [
                     {
-                      "fullExpression": "@local.text_box",
-                      "matchedExpression": "@local.text_box",
-                      "type": "local",
-                      "fieldName": "text_box"
+                      "fullExpression": "@item.id",
+                      "matchedExpression": "@item.id",
+                      "type": "item",
+                      "fieldName": "id"
                     }
                   ],
                   "text": [
@@ -1333,12 +1333,14 @@
               "action_list.0._cleaned",
               "action_list.0.params._id"
             ],
+            "@item.id": [
+              "action_list.0._raw",
+              "action_list.0._cleaned",
+              "action_list.0.params.name"
+            ],
             "@local.text_box": [
               "action_list.0._raw",
-              "action_list.0._raw",
               "action_list.0._cleaned",
-              "action_list.0._cleaned",
-              "action_list.0.params.name",
               "action_list.0.params.text"
             ]
           }
