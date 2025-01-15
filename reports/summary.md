@@ -126,7 +126,6 @@ Assets that have references within sheets but do not appear in app-data
 | path | count |
 | --- | --- |
 | images/icons/in_progress.svg | 5 |
-| images/icons/key.svg | 1 |
 | images/icons/tick.svg | 1 |
 | images/icons/tick_white.svg | 4 |
 </details>
