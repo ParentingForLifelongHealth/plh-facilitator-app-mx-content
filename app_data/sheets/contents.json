@@ -3590,6 +3590,13 @@
     "library": {
       "flow_type": "template",
       "flow_name": "library",
+      "parameter_list": {
+        "app_config": {
+          "APP_FOOTER_DEFAULTS": {
+            "templateName": "footer"
+          }
+        }
+      },
       "_xlsxPath": "library.xlsx"
     },
     "library_article": {
@@ -3692,6 +3699,13 @@
     "profile": {
       "flow_type": "template",
       "flow_name": "profile",
+      "parameter_list": {
+        "app_config": {
+          "APP_FOOTER_DEFAULTS": {
+            "templateName": "footer"
+          }
+        }
+      },
       "_xlsxPath": "templates/profile.xlsx"
     },
     "profile_about": {
@@ -3734,6 +3748,13 @@
     "reports": {
       "flow_type": "template",
       "flow_name": "reports",
+      "parameter_list": {
+        "app_config": {
+          "APP_FOOTER_DEFAULTS": {
+            "templateName": "footer"
+          }
+        }
+      },
       "_xlsxPath": "reports.xlsx"
     },
     "resource_element": {

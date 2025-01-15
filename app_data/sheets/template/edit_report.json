@@ -472,6 +472,9 @@
     {
       "type": "data_items",
       "value": "parents",
+      "parameter_list": {
+        "filter": "@item.group_id == @field.current_group_no"
+      },
       "rows": [
         {
           "type": "display_group",
@@ -580,7 +583,33 @@
         }
       ],
       "name": "data_items_21",
-      "_nested_name": "data_items_21"
+      "_nested_name": "data_items_21",
+      "_dynamicFields": {
+        "parameter_list": {
+          "filter": [
+            {
+              "fullExpression": "@item.group_id == @field.current_group_no",
+              "matchedExpression": "@item.group_id",
+              "type": "item",
+              "fieldName": "group_id"
+            },
+            {
+              "fullExpression": "@item.group_id == @field.current_group_no",
+              "matchedExpression": "@field.current_group_no",
+              "type": "field",
+              "fieldName": "current_group_no"
+            }
+          ]
+        }
+      },
+      "_dynamicDependencies": {
+        "@item.group_id": [
+          "parameter_list.filter"
+        ],
+        "@field.current_group_no": [
+          "parameter_list.filter"
+        ]
+      }
     },
     {
       "type": "display_group",
