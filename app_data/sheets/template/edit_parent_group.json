@@ -288,6 +288,9 @@
           "_cleaned": "changed | set_field: current_group_name: @local.text_box"
         }
       ],
+      "parameter_list": {
+        "placeholder": "Group name"
+      },
       "condition": "@fields.current_group_no == @item.id",
       "_nested_name": "text_box",
       "_dynamicFields": {

@@ -76,13 +76,13 @@
           "action_list": [
             {
               "trigger": "changed",
-              "action_id": "set_local",
+              "action_id": "set_field",
               "args": [
                 "current_parent_last_name",
                 "this.value"
               ],
-              "_raw": "changed | set_local : current_parent_last_name: this.value",
-              "_cleaned": "changed | set_local : current_parent_last_name: this.value"
+              "_raw": "changed | set_field : current_parent_last_name: this.value",
+              "_cleaned": "changed | set_field : current_parent_last_name: this.value"
             }
           ],
           "parameter_list": {
@@ -124,13 +124,13 @@
           "action_list": [
             {
               "trigger": "changed",
-              "action_id": "set_local",
+              "action_id": "set_field",
               "args": [
                 "current_parent_text_id",
                 "this.value"
               ],
-              "_raw": "changed | set_local : current_parent_text_id: this.value",
-              "_cleaned": "changed | set_local : current_parent_text_id: this.value"
+              "_raw": "changed | set_field : current_parent_text_id: this.value",
+              "_cleaned": "changed | set_field : current_parent_text_id: this.value"
             }
           ],
           "parameter_list": {

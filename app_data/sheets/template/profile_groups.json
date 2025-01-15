@@ -182,10 +182,10 @@
               "action_id": "set_field",
               "args": [
                 "current_group_name",
-                "new group"
+                ""
               ],
-              "_raw": "click | set_field: current_group_name: new group",
-              "_cleaned": "click | set_field: current_group_name: new group"
+              "_raw": "click | set_field: current_group_name:",
+              "_cleaned": "click | set_field: current_group_name:"
             },
             {
               "trigger": "click",

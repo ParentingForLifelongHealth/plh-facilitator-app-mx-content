@@ -6,13 +6,13 @@
 | accordion | 1 |
 | accordion_section | 1 |
 | audio | 2 |
-| button | 69 |
+| button | 70 |
 | carousel | 1 |
 | combo_box | 3 |
 | data_items | 18 |
 | debug_toggle | 1 |
 | display_grid | 4 |
-| display_group | 78 |
+| display_group | 80 |
 | drawer | 2 |
 | image | 8 |
 | items | 38 |
@@ -29,10 +29,10 @@
 | task_card | 4 |
 | task_progress_bar | 2 |
 | template | 197 |
-| text | 155 |
+| text | 157 |
 | text_area | 2 |
 | text_box | 23 |
-| title | 48 |
+| title | 47 |
 | toggle_bar | 4 |
 | update_action_list | 3 |
 | video | 2 |
@@ -43,7 +43,7 @@
 
 | type | count |
 | --- | --- |
-| add_data | 3 |
+| add_data | 4 |
 | app_update | 1 |
 | emit: completed | 21 |
 | emit: force_reload | 6 |
@@ -60,10 +60,10 @@
 | pop_up | 18 |
 | reset_app | 1 |
 | save_to_device | 3 |
-| set_data | 9 |
-| set_field | 48 |
+| set_data | 8 |
+| set_field | 49 |
 | set_item | 6 |
-| set_local | 18 |
+| set_local | 19 |
 | share | 2 |
 | user | 1 |
 </details>
@@ -73,7 +73,7 @@
 
 | assets | KB | MB |
 | --- | --- | --- |
-| total | 116035 KB | 116 MB |
+| total | 116043 KB | 116 MB |
 | unused | 774 KB | 0.8 MB |
 </details>
 
@@ -141,6 +141,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/after_disclosed_abuse.svg | 4.7 | 2 |
 | images/backgrounds/home_bottom_right.svg | 2.3 | 1 |
 | images/backgrounds/home_top_left.svg | 2.4 | 1 |
+| images/backgrounds/reports_top_right.svg | 2 | 1 |
 | images/contact_for_reporting_abuse.svg | 6.3 | 1 |
 | images/crisis_hotlines.svg | 12.6 | 1 |
 | images/cyber_security.png | 14.9 | 1 |
@@ -178,6 +179,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/icons/group_add.svg | 2.3 | 1 |
 | images/icons/help.svg | 2.6 | 1 |
 | images/icons/home_white.svg | 1.7 | 2 |
+| images/icons/key.svg | 5.5 | 1 |
 | images/icons/library.png | 1.5 | 3 |
 | images/icons/pencil_white.svg | 1.4 | 2 |
 | images/icons/people_network.svg | 6.9 | 1 |

@@ -20,3 +20,4 @@ Any strings for use in translations should be placed in the `./translations_sour
 The final output of translation strings can be found in the `./translations/strings` folder.
 
 References to these strings are stored in individual data files, so that the app can quickly know what rows have text available for translation and which languages currently have existing translations
+

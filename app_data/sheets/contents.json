@@ -190,9 +190,6 @@
       "data_list_name": "parents",
       "_xlsxPath": "data/profile_data.xlsx",
       "_metadata": {
-        "text_id": {
-          "type": "number"
-        },
         "archived": {
           "type": "boolean"
         }

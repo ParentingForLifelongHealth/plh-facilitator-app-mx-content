@@ -5,28 +5,10 @@
   "data_list_name": "parent_groups",
   "rows": [
     {
-      "id": "id1",
-      "name": "id1",
-      "text": "placeholder 1",
-      "archived": false
-    },
-    {
-      "id": "id2",
-      "name": "id2",
-      "text": "deleted",
+      "id": "text_field",
+      "name": "text_field",
+      "text": "text_field",
       "archived": true
-    },
-    {
-      "id": "id3",
-      "name": "id3",
-      "text": "placeholder 2",
-      "archived": false
-    },
-    {
-      "id": "id4",
-      "name": "id4",
-      "text": "placeholder 3",
-      "archived": false
     }
   ],
   "_xlsxPath": "data/profile_data.xlsx",
