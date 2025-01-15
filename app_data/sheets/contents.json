@@ -2604,7 +2604,7 @@
     "delete_report": {
       "flow_type": "template",
       "flow_name": "delete_report",
-      "_xlsxPath": "templates/data_collection.xlsx"
+      "_xlsxPath": "reports.xlsx"
     },
     "download_header": {
       "flow_type": "template",
@@ -2631,6 +2631,13 @@
     "edit_report": {
       "flow_type": "template",
       "flow_name": "edit_report",
+      "parameter_list": {
+        "app_config": {
+          "APP_FOOTER_DEFAULTS": {
+            "templateName": false
+          }
+        }
+      },
       "_xlsxPath": "reports.xlsx"
     },
     "enter_dev_mode": {
@@ -3554,7 +3561,7 @@
     "language_select": {
       "flow_type": "template",
       "flow_name": "language_select",
-      "_xlsxPath": "templates/app_launch.xlsx"
+      "_xlsxPath": "templates/MX app_launch.xlsx"
     },
     "accept_terms": {
       "flow_type": "template",
@@ -3660,7 +3667,7 @@
     "package_select": {
       "flow_type": "template",
       "flow_name": "package_select",
-      "_xlsxPath": "templates/app_launch.xlsx"
+      "_xlsxPath": "templates/MX app_launch.xlsx"
     },
     "parent_group": {
       "flow_type": "template",

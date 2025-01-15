@@ -23,6 +23,17 @@
       "type": "template",
       "name": "header",
       "value": "section_header",
+      "action_list": [
+        {
+          "trigger": "uncompleted",
+          "action_id": "emit",
+          "args": [
+            "uncompleted"
+          ],
+          "_raw": "uncompleted | emit: uncompleted",
+          "_cleaned": "uncompleted | emit: uncompleted"
+        }
+      ],
       "rows": [
         {
           "name": "section_id",

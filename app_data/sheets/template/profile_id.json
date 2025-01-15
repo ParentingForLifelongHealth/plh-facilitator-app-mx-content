@@ -7,6 +7,17 @@
       "type": "template",
       "name": "header",
       "value": "section_header",
+      "action_list": [
+        {
+          "trigger": "uncompleted",
+          "action_id": "emit",
+          "args": [
+            "uncompleted"
+          ],
+          "_raw": "uncompleted | emit: uncompleted",
+          "_cleaned": "uncompleted | emit: uncompleted"
+        }
+      ],
       "rows": [
         {
           "name": "section_id",
@@ -292,205 +303,222 @@
       }
     },
     {
-      "type": "button",
-      "name": "sync_button",
-      "value": "Sync now",
-      "_translations": {
-        "value": {
-          "mx_es": true
-        }
+      "type": "display_group",
+      "name": "dg_bottom",
+      "parameter_list": {
+        "sticky": "bottom"
       },
-      "action_list": [
-        {
-          "trigger": "click",
-          "action_id": "set_local",
-          "args": [
-            "sync_status",
-            "@local.syncing"
-          ],
-          "_raw": "click | set_local: sync_status: @local.syncing",
-          "_cleaned": "click | set_local: sync_status: @local.syncing"
-        },
-        {
-          "trigger": "click",
-          "action_id": "set_local",
-          "args": [
-            "sync_status",
-            "@local.syncing"
-          ],
-          "_raw": "click | set_local: sync_status: @local.syncing",
-          "_cleaned": "click | set_local: sync_status: @local.syncing"
-        },
-        {
-          "trigger": "click",
-          "action_id": "emit",
-          "args": [
-            "force_reprocess"
-          ],
-          "_raw": "click | emit: force_reprocess",
-          "_cleaned": "click | emit: force_reprocess"
-        },
-        {
-          "trigger": "click",
-          "action_id": "emit",
-          "args": [
-            "server_sync"
-          ],
-          "_raw": "click | emit: server_sync",
-          "_cleaned": "click | emit: server_sync"
-        },
-        {
-          "trigger": "click",
-          "action_id": "set_local",
-          "args": [
-            "sync_status",
-            ""
-          ],
-          "_raw": "click | set_local: sync_status:",
-          "_cleaned": "click | set_local: sync_status:"
-        },
-        {
-          "trigger": "click",
-          "action_id": "set_local",
-          "args": [
-            "sync_button_clicked",
-            true
-          ],
-          "_raw": "click | set_local: sync_button_clicked: true",
-          "_cleaned": "click | set_local: sync_button_clicked: true"
-        },
-        {
-          "trigger": "click",
-          "action_id": "emit",
-          "args": [
-            "force_reprocess"
-          ],
-          "_raw": "click | emit: force_reprocess",
-          "_cleaned": "click | emit: force_reprocess"
-        }
+      "style_list": [
+        "padding: 12px 24px"
       ],
-      "condition": "!@local.sync_status",
-      "_nested_name": "sync_button",
-      "_dynamicFields": {
-        "action_list": {
-          "0": {
-            "args": {
-              "1": [
-                {
-                  "fullExpression": "@local.syncing",
-                  "matchedExpression": "@local.syncing",
-                  "type": "local",
-                  "fieldName": "syncing"
-                }
-              ]
+      "rows": [
+        {
+          "type": "button",
+          "name": "sync_button",
+          "value": "Sync now",
+          "_translations": {
+            "value": {
+              "mx_es": true
+            }
+          },
+          "action_list": [
+            {
+              "trigger": "click",
+              "action_id": "set_local",
+              "args": [
+                "sync_status",
+                "@local.syncing"
+              ],
+              "_raw": "click | set_local: sync_status: @local.syncing",
+              "_cleaned": "click | set_local: sync_status: @local.syncing"
             },
-            "_raw": [
-              {
-                "fullExpression": "click | set_local: sync_status: @local.syncing",
-                "matchedExpression": "@local.syncing",
-                "type": "local",
-                "fieldName": "syncing"
+            {
+              "trigger": "click",
+              "action_id": "set_local",
+              "args": [
+                "sync_status",
+                "@local.syncing"
+              ],
+              "_raw": "click | set_local: sync_status: @local.syncing",
+              "_cleaned": "click | set_local: sync_status: @local.syncing"
+            },
+            {
+              "trigger": "click",
+              "action_id": "emit",
+              "args": [
+                "force_reprocess"
+              ],
+              "_raw": "click | emit: force_reprocess",
+              "_cleaned": "click | emit: force_reprocess"
+            },
+            {
+              "trigger": "click",
+              "action_id": "emit",
+              "args": [
+                "server_sync"
+              ],
+              "_raw": "click | emit: server_sync",
+              "_cleaned": "click | emit: server_sync"
+            },
+            {
+              "trigger": "click",
+              "action_id": "set_local",
+              "args": [
+                "sync_status",
+                ""
+              ],
+              "_raw": "click | set_local: sync_status:",
+              "_cleaned": "click | set_local: sync_status:"
+            },
+            {
+              "trigger": "click",
+              "action_id": "set_local",
+              "args": [
+                "sync_button_clicked",
+                true
+              ],
+              "_raw": "click | set_local: sync_button_clicked: true",
+              "_cleaned": "click | set_local: sync_button_clicked: true"
+            },
+            {
+              "trigger": "click",
+              "action_id": "emit",
+              "args": [
+                "force_reprocess"
+              ],
+              "_raw": "click | emit: force_reprocess",
+              "_cleaned": "click | emit: force_reprocess"
+            }
+          ],
+          "condition": "!@local.sync_status",
+          "parameter_list": {
+            "variant": "card"
+          },
+          "_nested_name": "dg_bottom.sync_button",
+          "_dynamicFields": {
+            "action_list": {
+              "0": {
+                "args": {
+                  "1": [
+                    {
+                      "fullExpression": "@local.syncing",
+                      "matchedExpression": "@local.syncing",
+                      "type": "local",
+                      "fieldName": "syncing"
+                    }
+                  ]
+                },
+                "_raw": [
+                  {
+                    "fullExpression": "click | set_local: sync_status: @local.syncing",
+                    "matchedExpression": "@local.syncing",
+                    "type": "local",
+                    "fieldName": "syncing"
+                  }
+                ],
+                "_cleaned": [
+                  {
+                    "fullExpression": "click | set_local: sync_status: @local.syncing",
+                    "matchedExpression": "@local.syncing",
+                    "type": "local",
+                    "fieldName": "syncing"
+                  }
+                ]
+              },
+              "1": {
+                "args": {
+                  "1": [
+                    {
+                      "fullExpression": "@local.syncing",
+                      "matchedExpression": "@local.syncing",
+                      "type": "local",
+                      "fieldName": "syncing"
+                    }
+                  ]
+                },
+                "_raw": [
+                  {
+                    "fullExpression": "click | set_local: sync_status: @local.syncing",
+                    "matchedExpression": "@local.syncing",
+                    "type": "local",
+                    "fieldName": "syncing"
+                  }
+                ],
+                "_cleaned": [
+                  {
+                    "fullExpression": "click | set_local: sync_status: @local.syncing",
+                    "matchedExpression": "@local.syncing",
+                    "type": "local",
+                    "fieldName": "syncing"
+                  }
+                ]
               }
-            ],
-            "_cleaned": [
+            },
+            "condition": [
               {
-                "fullExpression": "click | set_local: sync_status: @local.syncing",
-                "matchedExpression": "@local.syncing",
+                "fullExpression": "!@local.sync_status",
+                "matchedExpression": "!@local.sync_status",
                 "type": "local",
-                "fieldName": "syncing"
+                "fieldName": "sync_status"
               }
             ]
           },
-          "1": {
-            "args": {
-              "1": [
-                {
-                  "fullExpression": "@local.syncing",
-                  "matchedExpression": "@local.syncing",
-                  "type": "local",
-                  "fieldName": "syncing"
-                }
-              ]
-            },
-            "_raw": [
+          "_dynamicDependencies": {
+            "@local.syncing": [
+              "action_list.0.args.1",
+              "action_list.0._raw",
+              "action_list.0._cleaned",
+              "action_list.1.args.1",
+              "action_list.1._raw",
+              "action_list.1._cleaned"
+            ],
+            "!@local.sync_status": [
+              "condition"
+            ]
+          }
+        },
+        {
+          "type": "button",
+          "name": "sync_button_disabled",
+          "value": "@local.syncing",
+          "_translations": {
+            "value": {}
+          },
+          "condition": "@local.sync_status",
+          "parameter_list": {
+            "variant": "card",
+            "disabled": "true"
+          },
+          "_nested_name": "dg_bottom.sync_button_disabled",
+          "_dynamicFields": {
+            "value": [
               {
-                "fullExpression": "click | set_local: sync_status: @local.syncing",
+                "fullExpression": "@local.syncing",
                 "matchedExpression": "@local.syncing",
                 "type": "local",
                 "fieldName": "syncing"
               }
             ],
-            "_cleaned": [
+            "condition": [
               {
-                "fullExpression": "click | set_local: sync_status: @local.syncing",
-                "matchedExpression": "@local.syncing",
+                "fullExpression": "@local.sync_status",
+                "matchedExpression": "@local.sync_status",
                 "type": "local",
-                "fieldName": "syncing"
+                "fieldName": "sync_status"
               }
             ]
+          },
+          "_dynamicDependencies": {
+            "@local.syncing": [
+              "value"
+            ],
+            "@local.sync_status": [
+              "condition"
+            ]
           }
-        },
-        "condition": [
-          {
-            "fullExpression": "!@local.sync_status",
-            "matchedExpression": "!@local.sync_status",
-            "type": "local",
-            "fieldName": "sync_status"
-          }
-        ]
-      },
-      "_dynamicDependencies": {
-        "@local.syncing": [
-          "action_list.0.args.1",
-          "action_list.0._raw",
-          "action_list.0._cleaned",
-          "action_list.1.args.1",
-          "action_list.1._raw",
-          "action_list.1._cleaned"
-        ],
-        "!@local.sync_status": [
-          "condition"
-        ]
-      }
-    },
-    {
-      "type": "button",
-      "name": "sync_button_disabled",
-      "value": "@local.syncing",
-      "_translations": {
-        "value": {}
-      },
-      "condition": "@local.sync_status",
-      "parameter_list": {
-        "disabled": "true"
-      },
-      "_nested_name": "sync_button_disabled",
-      "_dynamicFields": {
-        "value": [
-          {
-            "fullExpression": "@local.syncing",
-            "matchedExpression": "@local.syncing",
-            "type": "local",
-            "fieldName": "syncing"
-          }
-        ],
-        "condition": [
-          {
-            "fullExpression": "@local.sync_status",
-            "matchedExpression": "@local.sync_status",
-            "type": "local",
-            "fieldName": "sync_status"
-          }
-        ]
-      },
-      "_dynamicDependencies": {
-        "@local.syncing": [
-          "value"
-        ],
-        "@local.sync_status": [
-          "condition"
-        ]
-      }
+        }
+      ],
+      "_nested_name": "dg_bottom"
     }
   ],
   "_xlsxPath": "templates/profile.xlsx"
