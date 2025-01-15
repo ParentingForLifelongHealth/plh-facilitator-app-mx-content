@@ -18,8 +18,7 @@
       "parameter_list": {
         "sticky": "top",
         "background_image_asset": "images/backgrounds/home_top_left.svg",
-        "background_image_position": "top left",
-        "style": "background_solid"
+        "background_image_position": "top left"
       },
       "style_list": [
         "width: 105%",
@@ -39,53 +38,46 @@
             "max-width: 72px"
           ],
           "_nested_name": "dg_top.logo"
-        },
-        {
-          "type": "display_group",
-          "name": "dg_center",
-          "style_list": [
-            "justify-content: center"
-          ],
-          "rows": [
-            {
-              "type": "task_progress_bar",
-              "name": "task_progress_bar",
-              "parameter_list": {
-                "task_group_data": "sub_items",
-                "completed_field": "completed",
-                "variant": "wheel"
-              },
-              "_nested_name": "dg_top.dg_center.task_progress_bar"
-            }
-          ],
-          "_nested_name": "dg_top.dg_center"
-        },
-        {
-          "type": "button",
-          "name": "report",
-          "value": "Submit Report",
-          "_translations": {
-            "value": {}
-          },
-          "parameter_list": {
-            "icon_src": "images/icons/edit.svg"
-          },
-          "_nested_name": "dg_top.report"
-        },
-        {
-          "type": "button",
-          "name": "support",
-          "value": "Get Support",
-          "_translations": {
-            "value": {}
-          },
-          "parameter_list": {
-            "icon_src": "images/icons/help.svg"
-          },
-          "_nested_name": "dg_top.support"
         }
       ],
       "_nested_name": "dg_top"
+    },
+    {
+      "type": "task_progress_bar",
+      "name": "task_progress_bar",
+      "parameter_list": {
+        "task_group_data": "sub_items",
+        "completed_field": "completed",
+        "variant": "wheel"
+      },
+      "style_list": [
+        "margin: auto"
+      ],
+      "_nested_name": "task_progress_bar"
+    },
+    {
+      "type": "button",
+      "name": "report",
+      "value": "Submit Report",
+      "_translations": {
+        "value": {}
+      },
+      "parameter_list": {
+        "icon_src": "images/icons/edit.svg"
+      },
+      "_nested_name": "report"
+    },
+    {
+      "type": "button",
+      "name": "support",
+      "value": "Get Support",
+      "_translations": {
+        "value": {}
+      },
+      "parameter_list": {
+        "icon_src": "images/icons/help.svg"
+      },
+      "_nested_name": "support"
     },
     {
       "type": "display_group",
