@@ -13,16 +13,35 @@
       "_nested_name": "module_id"
     },
     {
-      "type": "image",
-      "name": "logo",
-      "value": "images/logos/bird_on_light.svg",
-      "_translations": {
-        "value": {}
+      "type": "display_group",
+      "name": "dg_top",
+      "parameter_list": {
+        "sticky": "top",
+        "background_image_asset": "images/backgrounds/home_top_left.svg",
+        "background_image_position": "top left",
+        "style": "background_solid"
       },
       "style_list": [
-        "width: 96px"
+        "width: 105%",
+        "align-items: flex-start",
+        "padding: 24px",
+        "min-height: 192px"
       ],
-      "_nested_name": "logo"
+      "rows": [
+        {
+          "type": "image",
+          "name": "logo",
+          "value": "images/logos/bird_on_light.svg",
+          "_translations": {
+            "value": {}
+          },
+          "style_list": [
+            "max-width: 72px"
+          ],
+          "_nested_name": "dg_top.logo"
+        }
+      ],
+      "_nested_name": "dg_top"
     },
     {
       "type": "task_progress_bar",
@@ -32,6 +51,9 @@
         "completed_field": "completed",
         "variant": "wheel"
       },
+      "style_list": [
+        "margin: auto"
+      ],
       "_nested_name": "task_progress_bar"
     },
     {
@@ -57,6 +79,21 @@
         "icon_src": "images/icons/help.svg"
       },
       "_nested_name": "support"
+    },
+    {
+      "type": "display_group",
+      "name": "dg_footer",
+      "parameter_list": {
+        "sticky": "bottom",
+        "background_image_asset": "images/backgrounds/home_bottom_right.svg",
+        "background_image_position": "bottom right"
+      },
+      "style_list": [
+        "width: 110%",
+        "min-height: 144px"
+      ],
+      "rows": [],
+      "_nested_name": "dg_footer"
     }
   ],
   "_xlsxPath": "menu_sub_tasks/menu_sub_tasks.xlsx"
