@@ -70,30 +70,6 @@
       }
     },
     {
-      "type": "title",
-      "name": "title",
-      "value": "@local.title_label",
-      "_translations": {
-        "value": {}
-      },
-      "_nested_name": "title",
-      "_dynamicFields": {
-        "value": [
-          {
-            "fullExpression": "@local.title_label",
-            "matchedExpression": "@local.title_label",
-            "type": "local",
-            "fieldName": "title_label"
-          }
-        ]
-      },
-      "_dynamicDependencies": {
-        "@local.title_label": [
-          "value"
-        ]
-      }
-    },
-    {
       "type": "template",
       "name": "header",
       "value": "section_header",
@@ -156,8 +132,8 @@
         "value": {}
       },
       "condition": false,
-      "name": "text_10",
-      "_nested_name": "text_10",
+      "name": "text_9",
+      "_nested_name": "text_9",
       "_dynamicFields": {
         "value": [
           {
@@ -201,7 +177,7 @@
               },
               "condition": false,
               "name": "text_1",
-              "_nested_name": "data_items_11.display_group_1.text_1",
+              "_nested_name": "data_items_10.display_group_1.text_1",
               "_dynamicFields": {
                 "value": [
                   {
@@ -226,7 +202,7 @@
                 "value": {}
               },
               "condition": "@item._last",
-              "_nested_name": "data_items_11.display_group_1.current_group_no",
+              "_nested_name": "data_items_10.display_group_1.current_group_no",
               "_dynamicFields": {
                 "value": [
                   {
@@ -256,11 +232,11 @@
             }
           ],
           "name": "display_group_1",
-          "_nested_name": "data_items_11.display_group_1"
+          "_nested_name": "data_items_10.display_group_1"
         }
       ],
-      "name": "data_items_11",
-      "_nested_name": "data_items_11",
+      "name": "data_items_10",
+      "_nested_name": "data_items_10",
       "_dynamicFields": {
         "action_list": {
           "0": {
@@ -408,7 +384,7 @@
           },
           "condition": false,
           "name": "text_1",
-          "_nested_name": "data_items_14.text_1",
+          "_nested_name": "data_items_13.text_1",
           "_dynamicFields": {
             "value": [
               {
@@ -433,7 +409,7 @@
           },
           "condition": false,
           "name": "text_2",
-          "_nested_name": "data_items_14.text_2",
+          "_nested_name": "data_items_13.text_2",
           "_dynamicFields": {
             "value": [
               {
@@ -461,7 +437,7 @@
                 "value": {}
               },
               "type": "set_variable",
-              "_nested_name": "data_items_14.display_group_3.parent_name",
+              "_nested_name": "data_items_13.display_group_3.parent_name",
               "_dynamicFields": {
                 "value": [
                   {
@@ -504,7 +480,7 @@
                     "value": {}
                   },
                   "condition": true,
-                  "_nested_name": "data_items_14.display_group_3.display_group_2.text_@item.parent_no",
+                  "_nested_name": "data_items_13.display_group_3.display_group_2.text_@item.parent_no",
                   "_dynamicFields": {
                     "name": [
                       {
@@ -530,7 +506,7 @@
                     ],
                     "_nested_name": [
                       {
-                        "fullExpression": "data_items_14.display_group_3.display_group_2.text_@item.parent_no",
+                        "fullExpression": "data_items_13.display_group_3.display_group_2.text_@item.parent_no",
                         "matchedExpression": "@item.parent_no",
                         "type": "item",
                         "fieldName": "parent_no"
@@ -558,7 +534,7 @@
                   },
                   "condition": "@item.co_parent_id",
                   "name": "text_2",
-                  "_nested_name": "data_items_14.display_group_3.display_group_2.text_2",
+                  "_nested_name": "data_items_13.display_group_3.display_group_2.text_2",
                   "_dynamicFields": {
                     "value": [
                       {
@@ -588,7 +564,7 @@
                 }
               ],
               "name": "display_group_2",
-              "_nested_name": "data_items_14.display_group_3.display_group_2"
+              "_nested_name": "data_items_13.display_group_3.display_group_2"
             },
             {
               "type": "round_button",
@@ -618,7 +594,7 @@
                 "icon_src": "images/icons/group_add.svg"
               },
               "condition": "!@item.co_parent_id",
-              "_nested_name": "data_items_14.display_group_3.button_co_add_@item.id",
+              "_nested_name": "data_items_13.display_group_3.button_co_add_@item.id",
               "_dynamicFields": {
                 "name": [
                   {
@@ -668,7 +644,7 @@
                 ],
                 "_nested_name": [
                   {
-                    "fullExpression": "data_items_14.display_group_3.button_co_add_@item.id",
+                    "fullExpression": "data_items_13.display_group_3.button_co_add_@item.id",
                     "matchedExpression": "@item.id",
                     "type": "item",
                     "fieldName": "id"
@@ -710,7 +686,7 @@
                 "icon_src": "images/icons/person_remove.svg"
               },
               "condition": "@item.co_parent_id",
-              "_nested_name": "data_items_14.display_group_3.button_co_remove_@item.id",
+              "_nested_name": "data_items_13.display_group_3.button_co_remove_@item.id",
               "_dynamicFields": {
                 "name": [
                   {
@@ -760,7 +736,7 @@
                 ],
                 "_nested_name": [
                   {
-                    "fullExpression": "data_items_14.display_group_3.button_co_remove_@item.id",
+                    "fullExpression": "data_items_13.display_group_3.button_co_remove_@item.id",
                     "matchedExpression": "@item.id",
                     "type": "item",
                     "fieldName": "id"
@@ -841,7 +817,7 @@
                 "icon_src": "images/icons/edit.svg"
               },
               "condition": true,
-              "_nested_name": "data_items_14.display_group_3.button_edit_@item.id",
+              "_nested_name": "data_items_13.display_group_3.button_edit_@item.id",
               "_dynamicFields": {
                 "name": [
                   {
@@ -967,7 +943,7 @@
                 },
                 "_nested_name": [
                   {
-                    "fullExpression": "data_items_14.display_group_3.button_edit_@item.id",
+                    "fullExpression": "data_items_13.display_group_3.button_edit_@item.id",
                     "matchedExpression": "@item.id",
                     "type": "item",
                     "fieldName": "id"
@@ -1038,7 +1014,7 @@
                 "icon_src": "images/icons/delete.svg"
               },
               "condition": true,
-              "_nested_name": "data_items_14.display_group_3.button_delete_@item.id",
+              "_nested_name": "data_items_13.display_group_3.button_delete_@item.id",
               "_dynamicFields": {
                 "name": [
                   {
@@ -1126,7 +1102,7 @@
                 },
                 "_nested_name": [
                   {
-                    "fullExpression": "data_items_14.display_group_3.button_delete_@item.id",
+                    "fullExpression": "data_items_13.display_group_3.button_delete_@item.id",
                     "matchedExpression": "@item.id",
                     "type": "item",
                     "fieldName": "id"
@@ -1155,7 +1131,7 @@
             }
           ],
           "name": "display_group_3",
-          "_nested_name": "data_items_14.display_group_3",
+          "_nested_name": "data_items_13.display_group_3",
           "_dynamicFields": {
             "condition": [
               {
@@ -1191,8 +1167,8 @@
           }
         }
       ],
-      "name": "data_items_14",
-      "_nested_name": "data_items_14"
+      "name": "data_items_13",
+      "_nested_name": "data_items_13"
     },
     {
       "type": "display_group",
@@ -1204,7 +1180,7 @@
             "value": {}
           },
           "name": "text_1",
-          "_nested_name": "display_group_16.text_1"
+          "_nested_name": "display_group_15.text_1"
         },
         {
           "type": "round_button",
@@ -1227,11 +1203,11 @@
             "icon_src": "images/icons/add_circle.svg"
           },
           "name": "round_button_2",
-          "_nested_name": "display_group_16.round_button_2"
+          "_nested_name": "display_group_15.round_button_2"
         }
       ],
-      "name": "display_group_16",
-      "_nested_name": "display_group_16"
+      "name": "display_group_15",
+      "_nested_name": "display_group_15"
     },
     {
       "type": "display_group",
@@ -1279,7 +1255,7 @@
             "variant": "card",
             "text_align": "center"
           },
-          "_nested_name": "display_group_18.save",
+          "_nested_name": "display_group_17.save",
           "_dynamicFields": {
             "action_list": {
               "0": {
@@ -1369,8 +1345,8 @@
           }
         }
       ],
-      "name": "display_group_18",
-      "_nested_name": "display_group_18"
+      "name": "display_group_17",
+      "_nested_name": "display_group_17"
     }
   ],
   "_xlsxPath": "templates/profile.xlsx"

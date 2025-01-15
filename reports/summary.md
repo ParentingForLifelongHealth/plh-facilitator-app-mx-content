@@ -12,7 +12,7 @@
 | data_items | 19 |
 | debug_toggle | 1 |
 | display_grid | 4 |
-| display_group | 88 |
+| display_group | 92 |
 | drawer | 2 |
 | image | 9 |
 | items | 38 |
@@ -24,15 +24,15 @@
 | round_button | 32 |
 | select_text | 1 |
 | set_field | 3 |
-| set_variable | 773 |
+| set_variable | 778 |
 | simple_checkbox | 2 |
 | task_card | 4 |
 | task_progress_bar | 2 |
-| template | 198 |
-| text | 153 |
+| template | 202 |
+| text | 154 |
 | text_area | 2 |
 | text_box | 21 |
-| title | 46 |
+| title | 44 |
 | toggle_bar | 4 |
 | update_action_list | 3 |
 | video | 2 |
@@ -51,7 +51,7 @@
 | emit: force_restart | 3 |
 | emit: server_sync | 6 |
 | emit: set_language | 1 |
-| emit: uncompleted | 14 |
+| emit: uncompleted | 18 |
 | feedback | 13 |
 | filter | 2 |
 | go_to | 31 |
@@ -73,7 +73,7 @@
 
 | assets | KB | MB |
 | --- | --- | --- |
-| total | 116044 KB | 116 MB |
+| total | 116046 KB | 116 MB |
 | unused | 775 KB | 0.8 MB |
 </details>
 
@@ -139,8 +139,9 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | path | size_kb | count |
 | --- | --- | --- |
 | images/after_disclosed_abuse.svg | 4.7 | 2 |
-| images/backgrounds/home_bottom_right.svg | 2.3 | 1 |
-| images/backgrounds/home_top_left.svg | 2.4 | 1 |
+| images/backgrounds/home_bottom_right.svg | 2.3 | 2 |
+| images/backgrounds/home_top_left.svg | 2.4 | 2 |
+| images/backgrounds/library_bottom_left.svg | 2.3 | 1 |
 | images/backgrounds/report_edit.svg | 0.2 | 1 |
 | images/backgrounds/reports_top_right.svg | 2 | 1 |
 | images/contact_for_reporting_abuse.svg | 6.3 | 1 |
