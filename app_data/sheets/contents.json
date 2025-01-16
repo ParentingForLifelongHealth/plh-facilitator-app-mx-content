@@ -192,6 +192,30 @@
       "_metadata": {
         "archived": {
           "type": "boolean"
+        },
+        "onboarding_day_chat": {
+          "type": "boolean"
+        },
+        "day_3_mh_stress": {
+          "type": "boolean"
+        },
+        "day_5_final_chat_session_5ux": {
+          "type": "boolean"
+        },
+        "before_chat": {
+          "type": "boolean"
+        },
+        "week_1_chat": {
+          "type": "boolean"
+        },
+        "week_2_chat": {
+          "type": "boolean"
+        },
+        "week_3_chat": {
+          "type": "boolean"
+        },
+        "week_4_chat": {
+          "type": "boolean"
         }
       }
     },
@@ -2530,6 +2554,18 @@
       "flow_type": "template",
       "flow_name": "add_parent",
       "_xlsxPath": "templates/profile.xlsx"
+    },
+    "add_report": {
+      "flow_type": "template",
+      "flow_name": "add_report",
+      "parameter_list": {
+        "app_config": {
+          "APP_FOOTER_DEFAULTS": {
+            "templateName": false
+          }
+        }
+      },
+      "_xlsxPath": "reports.xlsx"
     },
     "app_about": {
       "flow_type": "template",

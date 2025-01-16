@@ -19,6 +19,10 @@
           "name": "module_id",
           "value": "@gen.id",
           "exclude_from_translation": true
+        },
+        {
+          "name": "module_name",
+          "value": "@gen.name"
         }
       ]
     }
