@@ -15,7 +15,7 @@
       },
       {
         "type": "button",
-        "count": 71
+        "count": 72
       },
       {
         "type": "carousel",
@@ -39,7 +39,7 @@
       },
       {
         "type": "display_group",
-        "count": 92
+        "count": 95
       },
       {
         "type": "drawer",
@@ -83,11 +83,11 @@
       },
       {
         "type": "set_field",
-        "count": 3
+        "count": 2
       },
       {
         "type": "set_variable",
-        "count": 778
+        "count": 787
       },
       {
         "type": "simple_checkbox",
@@ -103,11 +103,11 @@
       },
       {
         "type": "template",
-        "count": 202
+        "count": 204
       },
       {
         "type": "text",
-        "count": 154
+        "count": 159
       },
       {
         "type": "text_area",
@@ -115,7 +115,7 @@
       },
       {
         "type": "text_box",
-        "count": 21
+        "count": 24
       },
       {
         "type": "title",
@@ -123,7 +123,7 @@
       },
       {
         "type": "toggle_bar",
-        "count": 4
+        "count": 5
       },
       {
         "type": "update_action_list",
@@ -147,7 +147,7 @@
       },
       {
         "type": "emit: completed",
-        "count": 21
+        "count": 22
       },
       {
         "type": "emit: force_reload",
@@ -171,7 +171,7 @@
       },
       {
         "type": "emit: uncompleted",
-        "count": 18
+        "count": 63
       },
       {
         "type": "feedback",
@@ -179,11 +179,11 @@
       },
       {
         "type": "filter",
-        "count": 2
+        "count": 1
       },
       {
         "type": "go_to",
-        "count": 31
+        "count": 36
       },
       {
         "type": "go_to_url",
@@ -195,7 +195,7 @@
       },
       {
         "type": "pop_up",
-        "count": 19
+        "count": 15
       },
       {
         "type": "reset_app",
@@ -211,11 +211,11 @@
       },
       {
         "type": "set_field",
-        "count": 52
+        "count": 54
       },
       {
         "type": "set_item",
-        "count": 7
+        "count": 8
       },
       {
         "type": "set_local",
@@ -265,7 +265,7 @@
       },
       {
         "path": "contents.json",
-        "size_kb": 2.7
+        "size_kb": 2.8
       },
       {
         "path": "images/Message.png",
@@ -424,7 +424,7 @@
       },
       {
         "path": "images/backgrounds/report_edit.svg",
-        "count": 1,
+        "count": 2,
         "size_kb": 0.2
       },
       {
@@ -904,7 +904,7 @@
       {
         "type": "template",
         "subtype": null,
-        "total": 74
+        "total": 75
       },
       {
         "type": "template",

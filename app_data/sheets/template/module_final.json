@@ -13,6 +13,15 @@
       "_nested_name": "module_id"
     },
     {
+      "name": "module_name",
+      "value": "test",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "module_name"
+    },
+    {
       "type": "display_group",
       "name": "dg_top",
       "parameter_list": {
@@ -62,10 +71,113 @@
       "_translations": {
         "value": {}
       },
+      "action_list": [
+        {
+          "trigger": "click",
+          "action_id": "set_field",
+          "args": [
+            "current_module_no",
+            "@local.module_id"
+          ],
+          "_raw": "click | set_field: current_module_no: @local.module_id",
+          "_cleaned": "click | set_field: current_module_no: @local.module_id"
+        },
+        {
+          "trigger": "click",
+          "action_id": "set_field",
+          "args": [
+            "current_module",
+            "@local.module_name"
+          ],
+          "_raw": "click | set_field: current_module: @local.module_name",
+          "_cleaned": "click | set_field: current_module: @local.module_name"
+        },
+        {
+          "trigger": "click",
+          "action_id": "go_to",
+          "args": [
+            "add_report"
+          ],
+          "_raw": "click | go_to: add_report",
+          "_cleaned": "click | go_to: add_report"
+        }
+      ],
       "parameter_list": {
         "icon_src": "images/icons/edit.svg"
       },
-      "_nested_name": "report"
+      "_nested_name": "report",
+      "_dynamicFields": {
+        "action_list": {
+          "0": {
+            "args": {
+              "1": [
+                {
+                  "fullExpression": "@local.module_id",
+                  "matchedExpression": "@local.module_id",
+                  "type": "local",
+                  "fieldName": "module_id"
+                }
+              ]
+            },
+            "_raw": [
+              {
+                "fullExpression": "click | set_field: current_module_no: @local.module_id",
+                "matchedExpression": "@local.module_id",
+                "type": "local",
+                "fieldName": "module_id"
+              }
+            ],
+            "_cleaned": [
+              {
+                "fullExpression": "click | set_field: current_module_no: @local.module_id",
+                "matchedExpression": "@local.module_id",
+                "type": "local",
+                "fieldName": "module_id"
+              }
+            ]
+          },
+          "1": {
+            "args": {
+              "1": [
+                {
+                  "fullExpression": "@local.module_name",
+                  "matchedExpression": "@local.module_name",
+                  "type": "local",
+                  "fieldName": "module_name"
+                }
+              ]
+            },
+            "_raw": [
+              {
+                "fullExpression": "click | set_field: current_module: @local.module_name",
+                "matchedExpression": "@local.module_name",
+                "type": "local",
+                "fieldName": "module_name"
+              }
+            ],
+            "_cleaned": [
+              {
+                "fullExpression": "click | set_field: current_module: @local.module_name",
+                "matchedExpression": "@local.module_name",
+                "type": "local",
+                "fieldName": "module_name"
+              }
+            ]
+          }
+        }
+      },
+      "_dynamicDependencies": {
+        "@local.module_id": [
+          "action_list.0.args.1",
+          "action_list.0._raw",
+          "action_list.0._cleaned"
+        ],
+        "@local.module_name": [
+          "action_list.1.args.1",
+          "action_list.1._raw",
+          "action_list.1._cleaned"
+        ]
+      }
     },
     {
       "type": "button",

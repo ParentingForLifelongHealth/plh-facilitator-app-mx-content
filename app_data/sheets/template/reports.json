@@ -16,7 +16,8 @@
       "parameter_list": {
         "sticky": "top",
         "background_image_asset": "images/backgrounds/reports_top_right.svg",
-        "background_image_position": "top right"
+        "background_image_position": "top right",
+        "style": "background_solid"
       },
       "style_list": [
         "width: 100%",

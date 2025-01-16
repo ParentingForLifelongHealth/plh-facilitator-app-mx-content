@@ -93,7 +93,7 @@
             },
             {
               "name": "group_name",
-              "value": "@item.name",
+              "value": "@item.text",
               "_translations": {
                 "value": {}
               },
@@ -102,15 +102,15 @@
               "_dynamicFields": {
                 "value": [
                   {
-                    "fullExpression": "@item.name",
-                    "matchedExpression": "@item.name",
+                    "fullExpression": "@item.text",
+                    "matchedExpression": "@item.text",
                     "type": "item",
-                    "fieldName": "name"
+                    "fieldName": "text"
                   }
                 ]
               },
               "_dynamicDependencies": {
-                "@item.name": [
+                "@item.text": [
                   "value"
                 ]
               }
