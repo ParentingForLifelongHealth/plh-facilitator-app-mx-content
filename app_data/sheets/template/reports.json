@@ -2,13 +2,6 @@
   "flow_type": "template",
   "flow_name": "reports",
   "status": "released",
-  "parameter_list": {
-    "app_config": {
-      "APP_FOOTER_DEFAULTS": {
-        "templateName": "footer"
-      }
-    }
-  },
   "rows": [
     {
       "type": "display_group",

@@ -128,11 +128,11 @@
               "trigger": "click",
               "action_id": "set_data",
               "args": [],
-              "_raw": "click | set_data |\n_list_id: parent_groups,\n_id: @fields.current_group_no,\narchived: TRUE",
-              "_cleaned": "click | set_data |\n_list_id: parent_groups,\n_id: @fields.current_group_no,\narchived: TRUE",
+              "_raw": "click | set_data |\n_list_id: parent_groups,\n_id: @fields.current_group_id,\narchived: TRUE",
+              "_cleaned": "click | set_data |\n_list_id: parent_groups,\n_id: @fields.current_group_id,\narchived: TRUE",
               "params": {
                 "_list_id": "parent_groups",
-                "_id": "@fields.current_group_no",
+                "_id": "@fields.current_group_id",
                 "archived": true
               }
             },
@@ -158,27 +158,27 @@
               "0": {
                 "_raw": [
                   {
-                    "fullExpression": "click | set_data |\n_list_id: parent_groups,\n_id: @fields.current_group_no,\narchived: TRUE",
-                    "matchedExpression": "@fields.current_group_no",
+                    "fullExpression": "click | set_data |\n_list_id: parent_groups,\n_id: @fields.current_group_id,\narchived: TRUE",
+                    "matchedExpression": "@fields.current_group_id",
                     "type": "fields",
-                    "fieldName": "current_group_no"
+                    "fieldName": "current_group_id"
                   }
                 ],
                 "_cleaned": [
                   {
-                    "fullExpression": "click | set_data |\n_list_id: parent_groups,\n_id: @fields.current_group_no,\narchived: TRUE",
-                    "matchedExpression": "@fields.current_group_no",
+                    "fullExpression": "click | set_data |\n_list_id: parent_groups,\n_id: @fields.current_group_id,\narchived: TRUE",
+                    "matchedExpression": "@fields.current_group_id",
                     "type": "fields",
-                    "fieldName": "current_group_no"
+                    "fieldName": "current_group_id"
                   }
                 ],
                 "params": {
                   "_id": [
                     {
-                      "fullExpression": "@fields.current_group_no",
-                      "matchedExpression": "@fields.current_group_no",
+                      "fullExpression": "@fields.current_group_id",
+                      "matchedExpression": "@fields.current_group_id",
                       "type": "fields",
-                      "fieldName": "current_group_no"
+                      "fieldName": "current_group_id"
                     }
                   ]
                 }
@@ -186,7 +186,7 @@
             }
           },
           "_dynamicDependencies": {
-            "@fields.current_group_no": [
+            "@fields.current_group_id": [
               "action_list.0._raw",
               "action_list.0._cleaned",
               "action_list.0.params._id"

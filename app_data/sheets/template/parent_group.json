@@ -19,6 +19,12 @@
       "_nested_name": "group_name"
     },
     {
+      "name": "group_no",
+      "value": 1,
+      "type": "set_variable",
+      "_nested_name": "group_no"
+    },
+    {
       "type": "display_group",
       "name": "dg_parent_@item.parent_no",
       "rows": [
@@ -87,11 +93,21 @@
               "trigger": "click",
               "action_id": "set_field",
               "args": [
-                "current_group_no",
+                "current_group_id",
                 "@local.group_id"
               ],
-              "_raw": "click | set_field: current_group_no: @local.group_id",
-              "_cleaned": "click | set_field: current_group_no: @local.group_id"
+              "_raw": "click | set_field: current_group_id: @local.group_id",
+              "_cleaned": "click | set_field: current_group_id: @local.group_id"
+            },
+            {
+              "trigger": "click",
+              "action_id": "set_field",
+              "args": [
+                "current_group_no",
+                "@local.group_no"
+              ],
+              "_raw": "click | set_field: current_group_no: @local.group_no",
+              "_cleaned": "click | set_field: current_group_no: @local.group_no"
             },
             {
               "trigger": "click",
@@ -141,7 +157,7 @@
                 },
                 "_raw": [
                   {
-                    "fullExpression": "click | set_field: current_group_no: @local.group_id",
+                    "fullExpression": "click | set_field: current_group_id: @local.group_id",
                     "matchedExpression": "@local.group_id",
                     "type": "local",
                     "fieldName": "group_id"
@@ -149,7 +165,7 @@
                 ],
                 "_cleaned": [
                   {
-                    "fullExpression": "click | set_field: current_group_no: @local.group_id",
+                    "fullExpression": "click | set_field: current_group_id: @local.group_id",
                     "matchedExpression": "@local.group_id",
                     "type": "local",
                     "fieldName": "group_id"
@@ -157,6 +173,34 @@
                 ]
               },
               "1": {
+                "args": {
+                  "1": [
+                    {
+                      "fullExpression": "@local.group_no",
+                      "matchedExpression": "@local.group_no",
+                      "type": "local",
+                      "fieldName": "group_no"
+                    }
+                  ]
+                },
+                "_raw": [
+                  {
+                    "fullExpression": "click | set_field: current_group_no: @local.group_no",
+                    "matchedExpression": "@local.group_no",
+                    "type": "local",
+                    "fieldName": "group_no"
+                  }
+                ],
+                "_cleaned": [
+                  {
+                    "fullExpression": "click | set_field: current_group_no: @local.group_no",
+                    "matchedExpression": "@local.group_no",
+                    "type": "local",
+                    "fieldName": "group_no"
+                  }
+                ]
+              },
+              "2": {
                 "args": {
                   "1": [
                     {
@@ -208,10 +252,15 @@
               "action_list.0._cleaned",
               "_nested_name"
             ],
-            "@local.group_name": [
+            "@local.group_no": [
               "action_list.1.args.1",
               "action_list.1._raw",
               "action_list.1._cleaned"
+            ],
+            "@local.group_name": [
+              "action_list.2.args.1",
+              "action_list.2._raw",
+              "action_list.2._cleaned"
             ],
             "@item.parent_no.button_edit_": [
               "_nested_name"
@@ -226,11 +275,11 @@
               "trigger": "click",
               "action_id": "set_field",
               "args": [
-                "current_group_no",
+                "current_group_id",
                 "@local.group_id"
               ],
-              "_raw": "click | set_field: current_group_no: @local.group_id",
-              "_cleaned": "click | set_field: current_group_no: @local.group_id"
+              "_raw": "click | set_field: current_group_id: @local.group_id",
+              "_cleaned": "click | set_field: current_group_id: @local.group_id"
             },
             {
               "trigger": "click",
@@ -281,7 +330,7 @@
                 },
                 "_raw": [
                   {
-                    "fullExpression": "click | set_field: current_group_no: @local.group_id",
+                    "fullExpression": "click | set_field: current_group_id: @local.group_id",
                     "matchedExpression": "@local.group_id",
                     "type": "local",
                     "fieldName": "group_id"
@@ -289,7 +338,7 @@
                 ],
                 "_cleaned": [
                   {
-                    "fullExpression": "click | set_field: current_group_no: @local.group_id",
+                    "fullExpression": "click | set_field: current_group_id: @local.group_id",
                     "matchedExpression": "@local.group_id",
                     "type": "local",
                     "fieldName": "group_id"

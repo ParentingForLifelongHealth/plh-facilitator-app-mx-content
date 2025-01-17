@@ -2,13 +2,6 @@
   "flow_type": "template",
   "flow_name": "edit_report",
   "status": "released",
-  "parameter_list": {
-    "app_config": {
-      "APP_FOOTER_DEFAULTS": {
-        "templateName": false
-      }
-    }
-  },
   "rows": [
     {
       "type": "display_group",

@@ -4,6 +4,30 @@
   "status": "released",
   "rows": [
     {
+      "type": "template",
+      "name": "header",
+      "value": "section_header",
+      "action_list": [
+        {
+          "trigger": "uncompleted",
+          "action_id": "emit",
+          "args": [
+            "uncompleted"
+          ],
+          "_raw": "uncompleted | emit: uncompleted",
+          "_cleaned": "uncompleted | emit: uncompleted"
+        }
+      ],
+      "rows": [
+        {
+          "name": "title",
+          "type": "set_variable",
+          "_nested_name": "header.title"
+        }
+      ],
+      "_nested_name": "header"
+    },
+    {
       "type": "display_group",
       "parameter_list": {
         "style": "column"
@@ -16,7 +40,7 @@
             "value": {}
           },
           "name": "text_1",
-          "_nested_name": "display_group_2.text_1"
+          "_nested_name": "display_group_4.text_1"
         },
         {
           "type": "text_box",
@@ -24,7 +48,7 @@
           "parameter_list": {
             "placeholder": "Parent's first name"
           },
-          "_nested_name": "display_group_2.first_name"
+          "_nested_name": "display_group_4.first_name"
         },
         {
           "type": "text",
@@ -33,7 +57,7 @@
             "value": {}
           },
           "name": "text_3",
-          "_nested_name": "display_group_2.text_3"
+          "_nested_name": "display_group_4.text_3"
         },
         {
           "type": "text_box",
@@ -41,7 +65,7 @@
           "parameter_list": {
             "placeholder": "Parent's last name"
           },
-          "_nested_name": "display_group_2.last_name"
+          "_nested_name": "display_group_4.last_name"
         },
         {
           "type": "text",
@@ -50,7 +74,7 @@
             "value": {}
           },
           "name": "text_5",
-          "_nested_name": "display_group_2.text_5"
+          "_nested_name": "display_group_4.text_5"
         },
         {
           "type": "text_box",
@@ -58,11 +82,11 @@
           "parameter_list": {
             "placeholder": "Parent App ID"
           },
-          "_nested_name": "display_group_2.text_id"
+          "_nested_name": "display_group_4.text_id"
         }
       ],
-      "name": "display_group_2",
-      "_nested_name": "display_group_2"
+      "name": "display_group_4",
+      "_nested_name": "display_group_4"
     },
     {
       "type": "display_group",
@@ -112,7 +136,7 @@
           "style_list": [
             "flex: 1"
           ],
-          "_nested_name": "display_group_4.save",
+          "_nested_name": "display_group_6.save",
           "_dynamicFields": {
             "action_list": {
               "0": {
@@ -288,7 +312,7 @@
           "style_list": [
             "flex: 1"
           ],
-          "_nested_name": "display_group_4.save_new",
+          "_nested_name": "display_group_6.save_new",
           "_dynamicFields": {
             "action_list": {
               "0": {
@@ -405,8 +429,8 @@
           }
         }
       ],
-      "name": "display_group_4",
-      "_nested_name": "display_group_4"
+      "name": "display_group_6",
+      "_nested_name": "display_group_6"
     }
   ],
   "_xlsxPath": "templates/profile.xlsx"

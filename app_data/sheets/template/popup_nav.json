@@ -172,10 +172,10 @@
                   "trigger": "click",
                   "action_id": "go_to",
                   "args": [
-                    "@local.final_page"
+                    "module_final"
                   ],
-                  "_raw": "click | go_to : @local.final_page",
-                  "_cleaned": "click | go_to : @local.final_page"
+                  "_raw": "click | go_to : module_final",
+                  "_cleaned": "click | go_to : module_final"
                 },
                 {
                   "trigger": "click",
@@ -193,36 +193,6 @@
               "condition": "!@item.next_article",
               "_nested_name": "items_3.display_group_1.report",
               "_dynamicFields": {
-                "action_list": {
-                  "1": {
-                    "args": {
-                      "0": [
-                        {
-                          "fullExpression": "@local.final_page",
-                          "matchedExpression": "@local.final_page",
-                          "type": "local",
-                          "fieldName": "final_page"
-                        }
-                      ]
-                    },
-                    "_raw": [
-                      {
-                        "fullExpression": "click | go_to : @local.final_page",
-                        "matchedExpression": "@local.final_page",
-                        "type": "local",
-                        "fieldName": "final_page"
-                      }
-                    ],
-                    "_cleaned": [
-                      {
-                        "fullExpression": "click | go_to : @local.final_page",
-                        "matchedExpression": "@local.final_page",
-                        "type": "local",
-                        "fieldName": "final_page"
-                      }
-                    ]
-                  }
-                },
                 "condition": [
                   {
                     "fullExpression": "!@item.next_article",
@@ -233,11 +203,6 @@
                 ]
               },
               "_dynamicDependencies": {
-                "@local.final_page": [
-                  "action_list.1.args.0",
-                  "action_list.1._raw",
-                  "action_list.1._cleaned"
-                ],
                 "!@item.next_article": [
                   "condition"
                 ]

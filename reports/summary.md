@@ -6,13 +6,13 @@
 | accordion | 1 |
 | accordion_section | 1 |
 | audio | 2 |
-| button | 72 |
+| button | 73 |
 | carousel | 1 |
 | combo_box | 3 |
 | data_items | 19 |
 | debug_toggle | 1 |
 | display_grid | 4 |
-| display_group | 95 |
+| display_group | 97 |
 | drawer | 2 |
 | image | 9 |
 | items | 38 |
@@ -21,17 +21,17 @@
 | pdf | 1 |
 | qr_code | 1 |
 | radio_button_grid | 4 |
-| round_button | 32 |
+| round_button | 37 |
 | select_text | 1 |
-| set_field | 2 |
-| set_variable | 787 |
+| set_field | 1 |
+| set_variable | 772 |
 | simple_checkbox | 2 |
-| task_card | 4 |
+| task_card | 3 |
 | task_progress_bar | 2 |
-| template | 204 |
-| text | 159 |
+| template | 201 |
+| text | 166 |
 | text_area | 2 |
-| text_box | 24 |
+| text_box | 25 |
 | title | 44 |
 | toggle_bar | 5 |
 | update_action_list | 3 |
@@ -45,25 +45,24 @@
 | --- | --- |
 | add_data | 4 |
 | app_update | 1 |
-| emit: completed | 22 |
-| emit: force_reload | 6 |
+| emit: completed | 24 |
+| emit: force_reload | 5 |
 | emit: force_reprocess | 9 |
 | emit: force_restart | 3 |
-| emit: server_sync | 6 |
+| emit: server_sync | 5 |
 | emit: set_language | 1 |
-| emit: uncompleted | 63 |
+| emit: uncompleted | 66 |
 | feedback | 13 |
-| filter | 1 |
-| go_to | 36 |
+| go_to | 41 |
 | go_to_url | 1 |
-| nav_stack | 5 |
+| nav_stack | 4 |
 | pop_up | 15 |
 | reset_app | 1 |
 | save_to_device | 3 |
-| set_data | 10 |
-| set_field | 54 |
+| set_data | 13 |
+| set_field | 64 |
 | set_item | 8 |
-| set_local | 18 |
+| set_local | 19 |
 | share | 2 |
 | user | 1 |
 </details>
@@ -126,9 +125,9 @@ Assets that have references within sheets but do not appear in app-data
 
 | path | count |
 | --- | --- |
-| images/icons/in_progress.svg | 5 |
+| images/icons/in_progress.svg | 3 |
 | images/icons/tick.svg | 1 |
-| images/icons/tick_white.svg | 4 |
+| images/icons/tick_white.svg | 2 |
 </details>
 
 <details >
@@ -139,7 +138,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | path | size_kb | count |
 | --- | --- | --- |
 | images/after_disclosed_abuse.svg | 4.7 | 2 |
-| images/backgrounds/home_bottom_right.svg | 2.3 | 2 |
+| images/backgrounds/home_bottom_right.svg | 2.3 | 1 |
 | images/backgrounds/home_top_left.svg | 2.4 | 2 |
 | images/backgrounds/library_bottom_left.svg | 2.3 | 1 |
 | images/backgrounds/report_edit.svg | 0.2 | 2 |
@@ -169,17 +168,17 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/how_to_chat_session.svg | 11 | 2 |
 | images/how_to_report.svg | 5.8 | 1 |
 | images/how_to_report_abuse.svg | 12.2 | 1 |
-| images/icons/add_circle.svg | 1 | 2 |
+| images/icons/add_circle.svg | 1 | 3 |
 | images/icons/arrow_back.svg | 0.5 | 1 |
 | images/icons/arrow_forward.svg | 0.4 | 2 |
 | images/icons/cancel.svg | 1.7 | 1 |
 | images/icons/check_circle.png | 0.6 | 1 |
 | images/icons/content.svg | 7.2 | 1 |
-| images/icons/delete.svg | 0.8 | 3 |
+| images/icons/delete.svg | 0.8 | 4 |
 | images/icons/docs.svg | 0.7 | 1 |
 | images/icons/download.svg | 0.7 | 2 |
-| images/icons/edit.svg | 0.9 | 4 |
-| images/icons/group_add.svg | 2.3 | 1 |
+| images/icons/edit.svg | 0.9 | 5 |
+| images/icons/group_add.svg | 2.3 | 2 |
 | images/icons/help.svg | 2.6 | 1 |
 | images/icons/home_white.svg | 1.7 | 2 |
 | images/icons/key.svg | 5.5 | 1 |
@@ -187,7 +186,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/icons/pencil_white.svg | 1.4 | 2 |
 | images/icons/people_network.svg | 6.9 | 1 |
 | images/icons/person_cog.svg | 2.9 | 2 |
-| images/icons/person_remove.svg | 1.5 | 1 |
+| images/icons/person_remove.svg | 1.5 | 2 |
 | images/icons/person_white.svg | 1.5 | 2 |
 | images/icons/profile_card.svg | 7.4 | 1 |
 | images/icons/report.png | 1.1 | 1 |
@@ -241,11 +240,11 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | data_list | lifecycle_actions | 1 |
 | data_pipe |  | 2 |
 | data_pipe | generated | 43 |
-| generator |  | 12 |
+| generator |  | 11 |
 | global |  | 11 |
 | global | legal_terms | 1 |
-| template |  | 75 |
-| template | generated | 163 |
+| template |  | 77 |
+| template | generated | 155 |
 | template | legal_terms | 4 |
 | template | menu | 1 |
 </details>

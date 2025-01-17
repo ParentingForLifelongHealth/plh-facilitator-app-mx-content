@@ -2,13 +2,6 @@
   "flow_type": "template",
   "flow_name": "add_report",
   "status": "released",
-  "parameter_list": {
-    "app_config": {
-      "APP_FOOTER_DEFAULTS": {
-        "templateName": false
-      }
-    }
-  },
   "rows": [
     {
       "name": "group_id",
