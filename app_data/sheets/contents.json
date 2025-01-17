@@ -57,15 +57,6 @@
         },
         "completed": {
           "type": "boolean"
-        },
-        "completed_id1": {
-          "type": "boolean"
-        },
-        "completed_id3": {
-          "type": "boolean"
-        },
-        "completed_id4": {
-          "type": "boolean"
         }
       }
     },
@@ -78,15 +69,6 @@
           "type": "number"
         },
         "completed": {
-          "type": "boolean"
-        },
-        "completed_id1": {
-          "type": "boolean"
-        },
-        "completed_id3": {
-          "type": "boolean"
-        },
-        "completed_id4": {
           "type": "boolean"
         }
       }
@@ -285,15 +267,6 @@
           "type": "number"
         },
         "completed": {
-          "type": "boolean"
-        },
-        "completed_id1": {
-          "type": "boolean"
-        },
-        "completed_id3": {
-          "type": "boolean"
-        },
-        "completed_id4": {
           "type": "boolean"
         }
       }
@@ -2061,59 +2034,6 @@
       "_xlsxPath": "menu_sub_tasks/menu_sub_tasks.xlsx",
       "_output_flows": []
     },
-    "gen_module_final": {
-      "flow_type": "generator",
-      "flow_name": "gen_module_final",
-      "parameter_list": {
-        "input_data_list": "modules",
-        "output_flow_name": "final_{@gen.id}",
-        "output_flow_type": "template",
-        "output_flow_subtype": "generated"
-      },
-      "_xlsxPath": "menu_sub_tasks/menu_sub_tasks.xlsx",
-      "_output_flows": [
-        {
-          "flow_name": "final_onboarding_day_chat",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
-          "flow_name": "final_day_3_mh_stress",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
-          "flow_name": "final_day_5_final_chat_session_5ux",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
-          "flow_name": "final_before_chat",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
-          "flow_name": "final_week_1_chat",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
-          "flow_name": "final_week_2_chat",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
-          "flow_name": "final_week_3_chat",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
-          "flow_name": "final_week_4_chat",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        }
-      ]
-    },
     "gen_prep_sub_items": {
       "flow_type": "generator",
       "flow_name": "gen_prep_sub_items",
@@ -2550,21 +2470,24 @@
       "flow_name": "add_coparent",
       "_xlsxPath": "templates/profile.xlsx"
     },
+    "add_group_button": {
+      "flow_type": "template",
+      "flow_name": "add_group_button",
+      "_xlsxPath": "templates/profile.xlsx"
+    },
     "add_parent": {
       "flow_type": "template",
       "flow_name": "add_parent",
       "_xlsxPath": "templates/profile.xlsx"
     },
+    "add_parent_group": {
+      "flow_type": "template",
+      "flow_name": "add_parent_group",
+      "_xlsxPath": "templates/profile.xlsx"
+    },
     "add_report": {
       "flow_type": "template",
       "flow_name": "add_report",
-      "parameter_list": {
-        "app_config": {
-          "APP_FOOTER_DEFAULTS": {
-            "templateName": false
-          }
-        }
-      },
       "_xlsxPath": "reports.xlsx"
     },
     "app_about": {
@@ -2655,25 +2578,11 @@
     "edit_parent_group": {
       "flow_type": "template",
       "flow_name": "edit_parent_group",
-      "parameter_list": {
-        "app_config": {
-          "APP_FOOTER_DEFAULTS": {
-            "templateName": false
-          }
-        }
-      },
       "_xlsxPath": "templates/profile.xlsx"
     },
     "edit_report": {
       "flow_type": "template",
       "flow_name": "edit_report",
-      "parameter_list": {
-        "app_config": {
-          "APP_FOOTER_DEFAULTS": {
-            "templateName": false
-          }
-        }
-      },
       "_xlsxPath": "reports.xlsx"
     },
     "enter_dev_mode": {
@@ -3171,46 +3080,6 @@
     },
     "articles_week_4_chat_6": {
       "flow_name": "articles_week_4_chat_6",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "final_before_chat": {
-      "flow_name": "final_before_chat",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "final_day_3_mh_stress": {
-      "flow_name": "final_day_3_mh_stress",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "final_day_5_final_chat_session_5ux": {
-      "flow_name": "final_day_5_final_chat_session_5ux",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "final_onboarding_day_chat": {
-      "flow_name": "final_onboarding_day_chat",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "final_week_1_chat": {
-      "flow_name": "final_week_1_chat",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "final_week_2_chat": {
-      "flow_name": "final_week_2_chat",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "final_week_3_chat": {
-      "flow_name": "final_week_3_chat",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "final_week_4_chat": {
-      "flow_name": "final_week_4_chat",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
@@ -3742,13 +3611,6 @@
     "profile": {
       "flow_type": "template",
       "flow_name": "profile",
-      "parameter_list": {
-        "app_config": {
-          "APP_FOOTER_DEFAULTS": {
-            "templateName": "footer"
-          }
-        }
-      },
       "_xlsxPath": "templates/profile.xlsx"
     },
     "profile_about": {
@@ -3764,13 +3626,6 @@
     "profile_groups": {
       "flow_type": "template",
       "flow_name": "profile_groups",
-      "parameter_list": {
-        "app_config": {
-          "APP_FOOTER_DEFAULTS": {
-            "templateName": false
-          }
-        }
-      },
       "_xlsxPath": "templates/profile.xlsx"
     },
     "profile_id": {
@@ -3791,13 +3646,6 @@
     "reports": {
       "flow_type": "template",
       "flow_name": "reports",
-      "parameter_list": {
-        "app_config": {
-          "APP_FOOTER_DEFAULTS": {
-            "templateName": "footer"
-          }
-        }
-      },
       "_xlsxPath": "reports.xlsx"
     },
     "resource_element": {

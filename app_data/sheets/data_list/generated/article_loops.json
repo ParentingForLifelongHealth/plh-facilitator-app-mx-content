@@ -7,9 +7,6 @@
       "ignore": 1,
       "id": "onboarding_day_chat",
       "completed": false,
-      "completed_id1": false,
-      "completed_id3": false,
-      "completed_id4": false,
       "loop_id": "onboarding_day_chat",
       "foreign_key": "onboarding_day_chat",
       "type": "article",
@@ -22,9 +19,6 @@
       "ignore": 5,
       "id": "day_3_mh_stress",
       "completed": false,
-      "completed_id1": false,
-      "completed_id3": false,
-      "completed_id4": false,
       "loop_id": "day_3_mh_stress",
       "foreign_key": "day_3_mh_stress",
       "type": "article",
@@ -37,9 +31,6 @@
       "ignore": 11,
       "id": "day_5_final_chat_session_5ux",
       "completed": false,
-      "completed_id1": false,
-      "completed_id3": false,
-      "completed_id4": false,
       "loop_id": "day_5_final_chat_session_5ux",
       "foreign_key": "day_5_final_chat_session_5ux",
       "type": "article",
@@ -52,9 +43,6 @@
       "ignore": 17,
       "id": "before_chat",
       "completed": false,
-      "completed_id1": false,
-      "completed_id3": false,
-      "completed_id4": false,
       "loop_id": "before_chat",
       "foreign_key": "before_chat",
       "type": "article",
@@ -67,9 +55,6 @@
       "ignore": 19,
       "id": "week_1_chat",
       "completed": false,
-      "completed_id1": false,
-      "completed_id3": false,
-      "completed_id4": false,
       "loop_id": "week_1_chat",
       "foreign_key": "week_1_chat",
       "type": "article",
@@ -82,9 +67,6 @@
       "ignore": 25,
       "id": "week_2_chat",
       "completed": false,
-      "completed_id1": false,
-      "completed_id3": false,
-      "completed_id4": false,
       "loop_id": "week_2_chat",
       "foreign_key": "week_2_chat",
       "type": "article",
@@ -97,9 +79,6 @@
       "ignore": 32,
       "id": "week_3_chat",
       "completed": false,
-      "completed_id1": false,
-      "completed_id3": false,
-      "completed_id4": false,
       "loop_id": "week_3_chat",
       "foreign_key": "week_3_chat",
       "type": "article",
@@ -112,9 +91,6 @@
       "ignore": 38,
       "id": "week_4_chat",
       "completed": false,
-      "completed_id1": false,
-      "completed_id3": false,
-      "completed_id4": false,
       "loop_id": "week_4_chat",
       "foreign_key": "week_4_chat",
       "type": "article",
@@ -129,15 +105,6 @@
       "type": "number"
     },
     "completed": {
-      "type": "boolean"
-    },
-    "completed_id1": {
-      "type": "boolean"
-    },
-    "completed_id3": {
-      "type": "boolean"
-    },
-    "completed_id4": {
       "type": "boolean"
     }
   }

@@ -22,6 +22,39 @@
       "_nested_name": "module_name"
     },
     {
+      "name": "test",
+      "value": "@calc(@fields.current_module_no)",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "test",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@calc(@fields.current_module_no)",
+            "matchedExpression": "@fields.current_module_no",
+            "type": "fields",
+            "fieldName": "current_module_no"
+          },
+          {
+            "fullExpression": "@calc(@fields.current_module_no)",
+            "matchedExpression": "@calc(@fields.current_module_no)",
+            "type": "calc",
+            "fieldName": "@fields.current_module_no"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@fields.current_module_no": [
+          "value"
+        ],
+        "@calc(@fields.current_module_no)": [
+          "value"
+        ]
+      }
+    },
+    {
       "type": "display_group",
       "name": "dg_top",
       "parameter_list": {
@@ -57,12 +90,27 @@
       "parameter_list": {
         "task_group_data": "sub_items",
         "completed_field": "completed",
+        "filter": "@task_item.foreign_key == \"@fields.current_module_no\"",
         "variant": "wheel"
       },
-      "style_list": [
-        "margin: auto"
-      ],
-      "_nested_name": "task_progress_bar"
+      "_nested_name": "task_progress_bar",
+      "_dynamicFields": {
+        "parameter_list": {
+          "filter": [
+            {
+              "fullExpression": "@task_item.foreign_key == \"@fields.current_module_no\"",
+              "matchedExpression": "@fields.current_module_no",
+              "type": "fields",
+              "fieldName": "current_module_no"
+            }
+          ]
+        }
+      },
+      "_dynamicDependencies": {
+        "@fields.current_module_no": [
+          "parameter_list.filter"
+        ]
+      }
     },
     {
       "type": "button",
@@ -72,26 +120,6 @@
         "value": {}
       },
       "action_list": [
-        {
-          "trigger": "click",
-          "action_id": "set_field",
-          "args": [
-            "current_module_no",
-            "@local.module_id"
-          ],
-          "_raw": "click | set_field: current_module_no: @local.module_id",
-          "_cleaned": "click | set_field: current_module_no: @local.module_id"
-        },
-        {
-          "trigger": "click",
-          "action_id": "set_field",
-          "args": [
-            "current_module",
-            "@local.module_name"
-          ],
-          "_raw": "click | set_field: current_module: @local.module_name",
-          "_cleaned": "click | set_field: current_module: @local.module_name"
-        },
         {
           "trigger": "click",
           "action_id": "go_to",
@@ -105,79 +133,7 @@
       "parameter_list": {
         "icon_src": "images/icons/edit.svg"
       },
-      "_nested_name": "report",
-      "_dynamicFields": {
-        "action_list": {
-          "0": {
-            "args": {
-              "1": [
-                {
-                  "fullExpression": "@local.module_id",
-                  "matchedExpression": "@local.module_id",
-                  "type": "local",
-                  "fieldName": "module_id"
-                }
-              ]
-            },
-            "_raw": [
-              {
-                "fullExpression": "click | set_field: current_module_no: @local.module_id",
-                "matchedExpression": "@local.module_id",
-                "type": "local",
-                "fieldName": "module_id"
-              }
-            ],
-            "_cleaned": [
-              {
-                "fullExpression": "click | set_field: current_module_no: @local.module_id",
-                "matchedExpression": "@local.module_id",
-                "type": "local",
-                "fieldName": "module_id"
-              }
-            ]
-          },
-          "1": {
-            "args": {
-              "1": [
-                {
-                  "fullExpression": "@local.module_name",
-                  "matchedExpression": "@local.module_name",
-                  "type": "local",
-                  "fieldName": "module_name"
-                }
-              ]
-            },
-            "_raw": [
-              {
-                "fullExpression": "click | set_field: current_module: @local.module_name",
-                "matchedExpression": "@local.module_name",
-                "type": "local",
-                "fieldName": "module_name"
-              }
-            ],
-            "_cleaned": [
-              {
-                "fullExpression": "click | set_field: current_module: @local.module_name",
-                "matchedExpression": "@local.module_name",
-                "type": "local",
-                "fieldName": "module_name"
-              }
-            ]
-          }
-        }
-      },
-      "_dynamicDependencies": {
-        "@local.module_id": [
-          "action_list.0.args.1",
-          "action_list.0._raw",
-          "action_list.0._cleaned"
-        ],
-        "@local.module_name": [
-          "action_list.1.args.1",
-          "action_list.1._raw",
-          "action_list.1._cleaned"
-        ]
-      }
+      "_nested_name": "report"
     },
     {
       "type": "button",
@@ -186,25 +142,21 @@
       "_translations": {
         "value": {}
       },
+      "action_list": [
+        {
+          "trigger": "click",
+          "action_id": "go_to",
+          "args": [
+            "library_faq"
+          ],
+          "_raw": "click | go_to: library_faq",
+          "_cleaned": "click | go_to: library_faq"
+        }
+      ],
       "parameter_list": {
         "icon_src": "images/icons/help.svg"
       },
       "_nested_name": "support"
-    },
-    {
-      "type": "display_group",
-      "name": "dg_footer",
-      "parameter_list": {
-        "sticky": "bottom",
-        "background_image_asset": "images/backgrounds/home_bottom_right.svg",
-        "background_image_position": "bottom right"
-      },
-      "style_list": [
-        "width: 110%",
-        "min-height: 144px"
-      ],
-      "rows": [],
-      "_nested_name": "dg_footer"
     }
   ],
   "_xlsxPath": "menu_sub_tasks/menu_sub_tasks.xlsx"
