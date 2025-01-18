@@ -24,12 +24,12 @@
 | round_button | 37 |
 | select_text | 1 |
 | set_field | 1 |
-| set_variable | 776 |
+| set_variable | 784 |
 | simple_checkbox | 2 |
 | task_card | 3 |
 | task_progress_bar | 2 |
 | template | 202 |
-| text | 166 |
+| text | 167 |
 | text_area | 2 |
 | text_box | 25 |
 | title | 44 |
@@ -122,6 +122,7 @@ Assets that have references within sheets but do not appear in app-data
 
 | path | count |
 | --- | --- |
+| .png | 1 |
 | images/icons/in_progress.svg | 3 |
 | images/icons/tick.svg | 1 |
 | images/icons/tick_white.svg | 2 |
@@ -209,7 +210,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/logos/bird_on_light.svg | 2 | 2 |
 | images/logos/nip.png | 11.9 | 1 |
 | images/no_group_selected.svg | 3.5 | 1 |
-| images/onboarding_cc.svg | 19.3 | 3 |
+| images/onboarding_cc.svg | 19.3 | 4 |
 | images/one_on_one_challenges.svg | 13.1 | 1 |
 | images/overview_cc.svg | 7.8 | 1 |
 | images/praise_challenges.svg | 20.6 | 1 |

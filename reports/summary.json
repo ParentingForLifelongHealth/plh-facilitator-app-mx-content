@@ -87,7 +87,7 @@
       },
       {
         "type": "set_variable",
-        "count": 776
+        "count": 784
       },
       {
         "type": "simple_checkbox",
@@ -107,7 +107,7 @@
       },
       {
         "type": "text",
-        "count": 166
+        "count": 167
       },
       {
         "type": "text_area",
@@ -367,6 +367,11 @@
   },
   "assets_missing": {
     "data": [
+      {
+        "path": ".png",
+        "count": 1,
+        "missing": true
+      },
       {
         "path": "images/icons/in_progress.svg",
         "count": 3,
@@ -763,7 +768,7 @@
       },
       {
         "path": "images/onboarding_cc.svg",
-        "count": 3,
+        "count": 4,
         "size_kb": 19.3
       },
       {
