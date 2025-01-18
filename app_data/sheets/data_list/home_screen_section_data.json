@@ -20,21 +20,6 @@
       }
     },
     {
-      "id": "sessions",
-      "image": "images/man_looking_at_laptop.png",
-      "title": "Chat Sessions",
-      "_translations": {
-        "title": {
-          "mx_es": true
-        }
-      },
-      "_translatedFields": {
-        "title": {
-          "eng": "Chat Sessions"
-        }
-      }
-    },
-    {
       "id": "faq",
       "image": "images/faq_h_parents_insult.svg",
       "title": "Frequently Asked Questions",

@@ -12,7 +12,7 @@
 | data_items | 19 |
 | debug_toggle | 1 |
 | display_grid | 4 |
-| display_group | 97 |
+| display_group | 96 |
 | drawer | 2 |
 | image | 9 |
 | items | 38 |
@@ -24,11 +24,11 @@
 | round_button | 37 |
 | select_text | 1 |
 | set_field | 1 |
-| set_variable | 784 |
+| set_variable | 786 |
 | simple_checkbox | 2 |
 | task_card | 3 |
 | task_progress_bar | 2 |
-| template | 202 |
+| template | 201 |
 | text | 167 |
 | text_area | 2 |
 | text_box | 25 |
@@ -51,7 +51,7 @@
 | emit: force_restart | 3 |
 | emit: server_sync | 5 |
 | emit: set_language | 1 |
-| emit: uncompleted | 66 |
+| emit: uncompleted | 65 |
 | feedback | 13 |
 | go_to | 41 |
 | go_to_url | 1 |
@@ -72,8 +72,8 @@
 
 | assets | KB | MB |
 | --- | --- | --- |
-| total | 116042 KB | 116 MB |
-| unused | 743 KB | 0.7 MB |
+| total | 116040 KB | 116 MB |
+| unused | 745 KB | 0.7 MB |
 </details>
 
 <details open>
@@ -90,6 +90,7 @@ Assets that appear in app-data but do not have references within sheets
 | contents.json | 2.8 |
 | images/Message.png | 1.3 |
 | images/Message.svg | 0.7 |
+| images/backgrounds/library_bottom_left.svg | 2.3 |
 | images/flags/my.svg | 1.4 |
 | images/flags/tz.svg | 0.5 |
 | images/flags/ug.svg | 3.9 |
@@ -126,7 +127,6 @@ Assets that have references within sheets but do not appear in app-data
 | images/icons/in_progress.svg | 3 |
 | images/icons/tick.svg | 1 |
 | images/icons/tick_white.svg | 2 |
-| images/man_looking_at_laptop.png | 1 |
 </details>
 
 <details >
@@ -139,7 +139,6 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/after_disclosed_abuse.svg | 4.7 | 2 |
 | images/backgrounds/home_bottom_right.svg | 2.3 | 1 |
 | images/backgrounds/home_top_left.svg | 2.4 | 2 |
-| images/backgrounds/library_bottom_left.svg | 2.3 | 1 |
 | images/backgrounds/report_edit.svg | 0.2 | 2 |
 | images/backgrounds/reports_top_right.svg | 2 | 1 |
 | images/contact_for_reporting_abuse.svg | 6.3 | 1 |
@@ -243,7 +242,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | global |  | 11 |
 | global | legal_terms | 1 |
 | template |  | 77 |
-| template | generated | 156 |
+| template | generated | 155 |
 | template | legal_terms | 4 |
 | template | menu | 1 |
 </details>
