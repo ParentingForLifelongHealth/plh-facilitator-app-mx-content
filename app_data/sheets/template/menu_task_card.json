@@ -22,6 +22,15 @@
       "_nested_name": "module_name"
     },
     {
+      "name": "report_id",
+      "value": "empty",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "report_id"
+    },
+    {
       "name": "image",
       "value": "test",
       "_translations": {
@@ -82,11 +91,11 @@
           "trigger": "click",
           "action_id": "set_field",
           "args": [
-            "current_module",
-            "@local.module_name"
+            "current_has_report",
+            "@local.report_id"
           ],
-          "_raw": "click | set_field: current_module: @local.module_name",
-          "_cleaned": "click | set_field: current_module: @local.module_name"
+          "_raw": "click | set_field: current_has_report: @local.report_id",
+          "_cleaned": "click | set_field: current_has_report: @local.report_id"
         },
         {
           "trigger": "click",
@@ -190,27 +199,27 @@
             "args": {
               "1": [
                 {
-                  "fullExpression": "@local.module_name",
-                  "matchedExpression": "@local.module_name",
+                  "fullExpression": "@local.report_id",
+                  "matchedExpression": "@local.report_id",
                   "type": "local",
-                  "fieldName": "module_name"
+                  "fieldName": "report_id"
                 }
               ]
             },
             "_raw": [
               {
-                "fullExpression": "click | set_field: current_module: @local.module_name",
-                "matchedExpression": "@local.module_name",
+                "fullExpression": "click | set_field: current_has_report: @local.report_id",
+                "matchedExpression": "@local.report_id",
                 "type": "local",
-                "fieldName": "module_name"
+                "fieldName": "report_id"
               }
             ],
             "_cleaned": [
               {
-                "fullExpression": "click | set_field: current_module: @local.module_name",
-                "matchedExpression": "@local.module_name",
+                "fullExpression": "click | set_field: current_has_report: @local.report_id",
+                "matchedExpression": "@local.report_id",
                 "type": "local",
-                "fieldName": "module_name"
+                "fieldName": "report_id"
               }
             ]
           },
@@ -272,10 +281,12 @@
           "action_list.1.args.1",
           "action_list.1._raw",
           "action_list.1._cleaned",
+          "parameter_list.title"
+        ],
+        "@local.report_id": [
           "action_list.2.args.1",
           "action_list.2._raw",
-          "action_list.2._cleaned",
-          "parameter_list.title"
+          "action_list.2._cleaned"
         ],
         "@local.click_template": [
           "action_list.3._raw",

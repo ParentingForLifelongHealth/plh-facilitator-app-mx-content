@@ -6,10 +6,10 @@
 | accordion | 1 |
 | accordion_section | 1 |
 | audio | 2 |
-| button | 73 |
+| button | 74 |
 | carousel | 1 |
 | combo_box | 3 |
-| data_items | 19 |
+| data_items | 20 |
 | debug_toggle | 1 |
 | display_grid | 4 |
 | display_group | 96 |
@@ -24,7 +24,7 @@
 | round_button | 37 |
 | select_text | 1 |
 | set_field | 1 |
-| set_variable | 786 |
+| set_variable | 794 |
 | simple_checkbox | 2 |
 | task_card | 3 |
 | task_progress_bar | 2 |
@@ -53,14 +53,14 @@
 | emit: set_language | 1 |
 | emit: uncompleted | 65 |
 | feedback | 13 |
-| go_to | 41 |
+| go_to | 42 |
 | go_to_url | 1 |
 | nav_stack | 4 |
 | pop_up | 15 |
 | reset_app | 1 |
 | save_to_device | 3 |
 | set_data | 13 |
-| set_field | 64 |
+| set_field | 65 |
 | set_item | 8 |
 | set_local | 19 |
 | share | 2 |
@@ -177,7 +177,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/icons/delete.svg | 0.8 | 4 |
 | images/icons/docs.svg | 0.7 | 1 |
 | images/icons/download.svg | 0.7 | 2 |
-| images/icons/edit.svg | 0.9 | 5 |
+| images/icons/edit.svg | 0.9 | 6 |
 | images/icons/group_add.svg | 2.3 | 2 |
 | images/icons/help.svg | 2.6 | 1 |
 | images/icons/home_white.svg | 1.7 | 2 |

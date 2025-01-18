@@ -15,7 +15,7 @@
       },
       {
         "type": "button",
-        "count": 73
+        "count": 74
       },
       {
         "type": "carousel",
@@ -27,7 +27,7 @@
       },
       {
         "type": "data_items",
-        "count": 19
+        "count": 20
       },
       {
         "type": "debug_toggle",
@@ -87,7 +87,7 @@
       },
       {
         "type": "set_variable",
-        "count": 786
+        "count": 794
       },
       {
         "type": "simple_checkbox",
@@ -179,7 +179,7 @@
       },
       {
         "type": "go_to",
-        "count": 41
+        "count": 42
       },
       {
         "type": "go_to_url",
@@ -207,7 +207,7 @@
       },
       {
         "type": "set_field",
-        "count": 64
+        "count": 65
       },
       {
         "type": "set_item",
@@ -602,7 +602,7 @@
       },
       {
         "path": "images/icons/edit.svg",
-        "count": 5,
+        "count": 6,
         "size_kb": 0.9
       },
       {
