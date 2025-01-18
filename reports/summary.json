@@ -87,7 +87,7 @@
       },
       {
         "type": "set_variable",
-        "count": 772
+        "count": 776
       },
       {
         "type": "simple_checkbox",
@@ -103,7 +103,7 @@
       },
       {
         "type": "template",
-        "count": 201
+        "count": 202
       },
       {
         "type": "text",
@@ -231,13 +231,13 @@
     "data": [
       {
         "assets": "total",
-        "KB": "116046 KB",
+        "KB": "116042 KB",
         "MB": "116 MB"
       },
       {
         "assets": "unused",
-        "KB": "775 KB",
-        "MB": "0.8 MB"
+        "KB": "743 KB",
+        "MB": "0.7 MB"
       }
     ]
   },
@@ -270,18 +270,6 @@
       {
         "path": "images/Message.svg",
         "size_kb": 0.7
-      },
-      {
-        "path": "images/day_1_introduction.svg",
-        "size_kb": 6.7
-      },
-      {
-        "path": "images/day_3_check_in.svg",
-        "size_kb": 6.5
-      },
-      {
-        "path": "images/day_5_goodbye.svg",
-        "size_kb": 19.4
       },
       {
         "path": "images/flags/my.svg",
@@ -393,6 +381,11 @@
         "path": "images/icons/tick_white.svg",
         "count": 2,
         "missing": true
+      },
+      {
+        "path": "images/man_looking_at_laptop.png",
+        "count": 1,
+        "missing": true
       }
     ]
   },
@@ -439,19 +432,29 @@
         "size_kb": 12.6
       },
       {
-        "path": "images/cyber_security.png",
+        "path": "images/day_1_introduction.svg",
         "count": 1,
-        "size_kb": 14.9
+        "size_kb": 6.7
+      },
+      {
+        "path": "images/day_3_check_in.svg",
+        "count": 1,
+        "size_kb": 6.5
       },
       {
         "path": "images/day_3_mh_stress_self_talk.svg",
-        "count": 2,
+        "count": 4,
         "size_kb": 5.4
       },
       {
         "path": "images/day_4_check_in.svg",
-        "count": 1,
+        "count": 2,
         "size_kb": 11.3
+      },
+      {
+        "path": "images/day_5_goodbye.svg",
+        "count": 1,
+        "size_kb": 19.4
       },
       {
         "path": "images/during_disclosed_abuse.svg",
@@ -480,7 +483,7 @@
       },
       {
         "path": "images/faq_h_parents_insult.svg",
-        "count": 2,
+        "count": 3,
         "size_kb": 12.5
       },
       {
@@ -495,7 +498,7 @@
       },
       {
         "path": "images/faq_h_self_harm.svg",
-        "count": 1,
+        "count": 2,
         "size_kb": 14.9
       },
       {
@@ -510,7 +513,7 @@
       },
       {
         "path": "images/faq_no_participation_general.svg",
-        "count": 1,
+        "count": 2,
         "size_kb": 20.3
       },
       {
@@ -550,7 +553,7 @@
       },
       {
         "path": "images/how_to_report_abuse.svg",
-        "count": 1,
+        "count": 2,
         "size_kb": 12.2
       },
       {
@@ -754,11 +757,6 @@
         "size_kb": 11.9
       },
       {
-        "path": "images/man_looking_at_laptop.png",
-        "count": 3,
-        "size_kb": 8.6
-      },
-      {
         "path": "images/no_group_selected.svg",
         "count": 1,
         "size_kb": 3.5
@@ -790,13 +788,8 @@
       },
       {
         "path": "images/talk_feelings_challenges.svg",
-        "count": 1,
+        "count": 2,
         "size_kb": 19.3
-      },
-      {
-        "path": "images/thinking_about_the_question.png",
-        "count": 1,
-        "size_kb": 12.8
       },
       {
         "path": "images/what_is_safeguarding.svg",
@@ -905,7 +898,7 @@
       {
         "type": "template",
         "subtype": "generated",
-        "total": 155
+        "total": 156
       },
       {
         "type": "template",
