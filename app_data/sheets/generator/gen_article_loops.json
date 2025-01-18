@@ -38,7 +38,7 @@
       ]
     }
   ],
-  "_xlsxPath": "menu_sub_tasks/menu_sub_tasks.xlsx",
+  "_xlsxPath": "menu_sub_tasks.xlsx",
   "_output_flows": [
     {
       "flow_name": "sub_item_onboarding_day_chat",
@@ -77,6 +77,11 @@
     },
     {
       "flow_name": "sub_item_week_4_chat",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "sub_item_#N/A",
       "flow_subtype": "generated",
       "flow_type": "template"
     }

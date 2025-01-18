@@ -6,7 +6,7 @@
   "rows": [
     {
       "id": "programme",
-      "image": "images/man_looking_at_laptop.png",
+      "image": "images/faq_no_participation_general.svg",
       "title": "Facilitator Guide",
       "_translations": {
         "title": {
@@ -36,7 +36,7 @@
     },
     {
       "id": "faq",
-      "image": "images/thinking_about_the_question.png",
+      "image": "images/faq_h_parents_insult.svg",
       "title": "Frequently Asked Questions",
       "_translations": {
         "title": {
@@ -51,7 +51,7 @@
     },
     {
       "id": "safeguarding",
-      "image": "images/cyber_security.png",
+      "image": "images/talk_feelings_challenges.svg",
       "title": "Safeguarding",
       "_translations": {
         "title": {
@@ -66,7 +66,7 @@
     },
     {
       "id": "challenges",
-      "image": "images/man_looking_at_laptop.png",
+      "image": "images/faq_h_self_harm.svg",
       "title": "Common Challenges",
       "_translations": {
         "title": {

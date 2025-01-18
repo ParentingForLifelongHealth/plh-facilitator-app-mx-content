@@ -1,5 +1,5 @@
 {
-  "flow_name": "articles_day_5_final_chat_session_5ux_6",
+  "flow_name": "articles_#N/A",
   "flow_subtype": "generated",
   "flow_type": "template",
   "rows": [
@@ -11,7 +11,7 @@
       "rows": [
         {
           "name": "article_id",
-          "value": "day_5_final_chat_session_5ux_6",
+          "value": "#N/A",
           "_translations": {
             "value": {}
           },

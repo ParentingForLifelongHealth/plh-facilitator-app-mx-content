@@ -24,11 +24,11 @@
 | round_button | 37 |
 | select_text | 1 |
 | set_field | 1 |
-| set_variable | 772 |
+| set_variable | 776 |
 | simple_checkbox | 2 |
 | task_card | 3 |
 | task_progress_bar | 2 |
-| template | 201 |
+| template | 202 |
 | text | 166 |
 | text_area | 2 |
 | text_box | 25 |
@@ -72,8 +72,8 @@
 
 | assets | KB | MB |
 | --- | --- | --- |
-| total | 116046 KB | 116 MB |
-| unused | 775 KB | 0.8 MB |
+| total | 116042 KB | 116 MB |
+| unused | 743 KB | 0.7 MB |
 </details>
 
 <details open>
@@ -90,9 +90,6 @@ Assets that appear in app-data but do not have references within sheets
 | contents.json | 2.8 |
 | images/Message.png | 1.3 |
 | images/Message.svg | 0.7 |
-| images/day_1_introduction.svg | 6.7 |
-| images/day_3_check_in.svg | 6.5 |
-| images/day_5_goodbye.svg | 19.4 |
 | images/flags/my.svg | 1.4 |
 | images/flags/tz.svg | 0.5 |
 | images/flags/ug.svg | 3.9 |
@@ -128,6 +125,7 @@ Assets that have references within sheets but do not appear in app-data
 | images/icons/in_progress.svg | 3 |
 | images/icons/tick.svg | 1 |
 | images/icons/tick_white.svg | 2 |
+| images/man_looking_at_laptop.png | 1 |
 </details>
 
 <details >
@@ -145,21 +143,23 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/backgrounds/reports_top_right.svg | 2 | 1 |
 | images/contact_for_reporting_abuse.svg | 6.3 | 1 |
 | images/crisis_hotlines.svg | 12.6 | 1 |
-| images/cyber_security.png | 14.9 | 1 |
-| images/day_3_mh_stress_self_talk.svg | 5.4 | 2 |
-| images/day_4_check_in.svg | 11.3 | 1 |
+| images/day_1_introduction.svg | 6.7 | 1 |
+| images/day_3_check_in.svg | 6.5 | 1 |
+| images/day_3_mh_stress_self_talk.svg | 5.4 | 4 |
+| images/day_4_check_in.svg | 11.3 | 2 |
+| images/day_5_goodbye.svg | 19.4 | 1 |
 | images/during_disclosed_abuse.svg | 7.7 | 2 |
 | images/faq_ground_rules.svg | 12.1 | 2 |
 | images/faq_h_after_group_ended.svg | 19.8 | 2 |
 | images/faq_h_no_neg_to_pos.svg | 7.4 | 2 |
 | images/faq_h_no_volunteers.svg | 19.6 | 1 |
-| images/faq_h_parents_insult.svg | 12.5 | 2 |
+| images/faq_h_parents_insult.svg | 12.5 | 3 |
 | images/faq_h_prompts.svg | 19.6 | 2 |
 | images/faq_h_sad_to_end.svg | 9.2 | 2 |
-| images/faq_h_self_harm.svg | 14.9 | 1 |
+| images/faq_h_self_harm.svg | 14.9 | 2 |
 | images/faq_h_still_struggling.svg | 23.2 | 1 |
 | images/faq_misbehaviour.svg | 7.8 | 1 |
-| images/faq_no_participation_general.svg | 20.3 | 1 |
+| images/faq_no_participation_general.svg | 20.3 | 2 |
 | images/faq_small_group_active.svg | 8.1 | 1 |
 | images/faq_text_support.svg | 6.8 | 1 |
 | images/flags/gb.svg | 0.5 | 2 |
@@ -167,7 +167,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/group_admin_onboarding.svg | 13.5 | 1 |
 | images/how_to_chat_session.svg | 11 | 2 |
 | images/how_to_report.svg | 5.8 | 1 |
-| images/how_to_report_abuse.svg | 12.2 | 1 |
+| images/how_to_report_abuse.svg | 12.2 | 2 |
 | images/icons/add_circle.svg | 1 | 3 |
 | images/icons/arrow_back.svg | 0.5 | 1 |
 | images/icons/arrow_forward.svg | 0.4 | 2 |
@@ -208,15 +208,13 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/logos/UNICEF.jpg | 27.7 | 1 |
 | images/logos/bird_on_light.svg | 2 | 2 |
 | images/logos/nip.png | 11.9 | 1 |
-| images/man_looking_at_laptop.png | 8.6 | 3 |
 | images/no_group_selected.svg | 3.5 | 1 |
 | images/onboarding_cc.svg | 19.3 | 3 |
 | images/one_on_one_challenges.svg | 13.1 | 1 |
 | images/overview_cc.svg | 7.8 | 1 |
 | images/praise_challenges.svg | 20.6 | 1 |
 | images/routine_challenges.svg | 20.5 | 1 |
-| images/talk_feelings_challenges.svg | 19.3 | 1 |
-| images/thinking_about_the_question.png | 12.8 | 1 |
+| images/talk_feelings_challenges.svg | 19.3 | 2 |
 | images/what_is_safeguarding.svg | 5.6 | 1 |
 | odk_forms/eplh_pilot_facilitator_weekly_survey_combined.json | 209.4 | 1 |
 | pdf/manual.pdf | 470.3 | 1 |
@@ -244,7 +242,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | global |  | 11 |
 | global | legal_terms | 1 |
 | template |  | 77 |
-| template | generated | 155 |
+| template | generated | 156 |
 | template | legal_terms | 4 |
 | template | menu | 1 |
 </details>

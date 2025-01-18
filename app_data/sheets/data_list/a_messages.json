@@ -382,7 +382,7 @@
     },
     {
       "id": "message_13",
-      "foreign_key": "before_chat_2",
+      "foreign_key": "before_chat",
       "asset_type": "",
       "asset": "",
       "ignore": 13,

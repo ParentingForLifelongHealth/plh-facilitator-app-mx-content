@@ -5,236 +5,210 @@
   "data_list_name": "related",
   "rows": [
     {
-      "id": "related_1",
-      "foreign_key": "day_3_mh_stress_self_talk_artic",
-      "related_article_id": "faq_h_self_harm",
+      "id": "",
+      "foreign_key": "",
+      "related_article_id": "",
       "ignore": 1,
-      "ignore_2": "day_3_mh_stress_self_talk_artic",
-      "title": "FAQ",
+      "ignore_2": "#N/A",
+      "title": "",
       "_translations": {
-        "title": {
-          "mx_es": true
-        }
+        "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "FAQ"
+          "eng": ""
         }
       }
     },
     {
-      "id": "related_2",
-      "foreign_key": "day_5_final_chat_sessions_5ux_a",
-      "related_article_id": "faq_h_still_struggling",
+      "id": "",
+      "foreign_key": "",
+      "related_article_id": "",
       "ignore": 2,
-      "ignore_2": "day_5_final_chat_sessions_5ux_a",
-      "title": "FAQ",
+      "ignore_2": "#N/A",
+      "title": "",
       "_translations": {
-        "title": {
-          "mx_es": true
-        }
+        "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "FAQ"
+          "eng": ""
         }
       }
     },
     {
-      "id": "related_3",
-      "foreign_key": "before_chat_articles",
-      "related_article_id": "faq_ground_rules",
+      "id": "",
+      "foreign_key": "",
+      "related_article_id": "",
       "ignore": 3,
-      "ignore_2": "before_chat_articles",
-      "title": "Support",
+      "ignore_2": "#N/A",
+      "title": "",
       "_translations": {
-        "title": {
-          "mx_es": true
-        }
+        "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "Support"
+          "eng": ""
         }
       }
     },
     {
-      "id": "related_4",
-      "foreign_key": "week_1_chat_articles",
-      "related_article_id": "faq_h_no_thoughts",
+      "id": "",
+      "foreign_key": "",
+      "related_article_id": "",
       "ignore": 4,
-      "ignore_2": "week_1_chat_articles",
-      "title": "FAQ",
+      "ignore_2": "#N/A",
+      "title": "",
       "_translations": {
-        "title": {
-          "mx_es": true
-        }
+        "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "FAQ"
+          "eng": ""
         }
       }
     },
     {
-      "id": "related_5",
-      "foreign_key": "week_2_chat_articles",
-      "related_article_id": "faq_h_self_harm",
+      "id": "",
+      "foreign_key": "",
+      "related_article_id": "",
       "ignore": 5,
-      "ignore_2": "week_2_chat_articles",
-      "title": "FAQ",
+      "ignore_2": "#N/A",
+      "title": "",
       "_translations": {
-        "title": {
-          "mx_es": true
-        }
+        "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "FAQ"
+          "eng": ""
         }
       }
     },
     {
-      "id": "related_6",
-      "foreign_key": "week_3_chat_articles",
-      "related_article_id": "faq_h_no_volunteers",
+      "id": "",
+      "foreign_key": "",
+      "related_article_id": "",
       "ignore": 6,
-      "ignore_2": "week_3_chat_articles",
-      "title": "FAQ",
+      "ignore_2": "#N/A",
+      "title": "",
       "_translations": {
-        "title": {
-          "mx_es": true
-        }
+        "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "FAQ"
+          "eng": ""
         }
       }
     },
     {
-      "id": "related_7",
-      "foreign_key": "week_4_chat_articles",
-      "related_article_id": "faq_h_sad_to_end",
+      "id": "",
+      "foreign_key": "",
+      "related_article_id": "",
       "ignore": 7,
-      "ignore_2": "week_4_chat_articles",
-      "title": "FAQ",
+      "ignore_2": "#N/A",
+      "title": "",
       "_translations": {
-        "title": {
-          "mx_es": true
-        }
+        "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "FAQ"
+          "eng": ""
         }
       }
     },
     {
-      "id": "related_8",
-      "foreign_key": "day_3_mh_stress_self_talk_artic",
-      "related_article_id": "faq_h_no_neg_to_pos",
+      "id": "",
+      "foreign_key": "",
+      "related_article_id": "",
       "ignore": 8,
-      "ignore_2": "day_3_mh_stress_self_talk_artic",
-      "title": "FAQ",
+      "ignore_2": "#N/A",
+      "title": "",
       "_translations": {
-        "title": {
-          "mx_es": true
-        }
+        "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "FAQ"
+          "eng": ""
         }
       }
     },
     {
-      "id": "related_9",
-      "foreign_key": "day_5_final_chat_sessions_5ux_a",
-      "related_article_id": "faq_h_sad_to_end",
+      "id": "",
+      "foreign_key": "",
+      "related_article_id": "",
       "ignore": 9,
-      "ignore_2": "day_5_final_chat_sessions_5ux_a",
-      "title": "FAQ",
+      "ignore_2": "#N/A",
+      "title": "",
       "_translations": {
-        "title": {
-          "mx_es": true
-        }
+        "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "FAQ"
+          "eng": ""
         }
       }
     },
     {
-      "id": "related_10",
-      "foreign_key": "before_chat_articles",
-      "related_article_id": "faq_misbehaviour",
+      "id": "",
+      "foreign_key": "",
+      "related_article_id": "",
       "ignore": 10,
-      "ignore_2": "before_chat_articles",
-      "title": "Support",
+      "ignore_2": "#N/A",
+      "title": "",
       "_translations": {
-        "title": {
-          "mx_es": true
-        }
+        "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "Support"
+          "eng": ""
         }
       }
     },
     {
-      "id": "related_11",
-      "foreign_key": "week_2_chat_articles",
-      "related_article_id": "faq_h_no_neg_to_pos",
+      "id": "",
+      "foreign_key": "",
+      "related_article_id": "",
       "ignore": 11,
-      "ignore_2": "week_2_chat_articles",
-      "title": "FAQ",
+      "ignore_2": "#N/A",
+      "title": "",
       "_translations": {
-        "title": {
-          "mx_es": true
-        }
+        "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "FAQ"
+          "eng": ""
         }
       }
     },
     {
-      "id": "related_12",
-      "foreign_key": "week_3_chat_articles",
-      "related_article_id": "group_admin_onboarding",
+      "id": "",
+      "foreign_key": "",
+      "related_article_id": "",
       "ignore": 12,
-      "ignore_2": "week_3_chat_articles",
-      "title": "FAQ",
+      "ignore_2": "#N/A",
+      "title": "",
       "_translations": {
-        "title": {
-          "mx_es": true
-        }
+        "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "FAQ"
+          "eng": ""
         }
       }
     },
     {
-      "id": "related_13",
-      "foreign_key": "week_4_chat_articles",
-      "related_article_id": "faq_h_no_volunteers",
+      "id": "",
+      "foreign_key": "",
+      "related_article_id": "",
       "ignore": 13,
-      "ignore_2": "week_4_chat_articles",
-      "title": "FAQ",
+      "ignore_2": "#N/A",
+      "title": "",
       "_translations": {
-        "title": {
-          "mx_es": true
-        }
+        "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "FAQ"
+          "eng": ""
         }
       }
     }

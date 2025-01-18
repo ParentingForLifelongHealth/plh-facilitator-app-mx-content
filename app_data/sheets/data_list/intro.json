@@ -80,17 +80,6 @@
       "media_asset": "",
       "media_transcript": "",
       "ignore": 7
-    },
-    {
-      "id": "intro_8",
-      "foreign_key": "week_4_chat",
-      "image_asset": "images/onboarding_cc.svg",
-      "text": "This is your final chat session with the group.You should congratulate yourself for taking the parents through the Crianza con Conciencia+ journey and celebrate with them the positive changes in their lives and for their girls, boys, and teens.\n\nIn this chat session, you will also help parents understand how they can use pleasant emotions to improve the well-being of themselves and their child or teen. \n\nYou can choose to stay or leave the WhatsApp Group after the program ends.",
-      "media_type": "",
-      "media_title": "",
-      "media_asset": "",
-      "media_transcript": "",
-      "ignore": 8
     }
   ],
   "_xlsxPath": "data/FacilitatorApp MX modules.xlsx",

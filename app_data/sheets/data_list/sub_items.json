@@ -179,25 +179,13 @@
       "loop_id": "day_5_final_chat_session_5ux",
       "foreign_key": "day_5_final_chat_session_5ux",
       "type": "article",
-      "next_article": "day_5_final_chat_session_5ux_6",
+      "next_article": "",
       "previous_article": "day_5_final_chat_session_5ux_4",
       "test": "day_5_final_chat_session_5ux",
       "create_loop": 0
     },
     {
       "ignore": 16,
-      "id": "day_5_final_chat_session_5ux_6",
-      "completed": false,
-      "loop_id": "day_5_final_chat_session_5ux",
-      "foreign_key": "day_5_final_chat_session_5ux",
-      "type": "article",
-      "next_article": "",
-      "previous_article": "day_5_final_chat_session_5ux_5",
-      "test": "day_5_final_chat_session_5ux",
-      "create_loop": 0
-    },
-    {
-      "ignore": 17,
       "id": "before_chat",
       "completed": false,
       "loop_id": "before_chat",
@@ -209,7 +197,7 @@
       "create_loop": "create"
     },
     {
-      "ignore": 18,
+      "ignore": 17,
       "id": "before_chat_2",
       "completed": false,
       "loop_id": "before_chat",
@@ -221,7 +209,7 @@
       "create_loop": 0
     },
     {
-      "ignore": 19,
+      "ignore": 18,
       "id": "week_1_chat",
       "completed": false,
       "loop_id": "week_1_chat",
@@ -233,7 +221,7 @@
       "create_loop": "create"
     },
     {
-      "ignore": 20,
+      "ignore": 19,
       "id": "week_1_chat_2",
       "completed": false,
       "loop_id": "week_1_chat",
@@ -245,7 +233,7 @@
       "create_loop": 0
     },
     {
-      "ignore": 21,
+      "ignore": 20,
       "id": "week_1_chat_3",
       "completed": false,
       "loop_id": "week_1_chat",
@@ -257,7 +245,7 @@
       "create_loop": 0
     },
     {
-      "ignore": 22,
+      "ignore": 21,
       "id": "week_1_chat_4",
       "completed": false,
       "loop_id": "week_1_chat",
@@ -269,7 +257,7 @@
       "create_loop": 0
     },
     {
-      "ignore": 23,
+      "ignore": 22,
       "id": "week_1_chat_5",
       "completed": false,
       "loop_id": "week_1_chat",
@@ -281,7 +269,7 @@
       "create_loop": 0
     },
     {
-      "ignore": 24,
+      "ignore": 23,
       "id": "week_1_chat_6",
       "completed": false,
       "loop_id": "week_1_chat",
@@ -293,7 +281,7 @@
       "create_loop": 0
     },
     {
-      "ignore": 25,
+      "ignore": 24,
       "id": "week_2_chat",
       "completed": false,
       "loop_id": "week_2_chat",
@@ -305,7 +293,7 @@
       "create_loop": "create"
     },
     {
-      "ignore": 26,
+      "ignore": 25,
       "id": "week_2_chat_2",
       "completed": false,
       "loop_id": "week_2_chat",
@@ -317,7 +305,7 @@
       "create_loop": 0
     },
     {
-      "ignore": 27,
+      "ignore": 26,
       "id": "week_2_chat_3",
       "completed": false,
       "loop_id": "week_2_chat",
@@ -329,7 +317,7 @@
       "create_loop": 0
     },
     {
-      "ignore": 28,
+      "ignore": 27,
       "id": "week_2_chat_4",
       "completed": false,
       "loop_id": "week_2_chat",
@@ -341,7 +329,7 @@
       "create_loop": 0
     },
     {
-      "ignore": 29,
+      "ignore": 28,
       "id": "week_2_chat_5",
       "completed": false,
       "loop_id": "week_2_chat",
@@ -353,7 +341,7 @@
       "create_loop": 0
     },
     {
-      "ignore": 30,
+      "ignore": 29,
       "id": "week_2_chat_6",
       "completed": false,
       "loop_id": "week_2_chat",
@@ -365,7 +353,7 @@
       "create_loop": 0
     },
     {
-      "ignore": 31,
+      "ignore": 30,
       "id": "week_2_chat_7",
       "completed": false,
       "loop_id": "week_2_chat",
@@ -377,7 +365,7 @@
       "create_loop": 0
     },
     {
-      "ignore": 32,
+      "ignore": 31,
       "id": "week_3_chat",
       "completed": false,
       "loop_id": "week_3_chat",
@@ -389,7 +377,7 @@
       "create_loop": "create"
     },
     {
-      "ignore": 33,
+      "ignore": 32,
       "id": "week_3_chat_2",
       "completed": false,
       "loop_id": "week_3_chat",
@@ -401,7 +389,7 @@
       "create_loop": 0
     },
     {
-      "ignore": 34,
+      "ignore": 33,
       "id": "week_3_chat_3",
       "completed": false,
       "loop_id": "week_3_chat",
@@ -413,7 +401,7 @@
       "create_loop": 0
     },
     {
-      "ignore": 35,
+      "ignore": 34,
       "id": "week_3_chat_4",
       "completed": false,
       "loop_id": "week_3_chat",
@@ -425,7 +413,7 @@
       "create_loop": 0
     },
     {
-      "ignore": 36,
+      "ignore": 35,
       "id": "week_3_chat_5",
       "completed": false,
       "loop_id": "week_3_chat",
@@ -437,7 +425,7 @@
       "create_loop": 0
     },
     {
-      "ignore": 37,
+      "ignore": 36,
       "id": "week_3_chat_6",
       "completed": false,
       "loop_id": "week_3_chat",
@@ -449,7 +437,7 @@
       "create_loop": 0
     },
     {
-      "ignore": 38,
+      "ignore": 37,
       "id": "week_4_chat",
       "completed": false,
       "loop_id": "week_4_chat",
@@ -461,7 +449,7 @@
       "create_loop": "create"
     },
     {
-      "ignore": 39,
+      "ignore": 38,
       "id": "week_4_chat_2",
       "completed": false,
       "loop_id": "week_4_chat",
@@ -473,7 +461,7 @@
       "create_loop": 0
     },
     {
-      "ignore": 40,
+      "ignore": 39,
       "id": "week_4_chat_3",
       "completed": false,
       "loop_id": "week_4_chat",
@@ -485,7 +473,7 @@
       "create_loop": 0
     },
     {
-      "ignore": 41,
+      "ignore": 40,
       "id": "week_4_chat_4",
       "completed": false,
       "loop_id": "week_4_chat",
@@ -497,7 +485,7 @@
       "create_loop": 0
     },
     {
-      "ignore": 42,
+      "ignore": 41,
       "id": "week_4_chat_5",
       "completed": false,
       "loop_id": "week_4_chat",
@@ -509,16 +497,28 @@
       "create_loop": 0
     },
     {
-      "ignore": 43,
+      "ignore": 42,
       "id": "week_4_chat_6",
       "completed": false,
       "loop_id": "week_4_chat",
       "foreign_key": "week_4_chat",
       "type": "article",
-      "next_article": "",
+      "next_article": "#N/A",
       "previous_article": "week_4_chat_5",
       "test": "week_4_chat",
       "create_loop": 0
+    },
+    {
+      "ignore": 43,
+      "id": "#N/A",
+      "completed": false,
+      "loop_id": "#N/A",
+      "foreign_key": "#N/A",
+      "type": "article",
+      "next_article": "#N/A",
+      "previous_article": "#N/A",
+      "test": "#N/A",
+      "create_loop": "create"
     }
   ],
   "_xlsxPath": "data/FacilitatorApp MX modules.xlsx",
