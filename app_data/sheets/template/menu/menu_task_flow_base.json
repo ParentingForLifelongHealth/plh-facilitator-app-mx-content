@@ -659,6 +659,30 @@
                   }
                 },
                 {
+                  "name": "report_id",
+                  "value": "@item.report_id",
+                  "_translations": {
+                    "value": {}
+                  },
+                  "type": "set_variable",
+                  "_nested_name": "display_group_21.items_1.menu_task_card.report_id",
+                  "_dynamicFields": {
+                    "value": [
+                      {
+                        "fullExpression": "@item.report_id",
+                        "matchedExpression": "@item.report_id",
+                        "type": "item",
+                        "fieldName": "report_id"
+                      }
+                    ]
+                  },
+                  "_dynamicDependencies": {
+                    "@item.report_id": [
+                      "value"
+                    ]
+                  }
+                },
+                {
                   "name": "image",
                   "value": "@local.image_prefix@local.image_count@local.image_postfix",
                   "_translations": {
