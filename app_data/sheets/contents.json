@@ -3593,6 +3593,11 @@
       "flow_name": "parent_group",
       "_xlsxPath": "templates/profile.xlsx"
     },
+    "parent_list": {
+      "flow_type": "template",
+      "flow_name": "parent_list",
+      "_xlsxPath": "templates/profile.xlsx"
+    },
     "parent_profile": {
       "flow_type": "template",
       "flow_name": "parent_profile",

@@ -27,7 +27,7 @@
       },
       {
         "type": "data_items",
-        "count": 20
+        "count": 21
       },
       {
         "type": "debug_toggle",
@@ -39,7 +39,7 @@
       },
       {
         "type": "display_group",
-        "count": 96
+        "count": 93
       },
       {
         "type": "drawer",
@@ -75,7 +75,7 @@
       },
       {
         "type": "round_button",
-        "count": 37
+        "count": 32
       },
       {
         "type": "select_text",
@@ -87,7 +87,7 @@
       },
       {
         "type": "set_variable",
-        "count": 794
+        "count": 795
       },
       {
         "type": "simple_checkbox",
@@ -103,11 +103,11 @@
       },
       {
         "type": "template",
-        "count": 201
+        "count": 203
       },
       {
         "type": "text",
-        "count": 167
+        "count": 166
       },
       {
         "type": "text_area",
@@ -179,7 +179,7 @@
       },
       {
         "type": "go_to",
-        "count": 42
+        "count": 40
       },
       {
         "type": "go_to_url",
@@ -191,7 +191,7 @@
       },
       {
         "type": "pop_up",
-        "count": 15
+        "count": 13
       },
       {
         "type": "reset_app",
@@ -203,11 +203,11 @@
       },
       {
         "type": "set_data",
-        "count": 13
+        "count": 15
       },
       {
         "type": "set_field",
-        "count": 65
+        "count": 60
       },
       {
         "type": "set_item",
@@ -236,7 +236,7 @@
       },
       {
         "assets": "unused",
-        "KB": "745 KB",
+        "KB": "747 KB",
         "MB": "0.7 MB"
       }
     ]
@@ -310,6 +310,10 @@
       {
         "path": "images/icons/globe_blue.svg",
         "size_kb": 3.9
+      },
+      {
+        "path": "images/icons/group_add_dark.svg",
+        "size_kb": 2.3
       },
       {
         "path": "images/icons/paper_plane_white.svg",
@@ -557,7 +561,7 @@
       },
       {
         "path": "images/icons/add_circle.svg",
-        "count": 3,
+        "count": 2,
         "size_kb": 1
       },
       {
@@ -587,7 +591,7 @@
       },
       {
         "path": "images/icons/delete.svg",
-        "count": 4,
+        "count": 3,
         "size_kb": 0.8
       },
       {
@@ -602,13 +606,13 @@
       },
       {
         "path": "images/icons/edit.svg",
-        "count": 6,
+        "count": 5,
         "size_kb": 0.9
       },
       {
         "path": "images/icons/group_add.svg",
-        "count": 2,
-        "size_kb": 2.3
+        "count": 1,
+        "size_kb": 2.2
       },
       {
         "path": "images/icons/help.svg",
@@ -647,7 +651,7 @@
       },
       {
         "path": "images/icons/person_remove.svg",
-        "count": 2,
+        "count": 1,
         "size_kb": 1.5
       },
       {
@@ -892,7 +896,7 @@
       {
         "type": "template",
         "subtype": null,
-        "total": 77
+        "total": 78
       },
       {
         "type": "template",
