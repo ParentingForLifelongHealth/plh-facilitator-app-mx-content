@@ -3,8 +3,8 @@
 
 | type | count |
 | --- | --- |
-| accordion | 1 |
-| accordion_section | 1 |
+| accordion | 2 |
+| accordion_section | 2 |
 | audio | 2 |
 | button | 74 |
 | carousel | 1 |
@@ -12,7 +12,7 @@
 | data_items | 21 |
 | debug_toggle | 1 |
 | display_grid | 4 |
-| display_group | 93 |
+| display_group | 92 |
 | drawer | 2 |
 | image | 9 |
 | items | 38 |
@@ -24,15 +24,15 @@
 | round_button | 32 |
 | select_text | 1 |
 | set_field | 1 |
-| set_variable | 795 |
+| set_variable | 796 |
 | simple_checkbox | 2 |
 | task_card | 3 |
 | task_progress_bar | 2 |
 | template | 203 |
-| text | 167 |
+| text | 166 |
 | text_area | 2 |
 | text_box | 25 |
-| title | 44 |
+| title | 43 |
 | toggle_bar | 5 |
 | update_action_list | 3 |
 | video | 2 |

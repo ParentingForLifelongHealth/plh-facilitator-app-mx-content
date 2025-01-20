@@ -100,30 +100,6 @@
                   "value"
                 ]
               }
-            },
-            {
-              "type": "text",
-              "value": "@item.guidance",
-              "_translations": {
-                "value": {}
-              },
-              "name": "text_5",
-              "_nested_name": "loop_messages.message_element.text_5",
-              "_dynamicFields": {
-                "value": [
-                  {
-                    "fullExpression": "@item.guidance",
-                    "matchedExpression": "@item.guidance",
-                    "type": "item",
-                    "fieldName": "guidance"
-                  }
-                ]
-              },
-              "_dynamicDependencies": {
-                "@item.guidance": [
-                  "value"
-                ]
-              }
             }
           ],
           "_nested_name": "loop_messages.message_element",
