@@ -39,7 +39,7 @@
       },
       {
         "type": "display_group",
-        "count": 92
+        "count": 93
       },
       {
         "type": "drawer",
@@ -87,7 +87,7 @@
       },
       {
         "type": "set_variable",
-        "count": 796
+        "count": 795
       },
       {
         "type": "simple_checkbox",
@@ -107,7 +107,7 @@
       },
       {
         "type": "text",
-        "count": 166
+        "count": 167
       },
       {
         "type": "text_area",
@@ -231,7 +231,7 @@
     "data": [
       {
         "assets": "total",
-        "KB": "116040 KB",
+        "KB": "116041 KB",
         "MB": "116 MB"
       },
       {
@@ -302,10 +302,6 @@
       {
         "path": "images/icons/check_circle.svg",
         "size_kb": 1.2
-      },
-      {
-        "path": "images/icons/download_white.svg",
-        "size_kb": 0.7
       },
       {
         "path": "images/icons/globe_blue.svg",
@@ -601,7 +597,12 @@
       },
       {
         "path": "images/icons/download.svg",
-        "count": 2,
+        "count": 1,
+        "size_kb": 0.7
+      },
+      {
+        "path": "images/icons/download_white.svg",
+        "count": 1,
         "size_kb": 0.7
       },
       {

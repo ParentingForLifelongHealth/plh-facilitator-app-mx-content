@@ -22,15 +22,6 @@
       "_nested_name": "text"
     },
     {
-      "name": "section_variant",
-      "value": "box_primary",
-      "_translations": {
-        "value": {}
-      },
-      "type": "set_variable",
-      "_nested_name": "section_variant"
-    },
-    {
       "type": "accordion",
       "name": "accordion",
       "condition": "!!(@local.title)",
