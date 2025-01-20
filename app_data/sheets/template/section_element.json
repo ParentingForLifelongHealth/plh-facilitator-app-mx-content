@@ -22,20 +22,53 @@
       "_nested_name": "text"
     },
     {
-      "type": "display_group",
-      "name": "dg_box",
-      "parameter_list": {
-        "style": "column"
+      "name": "section_variant",
+      "value": "box_primary",
+      "_translations": {
+        "value": {}
       },
+      "type": "set_variable",
+      "_nested_name": "section_variant"
+    },
+    {
+      "type": "accordion",
+      "name": "accordion",
+      "condition": "!!(@local.title)",
+      "exclude_from_translation": true,
       "rows": [
         {
-          "type": "title",
-          "name": "title",
+          "type": "accordion_section",
+          "name": "first",
           "value": "@local.title",
-          "_translations": {
-            "value": {}
-          },
-          "_nested_name": "dg_box.title",
+          "exclude_from_translation": true,
+          "rows": [
+            {
+              "type": "text",
+              "name": "accordion_content",
+              "value": "@local.text",
+              "_translations": {
+                "value": {}
+              },
+              "exclude_from_translation": true,
+              "_nested_name": "accordion.first.accordion_content",
+              "_dynamicFields": {
+                "value": [
+                  {
+                    "fullExpression": "@local.text",
+                    "matchedExpression": "@local.text",
+                    "type": "local",
+                    "fieldName": "text"
+                  }
+                ]
+              },
+              "_dynamicDependencies": {
+                "@local.text": [
+                  "value"
+                ]
+              }
+            }
+          ],
+          "_nested_name": "accordion.first",
           "_dynamicFields": {
             "value": [
               {
@@ -51,33 +84,24 @@
               "value"
             ]
           }
-        },
-        {
-          "type": "text",
-          "name": "text",
-          "value": "@local.text",
-          "_translations": {
-            "value": {}
-          },
-          "_nested_name": "dg_box.text",
-          "_dynamicFields": {
-            "value": [
-              {
-                "fullExpression": "@local.text",
-                "matchedExpression": "@local.text",
-                "type": "local",
-                "fieldName": "text"
-              }
-            ]
-          },
-          "_dynamicDependencies": {
-            "@local.text": [
-              "value"
-            ]
-          }
         }
       ],
-      "_nested_name": "dg_box"
+      "_nested_name": "accordion",
+      "_dynamicFields": {
+        "condition": [
+          {
+            "fullExpression": "!!(@local.title)",
+            "matchedExpression": "@local.title",
+            "type": "local",
+            "fieldName": "title"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.title": [
+          "condition"
+        ]
+      }
     }
   ],
   "_xlsxPath": "article_elements.xlsx"

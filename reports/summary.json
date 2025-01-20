@@ -3,11 +3,11 @@
     "data": [
       {
         "type": "accordion",
-        "count": 1
+        "count": 2
       },
       {
         "type": "accordion_section",
-        "count": 1
+        "count": 2
       },
       {
         "type": "audio",
@@ -39,7 +39,7 @@
       },
       {
         "type": "display_group",
-        "count": 93
+        "count": 92
       },
       {
         "type": "drawer",
@@ -87,7 +87,7 @@
       },
       {
         "type": "set_variable",
-        "count": 795
+        "count": 796
       },
       {
         "type": "simple_checkbox",
@@ -107,7 +107,7 @@
       },
       {
         "type": "text",
-        "count": 167
+        "count": 166
       },
       {
         "type": "text_area",
@@ -119,7 +119,7 @@
       },
       {
         "type": "title",
-        "count": 44
+        "count": 43
       },
       {
         "type": "toggle_bar",

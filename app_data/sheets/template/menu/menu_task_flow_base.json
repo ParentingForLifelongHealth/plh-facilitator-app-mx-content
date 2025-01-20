@@ -167,6 +167,7 @@
                   ],
                   "parameter_list": {
                     "placeholder": "Select Parent Group",
+                    "disabled_text": "No Parent Groups",
                     "variant": "dropdown"
                   },
                   "style_list": [
