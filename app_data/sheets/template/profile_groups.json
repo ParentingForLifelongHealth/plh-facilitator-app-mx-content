@@ -44,7 +44,7 @@
     {
       "type": "text",
       "name": "group_desc",
-      "value": "Manage existing groups",
+      "value": "Manage Existing Groups",
       "_translations": {
         "value": {}
       },

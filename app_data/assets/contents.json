@@ -236,6 +236,10 @@
     "size_kb": 3.9
   },
   "images/icons/group_add.svg": {
+    "md5Checksum": "c0b8a02a6f23e689242bc22dbaddb1ea",
+    "size_kb": 2.2
+  },
+  "images/icons/group_add_dark.svg": {
     "md5Checksum": "f4934986d164f6df1fc758bf669afa26",
     "size_kb": 2.3
   },

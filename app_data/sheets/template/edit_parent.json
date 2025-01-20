@@ -131,9 +131,11 @@
         },
         {
           "type": "text",
-          "value": "Parent App ID",
+          "value": "ParentText ID",
           "_translations": {
-            "value": {}
+            "value": {
+              "mx_es": true
+            }
           },
           "name": "text_5",
           "_nested_name": "display_group_4.text_5"
@@ -182,10 +184,124 @@
       "_nested_name": "display_group_4"
     },
     {
+      "name": "external_id_valid_syntax",
+      "value": "@calc(/^\\d{6}$/.test(@local.text_id))",
+      "_translations": {
+        "value": {}
+      },
+      "exclude_from_translation": true,
+      "type": "set_variable",
+      "_nested_name": "external_id_valid_syntax",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@calc(/^\\d{6}$/.test(@local.text_id))",
+            "matchedExpression": "@local.text_id",
+            "type": "local",
+            "fieldName": "text_id"
+          },
+          {
+            "fullExpression": "@calc(/^\\d{6}$/.test(@local.text_id))",
+            "matchedExpression": "@calc(/^\\d{6}$/.test(@local.text_id))",
+            "type": "calc",
+            "fieldName": "/^\\d{6}$/.test(@local.text_id)"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.text_id": [
+          "value"
+        ],
+        "@calc(/^\\d{6}$/.test(@local.text_id))": [
+          "value"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "name": "warning_external_id_invalid_syntax",
+      "value": "Make sure that the ParentText ID consists of 6 numerical characters.",
+      "_translations": {
+        "value": {
+          "mx_es": true
+        }
+      },
+      "style_list": [
+        "font-size: 14px",
+        "color: grey"
+      ],
+      "condition": "!@local.external_id_valid_syntax",
+      "_nested_name": "warning_external_id_invalid_syntax",
+      "_dynamicFields": {
+        "condition": [
+          {
+            "fullExpression": "!@local.external_id_valid_syntax",
+            "matchedExpression": "!@local.external_id_valid_syntax",
+            "type": "local",
+            "fieldName": "external_id_valid_syntax"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "!@local.external_id_valid_syntax": [
+          "condition"
+        ]
+      }
+    },
+    {
+      "type": "data_items",
+      "value": "parents",
+      "rows": [
+        {
+          "type": "text",
+          "name": "warning_external_id_in_use",
+          "value": "This ParentText ID has already been assigned to another parent.",
+          "_translations": {
+            "value": {
+              "mx_es": true
+            }
+          },
+          "style_list": [
+            "font-size: 14px",
+            "color: grey"
+          ],
+          "condition": "@item.text_id==@local.text_id",
+          "_nested_name": "data_items_8.warning_external_id_in_use",
+          "_dynamicFields": {
+            "condition": [
+              {
+                "fullExpression": "@item.text_id==@local.text_id",
+                "matchedExpression": "@item.text_id",
+                "type": "item",
+                "fieldName": "text_id"
+              },
+              {
+                "fullExpression": "@item.text_id==@local.text_id",
+                "matchedExpression": "@local.text_id",
+                "type": "local",
+                "fieldName": "text_id"
+              }
+            ]
+          },
+          "_dynamicDependencies": {
+            "@item.text_id": [
+              "condition"
+            ],
+            "@local.text_id": [
+              "condition"
+            ]
+          }
+        }
+      ],
+      "name": "data_items_8",
+      "_nested_name": "data_items_8"
+    },
+    {
       "type": "display_group",
       "parameter_list": {
         "sticky": "bottom"
       },
+      "condition": "@local.external_id_valid_syntax",
       "rows": [
         {
           "type": "button",
@@ -221,7 +337,7 @@
               "_cleaned": "click | emit: completed"
             }
           ],
-          "_nested_name": "display_group_6.save",
+          "_nested_name": "display_group_10.save",
           "_dynamicFields": {
             "action_list": {
               "0": {
@@ -338,8 +454,23 @@
           }
         }
       ],
-      "name": "display_group_6",
-      "_nested_name": "display_group_6"
+      "name": "display_group_10",
+      "_nested_name": "display_group_10",
+      "_dynamicFields": {
+        "condition": [
+          {
+            "fullExpression": "@local.external_id_valid_syntax",
+            "matchedExpression": "@local.external_id_valid_syntax",
+            "type": "local",
+            "fieldName": "external_id_valid_syntax"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.external_id_valid_syntax": [
+          "condition"
+        ]
+      }
     }
   ],
   "_xlsxPath": "templates/profile.xlsx"

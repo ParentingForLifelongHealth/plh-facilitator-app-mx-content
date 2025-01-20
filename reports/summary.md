@@ -9,10 +9,10 @@
 | button | 74 |
 | carousel | 1 |
 | combo_box | 3 |
-| data_items | 20 |
+| data_items | 21 |
 | debug_toggle | 1 |
 | display_grid | 4 |
-| display_group | 96 |
+| display_group | 93 |
 | drawer | 2 |
 | image | 9 |
 | items | 38 |
@@ -21,15 +21,15 @@
 | pdf | 1 |
 | qr_code | 1 |
 | radio_button_grid | 4 |
-| round_button | 37 |
+| round_button | 32 |
 | select_text | 1 |
 | set_field | 1 |
-| set_variable | 794 |
+| set_variable | 795 |
 | simple_checkbox | 2 |
 | task_card | 3 |
 | task_progress_bar | 2 |
-| template | 201 |
-| text | 167 |
+| template | 203 |
+| text | 166 |
 | text_area | 2 |
 | text_box | 25 |
 | title | 44 |
@@ -53,14 +53,14 @@
 | emit: set_language | 1 |
 | emit: uncompleted | 65 |
 | feedback | 13 |
-| go_to | 42 |
+| go_to | 40 |
 | go_to_url | 1 |
 | nav_stack | 4 |
-| pop_up | 15 |
+| pop_up | 13 |
 | reset_app | 1 |
 | save_to_device | 3 |
-| set_data | 13 |
-| set_field | 65 |
+| set_data | 15 |
+| set_field | 60 |
 | set_item | 8 |
 | set_local | 19 |
 | share | 2 |
@@ -73,7 +73,7 @@
 | assets | KB | MB |
 | --- | --- | --- |
 | total | 116040 KB | 116 MB |
-| unused | 745 KB | 0.7 MB |
+| unused | 747 KB | 0.7 MB |
 </details>
 
 <details open>
@@ -100,6 +100,7 @@ Assets that appear in app-data but do not have references within sheets
 | images/icons/check_circle.svg | 1.2 |
 | images/icons/download_white.svg | 0.7 |
 | images/icons/globe_blue.svg | 3.9 |
+| images/icons/group_add_dark.svg | 2.3 |
 | images/icons/paper_plane_white.svg | 1.4 |
 | images/icons/person_cog.png | 0.8 |
 | images/icons/reader_blue.svg | 1.4 |
@@ -168,17 +169,17 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/how_to_chat_session.svg | 11 | 2 |
 | images/how_to_report.svg | 5.8 | 1 |
 | images/how_to_report_abuse.svg | 12.2 | 2 |
-| images/icons/add_circle.svg | 1 | 3 |
+| images/icons/add_circle.svg | 1 | 2 |
 | images/icons/arrow_back.svg | 0.5 | 1 |
 | images/icons/arrow_forward.svg | 0.4 | 2 |
 | images/icons/cancel.svg | 1.7 | 1 |
 | images/icons/check_circle.png | 0.6 | 1 |
 | images/icons/content.svg | 7.2 | 1 |
-| images/icons/delete.svg | 0.8 | 4 |
+| images/icons/delete.svg | 0.8 | 3 |
 | images/icons/docs.svg | 0.7 | 1 |
 | images/icons/download.svg | 0.7 | 2 |
-| images/icons/edit.svg | 0.9 | 6 |
-| images/icons/group_add.svg | 2.3 | 2 |
+| images/icons/edit.svg | 0.9 | 5 |
+| images/icons/group_add.svg | 2.2 | 1 |
 | images/icons/help.svg | 2.6 | 1 |
 | images/icons/home_white.svg | 1.7 | 2 |
 | images/icons/key.svg | 5.5 | 1 |
@@ -186,7 +187,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/icons/pencil_white.svg | 1.4 | 2 |
 | images/icons/people_network.svg | 6.9 | 1 |
 | images/icons/person_cog.svg | 2.9 | 2 |
-| images/icons/person_remove.svg | 1.5 | 2 |
+| images/icons/person_remove.svg | 1.5 | 1 |
 | images/icons/person_white.svg | 1.5 | 2 |
 | images/icons/profile_card.svg | 7.4 | 1 |
 | images/icons/report.png | 1.1 | 1 |
@@ -241,7 +242,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | generator |  | 11 |
 | global |  | 11 |
 | global | legal_terms | 1 |
-| template |  | 77 |
+| template |  | 78 |
 | template | generated | 155 |
 | template | legal_terms | 4 |
 | template | menu | 1 |
