@@ -79,7 +79,7 @@
             },
             {
               "name": "message_guidance",
-              "value": "@item.guidence",
+              "value": "@item.guidance",
               "_translations": {
                 "value": {}
               },
@@ -88,15 +88,39 @@
               "_dynamicFields": {
                 "value": [
                   {
-                    "fullExpression": "@item.guidence",
-                    "matchedExpression": "@item.guidence",
+                    "fullExpression": "@item.guidance",
+                    "matchedExpression": "@item.guidance",
                     "type": "item",
-                    "fieldName": "guidence"
+                    "fieldName": "guidance"
                   }
                 ]
               },
               "_dynamicDependencies": {
-                "@item.guidence": [
+                "@item.guidance": [
+                  "value"
+                ]
+              }
+            },
+            {
+              "type": "text",
+              "value": "@item.guidance",
+              "_translations": {
+                "value": {}
+              },
+              "name": "text_5",
+              "_nested_name": "loop_messages.message_element.text_5",
+              "_dynamicFields": {
+                "value": [
+                  {
+                    "fullExpression": "@item.guidance",
+                    "matchedExpression": "@item.guidance",
+                    "type": "item",
+                    "fieldName": "guidance"
+                  }
+                ]
+              },
+              "_dynamicDependencies": {
+                "@item.guidance": [
                   "value"
                 ]
               }
