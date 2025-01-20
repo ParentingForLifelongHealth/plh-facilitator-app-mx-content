@@ -100,6 +100,7 @@
                     }
                   ],
                   "parameter_list": {
+                    "variant": "no-background",
                     "icon_src": "images/icons/docs.svg"
                   },
                   "_nested_name": "display_group_6.data_items_1.display_group_1.main_view",
@@ -149,6 +150,9 @@
                   "_translations": {
                     "value": {}
                   },
+                  "style_list": [
+                    "flex: 1"
+                  ],
                   "name": "text_2",
                   "_nested_name": "display_group_6.data_items_1.display_group_1.text_2",
                   "_dynamicFields": {
@@ -182,6 +186,7 @@
                     }
                   ],
                   "parameter_list": {
+                    "variant": "no-background",
                     "icon_src": "images/icons/visibility.svg"
                   },
                   "_nested_name": "display_group_6.data_items_1.display_group_1.view",
@@ -240,6 +245,7 @@
                     }
                   ],
                   "parameter_list": {
+                    "variant": "no-background",
                     "icon_src": "images/icons/download.svg"
                   },
                   "_nested_name": "display_group_6.data_items_1.display_group_1.download",
@@ -345,6 +351,9 @@
             {
               "type": "display_group",
               "condition": "@item.id == @local.resource_id",
+              "parameter_list": {
+                "style": "column"
+              },
               "rows": [
                 {
                   "type": "video",
@@ -419,62 +428,81 @@
                   }
                 },
                 {
-                  "type": "round_button",
-                  "name": "download",
-                  "action_list": [
+                  "type": "display_group",
+                  "rows": [
                     {
-                      "trigger": "click",
-                      "action_id": "save_to_device",
-                      "args": [
-                        "@item.media_asset"
+                      "type": "text",
+                      "style_list": [
+                        "flex: 1"
                       ],
-                      "_raw": "click | save_to_device: @item.media_asset",
-                      "_cleaned": "click | save_to_device: @item.media_asset"
-                    }
-                  ],
-                  "parameter_list": {
-                    "icon_src": "images/icons/download.svg"
-                  },
-                  "_nested_name": "display_group_8.data_items_1.display_group_1.download",
-                  "_dynamicFields": {
-                    "action_list": {
-                      "0": {
-                        "args": {
-                          "0": [
-                            {
-                              "fullExpression": "@item.media_asset",
-                              "matchedExpression": "@item.media_asset",
-                              "type": "item",
-                              "fieldName": "media_asset"
-                            }
-                          ]
-                        },
-                        "_raw": [
-                          {
-                            "fullExpression": "click | save_to_device: @item.media_asset",
-                            "matchedExpression": "@item.media_asset",
-                            "type": "item",
-                            "fieldName": "media_asset"
+                      "name": "text_1",
+                      "_nested_name": "display_group_8.data_items_1.display_group_1.display_group_3.text_1"
+                    },
+                    {
+                      "type": "round_button",
+                      "name": "download",
+                      "action_list": [
+                        {
+                          "trigger": "click",
+                          "action_id": "save_to_device",
+                          "args": [
+                            "@item.media_asset"
+                          ],
+                          "_raw": "click | save_to_device: @item.media_asset",
+                          "_cleaned": "click | save_to_device: @item.media_asset"
+                        }
+                      ],
+                      "style_list": [
+                        "margin-top:-15px"
+                      ],
+                      "parameter_list": {
+                        "variant": "dark_orange",
+                        "icon_src": "images/icons/download_white.svg"
+                      },
+                      "_nested_name": "display_group_8.data_items_1.display_group_1.display_group_3.download",
+                      "_dynamicFields": {
+                        "action_list": {
+                          "0": {
+                            "args": {
+                              "0": [
+                                {
+                                  "fullExpression": "@item.media_asset",
+                                  "matchedExpression": "@item.media_asset",
+                                  "type": "item",
+                                  "fieldName": "media_asset"
+                                }
+                              ]
+                            },
+                            "_raw": [
+                              {
+                                "fullExpression": "click | save_to_device: @item.media_asset",
+                                "matchedExpression": "@item.media_asset",
+                                "type": "item",
+                                "fieldName": "media_asset"
+                              }
+                            ],
+                            "_cleaned": [
+                              {
+                                "fullExpression": "click | save_to_device: @item.media_asset",
+                                "matchedExpression": "@item.media_asset",
+                                "type": "item",
+                                "fieldName": "media_asset"
+                              }
+                            ]
                           }
-                        ],
-                        "_cleaned": [
-                          {
-                            "fullExpression": "click | save_to_device: @item.media_asset",
-                            "matchedExpression": "@item.media_asset",
-                            "type": "item",
-                            "fieldName": "media_asset"
-                          }
+                        }
+                      },
+                      "_dynamicDependencies": {
+                        "@item.media_asset": [
+                          "action_list.0.args.0",
+                          "action_list.0._raw",
+                          "action_list.0._cleaned"
                         ]
                       }
                     }
-                  },
-                  "_dynamicDependencies": {
-                    "@item.media_asset": [
-                      "action_list.0.args.0",
-                      "action_list.0._raw",
-                      "action_list.0._cleaned"
-                    ]
-                  }
+                  ],
+                  "name": "display_group_3",
+                  "_nested_name": "display_group_8.data_items_1.display_group_1.display_group_3"
                 }
               ],
               "name": "display_group_1",

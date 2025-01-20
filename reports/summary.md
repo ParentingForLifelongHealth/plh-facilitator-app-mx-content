@@ -12,7 +12,7 @@
 | data_items | 21 |
 | debug_toggle | 1 |
 | display_grid | 4 |
-| display_group | 92 |
+| display_group | 93 |
 | drawer | 2 |
 | image | 9 |
 | items | 38 |
@@ -24,12 +24,12 @@
 | round_button | 32 |
 | select_text | 1 |
 | set_field | 1 |
-| set_variable | 796 |
+| set_variable | 795 |
 | simple_checkbox | 2 |
 | task_card | 3 |
 | task_progress_bar | 2 |
 | template | 203 |
-| text | 166 |
+| text | 167 |
 | text_area | 2 |
 | text_box | 25 |
 | title | 43 |
@@ -72,7 +72,7 @@
 
 | assets | KB | MB |
 | --- | --- | --- |
-| total | 116040 KB | 116 MB |
+| total | 116041 KB | 116 MB |
 | unused | 747 KB | 0.7 MB |
 </details>
 
@@ -98,7 +98,6 @@ Assets that appear in app-data but do not have references within sheets
 | images/icons/bar_chart_white.svg | 1.5 |
 | images/icons/book_white.svg | 1.5 |
 | images/icons/check_circle.svg | 1.2 |
-| images/icons/download_white.svg | 0.7 |
 | images/icons/globe_blue.svg | 3.9 |
 | images/icons/group_add_dark.svg | 2.3 |
 | images/icons/paper_plane_white.svg | 1.4 |
@@ -177,7 +176,8 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/icons/content.svg | 7.2 | 1 |
 | images/icons/delete.svg | 0.8 | 3 |
 | images/icons/docs.svg | 0.7 | 1 |
-| images/icons/download.svg | 0.7 | 2 |
+| images/icons/download.svg | 0.7 | 1 |
+| images/icons/download_white.svg | 0.7 | 1 |
 | images/icons/edit.svg | 0.9 | 5 |
 | images/icons/group_add.svg | 2.2 | 1 |
 | images/icons/help.svg | 2.6 | 1 |
