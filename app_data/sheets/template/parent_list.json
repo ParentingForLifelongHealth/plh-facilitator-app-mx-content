@@ -98,6 +98,9 @@
         },
         {
           "type": "display_group",
+          "style_list": [
+            "margin-bottom: 12px"
+          ],
           "condition": "@item.group_id == @fields.current_group_no && !@item.archived && (@item.co_parent_id== \"\" | @item.co_parent_name!= \"\")",
           "rows": [
             {
@@ -139,8 +142,7 @@
                 "style": "column"
               },
               "style_list": [
-                "flex: 1",
-                "margin-bottom: 12px"
+                "flex: 1"
               ],
               "rows": [
                 {
@@ -279,7 +281,8 @@
                 }
               ],
               "parameter_list": {
-                "icon_src": "images/icons/group_add.svg"
+                "icon_src": "images/icons/group_add_dark.svg",
+                "variant": "primary_light"
               },
               "condition": "!@item.co_parent_id",
               "_nested_name": "data_items_4.display_group_3.button_co_add_@item.id",

@@ -231,13 +231,13 @@
     "data": [
       {
         "assets": "total",
-        "KB": "116041 KB",
+        "KB": "116027 KB",
         "MB": "116 MB"
       },
       {
         "assets": "unused",
-        "KB": "747 KB",
-        "MB": "0.7 MB"
+        "KB": "760 KB",
+        "MB": "0.8 MB"
       }
     ]
   },
@@ -261,7 +261,7 @@
       },
       {
         "path": "contents.json",
-        "size_kb": 2.8
+        "size_kb": 2.7
       },
       {
         "path": "images/Message.png",
@@ -322,6 +322,38 @@
       {
         "path": "images/icons/reader_blue.svg",
         "size_kb": 1.4
+      },
+      {
+        "path": "images/icons/task_0.png",
+        "size_kb": 2
+      },
+      {
+        "path": "images/icons/task_1.png",
+        "size_kb": 1
+      },
+      {
+        "path": "images/icons/task_2.png",
+        "size_kb": 1.9
+      },
+      {
+        "path": "images/icons/task_3.png",
+        "size_kb": 2
+      },
+      {
+        "path": "images/icons/task_4.png",
+        "size_kb": 1.4
+      },
+      {
+        "path": "images/icons/task_5.png",
+        "size_kb": 1.8
+      },
+      {
+        "path": "images/icons/task_6.png",
+        "size_kb": 2.2
+      },
+      {
+        "path": "images/icons/task_7.png",
+        "size_kb": 1.5
       },
       {
         "path": "images/icons/task_8.png",
@@ -684,46 +716,6 @@
         "path": "images/icons/share.svg",
         "count": 1,
         "size_kb": 2.3
-      },
-      {
-        "path": "images/icons/task_0.png",
-        "count": 1,
-        "size_kb": 2
-      },
-      {
-        "path": "images/icons/task_1.png",
-        "count": 1,
-        "size_kb": 1
-      },
-      {
-        "path": "images/icons/task_2.png",
-        "count": 1,
-        "size_kb": 1.9
-      },
-      {
-        "path": "images/icons/task_3.png",
-        "count": 1,
-        "size_kb": 2
-      },
-      {
-        "path": "images/icons/task_4.png",
-        "count": 1,
-        "size_kb": 1.4
-      },
-      {
-        "path": "images/icons/task_5.png",
-        "count": 1,
-        "size_kb": 1.8
-      },
-      {
-        "path": "images/icons/task_6.png",
-        "count": 1,
-        "size_kb": 2.2
-      },
-      {
-        "path": "images/icons/task_7.png",
-        "count": 1,
-        "size_kb": 1.5
       },
       {
         "path": "images/icons/visibility.svg",

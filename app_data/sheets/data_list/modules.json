@@ -6,8 +6,7 @@
   "rows": [
     {
       "id": "onboarding_day_chat",
-      "image_asset": "images/icons/task_0.png",
-      "image_asset_2": "images/day_1_introduction.svg",
+      "image_asset": "images/day_1_introduction.svg",
       "report_id": "onboarding",
       "title": "After Onboarding Session",
       "_translations": {
@@ -31,8 +30,7 @@
       "tag_list": [
         "scale_dif"
       ],
-      "image_asset": "images/icons/task_1.png",
-      "image_asset_2": "images/day_3_mh_stress_self_talk.svg",
+      "image_asset": "images/day_3_mh_stress_self_talk.svg",
       "related_article_id_1": "faq_h_parents_insult",
       "related_article_id_2": "faq_h_self_harm",
       "related_article_id_3": "faq_h_no_neg_to_pos",
@@ -53,8 +51,7 @@
       "tag_list": [
         "scale_dif"
       ],
-      "image_asset": "images/icons/task_2.png",
-      "image_asset_2": "images/how_to_report_abuse.svg",
+      "image_asset": "images/how_to_report_abuse.svg",
       "report_id": "week_1",
       "related_article_id_1": "faq_h_after_group_ended",
       "related_article_id_2": "faq_h_still_struggling",
@@ -84,8 +81,7 @@
         "study_dif_cdmx",
         "study_dif_mich"
       ],
-      "image_asset": "images/icons/task_3.png",
-      "image_asset_2": "images/day_3_check_in.svg",
+      "image_asset": "images/day_3_check_in.svg",
       "related_article_id_1": "faq_text_support",
       "related_article_id_2": "faq_ground_rules",
       "related_article_id_3": "faq_misbehaviour",
@@ -109,8 +105,7 @@
         "study_dif_cdmx",
         "study_dif_mich"
       ],
-      "image_asset": "images/icons/task_4.png",
-      "image_asset_2": "images/day_3_mh_stress_self_talk.svg",
+      "image_asset": "images/day_3_mh_stress_self_talk.svg",
       "report_id": "week_1",
       "related_article_id_1": "faq_h_no_understand_connection",
       "related_article_id_2": "faq_h_no_thoughts",
@@ -139,8 +134,7 @@
         "study_dif_cdmx",
         "study_dif_mich"
       ],
-      "image_asset": "images/icons/task_5.png",
-      "image_asset_2": "images/day_4_check_in.svg",
+      "image_asset": "images/day_4_check_in.svg",
       "report_id": "week_2",
       "related_article_id_1": "faq_h_parents_insult",
       "related_article_id_2": "faq_h_self_harm",
@@ -170,8 +164,7 @@
         "study_dif_cdmx",
         "study_dif_mich"
       ],
-      "image_asset": "images/icons/task_6.png",
-      "image_asset_2": "images/day_5_goodbye.svg",
+      "image_asset": "images/day_5_goodbye.svg",
       "report_id": "week_3",
       "related_article_id_1": "faq_h_no_strengths",
       "related_article_id_2": "faq_h_no_volunteers",
@@ -201,8 +194,7 @@
         "study_dif_cdmx",
         "study_dif_mich"
       ],
-      "image_asset": "images/icons/task_7.png",
-      "image_asset_2": "images/onboarding_cc.svg",
+      "image_asset": "images/onboarding_cc.svg",
       "report_id": "week_4",
       "related_article_id_1": "faq_h_still_struggling",
       "related_article_id_2": "faq_h_sad_to_end",

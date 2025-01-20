@@ -72,8 +72,8 @@
 
 | assets | KB | MB |
 | --- | --- | --- |
-| total | 116041 KB | 116 MB |
-| unused | 747 KB | 0.7 MB |
+| total | 116027 KB | 116 MB |
+| unused | 760 KB | 0.8 MB |
 </details>
 
 <details open>
@@ -87,7 +87,7 @@ Assets that appear in app-data but do not have references within sheets
 | android/icon-foreground.png | 31.1 |
 | android/icon.png | 108.2 |
 | android/splash.png | 290.4 |
-| contents.json | 2.8 |
+| contents.json | 2.7 |
 | images/Message.png | 1.3 |
 | images/Message.svg | 0.7 |
 | images/backgrounds/library_bottom_left.svg | 2.3 |
@@ -103,6 +103,14 @@ Assets that appear in app-data but do not have references within sheets
 | images/icons/paper_plane_white.svg | 1.4 |
 | images/icons/person_cog.png | 0.8 |
 | images/icons/reader_blue.svg | 1.4 |
+| images/icons/task_0.png | 2 |
+| images/icons/task_1.png | 1 |
+| images/icons/task_2.png | 1.9 |
+| images/icons/task_3.png | 2 |
+| images/icons/task_4.png | 1.4 |
+| images/icons/task_5.png | 1.8 |
+| images/icons/task_6.png | 2.2 |
+| images/icons/task_7.png | 1.5 |
 | images/icons/task_8.png | 2.4 |
 | images/logos/KEMAS.png | 5.6 |
 | images/logos/LPPKN.png | 41.2 |
@@ -194,14 +202,6 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/icons/sessions.png | 1.3 | 1 |
 | images/icons/settings.png | 1.1 | 1 |
 | images/icons/share.svg | 2.3 | 1 |
-| images/icons/task_0.png | 2 | 1 |
-| images/icons/task_1.png | 1 | 1 |
-| images/icons/task_2.png | 1.9 | 1 |
-| images/icons/task_3.png | 2 | 1 |
-| images/icons/task_4.png | 1.4 | 1 |
-| images/icons/task_5.png | 1.8 | 1 |
-| images/icons/task_6.png | 2.2 | 1 |
-| images/icons/task_7.png | 1.5 | 1 |
 | images/icons/visibility.svg | 1.9 | 1 |
 | images/icons/world.svg | 6.2 | 1 |
 | images/logos/IDEMS.png | 84.6 | 1 |
