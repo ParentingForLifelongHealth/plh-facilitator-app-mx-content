@@ -5,7 +5,7 @@
       "flow_type": "data_list",
       "flow_name": "a_messages",
       "data_list_name": "a_messages",
-      "_xlsxPath": "data/FacilitatorApp MX modules.xlsx",
+      "_xlsxPath": "data/modules_sub_items_mx.xlsx",
       "_metadata": {
         "ignore": {
           "type": "number"
@@ -16,7 +16,7 @@
       "flow_type": "data_list",
       "flow_name": "a_sections",
       "data_list_name": "a_sections",
-      "_xlsxPath": "data/FacilitatorApp MX modules.xlsx",
+      "_xlsxPath": "data/modules_sub_items_mx.xlsx",
       "_metadata": {
         "ignore": {
           "type": "number"
@@ -93,7 +93,7 @@
       "flow_type": "data_list",
       "flow_name": "intro",
       "data_list_name": "intro",
-      "_xlsxPath": "data/FacilitatorApp MX modules.xlsx",
+      "_xlsxPath": "data/modules_sub_items_mx.xlsx",
       "_metadata": {
         "ignore": {
           "type": "number"
@@ -135,7 +135,7 @@
       "flow_type": "data_list",
       "flow_name": "modules",
       "data_list_name": "modules",
-      "_xlsxPath": "data/FacilitatorApp MX modules.xlsx"
+      "_xlsxPath": "data/modules_sub_items_mx.xlsx"
     },
     "number_data": {
       "flow_type": "data_list",
@@ -217,7 +217,7 @@
       "flow_type": "data_list",
       "flow_name": "related",
       "data_list_name": "related",
-      "_xlsxPath": "data/FacilitatorApp MX modules.xlsx",
+      "_xlsxPath": "data/modules_sub_items_mx.xlsx",
       "_metadata": {
         "ignore": {
           "type": "number"
@@ -227,7 +227,7 @@
     "report_answers": {
       "flow_type": "data_list",
       "flow_name": "report_answers",
-      "_xlsxPath": "reports.xlsx",
+      "_xlsxPath": "templates/reports.xlsx",
       "_metadata": {
         "archived": {
           "type": "boolean"
@@ -249,7 +249,7 @@
     "report_questions": {
       "flow_type": "data_list",
       "flow_name": "report_questions",
-      "_xlsxPath": "reports.xlsx"
+      "_xlsxPath": "templates/reports.xlsx"
     },
     "state": {
       "flow_type": "data_list",
@@ -261,7 +261,7 @@
       "flow_type": "data_list",
       "flow_name": "sub_items",
       "data_list_name": "sub_items",
-      "_xlsxPath": "data/FacilitatorApp MX modules.xlsx",
+      "_xlsxPath": "data/modules_sub_items_mx.xlsx",
       "_metadata": {
         "ignore": {
           "type": "number"
@@ -299,28 +299,6 @@
       "_output_flows": [
         {
           "flow_name": "package",
-          "flow_subtype": "generated",
-          "flow_type": "data_list"
-        }
-      ]
-    },
-    "prep_#N/A_sub_items": {
-      "flow_name": "prep_#N/A_sub_items",
-      "flow_subtype": "generated",
-      "flow_type": "data_pipe",
-      "_output_flows": [
-        {
-          "flow_name": "article_loops",
-          "flow_subtype": "generated",
-          "flow_type": "data_list"
-        },
-        {
-          "flow_name": "articles",
-          "flow_subtype": "generated",
-          "flow_type": "data_list"
-        },
-        {
-          "flow_name": "menus",
           "flow_subtype": "generated",
           "flow_type": "data_list"
         }
@@ -1509,7 +1487,7 @@
         "output_flow_type": "template",
         "output_flow_subtype": "generated"
       },
-      "_xlsxPath": "menu_sub_tasks.xlsx",
+      "_xlsxPath": "templates/menu_sub_tasks.xlsx",
       "_output_flows": [
         {
           "flow_name": "sub_item_onboarding_day_chat",
@@ -1550,11 +1528,6 @@
           "flow_name": "sub_item_week_4_chat",
           "flow_subtype": "generated",
           "flow_type": "template"
-        },
-        {
-          "flow_name": "sub_item_#N/A",
-          "flow_subtype": "generated",
-          "flow_type": "template"
         }
       ]
     },
@@ -1567,7 +1540,7 @@
         "output_flow_type": "template",
         "output_flow_subtype": "generated"
       },
-      "_xlsxPath": "menu_sub_tasks.xlsx",
+      "_xlsxPath": "templates/menu_sub_tasks.xlsx",
       "_output_flows": [
         {
           "flow_name": "articles_onboarding_day_chat",
@@ -1778,11 +1751,6 @@
           "flow_name": "articles_week_4_chat_6",
           "flow_subtype": "generated",
           "flow_type": "template"
-        },
-        {
-          "flow_name": "articles_#N/A",
-          "flow_subtype": "generated",
-          "flow_type": "template"
         }
       ]
     },
@@ -1795,7 +1763,7 @@
         "output_flow_type": "template",
         "output_flow_subtype": "generated"
       },
-      "_xlsxPath": "library.xlsx",
+      "_xlsxPath": "templates/library.xlsx",
       "_output_flows": [
         {
           "flow_name": "library_article_what_is_safeguarding",
@@ -1824,6 +1792,46 @@
         },
         {
           "flow_name": "library_article_crisis_hotlines",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "library_article_onboarding_day_chat",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "library_article_day_3_mh_stress_self_talk",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "library_article_day_5_final_chat_sessions_5ux",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "library_article_before_chat",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "library_article_week_1_chat",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "library_article_week_2_chat",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "library_article_week_3_chat",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "library_article_week_4_chat",
           "flow_subtype": "generated",
           "flow_type": "template"
         },
@@ -1986,6 +1994,11 @@
           "flow_name": "library_article_safety_challenges",
           "flow_subtype": "generated",
           "flow_type": "template"
+        },
+        {
+          "flow_name": "library_article_week_4_chat",
+          "flow_subtype": "generated",
+          "flow_type": "template"
         }
       ]
     },
@@ -1998,10 +2011,15 @@
         "output_flow_type": "template",
         "output_flow_subtype": "generated"
       },
-      "_xlsxPath": "library.xlsx",
+      "_xlsxPath": "templates/library.xlsx",
       "_output_flows": [
         {
           "flow_name": "library_programme",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "library_sessions",
           "flow_subtype": "generated",
           "flow_type": "template"
         },
@@ -2031,7 +2049,7 @@
         "output_flow_type": "template",
         "output_flow_subtype": "generated"
       },
-      "_xlsxPath": "menu_sub_tasks.xlsx",
+      "_xlsxPath": "templates/menu_sub_tasks.xlsx",
       "_output_flows": []
     },
     "gen_prep_sub_items": {
@@ -2043,7 +2061,7 @@
         "output_flow_type": "data_pipe",
         "output_flow_subtype": "generated"
       },
-      "_xlsxPath": "menu_sub_tasks.xlsx",
+      "_xlsxPath": "templates/menu_sub_tasks.xlsx",
       "_output_flows": [
         {
           "flow_name": "prep_onboarding_day_chat_sub_items",
@@ -2254,11 +2272,6 @@
           "flow_name": "prep_week_4_chat_6_sub_items",
           "flow_subtype": "generated",
           "flow_type": "data_pipe"
-        },
-        {
-          "flow_name": "prep_#N/A_sub_items",
-          "flow_subtype": "generated",
-          "flow_type": "data_pipe"
         }
       ]
     },
@@ -2463,7 +2476,7 @@
     "a_article_section": {
       "flow_type": "template",
       "flow_name": "a_article_section",
-      "_xlsxPath": "menu_sub_tasks.xlsx"
+      "_xlsxPath": "templates/menu_sub_tasks.xlsx"
     },
     "add_coparent": {
       "flow_type": "template",
@@ -2488,7 +2501,7 @@
     "add_report": {
       "flow_type": "template",
       "flow_name": "add_report",
-      "_xlsxPath": "reports.xlsx"
+      "_xlsxPath": "templates/reports.xlsx"
     },
     "app_about": {
       "flow_type": "template",
@@ -2513,7 +2526,7 @@
     "article_intro": {
       "flow_type": "template",
       "flow_name": "article_intro",
-      "_xlsxPath": "menu_sub_tasks.xlsx"
+      "_xlsxPath": "templates/menu_sub_tasks.xlsx"
     },
     "article_launch_history": {
       "flow_type": "template",
@@ -2523,27 +2536,27 @@
     "article_loop": {
       "flow_type": "template",
       "flow_name": "article_loop",
-      "_xlsxPath": "menu_sub_tasks.xlsx"
+      "_xlsxPath": "templates/menu_sub_tasks.xlsx"
     },
     "article_message": {
       "flow_type": "template",
       "flow_name": "article_message",
-      "_xlsxPath": "menu_sub_tasks.xlsx"
+      "_xlsxPath": "templates/menu_sub_tasks.xlsx"
     },
     "article_related": {
       "flow_type": "template",
       "flow_name": "article_related",
-      "_xlsxPath": "menu_sub_tasks.xlsx"
+      "_xlsxPath": "templates/menu_sub_tasks.xlsx"
     },
     "article_story": {
       "flow_type": "template",
       "flow_name": "article_story",
-      "_xlsxPath": "menu_sub_tasks.xlsx"
+      "_xlsxPath": "templates/menu_sub_tasks.xlsx"
     },
     "article_story_base": {
       "flow_type": "template",
       "flow_name": "article_story_base",
-      "_xlsxPath": "menu_sub_tasks.xlsx"
+      "_xlsxPath": "templates/menu_sub_tasks.xlsx"
     },
     "data_collection": {
       "flow_type": "template",
@@ -2563,7 +2576,7 @@
     "delete_report": {
       "flow_type": "template",
       "flow_name": "delete_report",
-      "_xlsxPath": "reports.xlsx"
+      "_xlsxPath": "templates/reports.xlsx"
     },
     "download_header": {
       "flow_type": "template",
@@ -2583,7 +2596,7 @@
     "edit_report": {
       "flow_type": "template",
       "flow_name": "edit_report",
-      "_xlsxPath": "reports.xlsx"
+      "_xlsxPath": "templates/reports.xlsx"
     },
     "enter_dev_mode": {
       "flow_type": "template",
@@ -2868,11 +2881,6 @@
       "flow_subtype": "generated",
       "flow_type": "template"
     },
-    "articles_#N/A": {
-      "flow_name": "articles_#N/A",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
     "articles_before_chat": {
       "flow_name": "articles_before_chat",
       "flow_subtype": "generated",
@@ -3128,6 +3136,11 @@
       "flow_subtype": "generated",
       "flow_type": "template"
     },
+    "library_article_before_chat": {
+      "flow_name": "library_article_before_chat",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
     "library_article_behave_challenges": {
       "flow_name": "library_article_behave_challenges",
       "flow_subtype": "generated",
@@ -3145,6 +3158,16 @@
     },
     "library_article_crisis_hotlines": {
       "flow_name": "library_article_crisis_hotlines",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "library_article_day_3_mh_stress_self_talk": {
+      "flow_name": "library_article_day_3_mh_stress_self_talk",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "library_article_day_5_final_chat_sessions_5ux": {
+      "flow_name": "library_article_day_5_final_chat_sessions_5ux",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
@@ -3273,6 +3296,11 @@
       "flow_subtype": "generated",
       "flow_type": "template"
     },
+    "library_article_onboarding_day_chat": {
+      "flow_name": "library_article_onboarding_day_chat",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
     "library_article_one_on_one_challenges": {
       "flow_name": "library_article_one_on_one_challenges",
       "flow_subtype": "generated",
@@ -3308,6 +3336,26 @@
       "flow_subtype": "generated",
       "flow_type": "template"
     },
+    "library_article_week_1_chat": {
+      "flow_name": "library_article_week_1_chat",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "library_article_week_2_chat": {
+      "flow_name": "library_article_week_2_chat",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "library_article_week_3_chat": {
+      "flow_name": "library_article_week_3_chat",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "library_article_week_4_chat": {
+      "flow_name": "library_article_week_4_chat",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
     "library_article_what_is_safeguarding": {
       "flow_name": "library_article_what_is_safeguarding",
       "flow_subtype": "generated",
@@ -3330,6 +3378,11 @@
     },
     "library_safeguarding": {
       "flow_name": "library_safeguarding",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "library_sessions": {
+      "flow_name": "library_sessions",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
@@ -3365,11 +3418,6 @@
     },
     "pdf_peas": {
       "flow_name": "pdf_peas",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "sub_item_#N/A": {
-      "flow_name": "sub_item_#N/A",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
@@ -3426,13 +3474,6 @@
     "home_screen": {
       "flow_type": "template",
       "flow_name": "home_screen",
-      "parameter_list": {
-        "app_config": {
-          "APP_FOOTER_DEFAULTS": {
-            "templateName": "footer"
-          }
-        }
-      },
       "_xlsxPath": "templates/menu_overrides.xlsx"
     },
     "home_screen_card": {
@@ -3468,7 +3509,7 @@
     "intro_element": {
       "flow_type": "template",
       "flow_name": "intro_element",
-      "_xlsxPath": "article_elements.xlsx"
+      "_xlsxPath": "templates/article_elements.xlsx"
     },
     "language_select": {
       "flow_type": "template",
@@ -3509,54 +3550,48 @@
           }
         }
       },
-      "_xlsxPath": "library.xlsx"
+      "_xlsxPath": "templates/library.xlsx"
     },
     "library_article": {
       "flow_type": "template",
       "flow_name": "library_article",
-      "_xlsxPath": "library.xlsx"
+      "_xlsxPath": "templates/library.xlsx"
     },
     "library_list": {
       "flow_type": "template",
       "flow_name": "library_list",
-      "_xlsxPath": "library.xlsx"
+      "_xlsxPath": "templates/library.xlsx"
     },
     "loop_issues": {
       "flow_type": "template",
       "flow_name": "loop_issues",
-      "_xlsxPath": "menu_sub_tasks.xlsx"
+      "_xlsxPath": "templates/menu_sub_tasks.xlsx"
     },
     "media": {
       "flow_type": "template",
       "flow_name": "media",
       "_xlsxPath": "templates/media.xlsx"
     },
-    "menu_task_flow_base": {
+    "menu_task_flow": {
       "flow_type": "template",
-      "flow_name": "menu_task_flow_base",
+      "flow_name": "menu_task_flow",
       "flow_subtype": "menu",
-      "__EMPTY": "this would then be in menu folder",
-      "_xlsxPath": "menu_multi_run_task_flow.xlsx"
+      "_xlsxPath": "templates/menu_multi_run_task_flow.xlsx"
     },
     "menu_sub_tasks": {
       "flow_type": "template",
       "flow_name": "menu_sub_tasks",
-      "_xlsxPath": "menu_sub_tasks.xlsx"
+      "_xlsxPath": "templates/menu_sub_tasks.xlsx"
     },
     "menu_sub_tasks_base": {
       "flow_type": "template",
       "flow_name": "menu_sub_tasks_base",
-      "_xlsxPath": "menu_sub_tasks.xlsx"
+      "_xlsxPath": "templates/menu_sub_tasks.xlsx"
     },
     "menu_task_card": {
       "flow_type": "template",
       "flow_name": "menu_task_card",
-      "_xlsxPath": "menu_multi_run_task_flow.xlsx"
-    },
-    "menu_task_flow": {
-      "flow_type": "template",
-      "flow_name": "menu_task_flow",
-      "_xlsxPath": "menu_multi_run_task_flow.xlsx"
+      "_xlsxPath": "templates/menu_multi_run_task_flow.xlsx"
     },
     "message_box": {
       "flow_type": "template",
@@ -3566,17 +3601,17 @@
     "message_element": {
       "flow_type": "template",
       "flow_name": "message_element",
-      "_xlsxPath": "article_elements.xlsx"
+      "_xlsxPath": "templates/article_elements.xlsx"
     },
     "module_final": {
       "flow_type": "template",
       "flow_name": "module_final",
-      "_xlsxPath": "menu_sub_tasks.xlsx"
+      "_xlsxPath": "templates/menu_sub_tasks.xlsx"
     },
     "nav_buttons": {
       "flow_type": "template",
       "flow_name": "nav_buttons",
-      "_xlsxPath": "templates/navigation.xlsx"
+      "_xlsxPath": "templates/menu_sub_tasks.xlsx"
     },
     "odk_form": {
       "flow_type": "template",
@@ -3611,7 +3646,7 @@
     "popup_nav": {
       "flow_type": "template",
       "flow_name": "popup_nav",
-      "_xlsxPath": "menu_sub_tasks.xlsx"
+      "_xlsxPath": "templates/menu_sub_tasks.xlsx"
     },
     "profile": {
       "flow_type": "template",
@@ -3641,27 +3676,27 @@
     "related_element": {
       "flow_type": "template",
       "flow_name": "related_element",
-      "_xlsxPath": "article_elements.xlsx"
+      "_xlsxPath": "templates/article_elements.xlsx"
     },
     "report_card": {
       "flow_type": "template",
       "flow_name": "report_card",
-      "_xlsxPath": "reports.xlsx"
+      "_xlsxPath": "templates/reports.xlsx"
     },
     "reports": {
       "flow_type": "template",
       "flow_name": "reports",
-      "_xlsxPath": "reports.xlsx"
+      "_xlsxPath": "templates/reports.xlsx"
     },
     "resource_element": {
       "flow_type": "template",
       "flow_name": "resource_element",
-      "_xlsxPath": "article_elements.xlsx"
+      "_xlsxPath": "templates/article_elements.xlsx"
     },
     "section_element": {
       "flow_type": "template",
       "flow_name": "section_element",
-      "_xlsxPath": "article_elements.xlsx"
+      "_xlsxPath": "templates/article_elements.xlsx"
     },
     "section_header": {
       "flow_type": "template",

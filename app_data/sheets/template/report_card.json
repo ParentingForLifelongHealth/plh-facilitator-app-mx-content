@@ -661,5 +661,5 @@
       }
     }
   ],
-  "_xlsxPath": "reports.xlsx"
+  "_xlsxPath": "templates/reports.xlsx"
 }

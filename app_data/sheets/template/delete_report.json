@@ -148,5 +148,5 @@
       "_nested_name": "buttons"
     }
   ],
-  "_xlsxPath": "reports.xlsx"
+  "_xlsxPath": "templates/reports.xlsx"
 }

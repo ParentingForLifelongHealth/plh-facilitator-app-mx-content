@@ -6,13 +6,13 @@
 | accordion | 2 |
 | accordion_section | 2 |
 | audio | 2 |
-| button | 74 |
+| button | 73 |
 | carousel | 1 |
 | combo_box | 3 |
 | data_items | 21 |
 | debug_toggle | 1 |
 | display_grid | 4 |
-| display_group | 93 |
+| display_group | 92 |
 | drawer | 2 |
 | image | 9 |
 | items | 38 |
@@ -21,14 +21,14 @@
 | pdf | 1 |
 | qr_code | 1 |
 | radio_button_grid | 4 |
-| round_button | 32 |
+| round_button | 29 |
 | select_text | 1 |
 | set_field | 1 |
-| set_variable | 795 |
+| set_variable | 771 |
 | simple_checkbox | 2 |
 | task_card | 3 |
 | task_progress_bar | 2 |
-| template | 203 |
+| template | 209 |
 | text | 167 |
 | text_area | 2 |
 | text_box | 25 |
@@ -45,13 +45,13 @@
 | --- | --- |
 | add_data | 4 |
 | app_update | 1 |
-| emit: completed | 24 |
+| emit: completed | 22 |
 | emit: force_reload | 5 |
 | emit: force_reprocess | 9 |
 | emit: force_restart | 3 |
 | emit: server_sync | 5 |
 | emit: set_language | 1 |
-| emit: uncompleted | 65 |
+| emit: uncompleted | 72 |
 | feedback | 13 |
 | go_to | 40 |
 | go_to_url | 1 |
@@ -87,7 +87,7 @@ Assets that appear in app-data but do not have references within sheets
 | android/icon-foreground.png | 31.1 |
 | android/icon.png | 108.2 |
 | android/splash.png | 290.4 |
-| contents.json | 2.7 |
+| contents.json | 2.8 |
 | images/Message.png | 1.3 |
 | images/Message.svg | 0.7 |
 | images/backgrounds/library_bottom_left.svg | 2.3 |
@@ -99,7 +99,7 @@ Assets that appear in app-data but do not have references within sheets
 | images/icons/book_white.svg | 1.5 |
 | images/icons/check_circle.svg | 1.2 |
 | images/icons/globe_blue.svg | 3.9 |
-| images/icons/group_add_dark.svg | 2.3 |
+| images/icons/group_add.svg | 2.2 |
 | images/icons/paper_plane_white.svg | 1.4 |
 | images/icons/person_cog.png | 0.8 |
 | images/icons/reader_blue.svg | 1.4 |
@@ -132,9 +132,8 @@ Assets that have references within sheets but do not appear in app-data
 | path | count |
 | --- | --- |
 | .png | 1 |
-| images/icons/in_progress.svg | 3 |
+| images/icons/in_progress.svg | 1 |
 | images/icons/tick.svg | 1 |
-| images/icons/tick_white.svg | 2 |
 </details>
 
 <details >
@@ -161,13 +160,13 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/faq_h_after_group_ended.svg | 19.8 | 2 |
 | images/faq_h_no_neg_to_pos.svg | 7.4 | 2 |
 | images/faq_h_no_volunteers.svg | 19.6 | 1 |
-| images/faq_h_parents_insult.svg | 12.5 | 3 |
+| images/faq_h_parents_insult.svg | 12.5 | 2 |
 | images/faq_h_prompts.svg | 19.6 | 2 |
 | images/faq_h_sad_to_end.svg | 9.2 | 2 |
-| images/faq_h_self_harm.svg | 14.9 | 2 |
+| images/faq_h_self_harm.svg | 14.9 | 1 |
 | images/faq_h_still_struggling.svg | 23.2 | 1 |
 | images/faq_misbehaviour.svg | 7.8 | 1 |
-| images/faq_no_participation_general.svg | 20.3 | 2 |
+| images/faq_no_participation_general.svg | 20.3 | 1 |
 | images/faq_small_group_active.svg | 8.1 | 1 |
 | images/faq_text_support.svg | 6.8 | 1 |
 | images/flags/gb.svg | 0.5 | 2 |
@@ -187,7 +186,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/icons/download.svg | 0.7 | 1 |
 | images/icons/download_white.svg | 0.7 | 1 |
 | images/icons/edit.svg | 0.9 | 5 |
-| images/icons/group_add.svg | 2.2 | 1 |
+| images/icons/group_add_dark.svg | 2.3 | 1 |
 | images/icons/help.svg | 2.6 | 1 |
 | images/icons/home_white.svg | 1.7 | 2 |
 | images/icons/key.svg | 5.5 | 1 |
@@ -215,7 +214,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/overview_cc.svg | 7.8 | 1 |
 | images/praise_challenges.svg | 20.6 | 1 |
 | images/routine_challenges.svg | 20.5 | 1 |
-| images/talk_feelings_challenges.svg | 19.3 | 2 |
+| images/talk_feelings_challenges.svg | 19.3 | 1 |
 | images/what_is_safeguarding.svg | 5.6 | 1 |
 | odk_forms/eplh_pilot_facilitator_weekly_survey_combined.json | 209.4 | 1 |
 | pdf/manual.pdf | 470.3 | 1 |
@@ -238,12 +237,12 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | data_list | legal_terms | 2 |
 | data_list | lifecycle_actions | 1 |
 | data_pipe |  | 2 |
-| data_pipe | generated | 43 |
+| data_pipe | generated | 42 |
 | generator |  | 11 |
 | global |  | 11 |
 | global | legal_terms | 1 |
-| template |  | 78 |
-| template | generated | 155 |
+| template |  | 77 |
+| template | generated | 162 |
 | template | legal_terms | 4 |
 | template | menu | 1 |
 </details>
