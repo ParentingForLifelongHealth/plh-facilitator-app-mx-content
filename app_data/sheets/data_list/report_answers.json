@@ -13,7 +13,7 @@
       "question_3": "text"
     }
   ],
-  "_xlsxPath": "reports.xlsx",
+  "_xlsxPath": "templates/reports.xlsx",
   "_metadata": {
     "archived": {
       "type": "boolean"

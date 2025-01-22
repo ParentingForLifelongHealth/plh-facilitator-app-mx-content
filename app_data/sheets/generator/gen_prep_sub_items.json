@@ -34,7 +34,7 @@
       "output_target": "menus"
     }
   ],
-  "_xlsxPath": "menu_sub_tasks.xlsx",
+  "_xlsxPath": "templates/menu_sub_tasks.xlsx",
   "_output_flows": [
     {
       "flow_name": "prep_onboarding_day_chat_sub_items",
@@ -243,11 +243,6 @@
     },
     {
       "flow_name": "prep_week_4_chat_6_sub_items",
-      "flow_subtype": "generated",
-      "flow_type": "data_pipe"
-    },
-    {
-      "flow_name": "prep_#N/A_sub_items",
       "flow_subtype": "generated",
       "flow_type": "data_pipe"
     }

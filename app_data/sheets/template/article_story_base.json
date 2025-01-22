@@ -173,5 +173,5 @@
       "_nested_name": "article_related"
     }
   ],
-  "_xlsxPath": "menu_sub_tasks.xlsx"
+  "_xlsxPath": "templates/menu_sub_tasks.xlsx"
 }

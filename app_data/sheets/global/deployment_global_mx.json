@@ -49,7 +49,7 @@
     {
       "type": "declare_global_constant",
       "name": "allow_multiple_parent_groups",
-      "value": true,
+      "value": false,
       "exclude_from_translation": true
     },
     {
@@ -84,6 +84,62 @@
         "value": {
           "mx_es": true
         }
+      }
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "main_menu_title",
+      "value": "¡Te damos la bienvenida a CC+!",
+      "_translations": {
+        "value": {}
+      }
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "select_group",
+      "value": "Select Parent Group",
+      "_translations": {
+        "value": {}
+      }
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "no_groups",
+      "value": "No Parent Groups",
+      "_translations": {
+        "value": {}
+      }
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "sessions_no_groups",
+      "value": "Chat Sessions will load after you select a parent group",
+      "_translations": {
+        "value": {}
+      }
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "edit_first_name",
+      "value": "Parent's first name",
+      "_translations": {
+        "value": {}
+      }
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "edit_last_name",
+      "value": "Parent's last name",
+      "_translations": {
+        "value": {}
+      }
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "edit_text_id",
+      "value": "Parent Text ID",
+      "_translations": {
+        "value": {}
       }
     }
   ],
