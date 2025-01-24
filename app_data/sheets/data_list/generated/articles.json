@@ -13,7 +13,8 @@
       "next_article": "onboarding_day_chat_2",
       "previous_article": "",
       "test": "onboarding_day_chat",
-      "create_loop": "create"
+      "create_loop": "create",
+      "self_link": ""
     },
     {
       "ignore": 2,
