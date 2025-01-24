@@ -21,15 +21,15 @@
 | pdf | 1 |
 | qr_code | 1 |
 | radio_button_grid | 4 |
-| round_button | 28 |
+| round_button | 29 |
 | select_text | 1 |
 | set_field | 1 |
-| set_variable | 664 |
+| set_variable | 663 |
 | simple_checkbox | 2 |
 | task_card | 2 |
 | task_progress_bar | 2 |
 | template | 193 |
-| text | 145 |
+| text | 146 |
 | text_area | 2 |
 | text_box | 22 |
 | title | 38 |
@@ -51,13 +51,13 @@
 | emit: force_restart | 3 |
 | emit: server_sync | 4 |
 | emit: set_language | 1 |
-| emit: uncompleted | 65 |
+| emit: uncompleted | 66 |
 | feedback | 13 |
 | go_to | 36 |
 | nav_stack | 4 |
 | pop_up | 10 |
 | reset_app | 1 |
-| save_to_device | 3 |
+| save_to_device | 4 |
 | set_data | 17 |
 | set_field | 51 |
 | set_item | 8 |
@@ -184,7 +184,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/icons/content.svg | 7.2 | 1 |
 | images/icons/delete.svg | 0.8 | 3 |
 | images/icons/docs.svg | 0.7 | 1 |
-| images/icons/download.svg | 0.7 | 1 |
+| images/icons/download.svg | 0.7 | 2 |
 | images/icons/download_white.svg | 0.7 | 1 |
 | images/icons/edit.svg | 0.9 | 5 |
 | images/icons/group_add_dark.svg | 2.3 | 1 |

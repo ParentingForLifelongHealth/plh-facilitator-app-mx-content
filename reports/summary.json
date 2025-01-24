@@ -75,7 +75,7 @@
       },
       {
         "type": "round_button",
-        "count": 28
+        "count": 29
       },
       {
         "type": "select_text",
@@ -87,7 +87,7 @@
       },
       {
         "type": "set_variable",
-        "count": 664
+        "count": 663
       },
       {
         "type": "simple_checkbox",
@@ -107,7 +107,7 @@
       },
       {
         "type": "text",
-        "count": 145
+        "count": 146
       },
       {
         "type": "text_area",
@@ -171,7 +171,7 @@
       },
       {
         "type": "emit: uncompleted",
-        "count": 65
+        "count": 66
       },
       {
         "type": "feedback",
@@ -195,7 +195,7 @@
       },
       {
         "type": "save_to_device",
-        "count": 3
+        "count": 4
       },
       {
         "type": "set_data",
@@ -629,7 +629,7 @@
       },
       {
         "path": "images/icons/download.svg",
-        "count": 1,
+        "count": 2,
         "size_kb": 0.7
       },
       {
