@@ -6,7 +6,7 @@
 | accordion | 2 |
 | accordion_section | 2 |
 | audio | 2 |
-| button | 70 |
+| button | 71 |
 | carousel | 1 |
 | combo_box | 3 |
 | data_items | 21 |
@@ -28,7 +28,7 @@
 | simple_checkbox | 2 |
 | task_card | 2 |
 | task_progress_bar | 2 |
-| template | 195 |
+| template | 193 |
 | text | 145 |
 | text_area | 2 |
 | text_box | 22 |
@@ -45,13 +45,13 @@
 | --- | --- |
 | add_data | 4 |
 | app_update | 1 |
-| emit: completed | 20 |
+| emit: completed | 19 |
 | emit: force_reload | 4 |
 | emit: force_reprocess | 9 |
 | emit: force_restart | 3 |
 | emit: server_sync | 4 |
 | emit: set_language | 1 |
-| emit: uncompleted | 67 |
+| emit: uncompleted | 65 |
 | feedback | 13 |
 | go_to | 36 |
 | nav_stack | 4 |
@@ -59,7 +59,7 @@
 | reset_app | 1 |
 | save_to_device | 3 |
 | set_data | 17 |
-| set_field | 57 |
+| set_field | 51 |
 | set_item | 8 |
 | set_local | 19 |
 | share | 2 |
