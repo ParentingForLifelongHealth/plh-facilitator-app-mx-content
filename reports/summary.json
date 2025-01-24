@@ -15,7 +15,7 @@
       },
       {
         "type": "button",
-        "count": 68
+        "count": 70
       },
       {
         "type": "carousel",
@@ -39,7 +39,7 @@
       },
       {
         "type": "display_group",
-        "count": 86
+        "count": 88
       },
       {
         "type": "drawer",
@@ -52,6 +52,10 @@
       {
         "type": "items",
         "count": 27
+      },
+      {
+        "type": "lottie_animation",
+        "count": 1
       },
       {
         "type": "navigation_bar",
@@ -71,7 +75,7 @@
       },
       {
         "type": "round_button",
-        "count": 27
+        "count": 28
       },
       {
         "type": "select_text",
@@ -83,7 +87,7 @@
       },
       {
         "type": "set_variable",
-        "count": 653
+        "count": 664
       },
       {
         "type": "simple_checkbox",
@@ -103,7 +107,7 @@
       },
       {
         "type": "text",
-        "count": 147
+        "count": 145
       },
       {
         "type": "text_area",
@@ -115,7 +119,7 @@
       },
       {
         "type": "title",
-        "count": 37
+        "count": 38
       },
       {
         "type": "toggle_bar",
@@ -143,7 +147,7 @@
       },
       {
         "type": "emit: completed",
-        "count": 19
+        "count": 20
       },
       {
         "type": "emit: force_reload",
@@ -167,7 +171,7 @@
       },
       {
         "type": "emit: uncompleted",
-        "count": 66
+        "count": 67
       },
       {
         "type": "feedback",
@@ -183,7 +187,7 @@
       },
       {
         "type": "pop_up",
-        "count": 9
+        "count": 10
       },
       {
         "type": "reset_app",
@@ -195,11 +199,11 @@
       },
       {
         "type": "set_data",
-        "count": 16
+        "count": 17
       },
       {
         "type": "set_field",
-        "count": 55
+        "count": 57
       },
       {
         "type": "set_item",
@@ -207,7 +211,7 @@
       },
       {
         "type": "set_local",
-        "count": 20
+        "count": 19
       },
       {
         "type": "share",
@@ -223,8 +227,8 @@
     "data": [
       {
         "assets": "total",
-        "KB": "5223 KB",
-        "MB": "5.2 MB"
+        "KB": "6012 KB",
+        "MB": "6 MB"
       },
       {
         "assets": "unused",
@@ -584,6 +588,11 @@
         "size_kb": 1
       },
       {
+        "path": "images/icons/archive.svg",
+        "count": 1,
+        "size_kb": 0.9
+      },
+      {
         "path": "images/icons/arrow_back.svg",
         "count": 1,
         "size_kb": 0.5
@@ -784,6 +793,11 @@
         "size_kb": 5.6
       },
       {
+        "path": "lottie/gift_box.json",
+        "count": 1,
+        "size_kb": 787.9
+      },
+      {
         "path": "pdf/manual.pdf",
         "count": 1,
         "size_kb": 470.3
@@ -865,7 +879,7 @@
       {
         "type": "template",
         "subtype": null,
-        "total": 69
+        "total": 70
       },
       {
         "type": "template",

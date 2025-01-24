@@ -85,32 +85,49 @@
       "_nested_name": "dg_top"
     },
     {
-      "type": "task_progress_bar",
-      "name": "task_progress_bar",
-      "parameter_list": {
-        "task_group_data": "sub_items",
-        "completed_field": "completed",
-        "filter": "@task_item.foreign_key == \"@fields.current_module_no\"",
-        "variant": "wheel"
-      },
-      "_nested_name": "task_progress_bar",
-      "_dynamicFields": {
-        "parameter_list": {
-          "filter": [
-            {
-              "fullExpression": "@task_item.foreign_key == \"@fields.current_module_no\"",
-              "matchedExpression": "@fields.current_module_no",
-              "type": "fields",
-              "fieldName": "current_module_no"
+      "type": "display_group",
+      "rows": [
+        {
+          "type": "task_progress_bar",
+          "name": "task_progress_bar",
+          "parameter_list": {
+            "task_group_data": "sub_items",
+            "completed_field": "completed",
+            "filter": "@task_item.foreign_key == \"@fields.current_module_no\"",
+            "variant": "wheel"
+          },
+          "_nested_name": "display_group_7.task_progress_bar",
+          "_dynamicFields": {
+            "parameter_list": {
+              "filter": [
+                {
+                  "fullExpression": "@task_item.foreign_key == \"@fields.current_module_no\"",
+                  "matchedExpression": "@fields.current_module_no",
+                  "type": "fields",
+                  "fieldName": "current_module_no"
+                }
+              ]
             }
-          ]
+          },
+          "_dynamicDependencies": {
+            "@fields.current_module_no": [
+              "parameter_list.filter"
+            ]
+          }
+        },
+        {
+          "type": "lottie_animation",
+          "name": "lottie",
+          "value": "lottie/gift_box.json",
+          "_translations": {
+            "value": {}
+          },
+          "style_list": true,
+          "_nested_name": "display_group_7.lottie"
         }
-      },
-      "_dynamicDependencies": {
-        "@fields.current_module_no": [
-          "parameter_list.filter"
-        ]
-      }
+      ],
+      "name": "display_group_7",
+      "_nested_name": "display_group_7"
     },
     {
       "name": "found",
@@ -131,7 +148,7 @@
           "value": true,
           "condition": "@fields.current_module_no == @item.module_id && @item.group_id == @field.current_group_no",
           "type": "set_variable",
-          "_nested_name": "data_items_9.found",
+          "_nested_name": "data_items_10.found",
           "_dynamicFields": {
             "condition": [
               {
@@ -207,7 +224,7 @@
             "icon_src": "images/icons/edit.svg"
           },
           "condition": "@fields.current_module_no == @item.module_id && @item.group_id == @field.current_group_no",
-          "_nested_name": "data_items_9.existing_report",
+          "_nested_name": "data_items_10.existing_report",
           "_dynamicFields": {
             "action_list": {
               "0": {
@@ -308,7 +325,7 @@
             "icon_src": "images/icons/edit.svg"
           },
           "condition": "@item._last && !@local.found",
-          "_nested_name": "data_items_9.new_report",
+          "_nested_name": "data_items_10.new_report",
           "_dynamicFields": {
             "condition": [
               {
@@ -335,8 +352,8 @@
           }
         }
       ],
-      "name": "data_items_9",
-      "_nested_name": "data_items_9",
+      "name": "data_items_10",
+      "_nested_name": "data_items_10",
       "_dynamicFields": {
         "parameter_list": {
           "filter": [

@@ -163,6 +163,9 @@
       "_metadata": {
         "archived": {
           "type": "boolean"
+        },
+        "hidden": {
+          "type": "boolean"
         }
       }
     },
@@ -2452,6 +2455,11 @@
       "flow_type": "template",
       "flow_name": "app_update_complete",
       "_xlsxPath": "templates/app_launch.xlsx"
+    },
+    "archive_group": {
+      "flow_type": "template",
+      "flow_name": "archive_group",
+      "_xlsxPath": "templates/profile.xlsx"
     },
     "article": {
       "flow_type": "template",
