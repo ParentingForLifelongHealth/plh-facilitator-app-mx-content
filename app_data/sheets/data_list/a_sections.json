@@ -9,29 +9,31 @@
       "foreign_key": "onboarding_day_chat",
       "ignore": 1,
       "ignore_2": "onboarding_day_chat_1",
-      "title": "⭐ Add Ground Rules, previously agreed, to the WhatsApp Group Description",
+      "title": "Add Ground Rules, previously agreed, to the WhatsApp Group Description",
       "_translations": {
-        "title": {},
+        "title": {
+          "mx_es": true
+        },
         "text": {},
         "button_text": {},
         "extra_text": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "⭐ Add Ground Rules, previously agreed, to the WhatsApp Group Description"
+          "eng": "Add Ground Rules, previously agreed, to the WhatsApp Group Description"
         },
         "text": {
-          "eng": "✅ Remember to add the ground rules to the WhatsApp Group Description. \n\n​​✅ To add the ground rules to the Group Description:\n \n✅ Open the WhatsApp group chat. \n\n✅ Tap the group name. \n\n✅ Tap the existing description, or tap Add Group Description. \n\n✅ Paste the ground rules. \n\n✅ Tap Save."
+          "eng": "Remember to add the ground rules to the WhatsApp Group Description. \n\n​​To add the ground rules to the Group Description:\n \nOpen the WhatsApp group chat. \n\nTap the group name. \n\nTap the existing description, or tap Add Group Description. \nPaste the ground rules. \n\nTap Save."
         },
         "button_text": {
-          "eng": "📝 Sample Ground Rules"
+          "eng": "Sample Ground Rules"
         },
         "extra_text": {
           "eng": ""
         }
       },
-      "text": "✅ Remember to add the ground rules to the WhatsApp Group Description. \n\n​​✅ To add the ground rules to the Group Description:\n \n✅ Open the WhatsApp group chat. \n\n✅ Tap the group name. \n\n✅ Tap the existing description, or tap Add Group Description. \n\n✅ Paste the ground rules. \n\n✅ Tap Save.",
-      "button_text": "📝 Sample Ground Rules",
+      "text": "Remember to add the ground rules to the WhatsApp Group Description. \n\n​​To add the ground rules to the Group Description:\n \nOpen the WhatsApp group chat. \n\nTap the group name. \n\nTap the existing description, or tap Add Group Description. \nPaste the ground rules. \n\nTap Save.",
+      "button_text": "Sample Ground Rules",
       "extra_text": ""
     },
     {
