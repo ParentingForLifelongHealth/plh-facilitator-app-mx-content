@@ -2,14 +2,17 @@ import { extendDeploymentConfig } from "scripts";
 const config = extendDeploymentConfig({ name: "plh_facilitator_mx", parent: "plh_facilitator" });
 
 config.google_drive.sheets_folder_ids =  [
-    "1k8zJfBeOm18gYDsk0XmdUm7OFtZDUY9R",  //Global
+    "1Jo1-q7KOE4gC2XRKEMcU9bXnrwB5oCRC",  //Global
     "1rFg8qsmb3xSOXw_9Iwxk8RgSmyjqiao9"   //MX Sheets
   ];
-config.google_drive.assets_folder_ids = ["1KcHDI7O4o2_FZ_YlXsz-8OqN3ehsfdVf", "1tr76W9OusHHkjJ4DNR84x-B26VgGCSFy"];
+config.google_drive.assets_folder_ids = [
+  "1nrj0QSvhVKdUaPFrnCB6CyXSCvpozBDK", //Global
+  "1tr76W9OusHHkjJ4DNR84x-B26VgGCSFy" //MX Assets
+];
 
 config.git = {
   content_repo: "https://github.com/IDEMSInternational/plh-facilitator-app-mx-content.git",
-  content_tag_latest: "2.0.21",
+  content_tag_latest: "2.0.22",
 };
 
 config.android = {

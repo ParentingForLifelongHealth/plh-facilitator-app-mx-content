@@ -6,35 +6,34 @@
 | accordion | 2 |
 | accordion_section | 2 |
 | audio | 2 |
-| button | 73 |
+| button | 68 |
 | carousel | 1 |
 | combo_box | 3 |
 | data_items | 21 |
 | debug_toggle | 1 |
 | display_grid | 4 |
-| display_group | 92 |
+| display_group | 86 |
 | drawer | 2 |
-| image | 9 |
-| items | 38 |
+| image | 8 |
+| items | 27 |
 | navigation_bar | 2 |
-| odk_form | 1 |
 | pdf | 1 |
 | qr_code | 1 |
 | radio_button_grid | 4 |
-| round_button | 29 |
+| round_button | 27 |
 | select_text | 1 |
 | set_field | 1 |
-| set_variable | 771 |
+| set_variable | 653 |
 | simple_checkbox | 2 |
-| task_card | 3 |
+| task_card | 2 |
 | task_progress_bar | 2 |
-| template | 209 |
-| text | 167 |
+| template | 195 |
+| text | 147 |
 | text_area | 2 |
-| text_box | 25 |
-| title | 43 |
-| toggle_bar | 5 |
-| update_action_list | 3 |
+| text_box | 22 |
+| title | 37 |
+| toggle_bar | 3 |
+| update_action_list | 2 |
 | video | 2 |
 </details>
 
@@ -45,24 +44,23 @@
 | --- | --- |
 | add_data | 4 |
 | app_update | 1 |
-| emit: completed | 22 |
-| emit: force_reload | 5 |
+| emit: completed | 19 |
+| emit: force_reload | 4 |
 | emit: force_reprocess | 9 |
 | emit: force_restart | 3 |
-| emit: server_sync | 5 |
+| emit: server_sync | 4 |
 | emit: set_language | 1 |
-| emit: uncompleted | 72 |
+| emit: uncompleted | 66 |
 | feedback | 13 |
-| go_to | 40 |
-| go_to_url | 1 |
+| go_to | 36 |
 | nav_stack | 4 |
-| pop_up | 13 |
+| pop_up | 9 |
 | reset_app | 1 |
 | save_to_device | 3 |
-| set_data | 15 |
-| set_field | 60 |
+| set_data | 16 |
+| set_field | 55 |
 | set_item | 8 |
-| set_local | 19 |
+| set_local | 20 |
 | share | 2 |
 | user | 1 |
 </details>
@@ -72,8 +70,8 @@
 
 | assets | KB | MB |
 | --- | --- | --- |
-| total | 116027 KB | 116 MB |
-| unused | 760 KB | 0.8 MB |
+| total | 5223 KB | 5.2 MB |
+| unused | 970 KB | 1 MB |
 </details>
 
 <details open>
@@ -122,6 +120,7 @@ Assets that appear in app-data but do not have references within sheets
 | images/logos/masw.png | 7.1 |
 | images/logos/thsn.png | 35.5 |
 | images/person_cog.png | 0.8 |
+| odk_forms/eplh_pilot_facilitator_weekly_survey_combined.json | 209.4 |
 </details>
 
 <details open>
@@ -160,13 +159,13 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/faq_h_after_group_ended.svg | 19.8 | 2 |
 | images/faq_h_no_neg_to_pos.svg | 7.4 | 2 |
 | images/faq_h_no_volunteers.svg | 19.6 | 1 |
-| images/faq_h_parents_insult.svg | 12.5 | 2 |
+| images/faq_h_parents_insult.svg | 12.5 | 3 |
 | images/faq_h_prompts.svg | 19.6 | 2 |
 | images/faq_h_sad_to_end.svg | 9.2 | 2 |
-| images/faq_h_self_harm.svg | 14.9 | 1 |
+| images/faq_h_self_harm.svg | 14.9 | 2 |
 | images/faq_h_still_struggling.svg | 23.2 | 1 |
 | images/faq_misbehaviour.svg | 7.8 | 1 |
-| images/faq_no_participation_general.svg | 20.3 | 1 |
+| images/faq_no_participation_general.svg | 20.3 | 2 |
 | images/faq_small_group_active.svg | 8.1 | 1 |
 | images/faq_text_support.svg | 6.8 | 1 |
 | images/flags/gb.svg | 0.5 | 2 |
@@ -208,22 +207,19 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/logos/UNICEF.jpg | 27.7 | 1 |
 | images/logos/bird_on_light.svg | 2 | 2 |
 | images/logos/nip.png | 11.9 | 1 |
-| images/no_group_selected.svg | 3.5 | 1 |
+| images/no_group_selected.svg | 13.5 | 1 |
 | images/onboarding_cc.svg | 19.3 | 4 |
 | images/one_on_one_challenges.svg | 13.1 | 1 |
 | images/overview_cc.svg | 7.8 | 1 |
 | images/praise_challenges.svg | 20.6 | 1 |
 | images/routine_challenges.svg | 20.5 | 1 |
-| images/talk_feelings_challenges.svg | 19.3 | 1 |
+| images/talk_feelings_challenges.svg | 19.3 | 2 |
 | images/what_is_safeguarding.svg | 5.6 | 1 |
-| odk_forms/eplh_pilot_facilitator_weekly_survey_combined.json | 209.4 | 1 |
 | pdf/manual.pdf | 470.3 | 1 |
 | pdf/manual_study.pdf | 1047 | 1 |
 | pdf/overview_guide_study.pdf | 2252.6 | 1 |
 | pdf/peas.pdf | 590.3 | 1 |
 | pdf/programme_details.pdf | 123 | 1 |
-| videos/add_parent.mp4 | 19312.7 | 1 |
-| videos/onboard_caregivers.mp4 | 91291.6 | 1 |
 </details>
 
 <details >
@@ -241,8 +237,8 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | generator |  | 11 |
 | global |  | 11 |
 | global | legal_terms | 1 |
-| template |  | 77 |
-| template | generated | 162 |
+| template |  | 69 |
+| template | generated | 151 |
 | template | legal_terms | 4 |
 | template | menu | 1 |
 </details>

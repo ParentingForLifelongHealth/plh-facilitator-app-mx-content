@@ -1282,36 +1282,6 @@
           "flow_type": "template"
         },
         {
-          "flow_name": "article_day_5_final_chat_sessions_5ux",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
-          "flow_name": "article_before_chat",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
-          "flow_name": "article_week_1_chat",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
-          "flow_name": "article_week_2_chat",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
-          "flow_name": "article_week_3_chat",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
-          "flow_name": "article_week_4_chat",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
           "flow_name": "article_faq_text_support",
           "flow_subtype": "generated",
           "flow_type": "template"
@@ -1806,36 +1776,6 @@
           "flow_type": "template"
         },
         {
-          "flow_name": "library_article_day_5_final_chat_sessions_5ux",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
-          "flow_name": "library_article_before_chat",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
-          "flow_name": "library_article_week_1_chat",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
-          "flow_name": "library_article_week_2_chat",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
-          "flow_name": "library_article_week_3_chat",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
-          "flow_name": "library_article_week_4_chat",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
           "flow_name": "library_article_faq_text_support",
           "flow_subtype": "generated",
           "flow_type": "template"
@@ -2015,11 +1955,6 @@
       "_output_flows": [
         {
           "flow_name": "library_programme",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
-          "flow_name": "library_sessions",
           "flow_subtype": "generated",
           "flow_type": "template"
         },
@@ -2558,11 +2493,6 @@
       "flow_name": "article_story_base",
       "_xlsxPath": "templates/menu_sub_tasks.xlsx"
     },
-    "data_collection": {
-      "flow_type": "template",
-      "flow_name": "data_collection",
-      "_xlsxPath": "templates/data_collection.xlsx"
-    },
     "delete_group": {
       "flow_type": "template",
       "flow_name": "delete_group",
@@ -2603,20 +2533,10 @@
       "flow_name": "enter_dev_mode",
       "_xlsxPath": "templates/app_menu.xlsx"
     },
-    "existing_report": {
-      "flow_type": "template",
-      "flow_name": "existing_report",
-      "_xlsxPath": "templates/data_collection.xlsx"
-    },
     "exit_dev_mode": {
       "flow_type": "template",
       "flow_name": "exit_dev_mode",
       "_xlsxPath": "templates/app_menu.xlsx"
-    },
-    "external_form": {
-      "flow_type": "template",
-      "flow_name": "external_form",
-      "_xlsxPath": "templates/data_collection.xlsx"
     },
     "feature_feedback_debug": {
       "flow_type": "template",
@@ -2656,11 +2576,6 @@
       "flow_subtype": "generated",
       "flow_type": "template"
     },
-    "article_before_chat": {
-      "flow_name": "article_before_chat",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
     "article_behave_challenges": {
       "flow_name": "article_behave_challenges",
       "flow_subtype": "generated",
@@ -2683,11 +2598,6 @@
     },
     "article_day_3_mh_stress_self_talk": {
       "flow_name": "article_day_3_mh_stress_self_talk",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "article_day_5_final_chat_sessions_5ux": {
-      "flow_name": "article_day_5_final_chat_sessions_5ux",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
@@ -2853,21 +2763,6 @@
     },
     "article_talk_feelings_challenges": {
       "flow_name": "article_talk_feelings_challenges",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "article_week_1_chat": {
-      "flow_name": "article_week_1_chat",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "article_week_2_chat": {
-      "flow_name": "article_week_2_chat",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "article_week_3_chat": {
-      "flow_name": "article_week_3_chat",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
@@ -3136,11 +3031,6 @@
       "flow_subtype": "generated",
       "flow_type": "template"
     },
-    "library_article_before_chat": {
-      "flow_name": "library_article_before_chat",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
     "library_article_behave_challenges": {
       "flow_name": "library_article_behave_challenges",
       "flow_subtype": "generated",
@@ -3163,11 +3053,6 @@
     },
     "library_article_day_3_mh_stress_self_talk": {
       "flow_name": "library_article_day_3_mh_stress_self_talk",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "library_article_day_5_final_chat_sessions_5ux": {
-      "flow_name": "library_article_day_5_final_chat_sessions_5ux",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
@@ -3336,21 +3221,6 @@
       "flow_subtype": "generated",
       "flow_type": "template"
     },
-    "library_article_week_1_chat": {
-      "flow_name": "library_article_week_1_chat",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "library_article_week_2_chat": {
-      "flow_name": "library_article_week_2_chat",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "library_article_week_3_chat": {
-      "flow_name": "library_article_week_3_chat",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
     "library_article_week_4_chat": {
       "flow_name": "library_article_week_4_chat",
       "flow_subtype": "generated",
@@ -3378,11 +3248,6 @@
     },
     "library_safeguarding": {
       "flow_name": "library_safeguarding",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "library_sessions": {
-      "flow_name": "library_sessions",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
@@ -3476,11 +3341,6 @@
       "flow_name": "home_screen",
       "_xlsxPath": "templates/menu_overrides.xlsx"
     },
-    "home_screen_card": {
-      "flow_type": "template",
-      "flow_name": "home_screen_card",
-      "_xlsxPath": "templates/navigation.xlsx"
-    },
     "home_screen_carousel": {
       "flow_type": "template",
       "flow_name": "home_screen_carousel",
@@ -3495,16 +3355,6 @@
       "flow_type": "template",
       "flow_name": "import_user_data",
       "_xlsxPath": "templates/app_menu.xlsx"
-    },
-    "in_person_form": {
-      "flow_type": "template",
-      "flow_name": "in_person_form",
-      "_xlsxPath": "templates/data_collection.xlsx"
-    },
-    "in_person_unreported": {
-      "flow_type": "template",
-      "flow_name": "in_person_unreported",
-      "_xlsxPath": "templates/data_collection.xlsx"
     },
     "intro_element": {
       "flow_type": "template",
@@ -3613,11 +3463,6 @@
       "flow_name": "nav_buttons",
       "_xlsxPath": "templates/menu_sub_tasks.xlsx"
     },
-    "odk_form": {
-      "flow_type": "template",
-      "flow_name": "odk_form",
-      "_xlsxPath": "templates/data_collection.xlsx"
-    },
     "package_select": {
       "flow_type": "template",
       "flow_name": "package_select",
@@ -3706,11 +3551,6 @@
     "virtual_form": {
       "flow_type": "template",
       "flow_name": "virtual_form",
-      "_xlsxPath": "templates/data_collection.xlsx"
-    },
-    "virtual_unreported": {
-      "flow_type": "template",
-      "flow_name": "virtual_unreported",
       "_xlsxPath": "templates/data_collection.xlsx"
     }
   },

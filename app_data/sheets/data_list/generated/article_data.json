@@ -11,9 +11,6 @@
       "icon_asset": "images/what_is_safeguarding.svg",
       "resource_data_1": "pdf",
       "resource_id_1": "peas",
-      "related_article_id_1": "during_disclosed_abuse",
-      "related_article_id_2": "after_disclosed_abuse",
-      "related_article_id_3": "how_to_report_abuse",
       "attached_single_doc": "https://docs.google.com/document/d/1eREUx1d-XpC_bu79lr8rWunOzPPQ2qSi55JH_0pHGK0",
       "status": "released",
       "title": "What is Safeguarding?",
@@ -26,9 +23,6 @@
         },
         "resource_title_1": {
           "mx_es": true
-        },
-        "related_articles_title": {
-          "mx_es": true
         }
       },
       "_translatedFields": {
@@ -40,14 +34,10 @@
         },
         "resource_title_1": {
           "eng": "Reporting Abuse from Programme Partners"
-        },
-        "related_articles_title": {
-          "eng": "Additional Safeguarding Resources"
         }
       },
       "introduction": "It is important to know the following guidelines for handling disclosures of abuse, neglect, and violence from participants:\n\n1️⃣ **Understand abuse, neglect and exploitation.**\n\n❗ **Abuse** refers to a deliberate act of maltreatment that can damage a boy or girl’s security, wellbeing, dignity and development. Abuse includes all forms of physical, sexual, psychological and emotional maltreatment. (Save the Children definition)\n\n❗ **Violence** against girls and boys is defined as forms of physical or mental violence, damage and abuse, neglect or neglectful treatment or maltreatment or exploitation, including sexual abuse. (Office of the High Commissioner for Human Rights, 1990,\nArticle 19)\n\n❗ **Child exploitation** refers to using girls and boys for economic or sexual benefit, gratification or profit, often resulting in unjust, cruel and harmful treatment of the girl or boy. (Save the Children definition)\n\n2️⃣ **Know your organisation’s child safeguarding policies and referral procedures.**\n\n📖 All organisations should have or develop child rights safeguarding policies and referral procedures, including details on how to respond appropriately when a caregiver, other adults, girl or boy discloses abuse. \n\n📝 You should have accurate knowledge of all protocols and response plans. These will tell you what to do within your organisation if a caregiver or girl or boy reports abuse (e.g. who to report to, internal resources for supporting the girl or boy), as well as how to engage outside resources (e.g. local referral pathways, when to engage with authorities). \n\n🔑 It is your responsibility to act regardless of whether you are responding to disclosures of past and/or present abuse. However, you are not responsible for resolving the situation on your own. It is important that you discuss the situation with your supervisor to agree on what steps to take next.\n\n3️⃣ **Ensure parents know that you are someone who can help.**\n\n🌷Parents participating in your sessions need to know that they can come to you for help, regardless of when the abuse occurred. \n\n👂You should make sure that they know that they can trust you and that you will listen and support them without judgement or any further harm.",
-      "resource_title_1": "Reporting Abuse from Programme Partners",
-      "related_articles_title": "Additional Safeguarding Resources"
+      "resource_title_1": "Reporting Abuse from Programme Partners"
     },
     {
       "id": "during_disclosed_abuse",
@@ -55,9 +45,6 @@
         "safeguarding"
       ],
       "icon_asset": "images/during_disclosed_abuse.svg",
-      "related_article_id_1": "after_disclosed_abuse",
-      "related_article_id_2": "how_to_report_abuse",
-      "related_article_id_3": "contact_for_reporting_abuse",
       "status": "released",
       "title": "What should I do during the disclosure of abuse, neglect, or exploitation?",
       "_translations": {
@@ -65,9 +52,6 @@
           "mx_es": true
         },
         "introduction": {
-          "mx_es": true
-        },
-        "related_articles_title": {
           "mx_es": true
         }
       },
@@ -77,13 +61,9 @@
         },
         "introduction": {
           "eng": "**During disclosure:**\n\n💚 Provide a safe environment in which the participant can share their story.\n\n👂 Listen carefully to the participant and take notes: what/when/where/who.\n\n❗ Determine if the participant is in immediate danger and what help is available.\n\n💙 Make sure that the participant feels that you believe him/her.\n\n🌷 Let them know they have done the right thing by sharing their story with you.\n\n✨ Be supportive and free of judgement in your responses – avoid blaming at all times!\n\n➡️ Let the participant know that you will share what he/she told you with your supervisor to find a way to support and protect him/her.\n\n📝 Explain what you are going to do next.\n\n ✅ Notify @global.supervisor_name\n\n❗Remember that it is not your obligation to solve the situation, but you must report it to your supervisors for follow-up. Don't try to solve it alone."
-        },
-        "related_articles_title": {
-          "eng": "Additional Safeguarding Resources"
         }
       },
-      "introduction": "**During disclosure:**\n\n💚 Provide a safe environment in which the participant can share their story.\n\n👂 Listen carefully to the participant and take notes: what/when/where/who.\n\n❗ Determine if the participant is in immediate danger and what help is available.\n\n💙 Make sure that the participant feels that you believe him/her.\n\n🌷 Let them know they have done the right thing by sharing their story with you.\n\n✨ Be supportive and free of judgement in your responses – avoid blaming at all times!\n\n➡️ Let the participant know that you will share what he/she told you with your supervisor to find a way to support and protect him/her.\n\n📝 Explain what you are going to do next.\n\n ✅ Notify @global.supervisor_name\n\n❗Remember that it is not your obligation to solve the situation, but you must report it to your supervisors for follow-up. Don't try to solve it alone.",
-      "related_articles_title": "Additional Safeguarding Resources"
+      "introduction": "**During disclosure:**\n\n💚 Provide a safe environment in which the participant can share their story.\n\n👂 Listen carefully to the participant and take notes: what/when/where/who.\n\n❗ Determine if the participant is in immediate danger and what help is available.\n\n💙 Make sure that the participant feels that you believe him/her.\n\n🌷 Let them know they have done the right thing by sharing their story with you.\n\n✨ Be supportive and free of judgement in your responses – avoid blaming at all times!\n\n➡️ Let the participant know that you will share what he/she told you with your supervisor to find a way to support and protect him/her.\n\n📝 Explain what you are going to do next.\n\n ✅ Notify @global.supervisor_name\n\n❗Remember that it is not your obligation to solve the situation, but you must report it to your supervisors for follow-up. Don't try to solve it alone."
     },
     {
       "id": "after_disclosed_abuse",
@@ -93,9 +73,6 @@
       "icon_asset": "images/after_disclosed_abuse.svg",
       "resource_data_1": "pdf",
       "resource_id_1": "peas",
-      "related_article_id_1": "how_to_report_abuse",
-      "related_article_id_2": "contact_for_reporting_abuse",
-      "related_article_id_3": "crisis_hotlines",
       "status": "released",
       "title": "What can I do after a participant discloses abuse, neglect or exploitation?",
       "_translations": {
@@ -106,9 +83,6 @@
           "mx_es": true
         },
         "resource_title_1": {
-          "mx_es": true
-        },
-        "related_articles_title": {
           "mx_es": true
         }
       },
@@ -121,14 +95,10 @@
         },
         "resource_title_1": {
           "eng": "Reporting Abuse from Programme Partners"
-        },
-        "related_articles_title": {
-          "eng": "Additional Safeguarding Resources"
         }
       },
       "introduction": "**After disclosure:**\n\n❌ Avoid engaging with the alleged abuser – that may make things worse and make next steps difficult. It could also jeopardise future legal proceedings.\n\n🌷 You are not alone. Get help from your supervisor to agree on the next steps.",
-      "resource_title_1": "Reporting Abuse from Programme Partners",
-      "related_articles_title": "Additional Safeguarding Resources"
+      "resource_title_1": "Reporting Abuse from Programme Partners"
     },
     {
       "id": "how_to_report_abuse",
@@ -138,9 +108,6 @@
       "icon_asset": "images/how_to_report_abuse.svg",
       "resource_data_1": "pdf",
       "resource_id_1": "peas",
-      "related_article_id_1": "contact_for_reporting_abuse",
-      "related_article_id_2": "crisis_hotlines",
-      "related_article_id_3": "after_disclosed_abuse",
       "status": "released",
       "title": "How should I report abuse?",
       "_translations": {
@@ -151,9 +118,6 @@
           "mx_es": true
         },
         "resource_title_1": {
-          "mx_es": true
-        },
-        "related_articles_title": {
           "mx_es": true
         }
       },
@@ -166,14 +130,10 @@
         },
         "resource_title_1": {
           "eng": "Reporting Abuse from Programme Partners"
-        },
-        "related_articles_title": {
-          "eng": "Additional Safeguarding Resources"
         }
       },
       "introduction": "✅ Follow your organisation’s protocol.\n\n📝 If your organisation needs assistance in developing or improving its policies and procedures, please refer to the following resources:\n\n**Mexican resources**\n1️⃣ [National Inter-institutional Coordination Protocol for the Protection of Girls, Boys and Adolescent Victims of Violence](https://www.gob.mx/sipinna/documentos/protocolo-nacional-de-coordinacion-interinstitucional-para-la-proteccion-de-ninas-ninos-y-adolescentes-victimas-de-violencia) \n\n2️⃣ [National System for the Protection of Girls, Boys, and Adolescents](https://www.gob.mx/sipinna)\n\n3️⃣ [National Human Rights Commission of Mexico](https://www.cndh.org.mx/pagina/tematicas-y-talleres) \n\n4️⃣[Inter-ministerial Commission to prevent, punish and eradicate crimes related to trafficking in persons.](https://www.gob.mx/segob/acciones-y-programas/comision-intersecretarial-para-prevenir-sancionar-y-erradicar-los-delitos-en-materia-de-trata-de-personas)\n\n**International resources**\n1️⃣ [World Health Organization Guidelines Responding to Girls, Boys, and Adolescents who have Been Sexually Abused](https://iris.paho.org/handle/10665.2/52043) \n\n2️⃣ [Keeping Girls and Boys Safe](https://www.keepingchildrensafe.global/)\n\n3️⃣ [Caring for Child Survivors of Sexual Abuse](https://www.unicef.org/documents/caring-child-survivors-sexual-abuse) \n\n4️⃣ [Strengthening Linkages between Clinical and Social Services for Girls, Boys, and Adolescents who have Experienced Sexual Violence: A Companion Guide](https://www.togetherforgirls.org/en/resources/strengthening-linkages-between-clinical-and-social-community-services-for-children-and-adolescents-who-have-experienced-sexual-violence-a-companion-guide) \n\n5️⃣ [Together for Girls: Every Hour Matters](https://www.togetherforgirls.org/en/campaigns/every-hour-matters)",
-      "resource_title_1": "Reporting Abuse from Programme Partners",
-      "related_articles_title": "Additional Safeguarding Resources"
+      "resource_title_1": "Reporting Abuse from Programme Partners"
     },
     {
       "id": "contact_for_reporting_abuse",
@@ -181,8 +141,6 @@
         "safeguarding"
       ],
       "icon_asset": "images/contact_for_reporting_abuse.svg",
-      "related_article_id_1": "how_to_report_abuse",
-      "related_article_id_2": "crisis_hotlines",
       "status": "released",
       "title": "Abuse, Neglect and Violence Hotline",
       "_translations": {
@@ -190,9 +148,6 @@
           "mx_es": true
         },
         "introduction": {
-          "mx_es": true
-        },
-        "related_articles_title": {
           "mx_es": true
         },
         "message_title_1": {
@@ -214,21 +169,18 @@
         },
         "message_text_1": {
           "eng": "Fiscalía General de Justicia\n+911 (Call)\n+089 (Anonymous Call)"
-        },
-        "related_articles_title": {
-          "eng": "Additional Safeguarding Resources"
         }
       },
       "introduction": "You can share the following information with the participant:\n\nFiscalía General de Justicia\n+911 (Call)\n+089 (Anonymous Call)",
-      "related_articles_title": "Additional Safeguarding Resources",
       "message_title_1": "Quickly Share These Resources",
       "message_text_1": "Fiscalía General de Justicia\n+911 (Call)\n+089 (Anonymous Call)"
     },
     {
       "id": "crisis_hotlines",
+      "home_screen_section_list": [
+        "safeguarding"
+      ],
       "icon_asset": "images/crisis_hotlines.svg",
-      "related_article_id_1": "how_to_report_abuse",
-      "related_article_id_2": "contact_for_reporting_abuse",
       "status": "released",
       "title": "Crisis Hotlines",
       "_translations": {
@@ -236,9 +188,6 @@
           "mx_es": true
         },
         "introduction": {
-          "mx_es": true
-        },
-        "related_articles_title": {
           "mx_es": true
         },
         "message_title_1": {
@@ -260,13 +209,9 @@
         },
         "message_text_1": {
           "eng": "1️⃣ Abuse, neglect, violence, poverty, and juvenile delinquency:\nFiscalía General de Justicia\n+911 (Call)\n+089 (Anonymous Call)\n\n2️⃣ Abuse of women, girls, and boys: \nFiscalía General de Justicia\n+911 (Call)\n+089 (Anonymous Call)\n\n3️⃣ Emotional distress and suicidal thoughts:\nNational System of Support, Psychological Counselling and Crisis Intervention by Telephone\n55 5259-8121 (Call)\nLínea de la Vida\n+800 911 2000 (Call)\nlalineadelavida@salud.gob.mx (Email)\n\n4️⃣ Cybersecurity incident\nPolicía Cibernética \n+5552425100 ext. 5086 (Call)\npolicia.cibernetica@ssc.cdmx.gob.mx (Email)"
-        },
-        "related_articles_title": {
-          "eng": "Additional Safeguarding Resources"
         }
       },
       "introduction": "You can share any of the following contact numbers with the participant:\n\n1️⃣ Abuse, neglect, violence, poverty, and juvenile delinquency:\nFiscalía General de Justicia\n+911 (Call)\n+089 (Anonymous Call)\n\n\n2️⃣ Abuse of women, girls, and boys \nFiscalía General de Justicia\n+911 (Call)\n+089 (Anonymous Call)\n\n3️⃣ Emotional distress and suicidal thoughts:\nNational System of Support, Psychological Counselling and Crisis Intervention by Telephone\n55 5259-8121 (Call)\nLínea de la vida\n+800 911 2000 (Call)\nlalineadelavida@salud.gob.mx (Email)\n\n4️⃣ Cybersecurity incident\nPolicía Cibernética \n+5552425100 ext. 5086 (Call)\npolicia.cibernetica@ssc.cdmx.gob.mx (Email)",
-      "related_articles_title": "Additional Safeguarding Resources",
       "message_title_1": "Quickly Share These Resources",
       "message_text_1": "1️⃣ Abuse, neglect, violence, poverty, and juvenile delinquency:\nFiscalía General de Justicia\n+911 (Call)\n+089 (Anonymous Call)\n\n2️⃣ Abuse of women, girls, and boys: \nFiscalía General de Justicia\n+911 (Call)\n+089 (Anonymous Call)\n\n3️⃣ Emotional distress and suicidal thoughts:\nNational System of Support, Psychological Counselling and Crisis Intervention by Telephone\n55 5259-8121 (Call)\nLínea de la Vida\n+800 911 2000 (Call)\nlalineadelavida@salud.gob.mx (Email)\n\n4️⃣ Cybersecurity incident\nPolicía Cibernética \n+5552425100 ext. 5086 (Call)\npolicia.cibernetica@ssc.cdmx.gob.mx (Email)"
     },
@@ -576,6 +521,9 @@
     },
     {
       "id": "faq_h_no_understand_connection",
+      "home_screen_section_list": [
+        "faq"
+      ],
       "icon_asset": "images/after_disclosed_abuse.svg",
       "status": "released",
       "title": "I don’t understand how thoughts, feelings, and actions are connected.",
@@ -631,6 +579,9 @@
     },
     {
       "id": "faq_h_no_thoughts",
+      "home_screen_section_list": [
+        "faq"
+      ],
       "icon_asset": "images/faq_ground_rules.svg",
       "status": "released",
       "title": "I don’t know what thoughts are affecting my feelings or actions.",
@@ -705,6 +656,9 @@
     },
     {
       "id": "faq_h_parents_insult",
+      "home_screen_section_list": [
+        "faq"
+      ],
       "icon_asset": "images/faq_h_parents_insult.svg",
       "status": "released",
       "title": "Parents began insulting themselves during the chat session",
@@ -756,6 +710,9 @@
     },
     {
       "id": "faq_h_self_harm",
+      "home_screen_section_list": [
+        "faq"
+      ],
       "icon_asset": "images/faq_h_self_harm.svg",
       "status": "released",
       "title": "Caregivers express intentions of self-harm or harm to their girls, boys, and teens during the session.",
@@ -800,6 +757,9 @@
     },
     {
       "id": "faq_h_no_neg_to_pos",
+      "home_screen_section_list": [
+        "faq"
+      ],
       "icon_asset": "images/faq_h_no_neg_to_pos.svg",
       "status": "released",
       "title": "Parents could not turn negative self-talk into positive self-talk",
@@ -833,6 +793,9 @@
     },
     {
       "id": "faq_h_no_strengths",
+      "home_screen_section_list": [
+        "faq"
+      ],
       "icon_asset": "images/faq_h_after_group_ended.svg",
       "status": "released",
       "title": "I can’t identify my strengths.",
@@ -884,6 +847,9 @@
     },
     {
       "id": "faq_h_after_group_ended",
+      "home_screen_section_list": [
+        "faq"
+      ],
       "icon_asset": "images/faq_h_after_group_ended.svg",
       "status": "released",
       "title": "If parents reach out to you after the group has ended.",
@@ -914,6 +880,9 @@
     },
     {
       "id": "faq_h_still_struggling",
+      "home_screen_section_list": [
+        "faq"
+      ],
       "icon_asset": "images/faq_h_still_struggling.svg",
       "status": "released",
       "title": "Participants share that the programme was not helpful or that they are still struggling",
@@ -951,6 +920,9 @@
     },
     {
       "id": "faq_h_sad_to_end",
+      "home_screen_section_list": [
+        "faq"
+      ],
       "icon_asset": "images/faq_h_sad_to_end.svg",
       "status": "released",
       "title": "Parents are feeling concerned, stressed or sad as the programme comes to an end.",
@@ -1065,7 +1037,6 @@
         "programme"
       ],
       "icon_asset": "images/how_to_chat_session.svg",
-      "related_article_id_1": "what_is_safeguarding",
       "status": "released",
       "title": "How to Conduct WhatsApp Group Chat Sessions",
       "_translations": {
@@ -1073,9 +1044,6 @@
           "mx_es": true
         },
         "introduction": {
-          "mx_es": true
-        },
-        "related_articles_title": {
           "mx_es": true
         },
         "section_title_1": {
@@ -1137,13 +1105,9 @@
         },
         "section_text_4": {
           "eng": "If you require help while moderating your WhatsApp Support Group, the chat sessions provide a list of FAQs and potential solutions.\n\nIf you need support responding to a challenge shared by the parent during your chat session, see “Common Challenges” on the homepage. \n\nFollow the same instructions as Sharing Chat Messages to share the solutions to the challenges. \n\nIf you encounter a challenge not covered in the chat session, kindly contact your supervisor for further guidance.It is better to ask and not share wrong information"
-        },
-        "related_articles_title": {
-          "eng": "Additional Information"
         }
       },
       "introduction": "The @global.programme_name programme includes WhatsApp support Groups with parents with pre-scripted messages that you share from Formando Conciencia+\n\nThe aim of this group is to provide parents with extra support during their @global.programme_name journey.",
-      "related_articles_title": "Additional Information",
       "section_title_1": "Create a WhatsApp Group",
       "section_text_1": "**Make sure you have done the following before the onboarding session starts:** \n\n- Save the names and WhatsApp numbers of the parents assigned to you on your phone (if available), so you can easily confirm details during the onboarding session. \n\n- Create your WhatsApp group (with the temporary group name, icon, and description). The name of each WhatsApp group has the same structure:\n“CC+ WhatsApp Support Group”\nA name selected by the group \n\nWhen you create your temporary group name, you will use \"CC+ WhatsApp Support Group” \n\nYou can keep your temporary group name or you can add a name to the temporary group name. For example, “CC+ __HappyFamilies”.",
       "tag_list": [
@@ -1165,9 +1129,6 @@
       "icon_asset": "images/overview_cc.svg",
       "resource_data_1": "pdf",
       "resource_id_1": "overview_study",
-      "related_article_id_1": "onboarding_cc_study",
-      "related_article_id_2": "how_to_chat_session_study",
-      "related_article_id_3": "how_to_report",
       "status": "released",
       "title": "Overview of the @global.programme_name Programme",
       "_translations": {
@@ -1178,9 +1139,6 @@
           "mx_es": true
         },
         "resource_title_1": {
-          "mx_es": true
-        },
-        "related_articles_title": {
           "mx_es": true
         },
         "section_title_1": {
@@ -1253,14 +1211,10 @@
         },
         "resource_title_2": {
           "eng": "Know more about the programme"
-        },
-        "related_articles_title": {
-          "eng": "Additional Information"
         }
       },
       "introduction": "Welcome to the @global.programme_name Positive Parenting Programme! \n\nThank you for your commitment and dedication to supporting girls, boys, teens and families in your community. \nYou are a shining star!",
       "resource_title_1": "Overview Guide",
-      "related_articles_title": "Additional Information",
       "section_title_1": "What’s inside the Facilitator Guide?",
       "section_text_1": "This guide is for YOU!! \nA comprehensive guide to help you deliver @global.programme_name to families around you. \nSteps on how to introduce caregivers to the programme and support them\nSpecific information on the programme’s content.",
       "tag_list": [
@@ -1312,9 +1266,6 @@
         },
         "sections_title": {
           "mx_es": true
-        },
-        "resource_title_2": {
-          "mx_es": true
         }
       },
       "_translatedFields": {
@@ -1341,9 +1292,6 @@
         },
         "resource_title_1": {
           "eng": "Onboarding Guide"
-        },
-        "resource_title_2": {
-          "eng": "How to onboard caregivers to the course"
         }
       },
       "introduction": "The Onboarding Session sets the tone for the entire @global.programme_name programme. It is important to create an empathetic, welcoming and safe space for the participants to feel at ease and familiarise themselves with the programme.",
@@ -1358,10 +1306,7 @@
       ],
       "section_title_2": "To get parents’ research ID",
       "section_text_2": "Type ID in the chatbot",
-      "sections_title": "Trigger Words",
-      "resource_data_2": "media",
-      "resource_id_2": "onboard_caregiver",
-      "resource_title_2": "How to onboard caregivers to the course"
+      "sections_title": "Trigger Words"
     },
     {
       "id": "how_to_chat_session_study",
@@ -1369,7 +1314,6 @@
         "programme"
       ],
       "icon_asset": "images/how_to_chat_session.svg",
-      "related_article_id_1": "what_is_safeguarding",
       "status": "released",
       "title": "How to Conduct WhatsApp Support Group Chat Sessions",
       "_translations": {
@@ -1377,9 +1321,6 @@
           "mx_es": true
         },
         "introduction": {
-          "mx_es": true
-        },
-        "related_articles_title": {
           "mx_es": true
         },
         "section_title_1": {
@@ -1441,13 +1382,9 @@
         },
         "section_text_4": {
           "eng": "If you require help while moderating your WhatsApp Support Group, the chat sessions provide a list of FAQs and potential solutions.\n\nIf you need support responding to a challenge shared by the parent during your chat session, see “Common Challenges” on the homepage. \n\nFollow the same instructions as Sharing Chat Messages to share the solutions to the challenges. \n\nIf you encounter a challenge not covered in the chat session, kindly contact your supervisor for further guidance."
-        },
-        "related_articles_title": {
-          "eng": "Additional Information"
         }
       },
       "introduction": "The @global.programme_name programme includes WhatsApp support  Groups with parents with pre-scripted messages that you share from Formando Conciencia+\n\nThe aim of this group is to provide parents with extra support during their @global.programme_name journey.",
-      "related_articles_title": "Additional Information",
       "section_title_1": "Create a WhatsApp Group",
       "section_text_1": "**Make sure you have done the following before the onboarding session starts:** \n\n- Save the names and WhatsApp numbers of the parents assigned to you on your phone (if available), so you can easily confirm details during the onboarding session. \n\n- Create your WhatsApp group (with the temporary group name, icon, and description). The name of each WhatsApp group has the same structure:\n“CC+ WhatsApp Support Group”\nA name selected by the group \n\nWhen you create your temporary group name, you will use \"CC+ WhatsApp Support Group” \n\nYou can keep your temporary group name or you can add a name to the temporary group name. For example, “CC+ __HappyFamilies”.",
       "tag_list": [
@@ -1470,8 +1407,6 @@
         "programme"
       ],
       "icon_asset": "images/how_to_report.svg",
-      "resource_data_1": "media",
-      "resource_id_1": "add_parent",
       "status": "released",
       "title": "How to Report on Programme Delivery",
       "_translations": {
@@ -1479,9 +1414,6 @@
           "mx_es": true
         },
         "introduction": {
-          "mx_es": true
-        },
-        "resource_title_1": {
           "mx_es": true
         },
         "section_title_1": {
@@ -1555,13 +1487,9 @@
         },
         "section_text_5": {
           "eng": "Only edit an attendance report if you have made a mistake.\n\nSelect the pencil icon from the bottom of the navigation bar. \n\nSelect whether you want to edit an in-person or WhatsApp session. \n\nSelect the session that you want to edit.\n\nYour previous selections will appear. You can now edit your selections and select “Save”"
-        },
-        "resource_title_1": {
-          "eng": "Add a Parent and Co-Parent"
         }
       },
       "introduction": "The Formando Conciencia+ also makes reporting on the delivery of @global.programme_name much easier than paper forms.\n\nAfter adding each parent’s name to the App, you will be able to report on their participation during in-person and WhatsApp group sessions.\n\nYou will also report on your own experience, including the time spent conducting each session and whether you were able to do all the activities in the session. Be honest with the information, we are really interested in knowing your experience",
-      "resource_title_1": "Add a Parent and Co-Parent",
       "section_title_1": "Set up your profile",
       "section_text_1": "Select the profile icon from the bottom navigation bar. \n\nChoose “About you” \n\nType your name under “Your name” \n\nSelect your state from the dropdown menu \n\nTap Save",
       "section_title_2": "Add a Parent",
@@ -1580,7 +1508,6 @@
         "programme"
       ],
       "icon_asset": "images/faq_h_prompts.svg",
-      "related_article_id_1": "how_to_chat_session_study",
       "status": "released",
       "title": "Coaching support",
       "_translations": {
@@ -1588,9 +1515,6 @@
           "mx_es": true
         },
         "introduction": {},
-        "related_articles_title": {
-          "mx_es": true
-        },
         "section_title_1": {
           "mx_es": true
         },
@@ -1648,13 +1572,9 @@
         },
         "section_text_4": {
           "eng": "If you need support and your coaching session is a while from now, you can share your challenge in the WhatsApp group with other facilitators. \n\nOther facilitators may have faced similar challenges and may be able to support you."
-        },
-        "related_articles_title": {
-          "eng": "Additional Information"
         }
       },
       "introduction": "Once you join the program, you'll be matched with a coach right from the start. \n\nYour coach will help you prepare for your chat sessions with the caregivers, talk about any problems you had during your sessions, find solutions together, and practise them. \n\nYou will have 4 coaching sessions with other facilitators and your coach. Each coaching session will be 60 minutes long.",
-      "related_articles_title": "Additional Information",
       "section_title_1": "How will the coach get in touch with me?",
       "section_text_1": "Make sure you're part of a WhatsApp group with other facilitators from your state and your coach. Your coach will share important information with you through this group. Stay connected and keep an eye out for updates from your coach in the WhatsApp group!",
       "tag_list": [
@@ -1677,8 +1597,6 @@
         "programme"
       ],
       "icon_asset": "images/group_admin_onboarding.svg",
-      "related_article_id_1": "faq_h_after_group_ended",
-      "related_article_id_2": "faq_h_prompts",
       "status": "released",
       "title": "How to hand over to Group Admin",
       "_translations": {
@@ -1686,9 +1604,6 @@
           "mx_es": true
         },
         "introduction": {
-          "mx_es": true
-        },
-        "related_articles_title": {
           "mx_es": true
         },
         "message_title_1": {
@@ -1740,13 +1655,9 @@
         },
         "message_guidance_2": {
           "eng": "Send this message to the group admin volunteers."
-        },
-        "related_articles_title": {
-          "eng": "FAQ"
         }
       },
       "introduction": "Once 2 volunteers to be group admin are selected, schedule a WhatsApp call with them.\n\nWhen you’re done with the call, you can send the guidelines as messages to remind them what you discussed.",
-      "related_articles_title": "FAQ",
       "message_title_1": "Send this message after your WhatsApp Call",
       "message_text_1": "Hi! Thank you for volunteering to lead the group discussions. \n\n*While engaging with other parents in the group, keep the following in mind*: \n\n👋Greet parents when engaging with them.\n\n💛Respect what participants share and be aware of different ages, genders, values and circumstances. \n\n🏅Encourage parents to share and respond to each other - and praise them for it.\n\n🔔Remind parents of ground rules when needed.\n\n🔑Model the behaviour you want to see among the parents.",
       "section_title_1": "What to cover in the WhatsApp Call?",
@@ -1763,6 +1674,9 @@
     },
     {
       "id": "faq_h_prompts",
+      "home_screen_section_list": [
+        "faq"
+      ],
       "icon_asset": "images/faq_h_prompts.svg",
       "status": "released",
       "title": "Chat session prompts for new group admin",
@@ -1813,6 +1727,9 @@
     },
     {
       "id": "faq_h_no_volunteers",
+      "home_screen_section_list": [
+        "faq"
+      ],
       "icon_asset": "images/faq_h_no_volunteers.svg",
       "status": "released",
       "title": "No one volunteered to be group admin",

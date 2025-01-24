@@ -6,6 +6,7 @@
   "rows": [
     {
       "id": "programme",
+      "image": "images/faq_no_participation_general.svg",
       "title": "Facilitator Guide",
       "_translations": {
         "title": {
@@ -19,21 +20,8 @@
       }
     },
     {
-      "id": "sessions",
-      "title": "Chat Sessions",
-      "_translations": {
-        "title": {
-          "mx_es": true
-        }
-      },
-      "_translatedFields": {
-        "title": {
-          "eng": "Chat Sessions"
-        }
-      }
-    },
-    {
       "id": "faq",
+      "image": "images/faq_h_parents_insult.svg",
       "title": "Frequently Asked Questions",
       "_translations": {
         "title": {
@@ -48,6 +36,7 @@
     },
     {
       "id": "safeguarding",
+      "image": "images/talk_feelings_challenges.svg",
       "title": "Safeguarding",
       "_translations": {
         "title": {
@@ -62,6 +51,7 @@
     },
     {
       "id": "challenges",
+      "image": "images/faq_h_self_harm.svg",
       "title": "Common Challenges",
       "_translations": {
         "title": {

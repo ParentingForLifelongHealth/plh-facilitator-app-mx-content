@@ -17,6 +17,10 @@
     {
       "type": "declare_global_constant",
       "name": "home_icon_asset",
+      "value": "",
+      "_translations": {
+        "value": {}
+      },
       "exclude_from_translation": true
     },
     {
@@ -89,7 +93,7 @@
     {
       "type": "declare_global_constant",
       "name": "main_menu_title",
-      "value": "¡Te damos la bienvenida a CC+!",
+      "value": "¡Te damos la bienvenida!",
       "_translations": {
         "value": {}
       }
@@ -137,7 +141,17 @@
     {
       "type": "declare_global_constant",
       "name": "edit_text_id",
-      "value": "Parent Text ID",
+      "value": "ParentText ID",
+      "_translations": {
+        "value": {
+          "mx_es": true
+        }
+      }
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "main_logo",
+      "value": "images/logos/bird_on_light.svg",
       "_translations": {
         "value": {}
       }

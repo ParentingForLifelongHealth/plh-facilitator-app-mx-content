@@ -412,8 +412,8 @@
     "size_kb": 35.5
   },
   "images/no_group_selected.svg": {
-    "md5Checksum": "82767136bb58f06e6402ca136d3df590",
-    "size_kb": 3.5
+    "md5Checksum": "4a38a010daa3bf9f20cc6cf19261186f",
+    "size_kb": 13.5
   },
   "images/onboarding_cc.svg": {
     "md5Checksum": "9138c7de0fc8bf002f3881b10e6fc1a1",
@@ -470,13 +470,5 @@
   "pdf/programme_details.pdf": {
     "md5Checksum": "d7f88e6bc4851b986b223a9b536e0e18",
     "size_kb": 123
-  },
-  "videos/add_parent.mp4": {
-    "md5Checksum": "2cdc77cf24738d4dd9a8572bb834cc32",
-    "size_kb": 19312.7
-  },
-  "videos/onboard_caregivers.mp4": {
-    "md5Checksum": "06a87076d38ddaac71e27e9e58b52b96",
-    "size_kb": 91291.6
   }
 }
