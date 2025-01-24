@@ -451,9 +451,13 @@
     "md5Checksum": "720cf48f780d84ba2d4810c4befeee45",
     "size_kb": 5.6
   },
+  "lottie/felicidades.json": {
+    "md5Checksum": "1fbcf25b23c1e311b06f1f704f9ae8a5",
+    "size_kb": 94.2
+  },
   "lottie/gift_box.json": {
-    "md5Checksum": "1455435f00dd4ff8da21409b3e0e86d4",
-    "size_kb": 787.9
+    "md5Checksum": "1fbcf25b23c1e311b06f1f704f9ae8a5",
+    "size_kb": 94.2
   },
   "odk_forms/eplh_pilot_facilitator_weekly_survey_combined.json": {
     "md5Checksum": "50b917f456001fbc0cb4d693931f3051",
