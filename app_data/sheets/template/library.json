@@ -23,7 +23,7 @@
       "type": "display_grid",
       "parameter_list": {
         "item_border": "none",
-        "item_width": "160px"
+        "item_width": "180px"
       },
       "rows": [
         {

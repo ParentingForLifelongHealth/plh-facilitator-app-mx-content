@@ -39,7 +39,7 @@
       },
       {
         "type": "display_group",
-        "count": 88
+        "count": 89
       },
       {
         "type": "drawer",
@@ -107,7 +107,7 @@
       },
       {
         "type": "text",
-        "count": 146
+        "count": 147
       },
       {
         "type": "text_area",
@@ -227,13 +227,13 @@
     "data": [
       {
         "assets": "total",
-        "KB": "6012 KB",
-        "MB": "6 MB"
+        "KB": "5318 KB",
+        "MB": "5.3 MB"
       },
       {
         "assets": "unused",
-        "KB": "970 KB",
-        "MB": "1 MB"
+        "KB": "1064 KB",
+        "MB": "1.1 MB"
       }
     ]
   },
@@ -394,6 +394,10 @@
       {
         "path": "images/person_cog.png",
         "size_kb": 0.8
+      },
+      {
+        "path": "lottie/felicidades.json",
+        "size_kb": 94.2
       },
       {
         "path": "odk_forms/eplh_pilot_facilitator_weekly_survey_combined.json",
@@ -795,7 +799,7 @@
       {
         "path": "lottie/gift_box.json",
         "count": 1,
-        "size_kb": 787.9
+        "size_kb": 94.2
       },
       {
         "path": "pdf/manual.pdf",
