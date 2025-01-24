@@ -101,7 +101,7 @@
           "style_list": [
             "margin-bottom: 12px"
           ],
-          "condition": "@item.group_id == @fields.current_group_no && !@item.archived && (@item.co_parent_id== \"\" | @item.co_parent_name!= \"\")",
+          "condition": "@item.group_id == @fields.current_group_no && !@item.archived",
           "rows": [
             {
               "name": "parent_name",
@@ -966,34 +966,22 @@
           "_dynamicFields": {
             "condition": [
               {
-                "fullExpression": "@item.group_id == @fields.current_group_no && !@item.archived && (@item.co_parent_id== \"\" | @item.co_parent_name!= \"\")",
+                "fullExpression": "@item.group_id == @fields.current_group_no && !@item.archived",
                 "matchedExpression": "@item.group_id",
                 "type": "item",
                 "fieldName": "group_id"
               },
               {
-                "fullExpression": "@item.group_id == @fields.current_group_no && !@item.archived && (@item.co_parent_id== \"\" | @item.co_parent_name!= \"\")",
+                "fullExpression": "@item.group_id == @fields.current_group_no && !@item.archived",
                 "matchedExpression": "@fields.current_group_no",
                 "type": "fields",
                 "fieldName": "current_group_no"
               },
               {
-                "fullExpression": "@item.group_id == @fields.current_group_no && !@item.archived && (@item.co_parent_id== \"\" | @item.co_parent_name!= \"\")",
+                "fullExpression": "@item.group_id == @fields.current_group_no && !@item.archived",
                 "matchedExpression": "!@item.archived",
                 "type": "item",
                 "fieldName": "archived"
-              },
-              {
-                "fullExpression": "@item.group_id == @fields.current_group_no && !@item.archived && (@item.co_parent_id== \"\" | @item.co_parent_name!= \"\")",
-                "matchedExpression": "@item.co_parent_id",
-                "type": "item",
-                "fieldName": "co_parent_id"
-              },
-              {
-                "fullExpression": "@item.group_id == @fields.current_group_no && !@item.archived && (@item.co_parent_id== \"\" | @item.co_parent_name!= \"\")",
-                "matchedExpression": "@item.co_parent_name",
-                "type": "item",
-                "fieldName": "co_parent_name"
               }
             ]
           },
@@ -1005,12 +993,6 @@
               "condition"
             ],
             "!@item.archived": [
-              "condition"
-            ],
-            "@item.co_parent_id": [
-              "condition"
-            ],
-            "@item.co_parent_name": [
               "condition"
             ]
           }

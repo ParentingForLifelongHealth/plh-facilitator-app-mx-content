@@ -6,32 +6,33 @@
 | accordion | 2 |
 | accordion_section | 2 |
 | audio | 2 |
-| button | 68 |
+| button | 70 |
 | carousel | 1 |
 | combo_box | 3 |
 | data_items | 21 |
 | debug_toggle | 1 |
 | display_grid | 4 |
-| display_group | 86 |
+| display_group | 88 |
 | drawer | 2 |
 | image | 8 |
 | items | 27 |
+| lottie_animation | 1 |
 | navigation_bar | 2 |
 | pdf | 1 |
 | qr_code | 1 |
 | radio_button_grid | 4 |
-| round_button | 27 |
+| round_button | 28 |
 | select_text | 1 |
 | set_field | 1 |
-| set_variable | 653 |
+| set_variable | 664 |
 | simple_checkbox | 2 |
 | task_card | 2 |
 | task_progress_bar | 2 |
 | template | 195 |
-| text | 147 |
+| text | 145 |
 | text_area | 2 |
 | text_box | 22 |
-| title | 37 |
+| title | 38 |
 | toggle_bar | 3 |
 | update_action_list | 2 |
 | video | 2 |
@@ -44,23 +45,23 @@
 | --- | --- |
 | add_data | 4 |
 | app_update | 1 |
-| emit: completed | 19 |
+| emit: completed | 20 |
 | emit: force_reload | 4 |
 | emit: force_reprocess | 9 |
 | emit: force_restart | 3 |
 | emit: server_sync | 4 |
 | emit: set_language | 1 |
-| emit: uncompleted | 66 |
+| emit: uncompleted | 67 |
 | feedback | 13 |
 | go_to | 36 |
 | nav_stack | 4 |
-| pop_up | 9 |
+| pop_up | 10 |
 | reset_app | 1 |
 | save_to_device | 3 |
-| set_data | 16 |
-| set_field | 55 |
+| set_data | 17 |
+| set_field | 57 |
 | set_item | 8 |
-| set_local | 20 |
+| set_local | 19 |
 | share | 2 |
 | user | 1 |
 </details>
@@ -70,7 +71,7 @@
 
 | assets | KB | MB |
 | --- | --- | --- |
-| total | 5223 KB | 5.2 MB |
+| total | 6012 KB | 6 MB |
 | unused | 970 KB | 1 MB |
 </details>
 
@@ -175,6 +176,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/how_to_report.svg | 5.8 | 1 |
 | images/how_to_report_abuse.svg | 12.2 | 2 |
 | images/icons/add_circle.svg | 1 | 2 |
+| images/icons/archive.svg | 0.9 | 1 |
 | images/icons/arrow_back.svg | 0.5 | 1 |
 | images/icons/arrow_forward.svg | 0.4 | 2 |
 | images/icons/cancel.svg | 1.7 | 1 |
@@ -215,6 +217,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/routine_challenges.svg | 20.5 | 1 |
 | images/talk_feelings_challenges.svg | 19.3 | 2 |
 | images/what_is_safeguarding.svg | 5.6 | 1 |
+| lottie/gift_box.json | 787.9 | 1 |
 | pdf/manual.pdf | 470.3 | 1 |
 | pdf/manual_study.pdf | 1047 | 1 |
 | pdf/overview_guide_study.pdf | 2252.6 | 1 |
@@ -237,7 +240,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | generator |  | 11 |
 | global |  | 11 |
 | global | legal_terms | 1 |
-| template |  | 69 |
+| template |  | 70 |
 | template | generated | 151 |
 | template | legal_terms | 4 |
 | template | menu | 1 |
