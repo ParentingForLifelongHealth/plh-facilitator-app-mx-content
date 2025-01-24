@@ -15,7 +15,7 @@
       },
       {
         "type": "button",
-        "count": 70
+        "count": 71
       },
       {
         "type": "carousel",
@@ -103,7 +103,7 @@
       },
       {
         "type": "template",
-        "count": 195
+        "count": 193
       },
       {
         "type": "text",
@@ -147,7 +147,7 @@
       },
       {
         "type": "emit: completed",
-        "count": 20
+        "count": 19
       },
       {
         "type": "emit: force_reload",
@@ -171,7 +171,7 @@
       },
       {
         "type": "emit: uncompleted",
-        "count": 67
+        "count": 65
       },
       {
         "type": "feedback",
@@ -203,7 +203,7 @@
       },
       {
         "type": "set_field",
-        "count": 57
+        "count": 51
       },
       {
         "type": "set_item",
