@@ -502,7 +502,7 @@
       "loop_id": "week_4_chat",
       "foreign_key": "week_4_chat",
       "type": "article",
-      "next_article": "#REF!",
+      "next_article": "",
       "previous_article": "week_4_chat_5",
       "test": "week_4_chat",
       "create_loop": 0

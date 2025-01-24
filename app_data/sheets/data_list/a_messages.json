@@ -18,9 +18,7 @@
         "text": {
           "mx_es": true
         },
-        "guidance": {
-          "mx_es": true
-        }
+        "guidance": {}
       },
       "_translatedFields": {
         "title": {
@@ -30,11 +28,11 @@
           "eng": "😃 Hi there! Welcome to our @global.programme_name WhatsApp Group! \n\nToday, we are introducing ourselves and our goals for the programme! ⭐ \n\nMy name is [INSERT NAME], and my goal is to learn more about how to help my girl go to bed by 8 every night.⏰🌙 \n\nPlease share your name and your goal for @global.programme_name using text or audio message."
         },
         "guidance": {
-          "eng": "Remember to fill in your name where it says [INSERT NAME] before sending your message. \n\nAllow some time for parents to share. Try to praise each response.\n\nFor example, you can say, “Thanks for the response, [Insert Name]!” or “Great goal, [Insert Name]”! You can also use simple emojis like 👍or 🙂"
+          "eng": "😊 Remember to fill in your name where it says [INSERT NAME] before sending your message. \n\n⭐ Allow some time for parents to share. Try to praise each response.\n\nFor example, you can say, “Thanks for the response, [Insert Name]!” or “Great goal, [Insert Name]”! You can also use simple emojis like 👍or 🙂"
         }
       },
       "text": "😃 Hi there! Welcome to our @global.programme_name WhatsApp Group! \n\nToday, we are introducing ourselves and our goals for the programme! ⭐ \n\nMy name is [INSERT NAME], and my goal is to learn more about how to help my girl go to bed by 8 every night.⏰🌙 \n\nPlease share your name and your goal for @global.programme_name using text or audio message.",
-      "guidance": "Remember to fill in your name where it says [INSERT NAME] before sending your message. \n\nAllow some time for parents to share. Try to praise each response.\n\nFor example, you can say, “Thanks for the response, [Insert Name]!” or “Great goal, [Insert Name]”! You can also use simple emojis like 👍or 🙂"
+      "guidance": "😊 Remember to fill in your name where it says [INSERT NAME] before sending your message. \n\n⭐ Allow some time for parents to share. Try to praise each response.\n\nFor example, you can say, “Thanks for the response, [Insert Name]!” or “Great goal, [Insert Name]”! You can also use simple emojis like 👍or 🙂"
     },
     {
       "id": "message_2",
@@ -50,9 +48,7 @@
         "text": {
           "mx_es": true
         },
-        "guidance": {
-          "mx_es": true
-        }
+        "guidance": {}
       },
       "_translatedFields": {
         "title": {
@@ -62,11 +58,11 @@
           "eng": "This week, we will catch up at [INSERT TIME] on [INSERT DAY] to chat about our @global.programme_name journey. \n\n👋Please join to share how things are going. Every little step matters. Share what works when you practise, reflections about the topic, any challenges you experience, or just say hi! 😊\n\n⏰Does this time and day work for everyone?"
         },
         "guidance": {
-          "eng": "Add the time and day of the week before sending the message."
+          "eng": "😃 Add the time and day of the week before sending the message."
         }
       },
       "text": "This week, we will catch up at [INSERT TIME] on [INSERT DAY] to chat about our @global.programme_name journey. \n\n👋Please join to share how things are going. Every little step matters. Share what works when you practise, reflections about the topic, any challenges you experience, or just say hi! 😊\n\n⏰Does this time and day work for everyone?",
-      "guidance": "Add the time and day of the week before sending the message."
+      "guidance": "😃 Add the time and day of the week before sending the message."
     },
     {
       "id": "message_3",
@@ -144,9 +140,7 @@
         "text": {
           "mx_es": true
         },
-        "guidance": {
-          "mx_es": true
-        }
+        "guidance": {}
       },
       "_translatedFields": {
         "title": {
@@ -156,11 +150,11 @@
           "eng": "Hello, everyone! 😃\nWelcome to our second chat session! \n\nToday, we are talking about feeling stressed. Feeling stressed is a normal part of being human, and parenting can add an extra layer of challenges. \n\nIt’s important to manage our stress. Otherwise, it can build up and affect our health and relationships!\n\nHow is everyone’s stress level today? \n\nUse a number from 1 to 10 to share your stress level:\n1 - No Stress \n2 to 5 - Some Stress \n6 to 9 - Feeling Stressed \n10 - Extremely Stressed \n\nFeel free to share your number with the group. We're all in this together!"
         },
         "guidance": {
-          "eng": "Allow time for parents to share how they are feeling. You should also share how you are feeling. For example, “Today, I'm at a 5 stress level, my teen has been sick for a few days but happy to be part of the chat today.”"
+          "eng": "Allow time for parents to share how they are feeling. You should also share how you are feeling.\n\nFor example, “Today, I'm at a 5 stress level, my teen has been sick for a few days but happy to be part of the chat today.”"
         }
       },
       "text": "Hello, everyone! 😃\nWelcome to our second chat session! \n\nToday, we are talking about feeling stressed. Feeling stressed is a normal part of being human, and parenting can add an extra layer of challenges. \n\nIt’s important to manage our stress. Otherwise, it can build up and affect our health and relationships!\n\nHow is everyone’s stress level today? \n\nUse a number from 1 to 10 to share your stress level:\n1 - No Stress \n2 to 5 - Some Stress \n6 to 9 - Feeling Stressed \n10 - Extremely Stressed \n\nFeel free to share your number with the group. We're all in this together!",
-      "guidance": "Allow time for parents to share how they are feeling. You should also share how you are feeling. For example, “Today, I'm at a 5 stress level, my teen has been sick for a few days but happy to be part of the chat today.”"
+      "guidance": "Allow time for parents to share how they are feeling. You should also share how you are feeling.\n\nFor example, “Today, I'm at a 5 stress level, my teen has been sick for a few days but happy to be part of the chat today.”"
     },
     {
       "id": "message_6",
@@ -173,9 +167,7 @@
         "title": {
           "mx_es": true
         },
-        "text": {
-          "mx_es": true
-        },
+        "text": {},
         "guidance": {
           "mx_es": true
         }
@@ -185,13 +177,13 @@
           "eng": "Message 3: Understanding Self Talk"
         },
         "text": {
-          "eng": "Thank you all for sharing your honest responses! 🎉\n💡 Today, we're going to practise a skill to manage stress: self-talk.\n🎤 Self-talk is the way we talk to ourselves in our head or out loud during stressful situations. It’s the things we say to ourselves out loud and the thoughts in our minds.\nIt's easy to be unkind to ourselves, especially when we're tired or upset.\nCan anyone share a time when they said something negative to themselves?"
+          "eng": "Thank you all for sharing your honest responses! 🎉\n\n💡 Today, we're going to practise a skill to manage stress: self-talk.\n\n🎤 Self-talk is the way we talk to ourselves in our head or out loud during stressful situations. It’s the things we say to ourselves out loud and the thoughts in our minds.\nIt's easy to be unkind to ourselves, especially when we're tired or upset.\n\nCan anyone share a time when they said something negative to themselves?"
         },
         "guidance": {
           "eng": "Allow parents to respond. You can reply to the parents with an emoji ⭐ or words of encouragement, like “That is a good example! I am sure a lot of us have felt that way”."
         }
       },
-      "text": "Thank you all for sharing your honest responses! 🎉\n💡 Today, we're going to practise a skill to manage stress: self-talk.\n🎤 Self-talk is the way we talk to ourselves in our head or out loud during stressful situations. It’s the things we say to ourselves out loud and the thoughts in our minds.\nIt's easy to be unkind to ourselves, especially when we're tired or upset.\nCan anyone share a time when they said something negative to themselves?",
+      "text": "Thank you all for sharing your honest responses! 🎉\n\n💡 Today, we're going to practise a skill to manage stress: self-talk.\n\n🎤 Self-talk is the way we talk to ourselves in our head or out loud during stressful situations. It’s the things we say to ourselves out loud and the thoughts in our minds.\nIt's easy to be unkind to ourselves, especially when we're tired or upset.\n\nCan anyone share a time when they said something negative to themselves?",
       "guidance": "Allow parents to respond. You can reply to the parents with an emoji ⭐ or words of encouragement, like “That is a good example! I am sure a lot of us have felt that way”."
     },
     {
@@ -238,9 +230,7 @@
         "text": {
           "mx_es": true
         },
-        "guidance": {
-          "mx_es": true
-        }
+        "guidance": {}
       },
       "_translatedFields": {
         "title": {
@@ -250,11 +240,11 @@
           "eng": "📝 Let's notice negative self-talk when it happens, and turn it around. For example, \n**Negative Self-Talk:** \"I was a bad parent today. I yelled at my teen for an honest mistake.\"\n**Positive Self-Talk:** \"Today was tough because I've been overwhelmed. I yelled at my teen, knowing it was an honest mistake. Next time, I'll pause before responding, ensuring I'm calm and in control.\"\n💡 See how the positive self-talk is more supportive? 🏠 Now, your turn! Share a time you talked negatively to yourself, and let’s find and turn it into positive self-talk. Try doing this three times by the week’s end and feel the difference! \nHow parents talk to themselves teaches their kids how to talk to themselves. Girls, boys,  and teens learn from watching their parents."
         },
         "guidance": {
-          "eng": "Briefly read the participants’ responses and make sure they are not insulting themselves and generally follow the example above. Any instances of intent of self-harm or harm to girls and boys should be reported appropriately. \nThank you and react positively to all participation. Invite those who have not written their response to participate."
+          "eng": "Briefly read the participants’ responses and make sure they are not insulting themselves and generally follow the example above. Any instances of intent of self-harm or harm to girls and boys should be reported appropriately. \n\nThank you and react positively to all participation. Invite those who have not written their response to participate."
         }
       },
       "text": "📝 Let's notice negative self-talk when it happens, and turn it around. For example, \n**Negative Self-Talk:** \"I was a bad parent today. I yelled at my teen for an honest mistake.\"\n**Positive Self-Talk:** \"Today was tough because I've been overwhelmed. I yelled at my teen, knowing it was an honest mistake. Next time, I'll pause before responding, ensuring I'm calm and in control.\"\n💡 See how the positive self-talk is more supportive? 🏠 Now, your turn! Share a time you talked negatively to yourself, and let’s find and turn it into positive self-talk. Try doing this three times by the week’s end and feel the difference! \nHow parents talk to themselves teaches their kids how to talk to themselves. Girls, boys,  and teens learn from watching their parents.",
-      "guidance": "Briefly read the participants’ responses and make sure they are not insulting themselves and generally follow the example above. Any instances of intent of self-harm or harm to girls and boys should be reported appropriately. \nThank you and react positively to all participation. Invite those who have not written their response to participate."
+      "guidance": "Briefly read the participants’ responses and make sure they are not insulting themselves and generally follow the example above. Any instances of intent of self-harm or harm to girls and boys should be reported appropriately. \n\nThank you and react positively to all participation. Invite those who have not written their response to participate."
     },
     {
       "id": "message_9",
