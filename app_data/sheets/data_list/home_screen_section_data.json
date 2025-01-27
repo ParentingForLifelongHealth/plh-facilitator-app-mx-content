@@ -63,6 +63,19 @@
           "eng": "Common Challenges"
         }
       }
+    },
+    {
+      "id": "pcc",
+      "image": "images/day_3_mh_stress_self_talk.svg",
+      "title": "Parenting Children in Crisis",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Parenting Children in Crisis"
+        }
+      }
     }
   ],
   "_xlsxPath": "data/FacilitatorApp MX articles.xlsx"

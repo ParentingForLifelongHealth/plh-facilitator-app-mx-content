@@ -25,6 +25,11 @@
       "_nested_name": "message_guidance"
     },
     {
+      "name": "asset",
+      "type": "set_variable",
+      "_nested_name": "asset"
+    },
+    {
       "type": "display_group",
       "name": "dg_box",
       "style_list": [
@@ -69,6 +74,30 @@
             "variant": "box_white"
           },
           "rows": [
+            {
+              "type": "image",
+              "name": "message_image",
+              "value": "@local.asset",
+              "_translations": {
+                "value": {}
+              },
+              "_nested_name": "dg_box.display_group_2.message_image",
+              "_dynamicFields": {
+                "value": [
+                  {
+                    "fullExpression": "@local.asset",
+                    "matchedExpression": "@local.asset",
+                    "type": "local",
+                    "fieldName": "asset"
+                  }
+                ]
+              },
+              "_dynamicDependencies": {
+                "@local.asset": [
+                  "value"
+                ]
+              }
+            },
             {
               "type": "text",
               "name": "message_text",

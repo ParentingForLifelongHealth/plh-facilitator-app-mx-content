@@ -12,7 +12,8 @@
         "study_dif_chih",
         "study_dif_cdmx",
         "study_dif_mich",
-        "scale_dif"
+        "scale_dif",
+        "cc_guer"
       ],
       "name": "Onboarding",
       "_translations": {
@@ -34,7 +35,8 @@
         "study_dif_chih",
         "study_dif_cdmx",
         "study_dif_mich",
-        "scale_dif"
+        "scale_dif",
+        "cc_guer"
       ],
       "name": "Week 1: Thoughts, Feelings, and Actions",
       "_translations": {
@@ -55,7 +57,8 @@
         "study_dif_bc",
         "study_dif_chih",
         "study_dif_cdmx",
-        "study_dif_mich"
+        "study_dif_mich",
+        "cc_guer"
       ],
       "name": "Week 2: Self-Talk",
       "_translations": {
@@ -76,7 +79,8 @@
         "study_dif_bc",
         "study_dif_chih",
         "study_dif_cdmx",
-        "study_dif_mich"
+        "study_dif_mich",
+        "cc_guer"
       ],
       "name": "Week 3: Character Strengths",
       "_translations": {
@@ -97,7 +101,8 @@
         "study_dif_bc",
         "study_dif_chih",
         "study_dif_cdmx",
-        "study_dif_mich"
+        "study_dif_mich",
+        "cc_guer"
       ],
       "name": "Week 4: Building Pleasant Emotions",
       "_translations": {
@@ -108,6 +113,27 @@
       "_translatedFields": {
         "name": {
           "eng": "Week 4: Building Pleasant Emotions"
+        }
+      }
+    },
+    {
+      "id": "pcc",
+      "type": "virtual",
+      "tag_list": [
+        "study_dif_bc",
+        "study_dif_chih",
+        "study_dif_cdmx",
+        "study_dif_mich",
+        "scale_dif",
+        "cc_guer"
+      ],
+      "name": "Optional Report: Parenting Children in Crisis",
+      "_translations": {
+        "name": {}
+      },
+      "_translatedFields": {
+        "name": {
+          "eng": "Optional Report: Parenting Children in Crisis"
         }
       }
     }

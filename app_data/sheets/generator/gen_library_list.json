@@ -60,6 +60,11 @@
       "flow_name": "library_challenges",
       "flow_subtype": "generated",
       "flow_type": "template"
+    },
+    {
+      "flow_name": "library_pcc",
+      "flow_subtype": "generated",
+      "flow_type": "template"
     }
   ]
 }

@@ -91,11 +91,11 @@
           "trigger": "click",
           "action_id": "set_field",
           "args": [
-            "current_has_report",
+            "current_report_id",
             "@local.report_id"
           ],
-          "_raw": "click | set_field: current_has_report: @local.report_id",
-          "_cleaned": "click | set_field: current_has_report: @local.report_id"
+          "_raw": "click | set_field: current_report_id: @local.report_id",
+          "_cleaned": "click | set_field: current_report_id: @local.report_id"
         },
         {
           "trigger": "click",
@@ -212,7 +212,7 @@
             },
             "_raw": [
               {
-                "fullExpression": "click | set_field: current_has_report: @local.report_id",
+                "fullExpression": "click | set_field: current_report_id: @local.report_id",
                 "matchedExpression": "@local.report_id",
                 "type": "local",
                 "fieldName": "report_id"
@@ -220,7 +220,7 @@
             ],
             "_cleaned": [
               {
-                "fullExpression": "click | set_field: current_has_report: @local.report_id",
+                "fullExpression": "click | set_field: current_report_id: @local.report_id",
                 "matchedExpression": "@local.report_id",
                 "type": "local",
                 "fieldName": "report_id"

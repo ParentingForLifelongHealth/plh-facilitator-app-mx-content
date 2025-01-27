@@ -574,7 +574,8 @@
         "study_dif_bc",
         "study_dif_chih",
         "study_dif_cdmx",
-        "study_dif_mich"
+        "study_dif_mich",
+        "cc_guer"
       ]
     },
     {
@@ -651,7 +652,8 @@
         "study_dif_bc",
         "study_dif_chih",
         "study_dif_cdmx",
-        "study_dif_mich"
+        "study_dif_mich",
+        "cc_guer"
       ]
     },
     {
@@ -842,7 +844,8 @@
         "study_dif_bc",
         "study_dif_chih",
         "study_dif_cdmx",
-        "study_dif_mich"
+        "study_dif_mich",
+        "cc_guer"
       ]
     },
     {
@@ -1168,6 +1171,8 @@
         "section_text_4": {
           "mx_es": true
         },
+        "section_title_5": {},
+        "section_text_5": {},
         "resource_title_2": {
           "mx_es": true
         }
@@ -1206,6 +1211,12 @@
         "section_text_4": {
           "eng": "Just as we say to the parents, “It is what you do at home that makes the difference,” the same thing applies to you: “It is how you interact with the parents in your group that makes the difference.” \n\nIf you take the time to deliver a session before it begins, you will be more confident. If there is anything that you cannot remember or feel unsure of, contact another facilitator to practise with. \n\nAccess the Facilitator Guide for your group by clicking on the icon above."
         },
+        "section_title_5": {
+          "eng": "CC+ Content Guide"
+        },
+        "section_text_5": {
+          "eng": "You can view the full CC+ content received through the chatbot online. (Access the content package.)[https://drive.google.com/file/d/1lmDoPddUsF5LuUNUTFhNSRiNDOfmlilg/view?usp=sharing]"
+        },
         "resource_title_1": {
           "eng": "Overview Guide"
         },
@@ -1221,7 +1232,8 @@
         "study_dif_bc",
         "study_dif_chih",
         "study_dif_cdmx",
-        "study_dif_mich"
+        "study_dif_mich",
+        "cc_guer"
       ],
       "section_title_2": "What to remember?",
       "section_text_2": "It is important to follow this manual as closely as possible. However, manuals are only a guide to support you after what you have learned in the training workshop. \nWhat you deliver – the content of the manual – is only 20% of the programme. The rest 80%? It’s all about HOW you facilitate the programme and behave towards the parents.",
@@ -1232,6 +1244,8 @@
       "section_text_4": "Just as we say to the parents, “It is what you do at home that makes the difference,” the same thing applies to you: “It is how you interact with the parents in your group that makes the difference.” \n\nIf you take the time to deliver a session before it begins, you will be more confident. If there is anything that you cannot remember or feel unsure of, contact another facilitator to practise with. \n\nAccess the Facilitator Guide for your group by clicking on the icon above.",
       "resource_data_2": "pdf",
       "resource_id_2": "more_info",
+      "section_title_5": "CC+ Content Guide",
+      "section_text_5": "You can view the full CC+ content received through the chatbot online. (Access the content package.)[https://drive.google.com/file/d/1lmDoPddUsF5LuUNUTFhNSRiNDOfmlilg/view?usp=sharing]",
       "resource_title_2": "Know more about the programme"
     },
     {
@@ -1302,7 +1316,8 @@
         "study_dif_bc",
         "study_dif_chih",
         "study_dif_cdmx",
-        "study_dif_mich"
+        "study_dif_mich",
+        "cc_guer"
       ],
       "section_title_2": "To get parents’ research ID",
       "section_text_2": "Type ID in the chatbot",
@@ -1391,7 +1406,8 @@
         "study_dif_bc",
         "study_dif_chih",
         "study_dif_cdmx",
-        "study_dif_mich"
+        "study_dif_mich",
+        "cc_guer"
       ],
       "section_title_2": "Conduct Chat Session",
       "section_text_2": "**Before conducting the chat sessions, make sure you:** \n\nCreate a WhatsApp Group during the onboarding session. \nIdentify the ground rules for the WhatsApp Group\n\n**Structure for the chat sessions**: \n\nDay  1 (immediately after the onboarding session): Welcome, introductions, and reminder of home practice. \n\nWeek 1: Thoughts, feelings, and actions\n\nWeek 2: Kind self-talk\n\nWeek 3: Character strengths\n\nWeek 4: Building pleasant emotions\n\n**When to send the messages** \n\nYou and your group will decide a time to chat during the onboarding session. \n\nBefore each chat session, send the reminder message few hours before the chat session. You can set alarms on your phone to remind you when to send messages.\n\nSend the remaining messages during the scheduled chat time.",
@@ -1581,7 +1597,8 @@
         "study_dif_bc",
         "study_dif_chih",
         "study_dif_cdmx",
-        "study_dif_mich"
+        "study_dif_mich",
+        "cc_guer"
       ],
       "section_title_2": "When will the coaching session happen?",
       "section_text_2": "Here is the schedule for your coaching session: \n\nSession 1: After you conduct the in-person onboarding session\n\nSession 2: After first WhatsApp chat session on thoughts, feelings, and actions\n\nSession 3: After second WhatsApp chat session on kind self-talk\n\nSession 4: After third WhatsApp chat session on character strengths",
@@ -1669,7 +1686,8 @@
         "study_dif_bc",
         "study_dif_chih",
         "study_dif_cdmx",
-        "study_dif_mich"
+        "study_dif_mich",
+        "cc_guer"
       ]
     },
     {
@@ -1722,7 +1740,8 @@
         "study_dif_bc",
         "study_dif_chih",
         "study_dif_cdmx",
-        "study_dif_mich"
+        "study_dif_mich",
+        "cc_guer"
       ]
     },
     {
@@ -1768,7 +1787,8 @@
         "study_dif_bc",
         "study_dif_chih",
         "study_dif_cdmx",
-        "study_dif_mich"
+        "study_dif_mich",
+        "cc_guer"
       ]
     },
     {
@@ -2170,7 +2190,8 @@
         "study_dif_bc",
         "study_dif_chih",
         "study_dif_cdmx",
-        "study_dif_mich"
+        "study_dif_mich",
+        "cc_guer"
       ]
     },
     {
@@ -2264,7 +2285,8 @@
         "study_dif_bc",
         "study_dif_chih",
         "study_dif_cdmx",
-        "study_dif_mich"
+        "study_dif_mich",
+        "cc_guer"
       ],
       "message_title_4": "My teen is finding it challenging to adapt to a new routine or structure.",
       "message_text_4": "⏰ Adjusting to a new routine can be tough for both teens and us adults, too! Remember, it takes time.\n\n🔑 Introduce the new routine gradually, starting with small changes and building on what’s familiar. Give them cues to signal upcoming transitions. \n\n🌷 If you are concerned about your teen’s ability to adapt, type @global.trigger_grow to take the developmental assessment and explore if there is a need for additional support.",
@@ -2358,7 +2380,8 @@
         "study_dif_bc",
         "study_dif_chih",
         "study_dif_cdmx",
-        "study_dif_mich"
+        "study_dif_mich",
+        "cc_guer"
       ],
       "message_title_4": "I got very angry with my teen and shouted at them.",
       "message_text_4": "⏸ First, take a pause.\n\n💚 Be kind to yourself. You are both learning and it’s okay not to get it right all the time.\n\nIf you are feeling overwhelmed or angry, take a deep breath. If needed, walk away from the situation before you react. \n\nRemember, your teen’s behaviour isn’t meant to hurt you. As teens, it's normal for them to explore their limits.\n\n🌱 When you feel calmer, you could say sorry for shouting. Even if you meant some of what you said and want them to hear that, you can say sorry for how you said it.\n\n🎈 Repeat the core message of what you were trying to say in a calmer way.\n\n💛Make them feel loved, even when you and your teen are facing difficult situation.",
@@ -2458,12 +2481,157 @@
         "study_dif_bc",
         "study_dif_chih",
         "study_dif_cdmx",
-        "study_dif_mich"
+        "study_dif_mich",
+        "cc_guer"
       ],
       "message_title_4": "My girl or boy told me that school or the house of someone I trust is an unsafe place. I was shocked and did not know what to do!",
       "message_text_4": "😔 It is shocking to learn that people who we trust may cause discomfort to our girls and boys. \n\n👂 Listen to girl or boy if they want to talk about why it seems dangerous or uncomfortable. Ask if it’s the place, a particular person, or both that makes them uncomfortable. \n\nStay calm and open during the conversation. Trust what they say - they will not say such things for no reason!\n\n🔔Talk with someone and get support. Type @global.trigger_help if you need more assistance.\n\n💙 Remember to take a pause when you are stressed.",
       "message_title_5": "I am shy to talk to my young girl or boy about bodies and safe touch.",
       "message_text_5": "💙 It is slightly uncomfortable to talk to our children about male and female body parts. However, it helps to keep our girls and boys safe.\n\n💡Start a conversation with girl or boy about their body, its functions, and the importance of naming each part. Stories and puppets can be a helpful tool in facilitating this dialogue.\n\n💚 Talk with confidence about the body, especially private parts. Initially, it may feel awkward, but the more you do it, the more natural and comfortable it will become for both. girl or boy will learn how to talk about their body and can communicate with you if anything happens.\n\n🔑 Answer any questions from girl or boy honestly. You can do this to keep our girls and boys safe!🌷"
+    },
+    {
+      "id": "General crisis support tips",
+      "home_screen_section_list": [
+        "pcc"
+      ],
+      "status": "released",
+      "_translatedFields": {
+        "introduction": {
+          "eng": "Parents play a critical role supporting children in a crisis. These tips can help in most situations."
+        },
+        "message_asset_1": {
+          "eng": "images/pcc_1.png"
+        },
+        "message_asset_2": {
+          "eng": "images/pcc_2.png"
+        },
+        "message_asset_3": {
+          "eng": "images/pcc_3.png"
+        },
+        "message_asset_4": {
+          "eng": "images/pcc_4.png"
+        },
+        "message_asset_5": {
+          "eng": "images/pcc_5.png"
+        }
+      },
+      "introduction": "Parents play a critical role supporting children in a crisis. These tips can help in most situations.",
+      "_translations": {
+        "introduction": {},
+        "message_asset_1": {},
+        "message_asset_2": {},
+        "message_asset_3": {},
+        "message_asset_4": {},
+        "message_asset_5": {}
+      },
+      "message_asset_1": "images/pcc_1.png",
+      "message_asset_2": "images/pcc_2.png",
+      "message_asset_3": "images/pcc_3.png",
+      "message_asset_4": "images/pcc_4.png",
+      "message_asset_5": "images/pcc_5.png"
+    },
+    {
+      "id": "Supporting families on the move",
+      "home_screen_section_list": [
+        "pcc"
+      ],
+      "status": "released",
+      "_translatedFields": {
+        "introduction": {
+          "eng": "These tips are designed to share with caregivers in a crisis that requires them to move locations to reach safety."
+        },
+        "message_asset_1": {
+          "eng": "images/pcc_6.png"
+        },
+        "message_asset_2": {
+          "eng": "images/pcc_7.png"
+        },
+        "message_asset_3": {
+          "eng": "images/pcc_8.png"
+        }
+      },
+      "introduction": "These tips are designed to share with caregivers in a crisis that requires them to move locations to reach safety.",
+      "_translations": {
+        "introduction": {},
+        "message_asset_1": {},
+        "message_asset_2": {},
+        "message_asset_3": {}
+      },
+      "message_asset_1": "images/pcc_6.png",
+      "message_asset_2": "images/pcc_7.png",
+      "message_asset_3": "images/pcc_8.png"
+    },
+    {
+      "id": "Supporting children through loss",
+      "home_screen_section_list": [
+        "pcc"
+      ],
+      "status": "released",
+      "_translatedFields": {
+        "introduction": {
+          "eng": "These tips are designed to support caregivers who are helping their children cope with the loss of a loved one."
+        },
+        "message_asset_1": {
+          "eng": "images/pcc_9.png"
+        },
+        "message_asset_2": {
+          "eng": "images/pcc_10.png"
+        },
+        "message_asset_3": {
+          "eng": "images/pcc_11.png"
+        },
+        "message_asset_4": {
+          "eng": "images/pcc_12.png"
+        },
+        "message_asset_5": {
+          "eng": "images/pcc_13.png"
+        }
+      },
+      "introduction": "These tips are designed to support caregivers who are helping their children cope with the loss of a loved one.",
+      "_translations": {
+        "introduction": {},
+        "message_asset_1": {},
+        "message_asset_2": {},
+        "message_asset_3": {},
+        "message_asset_4": {},
+        "message_asset_5": {}
+      },
+      "message_asset_1": "images/pcc_9.png",
+      "message_asset_2": "images/pcc_10.png",
+      "message_asset_3": "images/pcc_11.png",
+      "message_asset_4": "images/pcc_12.png",
+      "message_asset_5": "images/pcc_13.png"
+    },
+    {
+      "id": "Creating stability for children in crisis",
+      "home_screen_section_list": [
+        "pcc"
+      ],
+      "status": "released",
+      "_translatedFields": {
+        "introduction": {
+          "eng": "These tips are designed to support caregivers who are helping children settle into a new home after displacement."
+        },
+        "message_asset_1": {
+          "eng": "images/pcc_14.png"
+        },
+        "message_asset_2": {
+          "eng": "images/pcc_15.png"
+        },
+        "message_asset_3": {
+          "eng": "images/pcc_16.png"
+        }
+      },
+      "introduction": "These tips are designed to support caregivers who are helping children settle into a new home after displacement.",
+      "_translations": {
+        "introduction": {},
+        "message_asset_1": {},
+        "message_asset_2": {},
+        "message_asset_3": {}
+      },
+      "message_asset_1": "images/pcc_14.png",
+      "message_asset_2": "images/pcc_15.png",
+      "message_asset_3": "images/pcc_16.png"
     }
   ]
 }

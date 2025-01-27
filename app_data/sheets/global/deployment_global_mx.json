@@ -155,6 +155,22 @@
       "_translations": {
         "value": {}
       }
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "use_module_image",
+      "value": true,
+      "exclude_from_translation": true
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "minutes",
+      "value": "minutes",
+      "_translations": {
+        "value": {
+          "mx_es": true
+        }
+      }
     }
   ],
   "_xlsxPath": "data/deployment_data_mx.xlsx"

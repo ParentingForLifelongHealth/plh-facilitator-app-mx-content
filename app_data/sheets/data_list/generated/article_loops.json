@@ -99,6 +99,18 @@
       "previous_article": "",
       "test": "week_4_chat",
       "create_loop": "create"
+    },
+    {
+      "ignore": 43,
+      "id": "pcc",
+      "completed": false,
+      "loop_id": "pcc",
+      "foreign_key": "pcc",
+      "type": "article",
+      "next_article": "pcc_2",
+      "previous_article": "",
+      "test": "pcc",
+      "create_loop": "create"
     }
   ],
   "_metadata": {

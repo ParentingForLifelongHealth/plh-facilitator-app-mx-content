@@ -431,6 +431,70 @@
     "md5Checksum": "1cd1bacd9b44006fdcd822cc5b9795c7",
     "size_kb": 7.8
   },
+  "images/pcc_1.png": {
+    "md5Checksum": "bcbd6c6a7c7aa7cb3e59072a26f50424",
+    "size_kb": 171.2
+  },
+  "images/pcc_10.png": {
+    "md5Checksum": "928ec032ede28ff5eb8a25bbfe9decb9",
+    "size_kb": 162.5
+  },
+  "images/pcc_11.png": {
+    "md5Checksum": "c904c2d2f535397523ae3a22b3774794",
+    "size_kb": 187.1
+  },
+  "images/pcc_12.png": {
+    "md5Checksum": "7b6705564dc705a89011a641fae5f1be",
+    "size_kb": 155.9
+  },
+  "images/pcc_13.png": {
+    "md5Checksum": "6c1ea128ee4f34f33744eec64644d67f",
+    "size_kb": 177.2
+  },
+  "images/pcc_14.png": {
+    "md5Checksum": "c23100284eed3e3987cead64e6b1edb5",
+    "size_kb": 176.3
+  },
+  "images/pcc_15.png": {
+    "md5Checksum": "232083237f6efcda3d9cec4f7aa68efd",
+    "size_kb": 169
+  },
+  "images/pcc_16.png": {
+    "md5Checksum": "b55227cf205c8bd64ead80b89a80d55e",
+    "size_kb": 161.6
+  },
+  "images/pcc_2.png": {
+    "md5Checksum": "f14170dcb1139a02a48f02f702ab833a",
+    "size_kb": 170.9
+  },
+  "images/pcc_3.png": {
+    "md5Checksum": "49ac0d6670d7f56ad52fd58f5e9c1b8d",
+    "size_kb": 171.1
+  },
+  "images/pcc_4.png": {
+    "md5Checksum": "a883529c852eb46ccab17b362112e7d0",
+    "size_kb": 162.4
+  },
+  "images/pcc_5.png": {
+    "md5Checksum": "2f1c8ae87adee78f382a769fde1eecb6",
+    "size_kb": 176.5
+  },
+  "images/pcc_6.png": {
+    "md5Checksum": "e7a2501665da763d2378fee5893565d9",
+    "size_kb": 168
+  },
+  "images/pcc_7.png": {
+    "md5Checksum": "7ef80c64b1a73b4c20c9293f126b0f64",
+    "size_kb": 171.9
+  },
+  "images/pcc_8.png": {
+    "md5Checksum": "114b0b8425db49f964006c95020583b3",
+    "size_kb": 179.8
+  },
+  "images/pcc_9.png": {
+    "md5Checksum": "ec7493160e27d71b9d6801562cb552b5",
+    "size_kb": 158.4
+  },
   "images/person_cog.png": {
     "md5Checksum": "61b9b963c98b98e1ad6d14693b982f69",
     "size_kb": 0.8
