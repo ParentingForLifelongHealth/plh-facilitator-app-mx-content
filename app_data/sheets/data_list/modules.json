@@ -79,7 +79,8 @@
         "study_dif_bc",
         "study_dif_chih",
         "study_dif_cdmx",
-        "study_dif_mich"
+        "study_dif_mich",
+        "cc_guer"
       ],
       "image_asset": "images/day_3_check_in.svg",
       "related_article_id_1": "faq_text_support",
@@ -103,7 +104,9 @@
         "study_dif_bc",
         "study_dif_chih",
         "study_dif_cdmx",
-        "study_dif_mich"
+        "study_dif_mich",
+        "scale_dif_guer",
+        "cc_guer"
       ],
       "image_asset": "images/day_3_mh_stress_self_talk.svg",
       "report_id": "week_1",
@@ -132,7 +135,8 @@
         "study_dif_bc",
         "study_dif_chih",
         "study_dif_cdmx",
-        "study_dif_mich"
+        "study_dif_mich",
+        "cc_guer"
       ],
       "image_asset": "images/day_4_check_in.svg",
       "report_id": "week_2",
@@ -162,7 +166,8 @@
         "study_dif_bc",
         "study_dif_chih",
         "study_dif_cdmx",
-        "study_dif_mich"
+        "study_dif_mich",
+        "cc_guer"
       ],
       "image_asset": "images/day_5_goodbye.svg",
       "report_id": "week_3",
@@ -192,7 +197,8 @@
         "study_dif_bc",
         "study_dif_chih",
         "study_dif_cdmx",
-        "study_dif_mich"
+        "study_dif_mich",
+        "cc_guer"
       ],
       "image_asset": "images/onboarding_cc.svg",
       "report_id": "week_4",
@@ -215,6 +221,20 @@
         }
       },
       "description": "week_4"
+    },
+    {
+      "id": "pcc",
+      "image_asset": "images/day_3_mh_stress_self_talk.svg",
+      "report_id": "pcc",
+      "title": "Optional Parenting Children in a Crisis",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Optional Parenting Children in a Crisis"
+        }
+      }
     }
   ],
   "_xlsxPath": "data/modules_sub_items_mx.xlsx"

@@ -102,7 +102,7 @@
       "parameter_list": {
         "filter": "@item.archived == false"
       },
-      "condition": "@fields.current_has_report !== \"empty\"",
+      "condition": "@fields.current_report_id !== \"empty\"",
       "rows": [
         {
           "name": "found",
@@ -470,10 +470,10 @@
         },
         "condition": [
           {
-            "fullExpression": "@fields.current_has_report !== \"empty\"",
-            "matchedExpression": "@fields.current_has_report",
+            "fullExpression": "@fields.current_report_id !== \"empty\"",
+            "matchedExpression": "@fields.current_report_id",
             "type": "fields",
-            "fieldName": "current_has_report"
+            "fieldName": "current_report_id"
           }
         ]
       },
@@ -481,7 +481,7 @@
         "@item.archived": [
           "parameter_list.filter"
         ],
-        "@fields.current_has_report": [
+        "@fields.current_report_id": [
           "condition"
         ]
       }

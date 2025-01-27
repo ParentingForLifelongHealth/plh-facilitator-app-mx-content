@@ -20,57 +20,61 @@
     },
     {
       "id": "study_dif_bc",
-      "title": "Investigación - Baja California",
+      "title": "CC+ Baja California",
       "_translations": {
-        "title": {
-          "mx_es": true
-        }
+        "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "Investigación - Baja California"
+          "eng": "CC+ Baja California"
         }
       }
     },
     {
       "id": "study_dif_chih",
-      "title": "Investigación - Chihuahua",
+      "title": "CA Chihuahua",
       "_translations": {
-        "title": {
-          "mx_es": true
-        }
+        "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "Investigación - Chihuahua"
+          "eng": "CA Chihuahua"
         }
       }
     },
     {
       "id": "study_dif_cdmx",
-      "title": "Investigación - Ciudad de México",
+      "title": "CC+ Ciudad de México",
       "_translations": {
-        "title": {
-          "mx_es": true
-        }
+        "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "Investigación - Ciudad de México"
+          "eng": "CC+ Ciudad de México"
         }
       }
     },
     {
       "id": "study_dif_mich",
-      "title": "Investigación - Michoacan",
+      "title": "CC+ Michoacan",
       "_translations": {
-        "title": {
-          "mx_es": true
-        }
+        "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "Investigación - Michoacan"
+          "eng": "CC+ Michoacan"
+        }
+      }
+    },
+    {
+      "id": "cc_guer",
+      "title": "CC+ Guerrero",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "CC+ Guerrero"
         }
       }
     }

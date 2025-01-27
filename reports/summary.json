@@ -15,7 +15,7 @@
       },
       {
         "type": "button",
-        "count": 71
+        "count": 73
       },
       {
         "type": "carousel",
@@ -27,7 +27,7 @@
       },
       {
         "type": "data_items",
-        "count": 21
+        "count": 24
       },
       {
         "type": "debug_toggle",
@@ -39,7 +39,7 @@
       },
       {
         "type": "display_group",
-        "count": 89
+        "count": 97
       },
       {
         "type": "drawer",
@@ -47,11 +47,11 @@
       },
       {
         "type": "image",
-        "count": 8
+        "count": 9
       },
       {
         "type": "items",
-        "count": 27
+        "count": 31
       },
       {
         "type": "lottie_animation",
@@ -71,7 +71,7 @@
       },
       {
         "type": "radio_button_grid",
-        "count": 4
+        "count": 8
       },
       {
         "type": "round_button",
@@ -87,7 +87,7 @@
       },
       {
         "type": "set_variable",
-        "count": 663
+        "count": 747
       },
       {
         "type": "simple_checkbox",
@@ -103,11 +103,11 @@
       },
       {
         "type": "template",
-        "count": 193
+        "count": 221
       },
       {
         "type": "text",
-        "count": 147
+        "count": 161
       },
       {
         "type": "text_area",
@@ -115,15 +115,15 @@
       },
       {
         "type": "text_box",
-        "count": 22
+        "count": 24
       },
       {
         "type": "title",
-        "count": 38
+        "count": 36
       },
       {
         "type": "toggle_bar",
-        "count": 3
+        "count": 7
       },
       {
         "type": "update_action_list",
@@ -139,7 +139,7 @@
     "data": [
       {
         "type": "add_data",
-        "count": 4
+        "count": 5
       },
       {
         "type": "app_update",
@@ -147,7 +147,7 @@
       },
       {
         "type": "emit: completed",
-        "count": 19
+        "count": 25
       },
       {
         "type": "emit: force_reload",
@@ -171,7 +171,7 @@
       },
       {
         "type": "emit: uncompleted",
-        "count": 66
+        "count": 70
       },
       {
         "type": "feedback",
@@ -199,19 +199,19 @@
       },
       {
         "type": "set_data",
-        "count": 17
+        "count": 18
       },
       {
         "type": "set_field",
-        "count": 51
+        "count": 53
       },
       {
         "type": "set_item",
-        "count": 8
+        "count": 10
       },
       {
         "type": "set_local",
-        "count": 19
+        "count": 23
       },
       {
         "type": "share",
@@ -227,8 +227,8 @@
     "data": [
       {
         "assets": "total",
-        "KB": "5318 KB",
-        "MB": "5.3 MB"
+        "KB": "8038 KB",
+        "MB": "8 MB"
       },
       {
         "assets": "unused",
@@ -473,7 +473,7 @@
       },
       {
         "path": "images/day_3_mh_stress_self_talk.svg",
-        "count": 4,
+        "count": 6,
         "size_kb": 5.4
       },
       {
@@ -777,6 +777,86 @@
         "size_kb": 7.8
       },
       {
+        "path": "images/pcc_1.png",
+        "count": 3,
+        "size_kb": 171.2
+      },
+      {
+        "path": "images/pcc_10.png",
+        "count": 3,
+        "size_kb": 162.5
+      },
+      {
+        "path": "images/pcc_11.png",
+        "count": 3,
+        "size_kb": 187.1
+      },
+      {
+        "path": "images/pcc_12.png",
+        "count": 3,
+        "size_kb": 155.9
+      },
+      {
+        "path": "images/pcc_13.png",
+        "count": 3,
+        "size_kb": 177.2
+      },
+      {
+        "path": "images/pcc_14.png",
+        "count": 3,
+        "size_kb": 176.3
+      },
+      {
+        "path": "images/pcc_15.png",
+        "count": 3,
+        "size_kb": 169
+      },
+      {
+        "path": "images/pcc_16.png",
+        "count": 3,
+        "size_kb": 161.6
+      },
+      {
+        "path": "images/pcc_2.png",
+        "count": 3,
+        "size_kb": 170.9
+      },
+      {
+        "path": "images/pcc_3.png",
+        "count": 3,
+        "size_kb": 171.1
+      },
+      {
+        "path": "images/pcc_4.png",
+        "count": 3,
+        "size_kb": 162.4
+      },
+      {
+        "path": "images/pcc_5.png",
+        "count": 3,
+        "size_kb": 176.5
+      },
+      {
+        "path": "images/pcc_6.png",
+        "count": 3,
+        "size_kb": 168
+      },
+      {
+        "path": "images/pcc_7.png",
+        "count": 3,
+        "size_kb": 171.9
+      },
+      {
+        "path": "images/pcc_8.png",
+        "count": 3,
+        "size_kb": 179.8
+      },
+      {
+        "path": "images/pcc_9.png",
+        "count": 3,
+        "size_kb": 158.4
+      },
+      {
         "path": "images/praise_challenges.svg",
         "count": 1,
         "size_kb": 20.6
@@ -863,7 +943,7 @@
       {
         "type": "data_pipe",
         "subtype": "generated",
-        "total": 42
+        "total": 58
       },
       {
         "type": "generator",
@@ -883,12 +963,12 @@
       {
         "type": "template",
         "subtype": null,
-        "total": 70
+        "total": 74
       },
       {
         "type": "template",
         "subtype": "generated",
-        "total": 151
+        "total": 175
       },
       {
         "type": "template",

@@ -6,34 +6,34 @@
 | accordion | 2 |
 | accordion_section | 2 |
 | audio | 2 |
-| button | 71 |
+| button | 73 |
 | carousel | 1 |
 | combo_box | 3 |
-| data_items | 21 |
+| data_items | 24 |
 | debug_toggle | 1 |
 | display_grid | 4 |
-| display_group | 89 |
+| display_group | 97 |
 | drawer | 2 |
-| image | 8 |
-| items | 27 |
+| image | 9 |
+| items | 31 |
 | lottie_animation | 1 |
 | navigation_bar | 2 |
 | pdf | 1 |
 | qr_code | 1 |
-| radio_button_grid | 4 |
+| radio_button_grid | 8 |
 | round_button | 29 |
 | select_text | 1 |
 | set_field | 1 |
-| set_variable | 663 |
+| set_variable | 747 |
 | simple_checkbox | 2 |
 | task_card | 2 |
 | task_progress_bar | 2 |
-| template | 193 |
-| text | 147 |
+| template | 221 |
+| text | 161 |
 | text_area | 2 |
-| text_box | 22 |
-| title | 38 |
-| toggle_bar | 3 |
+| text_box | 24 |
+| title | 36 |
+| toggle_bar | 7 |
 | update_action_list | 2 |
 | video | 2 |
 </details>
@@ -43,25 +43,25 @@
 
 | type | count |
 | --- | --- |
-| add_data | 4 |
+| add_data | 5 |
 | app_update | 1 |
-| emit: completed | 19 |
+| emit: completed | 25 |
 | emit: force_reload | 4 |
 | emit: force_reprocess | 9 |
 | emit: force_restart | 3 |
 | emit: server_sync | 4 |
 | emit: set_language | 1 |
-| emit: uncompleted | 66 |
+| emit: uncompleted | 70 |
 | feedback | 13 |
 | go_to | 36 |
 | nav_stack | 4 |
 | pop_up | 10 |
 | reset_app | 1 |
 | save_to_device | 4 |
-| set_data | 17 |
-| set_field | 51 |
-| set_item | 8 |
-| set_local | 19 |
+| set_data | 18 |
+| set_field | 53 |
+| set_item | 10 |
+| set_local | 23 |
 | share | 2 |
 | user | 1 |
 </details>
@@ -71,7 +71,7 @@
 
 | assets | KB | MB |
 | --- | --- | --- |
-| total | 5318 KB | 5.3 MB |
+| total | 8038 KB | 8 MB |
 | unused | 1064 KB | 1.1 MB |
 </details>
 
@@ -153,7 +153,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/crisis_hotlines.svg | 12.6 | 1 |
 | images/day_1_introduction.svg | 6.7 | 1 |
 | images/day_3_check_in.svg | 6.5 | 1 |
-| images/day_3_mh_stress_self_talk.svg | 5.4 | 4 |
+| images/day_3_mh_stress_self_talk.svg | 5.4 | 6 |
 | images/day_4_check_in.svg | 11.3 | 2 |
 | images/day_5_goodbye.svg | 19.4 | 1 |
 | images/during_disclosed_abuse.svg | 7.7 | 2 |
@@ -214,6 +214,22 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/onboarding_cc.svg | 19.3 | 4 |
 | images/one_on_one_challenges.svg | 13.1 | 1 |
 | images/overview_cc.svg | 7.8 | 1 |
+| images/pcc_1.png | 171.2 | 3 |
+| images/pcc_10.png | 162.5 | 3 |
+| images/pcc_11.png | 187.1 | 3 |
+| images/pcc_12.png | 155.9 | 3 |
+| images/pcc_13.png | 177.2 | 3 |
+| images/pcc_14.png | 176.3 | 3 |
+| images/pcc_15.png | 169 | 3 |
+| images/pcc_16.png | 161.6 | 3 |
+| images/pcc_2.png | 170.9 | 3 |
+| images/pcc_3.png | 171.1 | 3 |
+| images/pcc_4.png | 162.4 | 3 |
+| images/pcc_5.png | 176.5 | 3 |
+| images/pcc_6.png | 168 | 3 |
+| images/pcc_7.png | 171.9 | 3 |
+| images/pcc_8.png | 179.8 | 3 |
+| images/pcc_9.png | 158.4 | 3 |
 | images/praise_challenges.svg | 20.6 | 1 |
 | images/routine_challenges.svg | 20.5 | 1 |
 | images/talk_feelings_challenges.svg | 19.3 | 2 |
@@ -237,12 +253,12 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | data_list | legal_terms | 2 |
 | data_list | lifecycle_actions | 1 |
 | data_pipe |  | 2 |
-| data_pipe | generated | 42 |
+| data_pipe | generated | 58 |
 | generator |  | 11 |
 | global |  | 11 |
 | global | legal_terms | 1 |
-| template |  | 70 |
-| template | generated | 151 |
+| template |  | 74 |
+| template | generated | 175 |
 | template | legal_terms | 4 |
 | template | menu | 1 |
 </details>

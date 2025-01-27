@@ -237,7 +237,22 @@
       "flow_type": "template"
     },
     {
-      "flow_name": "library_article_week_4_chat",
+      "flow_name": "library_article_General crisis support tips",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "library_article_Supporting families on the move",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "library_article_Supporting children through loss",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "library_article_Creating stability for children in crisis",
       "flow_subtype": "generated",
       "flow_type": "template"
     }
