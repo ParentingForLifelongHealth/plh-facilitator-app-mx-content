@@ -57,7 +57,9 @@
                   "type": "combo_box",
                   "name": "report_group",
                   "parameter_list": {
-                    "placeholder": "Select Parent Group"
+                    "placeholder": "@global.select_group",
+                    "disabled_text": "@global.no_groups",
+                    "variant": "dropdown"
                   },
                   "style_list": [
                     "flex: 4"
@@ -91,7 +93,35 @@
                       }
                     }
                   ],
-                  "_nested_name": "dg_top.dg_top_column.dg_top_row.report_group"
+                  "_nested_name": "dg_top.dg_top_column.dg_top_row.report_group",
+                  "_dynamicFields": {
+                    "parameter_list": {
+                      "placeholder": [
+                        {
+                          "fullExpression": "@global.select_group",
+                          "matchedExpression": "@global.select_group",
+                          "type": "global",
+                          "fieldName": "select_group"
+                        }
+                      ],
+                      "disabled_text": [
+                        {
+                          "fullExpression": "@global.no_groups",
+                          "matchedExpression": "@global.no_groups",
+                          "type": "global",
+                          "fieldName": "no_groups"
+                        }
+                      ]
+                    }
+                  },
+                  "_dynamicDependencies": {
+                    "@global.select_group": [
+                      "parameter_list.placeholder"
+                    ],
+                    "@global.no_groups": [
+                      "parameter_list.disabled_text"
+                    ]
+                  }
                 },
                 {
                   "type": "round_button",
@@ -109,12 +139,29 @@
                   ],
                   "parameter_list": {
                     "variant": "no-background",
-                    "icon_src": "images/icons/person_cog.svg"
+                    "icon_src": "@global.add_group_icon"
                   },
                   "style_list": [
                     "flex: 1"
                   ],
-                  "_nested_name": "dg_top.dg_top_column.dg_top_row.groups_go_to"
+                  "_nested_name": "dg_top.dg_top_column.dg_top_row.groups_go_to",
+                  "_dynamicFields": {
+                    "parameter_list": {
+                      "icon_src": [
+                        {
+                          "fullExpression": "@global.add_group_icon",
+                          "matchedExpression": "@global.add_group_icon",
+                          "type": "global",
+                          "fieldName": "add_group_icon"
+                        }
+                      ]
+                    }
+                  },
+                  "_dynamicDependencies": {
+                    "@global.add_group_icon": [
+                      "parameter_list.icon_src"
+                    ]
+                  }
                 }
               ],
               "_nested_name": "dg_top.dg_top_column.dg_top_row"

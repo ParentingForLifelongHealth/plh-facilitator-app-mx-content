@@ -438,12 +438,29 @@
                   ],
                   "parameter_list": {
                     "variant": "no-background",
-                    "icon_src": "images/icons/person_cog.svg"
+                    "icon_src": "@global.add_group_icon"
                   },
                   "style_list": [
                     "flex: 1"
                   ],
-                  "_nested_name": "dg_top.dg_top_column.dg_top_row.groups_go_to"
+                  "_nested_name": "dg_top.dg_top_column.dg_top_row.groups_go_to",
+                  "_dynamicFields": {
+                    "parameter_list": {
+                      "icon_src": [
+                        {
+                          "fullExpression": "@global.add_group_icon",
+                          "matchedExpression": "@global.add_group_icon",
+                          "type": "global",
+                          "fieldName": "add_group_icon"
+                        }
+                      ]
+                    }
+                  },
+                  "_dynamicDependencies": {
+                    "@global.add_group_icon": [
+                      "parameter_list.icon_src"
+                    ]
+                  }
                 }
               ],
               "_nested_name": "dg_top.dg_top_column.dg_top_row"

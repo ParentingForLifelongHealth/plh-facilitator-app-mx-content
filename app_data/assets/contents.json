@@ -16,8 +16,8 @@
     "size_kb": 290.4
   },
   "contents.json": {
-    "md5Checksum": "76bbc25182af1bedbf8505a283877e25",
-    "size_kb": 2.7
+    "md5Checksum": "f43e00d6cf28795684ec50b5a016e896",
+    "size_kb": 2.8
   },
   "images/Message.png": {
     "md5Checksum": "f2c7b9e7f8a158c6a9f4bf7b680a7e11",
@@ -298,6 +298,10 @@
   "images/icons/reader_blue.svg": {
     "md5Checksum": "841a27e6e013d797d2bcf20391632cee",
     "size_kb": 1.4
+  },
+  "images/icons/red_plus.svg": {
+    "md5Checksum": "d212c773a5395b510dd60ee80b62caa6",
+    "size_kb": 0.6
   },
   "images/icons/report.png": {
     "md5Checksum": "b6af464babccaa28c69db41675c70be5",

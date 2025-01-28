@@ -39,7 +39,7 @@
       },
       {
         "type": "display_group",
-        "count": 97
+        "count": 99
       },
       {
         "type": "drawer",
@@ -227,12 +227,12 @@
     "data": [
       {
         "assets": "total",
-        "KB": "8038 KB",
+        "KB": "8036 KB",
         "MB": "8 MB"
       },
       {
         "assets": "unused",
-        "KB": "1064 KB",
+        "KB": "1067 KB",
         "MB": "1.1 MB"
       }
     ]
@@ -257,7 +257,7 @@
       },
       {
         "path": "contents.json",
-        "size_kb": 2.7
+        "size_kb": 2.8
       },
       {
         "path": "images/Message.png",
@@ -314,6 +314,10 @@
       {
         "path": "images/icons/person_cog.png",
         "size_kb": 0.8
+      },
+      {
+        "path": "images/icons/person_cog.svg",
+        "size_kb": 2.9
       },
       {
         "path": "images/icons/reader_blue.svg",
@@ -682,11 +686,6 @@
         "size_kb": 6.9
       },
       {
-        "path": "images/icons/person_cog.svg",
-        "count": 2,
-        "size_kb": 2.9
-      },
-      {
         "path": "images/icons/person_remove.svg",
         "count": 1,
         "size_kb": 1.5
@@ -700,6 +699,11 @@
         "path": "images/icons/profile_card.svg",
         "count": 1,
         "size_kb": 7.4
+      },
+      {
+        "path": "images/icons/red_plus.svg",
+        "count": 1,
+        "size_kb": 0.6
       },
       {
         "path": "images/icons/report.png",
