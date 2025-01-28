@@ -13,14 +13,17 @@
       "type": "template",
       "name": "pdf",
       "value": "pdf",
+      "exclude_from_translation": true,
       "rows": [
         {
           "name": "data",
-          "value": "pdf"
+          "value": "pdf",
+          "exclude_from_translation": true
         },
         {
           "name": "pdf_id",
-          "value": "@gen.id"
+          "value": "@gen.id",
+          "exclude_from_translation": true
         }
       ]
     }

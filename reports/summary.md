@@ -24,7 +24,7 @@
 | round_button | 29 |
 | select_text | 1 |
 | set_field | 1 |
-| set_variable | 759 |
+| set_variable | 796 |
 | simple_checkbox | 2 |
 | task_card | 2 |
 | task_progress_bar | 2 |
@@ -71,8 +71,8 @@
 
 | assets | KB | MB |
 | --- | --- | --- |
-| total | 8036 KB | 8 MB |
-| unused | 1067 KB | 1.1 MB |
+| total | 8039 KB | 8 MB |
+| unused | 1068 KB | 1.1 MB |
 </details>
 
 <details open>
@@ -103,6 +103,9 @@ Assets that appear in app-data but do not have references within sheets
 | images/icons/person_cog.png | 0.8 |
 | images/icons/person_cog.svg | 2.9 |
 | images/icons/reader_blue.svg | 1.4 |
+| images/icons/report.png | 0.5 |
+| images/icons/sessions.png | 1.3 |
+| images/icons/settings.png | 1.1 |
 | images/icons/task_0.png | 2 |
 | images/icons/task_1.png | 1 |
 | images/icons/task_2.png | 1.9 |
@@ -117,7 +120,6 @@ Assets that appear in app-data but do not have references within sheets
 | images/logos/Oxford.png | 50 |
 | images/logos/UPM.png | 120.8 |
 | images/logos/bird_on_dark.svg | 2.1 |
-| images/logos/bird_white.svg | 1.9 |
 | images/logos/lego.png | 10.4 |
 | images/logos/masw.png | 7.1 |
 | images/logos/thsn.png | 35.5 |
@@ -193,16 +195,16 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/icons/help.svg | 2.6 | 1 |
 | images/icons/home_white.svg | 1.7 | 2 |
 | images/icons/key.svg | 5.5 | 1 |
-| images/icons/library.png | 1.5 | 3 |
+| images/icons/library.png | 1 | 2 |
+| images/icons/library.svg | 1.7 | 1 |
 | images/icons/pencil_white.svg | 1.4 | 2 |
 | images/icons/people_network.svg | 6.9 | 1 |
 | images/icons/person_remove.svg | 1.5 | 1 |
 | images/icons/person_white.svg | 1.5 | 2 |
 | images/icons/profile_card.svg | 7.4 | 1 |
 | images/icons/red_plus.svg | 0.6 | 1 |
-| images/icons/report.png | 1.1 | 1 |
-| images/icons/sessions.png | 1.3 | 1 |
-| images/icons/settings.png | 1.1 | 1 |
+| images/icons/report.svg | 0.8 | 1 |
+| images/icons/settings.svg | 2.4 | 1 |
 | images/icons/share.svg | 2.3 | 2 |
 | images/icons/visibility.svg | 1.9 | 1 |
 | images/icons/world.svg | 6.2 | 1 |
@@ -210,6 +212,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/logos/PLH.png | 26.6 | 1 |
 | images/logos/UNICEF.jpg | 27.7 | 1 |
 | images/logos/bird_on_light.svg | 2 | 2 |
+| images/logos/bird_white.svg | 1.9 | 1 |
 | images/logos/nip.png | 11.9 | 1 |
 | images/no_group_selected.svg | 13.5 | 1 |
 | images/onboarding_cc.svg | 19.3 | 4 |

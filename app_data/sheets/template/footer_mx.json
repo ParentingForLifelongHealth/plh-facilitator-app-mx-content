@@ -9,19 +9,19 @@
       "name": "button_list",
       "value": [
         {
-          "image": "images/icons/sessions.png",
+          "image": "images/logos/bird_white.svg",
           "target_template": "@data.app_section.home.template"
         },
         {
-          "image": "images/icons/report.png",
+          "image": "images/icons/report.svg",
           "target_template": "reports"
         },
         {
-          "image": "images/icons/library.png",
+          "image": "images/icons/library.svg",
           "target_template": "@data.app_section.library.template"
         },
         {
-          "image": "images/icons/settings.png",
+          "image": "images/icons/settings.svg",
           "target_template": "@data.app_section.profile.template"
         }
       ],

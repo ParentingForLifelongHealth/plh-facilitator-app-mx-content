@@ -7,6 +7,7 @@
       "type": "template",
       "name": "pdf",
       "value": "pdf",
+      "exclude_from_translation": true,
       "rows": [
         {
           "name": "data",
@@ -16,6 +17,7 @@
               "mx_es": true
             }
           },
+          "exclude_from_translation": true,
           "type": "set_variable",
           "_nested_name": "pdf.data"
         },
@@ -25,6 +27,7 @@
           "_translations": {
             "value": {}
           },
+          "exclude_from_translation": true,
           "type": "set_variable",
           "_nested_name": "pdf.pdf_id"
         }

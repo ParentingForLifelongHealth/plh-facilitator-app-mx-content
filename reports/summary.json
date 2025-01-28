@@ -87,7 +87,7 @@
       },
       {
         "type": "set_variable",
-        "count": 759
+        "count": 796
       },
       {
         "type": "simple_checkbox",
@@ -227,12 +227,12 @@
     "data": [
       {
         "assets": "total",
-        "KB": "8036 KB",
+        "KB": "8039 KB",
         "MB": "8 MB"
       },
       {
         "assets": "unused",
-        "KB": "1067 KB",
+        "KB": "1068 KB",
         "MB": "1.1 MB"
       }
     ]
@@ -324,6 +324,18 @@
         "size_kb": 1.4
       },
       {
+        "path": "images/icons/report.png",
+        "size_kb": 0.5
+      },
+      {
+        "path": "images/icons/sessions.png",
+        "size_kb": 1.3
+      },
+      {
+        "path": "images/icons/settings.png",
+        "size_kb": 1.1
+      },
+      {
         "path": "images/icons/task_0.png",
         "size_kb": 2
       },
@@ -378,10 +390,6 @@
       {
         "path": "images/logos/bird_on_dark.svg",
         "size_kb": 2.1
-      },
-      {
-        "path": "images/logos/bird_white.svg",
-        "size_kb": 1.9
       },
       {
         "path": "images/logos/lego.png",
@@ -672,8 +680,13 @@
       },
       {
         "path": "images/icons/library.png",
-        "count": 3,
-        "size_kb": 1.5
+        "count": 2,
+        "size_kb": 1
+      },
+      {
+        "path": "images/icons/library.svg",
+        "count": 1,
+        "size_kb": 1.7
       },
       {
         "path": "images/icons/pencil_white.svg",
@@ -706,19 +719,14 @@
         "size_kb": 0.6
       },
       {
-        "path": "images/icons/report.png",
+        "path": "images/icons/report.svg",
         "count": 1,
-        "size_kb": 1.1
+        "size_kb": 0.8
       },
       {
-        "path": "images/icons/sessions.png",
+        "path": "images/icons/settings.svg",
         "count": 1,
-        "size_kb": 1.3
-      },
-      {
-        "path": "images/icons/settings.png",
-        "count": 1,
-        "size_kb": 1.1
+        "size_kb": 2.4
       },
       {
         "path": "images/icons/share.svg",
@@ -754,6 +762,11 @@
         "path": "images/logos/bird_on_light.svg",
         "count": 2,
         "size_kb": 2
+      },
+      {
+        "path": "images/logos/bird_white.svg",
+        "count": 1,
+        "size_kb": 1.9
       },
       {
         "path": "images/logos/nip.png",
