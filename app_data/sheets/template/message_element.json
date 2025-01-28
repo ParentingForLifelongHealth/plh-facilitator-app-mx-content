@@ -5,22 +5,26 @@
   "rows": [
     {
       "name": "title",
+      "exclude_from_translation": true,
       "type": "set_variable",
       "_nested_name": "title"
     },
     {
       "name": "has_disclaimer",
       "value": false,
+      "exclude_from_translation": true,
       "type": "set_variable",
       "_nested_name": "has_disclaimer"
     },
     {
       "name": "message_text",
+      "exclude_from_translation": true,
       "type": "set_variable",
       "_nested_name": "message_text"
     },
     {
       "name": "message_guidance",
+      "exclude_from_translation": true,
       "type": "set_variable",
       "_nested_name": "message_guidance"
     },
@@ -30,6 +34,7 @@
       "_translations": {
         "value": {}
       },
+      "exclude_from_translation": true,
       "type": "set_variable",
       "_nested_name": "asset"
     },
@@ -43,6 +48,7 @@
       "parameter_list": {
         "style": "column"
       },
+      "exclude_from_translation": true,
       "rows": [
         {
           "type": "text",
@@ -54,6 +60,7 @@
           "parameter_list": {
             "style": "emphasised"
           },
+          "exclude_from_translation": true,
           "_nested_name": "dg_box.message_title",
           "_dynamicFields": {
             "value": [
@@ -77,6 +84,7 @@
             "style": "column",
             "variant": "box_white"
           },
+          "exclude_from_translation": true,
           "rows": [
             {
               "type": "image",
@@ -85,6 +93,8 @@
               "_translations": {
                 "value": {}
               },
+              "condition": "@local.asset !== \"\"",
+              "exclude_from_translation": true,
               "_nested_name": "dg_box.display_group_2.message_image",
               "_dynamicFields": {
                 "value": [
@@ -94,11 +104,20 @@
                     "type": "local",
                     "fieldName": "asset"
                   }
+                ],
+                "condition": [
+                  {
+                    "fullExpression": "@local.asset !== \"\"",
+                    "matchedExpression": "@local.asset",
+                    "type": "local",
+                    "fieldName": "asset"
+                  }
                 ]
               },
               "_dynamicDependencies": {
                 "@local.asset": [
-                  "value"
+                  "value",
+                  "condition"
                 ]
               }
             },
@@ -109,6 +128,7 @@
               "_translations": {
                 "value": {}
               },
+              "exclude_from_translation": true,
               "_nested_name": "dg_box.display_group_2.message_text",
               "_dynamicFields": {
                 "value": [
@@ -161,30 +181,6 @@
               },
               "_dynamicDependencies": {
                 "@local.message_guidance": [
-                  "value"
-                ]
-              }
-            },
-            {
-              "type": "text",
-              "value": "@local.asset",
-              "_translations": {
-                "value": {}
-              },
-              "name": "text_2",
-              "_nested_name": "dg_box.dg_bottom.text_2",
-              "_dynamicFields": {
-                "value": [
-                  {
-                    "fullExpression": "@local.asset",
-                    "matchedExpression": "@local.asset",
-                    "type": "local",
-                    "fieldName": "asset"
-                  }
-                ]
-              },
-              "_dynamicDependencies": {
-                "@local.asset": [
                   "value"
                 ]
               }

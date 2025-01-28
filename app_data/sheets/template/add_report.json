@@ -52,15 +52,12 @@
               "name": "dg_top",
               "parameter_list": {
                 "sticky": "top",
-                "background_image_asset": "images/backgrounds/report_edit.svg",
-                "style": "background_solid"
+                "variant": "inline_padding"
               },
               "exclude_from_translation": true,
               "style_list": [
-                "width: 100%",
-                "align-items: flex-start",
-                "padding: 24px",
-                "min-height: 192px"
+                "background-color: var(--ion-color-primary-100)",
+                "padding-block: 24px"
               ],
               "rows": [
                 {
