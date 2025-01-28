@@ -179,6 +179,7 @@
         "value": {}
       },
       "condition": false,
+      "exclude_from_translation": true,
       "name": "text_4",
       "_nested_name": "text_4",
       "_dynamicFields": {

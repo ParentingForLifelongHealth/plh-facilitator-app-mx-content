@@ -9,6 +9,7 @@
       "_translations": {
         "value": {}
       },
+      "exclude_from_translation": true,
       "type": "set_variable",
       "_nested_name": "module_id"
     },
@@ -18,6 +19,7 @@
       "_translations": {
         "value": {}
       },
+      "exclude_from_translation": true,
       "type": "set_variable",
       "_nested_name": "module_name"
     },
@@ -27,6 +29,7 @@
       "_translations": {
         "value": {}
       },
+      "exclude_from_translation": true,
       "type": "set_variable",
       "_nested_name": "test",
       "_dynamicFields": {
@@ -208,7 +211,7 @@
         {
           "type": "text",
           "name": "finish_text",
-          "value": "¡Completaste con éxito el reporte de esta sesión!",
+          "value": "You successfully completed the report for this session!",
           "_translations": {
             "value": {}
           },
