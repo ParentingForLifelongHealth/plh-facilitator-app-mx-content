@@ -56,8 +56,7 @@
               },
               "exclude_from_translation": true,
               "style_list": [
-                "background-color: var(--ion-color-primary-100)",
-                "padding-block: 24px"
+                "background-color: var(--ion-color-primary-100)"
               ],
               "rows": [
                 {
@@ -80,6 +79,9 @@
                           "_raw": "uncompleted | emit: uncompleted",
                           "_cleaned": "uncompleted | emit: uncompleted"
                         }
+                      ],
+                      "style_list": [
+                        "padding-block: 24px"
                       ],
                       "rows": [
                         {
