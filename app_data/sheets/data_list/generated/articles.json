@@ -191,25 +191,13 @@
       "loop_id": "before_chat",
       "foreign_key": "before_chat",
       "type": "article",
-      "next_article": "before_chat_2",
+      "next_article": "",
       "previous_article": "",
       "test": "before_chat",
       "create_loop": "create"
     },
     {
       "ignore": 17,
-      "id": "before_chat_2",
-      "completed": false,
-      "loop_id": "before_chat",
-      "foreign_key": "before_chat",
-      "type": "article",
-      "next_article": "",
-      "previous_article": "before_chat",
-      "test": "before_chat",
-      "create_loop": 0
-    },
-    {
-      "ignore": 18,
       "id": "week_1_chat",
       "completed": false,
       "loop_id": "week_1_chat",
@@ -221,7 +209,7 @@
       "create_loop": "create"
     },
     {
-      "ignore": 19,
+      "ignore": 18,
       "id": "week_1_chat_2",
       "completed": false,
       "loop_id": "week_1_chat",
@@ -233,7 +221,7 @@
       "create_loop": 0
     },
     {
-      "ignore": 20,
+      "ignore": 19,
       "id": "week_1_chat_3",
       "completed": false,
       "loop_id": "week_1_chat",
@@ -245,7 +233,7 @@
       "create_loop": 0
     },
     {
-      "ignore": 21,
+      "ignore": 20,
       "id": "week_1_chat_4",
       "completed": false,
       "loop_id": "week_1_chat",
@@ -257,7 +245,7 @@
       "create_loop": 0
     },
     {
-      "ignore": 22,
+      "ignore": 21,
       "id": "week_1_chat_5",
       "completed": false,
       "loop_id": "week_1_chat",
@@ -269,7 +257,7 @@
       "create_loop": 0
     },
     {
-      "ignore": 23,
+      "ignore": 22,
       "id": "week_1_chat_6",
       "completed": false,
       "loop_id": "week_1_chat",
@@ -281,7 +269,7 @@
       "create_loop": 0
     },
     {
-      "ignore": 24,
+      "ignore": 23,
       "id": "week_2_chat",
       "completed": false,
       "loop_id": "week_2_chat",
@@ -293,7 +281,7 @@
       "create_loop": "create"
     },
     {
-      "ignore": 25,
+      "ignore": 24,
       "id": "week_2_chat_2",
       "completed": false,
       "loop_id": "week_2_chat",
@@ -305,7 +293,7 @@
       "create_loop": 0
     },
     {
-      "ignore": 26,
+      "ignore": 25,
       "id": "week_2_chat_3",
       "completed": false,
       "loop_id": "week_2_chat",
@@ -317,7 +305,7 @@
       "create_loop": 0
     },
     {
-      "ignore": 27,
+      "ignore": 26,
       "id": "week_2_chat_4",
       "completed": false,
       "loop_id": "week_2_chat",
@@ -329,7 +317,7 @@
       "create_loop": 0
     },
     {
-      "ignore": 28,
+      "ignore": 27,
       "id": "week_2_chat_5",
       "completed": false,
       "loop_id": "week_2_chat",
@@ -341,7 +329,7 @@
       "create_loop": 0
     },
     {
-      "ignore": 29,
+      "ignore": 28,
       "id": "week_2_chat_6",
       "completed": false,
       "loop_id": "week_2_chat",
@@ -353,7 +341,7 @@
       "create_loop": 0
     },
     {
-      "ignore": 30,
+      "ignore": 29,
       "id": "week_2_chat_7",
       "completed": false,
       "loop_id": "week_2_chat",
@@ -365,7 +353,7 @@
       "create_loop": 0
     },
     {
-      "ignore": 31,
+      "ignore": 30,
       "id": "week_3_chat",
       "completed": false,
       "loop_id": "week_3_chat",
@@ -377,7 +365,7 @@
       "create_loop": "create"
     },
     {
-      "ignore": 32,
+      "ignore": 31,
       "id": "week_3_chat_2",
       "completed": false,
       "loop_id": "week_3_chat",
@@ -389,7 +377,7 @@
       "create_loop": 0
     },
     {
-      "ignore": 33,
+      "ignore": 32,
       "id": "week_3_chat_3",
       "completed": false,
       "loop_id": "week_3_chat",
@@ -401,7 +389,7 @@
       "create_loop": 0
     },
     {
-      "ignore": 34,
+      "ignore": 33,
       "id": "week_3_chat_4",
       "completed": false,
       "loop_id": "week_3_chat",
@@ -413,7 +401,7 @@
       "create_loop": 0
     },
     {
-      "ignore": 35,
+      "ignore": 34,
       "id": "week_3_chat_5",
       "completed": false,
       "loop_id": "week_3_chat",
@@ -425,7 +413,7 @@
       "create_loop": 0
     },
     {
-      "ignore": 36,
+      "ignore": 35,
       "id": "week_3_chat_6",
       "completed": false,
       "loop_id": "week_3_chat",
@@ -437,7 +425,7 @@
       "create_loop": 0
     },
     {
-      "ignore": 37,
+      "ignore": 36,
       "id": "week_4_chat",
       "completed": false,
       "loop_id": "week_4_chat",
@@ -449,7 +437,7 @@
       "create_loop": "create"
     },
     {
-      "ignore": 38,
+      "ignore": 37,
       "id": "week_4_chat_2",
       "completed": false,
       "loop_id": "week_4_chat",
@@ -461,7 +449,7 @@
       "create_loop": 0
     },
     {
-      "ignore": 39,
+      "ignore": 38,
       "id": "week_4_chat_3",
       "completed": false,
       "loop_id": "week_4_chat",
@@ -473,7 +461,7 @@
       "create_loop": 0
     },
     {
-      "ignore": 40,
+      "ignore": 39,
       "id": "week_4_chat_4",
       "completed": false,
       "loop_id": "week_4_chat",
@@ -485,7 +473,7 @@
       "create_loop": 0
     },
     {
-      "ignore": 41,
+      "ignore": 40,
       "id": "week_4_chat_5",
       "completed": false,
       "loop_id": "week_4_chat",
@@ -497,7 +485,7 @@
       "create_loop": 0
     },
     {
-      "ignore": 42,
+      "ignore": 41,
       "id": "week_4_chat_6",
       "completed": false,
       "loop_id": "week_4_chat",
@@ -509,7 +497,7 @@
       "create_loop": 0
     },
     {
-      "ignore": 43,
+      "ignore": 42,
       "id": "pcc",
       "completed": false,
       "loop_id": "pcc",
@@ -521,7 +509,7 @@
       "create_loop": "create"
     },
     {
-      "ignore": 44,
+      "ignore": 43,
       "id": "pcc_2",
       "completed": false,
       "loop_id": "pcc",
@@ -533,7 +521,7 @@
       "create_loop": 0
     },
     {
-      "ignore": 45,
+      "ignore": 44,
       "id": "pcc_3",
       "completed": false,
       "loop_id": "pcc",
@@ -545,7 +533,7 @@
       "create_loop": 0
     },
     {
-      "ignore": 46,
+      "ignore": 45,
       "id": "pcc_4",
       "completed": false,
       "loop_id": "pcc",
@@ -557,7 +545,7 @@
       "create_loop": 0
     },
     {
-      "ignore": 47,
+      "ignore": 46,
       "id": "pcc_5",
       "completed": false,
       "loop_id": "pcc",
@@ -569,7 +557,7 @@
       "create_loop": 0
     },
     {
-      "ignore": 48,
+      "ignore": 47,
       "id": "pcc_6",
       "completed": false,
       "loop_id": "pcc",
@@ -581,7 +569,7 @@
       "create_loop": 0
     },
     {
-      "ignore": 49,
+      "ignore": 48,
       "id": "pcc_7",
       "completed": false,
       "loop_id": "pcc",
@@ -593,7 +581,7 @@
       "create_loop": 0
     },
     {
-      "ignore": 50,
+      "ignore": 49,
       "id": "pcc_8",
       "completed": false,
       "loop_id": "pcc",
@@ -605,7 +593,7 @@
       "create_loop": 0
     },
     {
-      "ignore": 51,
+      "ignore": 50,
       "id": "pcc_9",
       "completed": false,
       "loop_id": "pcc",
@@ -617,7 +605,7 @@
       "create_loop": 0
     },
     {
-      "ignore": 52,
+      "ignore": 51,
       "id": "pcc_10",
       "completed": false,
       "loop_id": "pcc",
@@ -629,7 +617,7 @@
       "create_loop": 0
     },
     {
-      "ignore": 53,
+      "ignore": 52,
       "id": "pcc_11",
       "completed": false,
       "loop_id": "pcc",
@@ -641,7 +629,7 @@
       "create_loop": 0
     },
     {
-      "ignore": 54,
+      "ignore": 53,
       "id": "pcc_12",
       "completed": false,
       "loop_id": "pcc",
@@ -653,7 +641,7 @@
       "create_loop": 0
     },
     {
-      "ignore": 55,
+      "ignore": 54,
       "id": "pcc_13",
       "completed": false,
       "loop_id": "pcc",
@@ -665,7 +653,7 @@
       "create_loop": 0
     },
     {
-      "ignore": 56,
+      "ignore": 55,
       "id": "pcc_14",
       "completed": false,
       "loop_id": "pcc",
@@ -677,7 +665,7 @@
       "create_loop": 0
     },
     {
-      "ignore": 57,
+      "ignore": 56,
       "id": "pcc_15",
       "completed": false,
       "loop_id": "pcc",
@@ -689,7 +677,7 @@
       "create_loop": 0
     },
     {
-      "ignore": 58,
+      "ignore": 57,
       "id": "pcc_16",
       "completed": false,
       "loop_id": "pcc",

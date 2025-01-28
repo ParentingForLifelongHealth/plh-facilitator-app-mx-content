@@ -38,9 +38,9 @@
     },
     {
       "id": "section_2",
-      "foreign_key": "before_chat_2",
+      "foreign_key": "before_chat",
       "ignore": 2,
-      "ignore_2": "before_chat_2",
+      "ignore_2": "before_chat_1",
       "title": "Add Ground Rules, previously agreed, to the WhatsApp Group Description",
       "_translations": {
         "title": {

@@ -47,13 +47,13 @@
       "loop_id": "before_chat",
       "foreign_key": "before_chat",
       "type": "article",
-      "next_article": "before_chat_2",
+      "next_article": "",
       "previous_article": "",
       "test": "before_chat",
       "create_loop": "create"
     },
     {
-      "ignore": 18,
+      "ignore": 17,
       "id": "week_1_chat",
       "completed": false,
       "loop_id": "week_1_chat",
@@ -65,7 +65,7 @@
       "create_loop": "create"
     },
     {
-      "ignore": 24,
+      "ignore": 23,
       "id": "week_2_chat",
       "completed": false,
       "loop_id": "week_2_chat",
@@ -77,7 +77,7 @@
       "create_loop": "create"
     },
     {
-      "ignore": 31,
+      "ignore": 30,
       "id": "week_3_chat",
       "completed": false,
       "loop_id": "week_3_chat",
@@ -89,7 +89,7 @@
       "create_loop": "create"
     },
     {
-      "ignore": 37,
+      "ignore": 36,
       "id": "week_4_chat",
       "completed": false,
       "loop_id": "week_4_chat",
@@ -101,7 +101,7 @@
       "create_loop": "create"
     },
     {
-      "ignore": 43,
+      "ignore": 42,
       "id": "pcc",
       "completed": false,
       "loop_id": "pcc",
