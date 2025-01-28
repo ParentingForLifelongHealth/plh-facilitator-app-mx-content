@@ -24,12 +24,12 @@
 | round_button | 29 |
 | select_text | 1 |
 | set_field | 1 |
-| set_variable | 796 |
+| set_variable | 820 |
 | simple_checkbox | 2 |
 | task_card | 2 |
 | task_progress_bar | 2 |
-| template | 221 |
-| text | 162 |
+| template | 211 |
+| text | 161 |
 | text_area | 2 |
 | text_box | 24 |
 | title | 36 |
@@ -51,7 +51,7 @@
 | emit: force_restart | 3 |
 | emit: server_sync | 4 |
 | emit: set_language | 1 |
-| emit: uncompleted | 70 |
+| emit: uncompleted | 66 |
 | feedback | 13 |
 | go_to | 36 |
 | nav_stack | 4 |
@@ -150,7 +150,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/after_disclosed_abuse.svg | 4.7 | 2 |
 | images/backgrounds/home_bottom_right.svg | 2.3 | 1 |
 | images/backgrounds/home_top_left.svg | 2.4 | 2 |
-| images/backgrounds/report_edit.svg | 0.2 | 2 |
+| images/backgrounds/report_edit.svg | 0.2 | 1 |
 | images/backgrounds/reports_top_right.svg | 2 | 1 |
 | images/contact_for_reporting_abuse.svg | 6.3 | 1 |
 | images/crisis_hotlines.svg | 12.6 | 1 |
@@ -218,22 +218,22 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/onboarding_cc.svg | 19.3 | 4 |
 | images/one_on_one_challenges.svg | 13.1 | 1 |
 | images/overview_cc.svg | 7.8 | 1 |
-| images/pcc_1.png | 171.2 | 3 |
-| images/pcc_10.png | 162.5 | 3 |
-| images/pcc_11.png | 187.1 | 3 |
-| images/pcc_12.png | 155.9 | 3 |
-| images/pcc_13.png | 177.2 | 3 |
-| images/pcc_14.png | 176.3 | 3 |
-| images/pcc_15.png | 169 | 3 |
-| images/pcc_16.png | 161.6 | 3 |
-| images/pcc_2.png | 170.9 | 3 |
-| images/pcc_3.png | 171.1 | 3 |
-| images/pcc_4.png | 162.4 | 3 |
-| images/pcc_5.png | 176.5 | 3 |
-| images/pcc_6.png | 168 | 3 |
-| images/pcc_7.png | 171.9 | 3 |
-| images/pcc_8.png | 179.8 | 3 |
-| images/pcc_9.png | 158.4 | 3 |
+| images/pcc_1.png | 171.2 | 1 |
+| images/pcc_10.png | 162.5 | 1 |
+| images/pcc_11.png | 187.1 | 1 |
+| images/pcc_12.png | 155.9 | 1 |
+| images/pcc_13.png | 177.2 | 1 |
+| images/pcc_14.png | 176.3 | 1 |
+| images/pcc_15.png | 169 | 1 |
+| images/pcc_16.png | 161.6 | 1 |
+| images/pcc_2.png | 170.9 | 1 |
+| images/pcc_3.png | 171.1 | 1 |
+| images/pcc_4.png | 162.4 | 1 |
+| images/pcc_5.png | 176.5 | 1 |
+| images/pcc_6.png | 168 | 1 |
+| images/pcc_7.png | 171.9 | 1 |
+| images/pcc_8.png | 179.8 | 1 |
+| images/pcc_9.png | 158.4 | 1 |
 | images/praise_challenges.svg | 20.6 | 1 |
 | images/routine_challenges.svg | 20.5 | 1 |
 | images/talk_feelings_challenges.svg | 19.3 | 2 |
@@ -262,7 +262,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | global |  | 11 |
 | global | legal_terms | 1 |
 | template |  | 74 |
-| template | generated | 175 |
+| template | generated | 165 |
 | template | legal_terms | 4 |
 | template | menu | 1 |
 </details>

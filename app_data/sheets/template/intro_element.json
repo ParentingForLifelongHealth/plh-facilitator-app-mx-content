@@ -9,6 +9,7 @@
       "_translations": {
         "value": {}
       },
+      "exclude_from_translation": true,
       "type": "set_variable",
       "_nested_name": "image"
     },
@@ -18,6 +19,7 @@
       "_translations": {
         "value": {}
       },
+      "exclude_from_translation": true,
       "type": "set_variable",
       "_nested_name": "text"
     },
@@ -27,6 +29,7 @@
       "parameter_list": {
         "style": "column"
       },
+      "exclude_from_translation": true,
       "rows": [
         {
           "type": "image",
@@ -36,6 +39,7 @@
             "value": {}
           },
           "condition": false,
+          "exclude_from_translation": true,
           "_nested_name": "dg_box.image",
           "_dynamicFields": {
             "value": [
@@ -60,6 +64,7 @@
           "_translations": {
             "value": {}
           },
+          "exclude_from_translation": true,
           "_nested_name": "dg_box.text",
           "_dynamicFields": {
             "value": [

@@ -87,7 +87,7 @@
       },
       {
         "type": "set_variable",
-        "count": 796
+        "count": 820
       },
       {
         "type": "simple_checkbox",
@@ -103,11 +103,11 @@
       },
       {
         "type": "template",
-        "count": 221
+        "count": 211
       },
       {
         "type": "text",
-        "count": 162
+        "count": 161
       },
       {
         "type": "text_area",
@@ -171,7 +171,7 @@
       },
       {
         "type": "emit: uncompleted",
-        "count": 70
+        "count": 66
       },
       {
         "type": "feedback",
@@ -455,7 +455,7 @@
       },
       {
         "path": "images/backgrounds/report_edit.svg",
-        "count": 2,
+        "count": 1,
         "size_kb": 0.2
       },
       {
@@ -795,82 +795,82 @@
       },
       {
         "path": "images/pcc_1.png",
-        "count": 3,
+        "count": 1,
         "size_kb": 171.2
       },
       {
         "path": "images/pcc_10.png",
-        "count": 3,
+        "count": 1,
         "size_kb": 162.5
       },
       {
         "path": "images/pcc_11.png",
-        "count": 3,
+        "count": 1,
         "size_kb": 187.1
       },
       {
         "path": "images/pcc_12.png",
-        "count": 3,
+        "count": 1,
         "size_kb": 155.9
       },
       {
         "path": "images/pcc_13.png",
-        "count": 3,
+        "count": 1,
         "size_kb": 177.2
       },
       {
         "path": "images/pcc_14.png",
-        "count": 3,
+        "count": 1,
         "size_kb": 176.3
       },
       {
         "path": "images/pcc_15.png",
-        "count": 3,
+        "count": 1,
         "size_kb": 169
       },
       {
         "path": "images/pcc_16.png",
-        "count": 3,
+        "count": 1,
         "size_kb": 161.6
       },
       {
         "path": "images/pcc_2.png",
-        "count": 3,
+        "count": 1,
         "size_kb": 170.9
       },
       {
         "path": "images/pcc_3.png",
-        "count": 3,
+        "count": 1,
         "size_kb": 171.1
       },
       {
         "path": "images/pcc_4.png",
-        "count": 3,
+        "count": 1,
         "size_kb": 162.4
       },
       {
         "path": "images/pcc_5.png",
-        "count": 3,
+        "count": 1,
         "size_kb": 176.5
       },
       {
         "path": "images/pcc_6.png",
-        "count": 3,
+        "count": 1,
         "size_kb": 168
       },
       {
         "path": "images/pcc_7.png",
-        "count": 3,
+        "count": 1,
         "size_kb": 171.9
       },
       {
         "path": "images/pcc_8.png",
-        "count": 3,
+        "count": 1,
         "size_kb": 179.8
       },
       {
         "path": "images/pcc_9.png",
-        "count": 3,
+        "count": 1,
         "size_kb": 158.4
       },
       {
@@ -985,7 +985,7 @@
       {
         "type": "template",
         "subtype": "generated",
-        "total": 175
+        "total": 165
       },
       {
         "type": "template",

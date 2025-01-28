@@ -1795,26 +1795,6 @@
           "flow_name": "article_safety_challenges",
           "flow_subtype": "generated",
           "flow_type": "template"
-        },
-        {
-          "flow_name": "article_General crisis support tips",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
-          "flow_name": "article_Supporting families on the move",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
-          "flow_name": "article_Supporting children through loss",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
-          "flow_name": "article_Creating stability for children in crisis",
-          "flow_subtype": "generated",
-          "flow_type": "template"
         }
       ]
     },
@@ -2389,26 +2369,6 @@
           "flow_name": "library_article_safety_challenges",
           "flow_subtype": "generated",
           "flow_type": "template"
-        },
-        {
-          "flow_name": "library_article_General crisis support tips",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
-          "flow_name": "library_article_Supporting families on the move",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
-          "flow_name": "library_article_Supporting children through loss",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
-          "flow_name": "library_article_Creating stability for children in crisis",
-          "flow_subtype": "generated",
-          "flow_type": "template"
         }
       ]
     },
@@ -2841,18 +2801,7 @@
         "output_flow_subtype": "generated"
       },
       "_xlsxPath": "templates/media.xlsx",
-      "_output_flows": [
-        {
-          "flow_name": "media_onboard_caregiver",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
-          "flow_name": "media_add_parent",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        }
-      ]
+      "_output_flows": []
     },
     "pdf_generator": {
       "flow_type": "generator",
@@ -3150,26 +3099,6 @@
       "override_target": "footer",
       "override_condition": "@fields._deployment_name == \"plh_facilitator_mx\"",
       "_xlsxPath": "templates/footer_mx.xlsx"
-    },
-    "article_Creating stability for children in crisis": {
-      "flow_name": "article_Creating stability for children in crisis",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "article_General crisis support tips": {
-      "flow_name": "article_General crisis support tips",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "article_Supporting children through loss": {
-      "flow_name": "article_Supporting children through loss",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "article_Supporting families on the move": {
-      "flow_name": "article_Supporting families on the move",
-      "flow_subtype": "generated",
-      "flow_type": "template"
     },
     "article_after_disclosed_abuse": {
       "flow_name": "article_after_disclosed_abuse",
@@ -3701,26 +3630,6 @@
       "flow_subtype": "generated",
       "flow_type": "template"
     },
-    "library_article_Creating stability for children in crisis": {
-      "flow_name": "library_article_Creating stability for children in crisis",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "library_article_General crisis support tips": {
-      "flow_name": "library_article_General crisis support tips",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "library_article_Supporting children through loss": {
-      "flow_name": "library_article_Supporting children through loss",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "library_article_Supporting families on the move": {
-      "flow_name": "library_article_Supporting families on the move",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
     "library_article_after_disclosed_abuse": {
       "flow_name": "library_article_after_disclosed_abuse",
       "flow_subtype": "generated",
@@ -3943,16 +3852,6 @@
     },
     "library_safeguarding": {
       "flow_name": "library_safeguarding",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "media_add_parent": {
-      "flow_name": "media_add_parent",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "media_onboard_caregiver": {
-      "flow_name": "media_onboard_caregiver",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
