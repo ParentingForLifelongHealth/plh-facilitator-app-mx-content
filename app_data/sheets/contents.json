@@ -4196,6 +4196,13 @@
     "profile": {
       "flow_type": "template",
       "flow_name": "profile",
+      "parameter_list": {
+        "app_config": {
+          "LAYOUT": {
+            "page_padding": "24px 0"
+          }
+        }
+      },
       "_xlsxPath": "templates/profile.xlsx"
     },
     "profile_about": {
