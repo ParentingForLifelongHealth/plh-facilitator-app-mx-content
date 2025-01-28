@@ -9,6 +9,7 @@
       "_translations": {
         "value": {}
       },
+      "exclude_from_translation": true,
       "type": "set_variable",
       "_nested_name": "report_name"
     },
@@ -18,6 +19,7 @@
       "_translations": {
         "value": {}
       },
+      "exclude_from_translation": true,
       "type": "set_variable",
       "_nested_name": "group_id",
       "_dynamicFields": {
@@ -42,6 +44,7 @@
       "_translations": {
         "value": {}
       },
+      "exclude_from_translation": true,
       "type": "set_variable",
       "_nested_name": "module_id"
     },
@@ -180,6 +183,7 @@
               "_translations": {
                 "value": {}
               },
+              "exclude_from_translation": true,
               "style_list": [
                 "flex: 1"
               ],
@@ -232,6 +236,7 @@
                 "show_icons": "false",
                 "variant": "ios"
               },
+              "exclude_from_translation": true,
               "name": "toggle_bar_2",
               "_nested_name": "data_items_12.display_group_1.toggle_bar_2",
               "_dynamicFields": {
@@ -321,6 +326,7 @@
       "_translations": {
         "value": {}
       },
+      "exclude_from_translation": true,
       "type": "set_variable",
       "_nested_name": "current_dynamic"
     },
@@ -330,6 +336,7 @@
       "_translations": {
         "value": {}
       },
+      "exclude_from_translation": true,
       "type": "set_variable",
       "_nested_name": "dynamic_json",
       "_dynamicFields": {
@@ -720,6 +727,7 @@
       "_translations": {
         "value": {}
       },
+      "exclude_from_translation": true,
       "type": "set_variable",
       "_nested_name": "dynamic_string",
       "_dynamicFields": {

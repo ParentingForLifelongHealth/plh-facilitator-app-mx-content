@@ -12,7 +12,7 @@
 | data_items | 24 |
 | debug_toggle | 1 |
 | display_grid | 4 |
-| display_group | 97 |
+| display_group | 99 |
 | drawer | 2 |
 | image | 9 |
 | items | 31 |
@@ -71,8 +71,8 @@
 
 | assets | KB | MB |
 | --- | --- | --- |
-| total | 8038 KB | 8 MB |
-| unused | 1064 KB | 1.1 MB |
+| total | 8036 KB | 8 MB |
+| unused | 1067 KB | 1.1 MB |
 </details>
 
 <details open>
@@ -86,7 +86,7 @@ Assets that appear in app-data but do not have references within sheets
 | android/icon-foreground.png | 31.1 |
 | android/icon.png | 108.2 |
 | android/splash.png | 290.4 |
-| contents.json | 2.7 |
+| contents.json | 2.8 |
 | images/Message.png | 1.3 |
 | images/Message.svg | 0.7 |
 | images/backgrounds/library_bottom_left.svg | 2.3 |
@@ -101,6 +101,7 @@ Assets that appear in app-data but do not have references within sheets
 | images/icons/group_add.svg | 2.2 |
 | images/icons/paper_plane_white.svg | 1.4 |
 | images/icons/person_cog.png | 0.8 |
+| images/icons/person_cog.svg | 2.9 |
 | images/icons/reader_blue.svg | 1.4 |
 | images/icons/task_0.png | 2 |
 | images/icons/task_1.png | 1 |
@@ -195,10 +196,10 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/icons/library.png | 1.5 | 3 |
 | images/icons/pencil_white.svg | 1.4 | 2 |
 | images/icons/people_network.svg | 6.9 | 1 |
-| images/icons/person_cog.svg | 2.9 | 2 |
 | images/icons/person_remove.svg | 1.5 | 1 |
 | images/icons/person_white.svg | 1.5 | 2 |
 | images/icons/profile_card.svg | 7.4 | 1 |
+| images/icons/red_plus.svg | 0.6 | 1 |
 | images/icons/report.png | 1.1 | 1 |
 | images/icons/sessions.png | 1.3 | 1 |
 | images/icons/settings.png | 1.1 | 1 |

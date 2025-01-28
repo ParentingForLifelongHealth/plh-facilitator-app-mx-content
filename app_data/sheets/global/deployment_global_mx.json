@@ -171,6 +171,15 @@
           "mx_es": true
         }
       }
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "add_group_icon",
+      "value": "images/icons/red_plus.svg",
+      "_translations": {
+        "value": {}
+      },
+      "exclude_from_translation": true
     }
   ],
   "_xlsxPath": "data/deployment_data_mx.xlsx"
