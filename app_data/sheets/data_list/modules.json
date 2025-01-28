@@ -112,7 +112,7 @@
       "report_id": "week_1",
       "related_article_id_1": "faq_h_no_understand_connection",
       "related_article_id_2": "faq_h_no_thoughts",
-      "title": "Week 1 Chat Session: Thoughts, Feelings, and Actions",
+      "title": "Week 1: Thoughts, Feelings, and Actions",
       "_translations": {
         "title": {
           "mx_es": true
@@ -121,7 +121,7 @@
       },
       "_translatedFields": {
         "title": {
-          "eng": "Week 1 Chat Session: Thoughts, Feelings, and Actions"
+          "eng": "Week 1: Thoughts, Feelings, and Actions"
         },
         "description": {
           "eng": "week_1"
@@ -169,7 +169,7 @@
         "study_dif_mich",
         "cc_guer"
       ],
-      "image_asset": "images/day_5_goodbye.svg",
+      "image_asset": "images/one_on_one_challenges.svg",
       "report_id": "week_3",
       "related_article_id_1": "faq_h_no_strengths",
       "related_article_id_2": "faq_h_no_volunteers",

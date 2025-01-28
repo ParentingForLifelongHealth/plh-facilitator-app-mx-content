@@ -117,11 +117,6 @@
       "flow_type": "data_pipe"
     },
     {
-      "flow_name": "prep_before_chat_2_sub_items",
-      "flow_subtype": "generated",
-      "flow_type": "data_pipe"
-    },
-    {
       "flow_name": "prep_week_1_chat_sub_items",
       "flow_subtype": "generated",
       "flow_type": "data_pipe"

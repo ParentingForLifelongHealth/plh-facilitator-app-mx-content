@@ -307,28 +307,6 @@
         }
       ]
     },
-    "prep_before_chat_2_sub_items": {
-      "flow_name": "prep_before_chat_2_sub_items",
-      "flow_subtype": "generated",
-      "flow_type": "data_pipe",
-      "_output_flows": [
-        {
-          "flow_name": "article_loops",
-          "flow_subtype": "generated",
-          "flow_type": "data_list"
-        },
-        {
-          "flow_name": "articles",
-          "flow_subtype": "generated",
-          "flow_type": "data_list"
-        },
-        {
-          "flow_name": "menus",
-          "flow_subtype": "generated",
-          "flow_type": "data_list"
-        }
-      ]
-    },
     "prep_before_chat_sub_items": {
       "flow_name": "prep_before_chat_sub_items",
       "flow_subtype": "generated",
@@ -1948,11 +1926,6 @@
           "flow_type": "template"
         },
         {
-          "flow_name": "articles_before_chat_2",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
           "flow_name": "articles_week_1_chat",
           "flow_subtype": "generated",
           "flow_type": "template"
@@ -2514,11 +2487,6 @@
           "flow_type": "data_pipe"
         },
         {
-          "flow_name": "prep_before_chat_2_sub_items",
-          "flow_subtype": "generated",
-          "flow_type": "data_pipe"
-        },
-        {
           "flow_name": "prep_week_1_chat_sub_items",
           "flow_subtype": "generated",
           "flow_type": "data_pipe"
@@ -2737,22 +2705,22 @@
       "_xlsxPath": "templates/help.xlsx",
       "_output_flows": [
         {
-          "flow_name": "help_data_collection",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
           "flow_name": "help_home",
           "flow_subtype": "generated",
           "flow_type": "template"
         },
         {
-          "flow_name": "help_profile",
+          "flow_name": "help_reports",
           "flow_subtype": "generated",
           "flow_type": "template"
         },
         {
           "flow_name": "help_library",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "help_settings",
           "flow_subtype": "generated",
           "flow_type": "template"
         }
@@ -2970,6 +2938,11 @@
     "archive_group": {
       "flow_type": "template",
       "flow_name": "archive_group",
+      "_xlsxPath": "templates/profile.xlsx"
+    },
+    "archived_groups": {
+      "flow_type": "template",
+      "flow_name": "archived_groups",
       "_xlsxPath": "templates/profile.xlsx"
     },
     "article": {
@@ -3305,11 +3278,6 @@
       "flow_subtype": "generated",
       "flow_type": "template"
     },
-    "articles_before_chat_2": {
-      "flow_name": "articles_before_chat_2",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
     "articles_day_3_mh_stress": {
       "flow_name": "articles_day_3_mh_stress",
       "flow_subtype": "generated",
@@ -3595,11 +3563,6 @@
       "flow_subtype": "generated",
       "flow_type": "template"
     },
-    "help_data_collection": {
-      "flow_name": "help_data_collection",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
     "help_group": {
       "flow_name": "help_group",
       "flow_subtype": "generated",
@@ -3625,8 +3588,13 @@
       "flow_subtype": "generated",
       "flow_type": "template"
     },
-    "help_profile": {
-      "flow_name": "help_profile",
+    "help_reports": {
+      "flow_name": "help_reports",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "help_settings": {
+      "flow_name": "help_settings",
       "flow_subtype": "generated",
       "flow_type": "template"
     },

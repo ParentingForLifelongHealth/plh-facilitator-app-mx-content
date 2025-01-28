@@ -106,11 +106,6 @@
       "flow_type": "template"
     },
     {
-      "flow_name": "articles_before_chat_2",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    {
       "flow_name": "articles_week_1_chat",
       "flow_subtype": "generated",
       "flow_type": "template"
