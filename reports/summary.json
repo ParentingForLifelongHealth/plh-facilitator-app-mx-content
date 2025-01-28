@@ -15,7 +15,7 @@
       },
       {
         "type": "button",
-        "count": 73
+        "count": 74
       },
       {
         "type": "carousel",
@@ -107,7 +107,7 @@
       },
       {
         "type": "text",
-        "count": 161
+        "count": 162
       },
       {
         "type": "text_area",
@@ -215,7 +215,7 @@
       },
       {
         "type": "share",
-        "count": 2
+        "count": 3
       },
       {
         "type": "user",
@@ -718,7 +718,7 @@
       },
       {
         "path": "images/icons/share.svg",
-        "count": 1,
+        "count": 2,
         "size_kb": 2.3
       },
       {

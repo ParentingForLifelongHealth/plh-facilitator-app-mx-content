@@ -6,7 +6,7 @@
 | accordion | 2 |
 | accordion_section | 2 |
 | audio | 2 |
-| button | 73 |
+| button | 74 |
 | carousel | 1 |
 | combo_box | 3 |
 | data_items | 24 |
@@ -29,7 +29,7 @@
 | task_card | 2 |
 | task_progress_bar | 2 |
 | template | 221 |
-| text | 161 |
+| text | 162 |
 | text_area | 2 |
 | text_box | 24 |
 | title | 36 |
@@ -62,7 +62,7 @@
 | set_field | 53 |
 | set_item | 10 |
 | set_local | 23 |
-| share | 2 |
+| share | 3 |
 | user | 1 |
 </details>
 
@@ -202,7 +202,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/icons/report.png | 1.1 | 1 |
 | images/icons/sessions.png | 1.3 | 1 |
 | images/icons/settings.png | 1.1 | 1 |
-| images/icons/share.svg | 2.3 | 1 |
+| images/icons/share.svg | 2.3 | 2 |
 | images/icons/visibility.svg | 1.9 | 1 |
 | images/icons/world.svg | 6.2 | 1 |
 | images/logos/IDEMS.png | 84.6 | 1 |

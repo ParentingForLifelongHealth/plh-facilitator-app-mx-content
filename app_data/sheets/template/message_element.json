@@ -26,6 +26,10 @@
     },
     {
       "name": "asset",
+      "value": "empty",
+      "_translations": {
+        "value": {}
+      },
       "type": "set_variable",
       "_nested_name": "asset"
     },
@@ -162,6 +166,30 @@
               }
             },
             {
+              "type": "text",
+              "value": "@local.asset",
+              "_translations": {
+                "value": {}
+              },
+              "name": "text_2",
+              "_nested_name": "dg_box.dg_bottom.text_2",
+              "_dynamicFields": {
+                "value": [
+                  {
+                    "fullExpression": "@local.asset",
+                    "matchedExpression": "@local.asset",
+                    "type": "local",
+                    "fieldName": "asset"
+                  }
+                ]
+              },
+              "_dynamicDependencies": {
+                "@local.asset": [
+                  "value"
+                ]
+              }
+            },
+            {
               "type": "button",
               "name": "button",
               "value": "Share",
@@ -181,6 +209,7 @@
                   "_cleaned": "click | share: @local.message_text"
                 }
               ],
+              "condition": "@local.asset == \"\"",
               "parameter_list": {
                 "icon_secondary_asset": "images/icons/share.svg"
               },
@@ -215,13 +244,99 @@
                       }
                     ]
                   }
-                }
+                },
+                "condition": [
+                  {
+                    "fullExpression": "@local.asset == \"\"",
+                    "matchedExpression": "@local.asset",
+                    "type": "local",
+                    "fieldName": "asset"
+                  }
+                ]
               },
               "_dynamicDependencies": {
                 "@local.message_text": [
                   "action_list.0.args.0",
                   "action_list.0._raw",
                   "action_list.0._cleaned"
+                ],
+                "@local.asset": [
+                  "condition"
+                ]
+              }
+            },
+            {
+              "type": "button",
+              "name": "button",
+              "value": "Share",
+              "_translations": {
+                "value": {
+                  "mx_es": true
+                }
+              },
+              "action_list": [
+                {
+                  "trigger": "click",
+                  "action_id": "share",
+                  "args": [
+                    "file",
+                    "@local.asset"
+                  ],
+                  "_raw": "click | share: file: @local.asset",
+                  "_cleaned": "click | share: file: @local.asset"
+                }
+              ],
+              "condition": "@local.asset !== \"\"",
+              "parameter_list": {
+                "icon_secondary_asset": "images/icons/share.svg"
+              },
+              "_nested_name": "dg_box.dg_bottom.button",
+              "_dynamicFields": {
+                "action_list": {
+                  "0": {
+                    "args": {
+                      "1": [
+                        {
+                          "fullExpression": "@local.asset",
+                          "matchedExpression": "@local.asset",
+                          "type": "local",
+                          "fieldName": "asset"
+                        }
+                      ]
+                    },
+                    "_raw": [
+                      {
+                        "fullExpression": "click | share: file: @local.asset",
+                        "matchedExpression": "@local.asset",
+                        "type": "local",
+                        "fieldName": "asset"
+                      }
+                    ],
+                    "_cleaned": [
+                      {
+                        "fullExpression": "click | share: file: @local.asset",
+                        "matchedExpression": "@local.asset",
+                        "type": "local",
+                        "fieldName": "asset"
+                      }
+                    ]
+                  }
+                },
+                "condition": [
+                  {
+                    "fullExpression": "@local.asset !== \"\"",
+                    "matchedExpression": "@local.asset",
+                    "type": "local",
+                    "fieldName": "asset"
+                  }
+                ]
+              },
+              "_dynamicDependencies": {
+                "@local.asset": [
+                  "action_list.0.args.1",
+                  "action_list.0._raw",
+                  "action_list.0._cleaned",
+                  "condition"
                 ]
               }
             }
