@@ -529,7 +529,7 @@
     {
       "id": "message_18",
       "foreign_key": "week_1_chat_6",
-      "asset_type": "",
+      "asset_type": "images/thoughts_feelings.png",
       "asset": "",
       "ignore": 18,
       "title": "Message 5: Practise for the week",
@@ -547,13 +547,13 @@
           "eng": "Message 5: Practise for the week"
         },
         "text": {
-          "eng": "Great job! You’ve learned one way in which thoughts, feelings, and actions are connected. ✨\n\nHow we feel and act is affected by what we think. Similarly, how we think and act also affects our feelings. \n\nThink of it like a triangle: \n\n        Thoughts\n       /               \\\nActions  –  Feelings\n\n 💡 This week, try noticing this connection in your life or your girls, boys and teen’s. Type in the chat, record a voice note, or write down: \n\n1) A thought  that popped into your head or a situation that happened\n2) How it made you feel\n3) How the thought affected your actions\n\nThank you for participating in this chat session! 👋"
+          "eng": "Great job! You’ve learned one way in which thoughts, feelings, and actions are connected. ✨\n\nHow we feel and act is affected by what we think. Similarly, how we think and act also affects our feelings. \n\nThink of it like a triangle!\n\n 💡 This week, try noticing this connection in your life or your girls, boys and teen’s. Type in the chat, record a voice note, or write down: \n\n1) A thought  that popped into your head or a situation that happened\n2) How it made you feel\n3) How the thought affected your actions\n\nThank you for participating in this chat session! 👋"
         },
         "guidance": {
           "eng": "Allow parents to respond. You can reply to the parents with an emoji ⭐ or words of encouragement."
         }
       },
-      "text": "Great job! You’ve learned one way in which thoughts, feelings, and actions are connected. ✨\n\nHow we feel and act is affected by what we think. Similarly, how we think and act also affects our feelings. \n\nThink of it like a triangle: \n\n        Thoughts\n       /               \\\nActions  –  Feelings\n\n 💡 This week, try noticing this connection in your life or your girls, boys and teen’s. Type in the chat, record a voice note, or write down: \n\n1) A thought  that popped into your head or a situation that happened\n2) How it made you feel\n3) How the thought affected your actions\n\nThank you for participating in this chat session! 👋",
+      "text": "Great job! You’ve learned one way in which thoughts, feelings, and actions are connected. ✨\n\nHow we feel and act is affected by what we think. Similarly, how we think and act also affects our feelings. \n\nThink of it like a triangle!\n\n 💡 This week, try noticing this connection in your life or your girls, boys and teen’s. Type in the chat, record a voice note, or write down: \n\n1) A thought  that popped into your head or a situation that happened\n2) How it made you feel\n3) How the thought affected your actions\n\nThank you for participating in this chat session! 👋",
       "guidance": "Allow parents to respond. You can reply to the parents with an emoji ⭐ or words of encouragement."
     },
     {
