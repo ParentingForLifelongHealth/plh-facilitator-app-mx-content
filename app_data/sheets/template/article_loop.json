@@ -5,11 +5,9 @@
   "rows": [
     {
       "name": "active_index",
-      "value": "test",
+      "value": "test_1",
       "_translations": {
-        "value": {
-          "mx_es": true
-        }
+        "value": {}
       },
       "exclude_from_translation": true,
       "type": "set_variable",
@@ -572,10 +570,39 @@
           "_nested_name": "data_items_25.set_variable_4"
         },
         {
+          "type": "text",
+          "value": "@local.article_template_prefix@item.id",
+          "_translations": {
+            "value": {}
+          },
           "exclude_from_translation": true,
-          "type": "set_variable",
-          "name": "set_variable_5",
-          "_nested_name": "data_items_25.set_variable_5"
+          "condition": false,
+          "name": "text_5",
+          "_nested_name": "data_items_25.text_5",
+          "_dynamicFields": {
+            "value": [
+              {
+                "fullExpression": "@local.article_template_prefix@item.id",
+                "matchedExpression": "@local.article_template_prefix",
+                "type": "local",
+                "fieldName": "article_template_prefix"
+              },
+              {
+                "fullExpression": "@local.article_template_prefix@item.id",
+                "matchedExpression": "@item.id",
+                "type": "item",
+                "fieldName": "id"
+              }
+            ]
+          },
+          "_dynamicDependencies": {
+            "@local.article_template_prefix": [
+              "value"
+            ],
+            "@item.id": [
+              "value"
+            ]
+          }
         },
         {
           "type": "text",
@@ -936,7 +963,7 @@
             "style": "column"
           },
           "exclude_from_translation": true,
-          "condition": "(@local.active_index === \"test\")",
+          "condition": "(@local.active_index === \"test_1\")",
           "rows": [
             {
               "exclude_from_translation": true,
@@ -1151,7 +1178,7 @@
                 "style": "column"
               },
               "exclude_from_translation": true,
-              "condition": "!!(@local.found_not_completed) && (@item.id == @local.first_not_completed) && (@local.active_index == test)",
+              "condition": "!!(@local.found_not_completed) && (@item.id == @local.first_not_completed) && (@local.active_index == test_1)",
               "rows": [
                 {
                   "type": "text",
@@ -1372,25 +1399,25 @@
               "_dynamicFields": {
                 "condition": [
                   {
-                    "fullExpression": "!!(@local.found_not_completed) && (@item.id == @local.first_not_completed) && (@local.active_index == test)",
+                    "fullExpression": "!!(@local.found_not_completed) && (@item.id == @local.first_not_completed) && (@local.active_index == test_1)",
                     "matchedExpression": "@local.found_not_completed",
                     "type": "local",
                     "fieldName": "found_not_completed"
                   },
                   {
-                    "fullExpression": "!!(@local.found_not_completed) && (@item.id == @local.first_not_completed) && (@local.active_index == test)",
+                    "fullExpression": "!!(@local.found_not_completed) && (@item.id == @local.first_not_completed) && (@local.active_index == test_1)",
                     "matchedExpression": "@item.id",
                     "type": "item",
                     "fieldName": "id"
                   },
                   {
-                    "fullExpression": "!!(@local.found_not_completed) && (@item.id == @local.first_not_completed) && (@local.active_index == test)",
+                    "fullExpression": "!!(@local.found_not_completed) && (@item.id == @local.first_not_completed) && (@local.active_index == test_1)",
                     "matchedExpression": "@local.first_not_completed",
                     "type": "local",
                     "fieldName": "first_not_completed"
                   },
                   {
-                    "fullExpression": "!!(@local.found_not_completed) && (@item.id == @local.first_not_completed) && (@local.active_index == test)",
+                    "fullExpression": "!!(@local.found_not_completed) && (@item.id == @local.first_not_completed) && (@local.active_index == test_1)",
                     "matchedExpression": "@local.active_index",
                     "type": "local",
                     "fieldName": "active_index"
@@ -1514,7 +1541,7 @@
                 "style": "column"
               },
               "exclude_from_translation": true,
-              "condition": "!@local.found_not_completed && @item._last && (@local.active_index == test)",
+              "condition": "!@local.found_not_completed && @item._last && (@local.active_index == test_1)",
               "rows": [
                 {
                   "type": "text",
@@ -1787,19 +1814,19 @@
               "_dynamicFields": {
                 "condition": [
                   {
-                    "fullExpression": "!@local.found_not_completed && @item._last && (@local.active_index == test)",
+                    "fullExpression": "!@local.found_not_completed && @item._last && (@local.active_index == test_1)",
                     "matchedExpression": "!@local.found_not_completed",
                     "type": "local",
                     "fieldName": "found_not_completed"
                   },
                   {
-                    "fullExpression": "!@local.found_not_completed && @item._last && (@local.active_index == test)",
+                    "fullExpression": "!@local.found_not_completed && @item._last && (@local.active_index == test_1)",
                     "matchedExpression": "@item._last",
                     "type": "item",
                     "fieldName": "_last"
                   },
                   {
-                    "fullExpression": "!@local.found_not_completed && @item._last && (@local.active_index == test)",
+                    "fullExpression": "!@local.found_not_completed && @item._last && (@local.active_index == test_1)",
                     "matchedExpression": "@local.active_index",
                     "type": "local",
                     "fieldName": "active_index"
@@ -1824,7 +1851,7 @@
           "_dynamicFields": {
             "condition": [
               {
-                "fullExpression": "(@local.active_index === \"test\")",
+                "fullExpression": "(@local.active_index === \"test_1\")",
                 "matchedExpression": "@local.active_index",
                 "type": "local",
                 "fieldName": "active_index"
