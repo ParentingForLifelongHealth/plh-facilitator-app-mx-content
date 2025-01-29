@@ -13,7 +13,9 @@
         "title": {
           "mx_es": true
         },
-        "description": {}
+        "description": {
+          "mx_es": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -228,7 +230,9 @@
       "report_id": "pcc",
       "title": "Optional Parenting Children in a Crisis",
       "_translations": {
-        "title": {}
+        "title": {
+          "mx_es": true
+        }
       },
       "_translatedFields": {
         "title": {

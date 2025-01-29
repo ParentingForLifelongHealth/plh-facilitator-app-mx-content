@@ -46,7 +46,9 @@
       "name": "group_desc",
       "value": "Manage Existing Groups",
       "_translations": {
-        "value": {}
+        "value": {
+          "mx_es": true
+        }
       },
       "_nested_name": "group_desc"
     },
@@ -207,7 +209,9 @@
           "name": "add_group",
           "value": "Create New Group",
           "_translations": {
-            "value": {}
+            "value": {
+              "mx_es": true
+            }
           },
           "action_list": [
             {

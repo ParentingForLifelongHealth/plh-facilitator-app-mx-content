@@ -162,7 +162,9 @@
       "ignore": 8,
       "text": "This is your final chat session with the group.You should congratulate yourself for taking the parents through the Crianza con Conciencia+ journey and celebrate with them the positive changes in their lives and for their girls, boys, and teens.\n\nIn this chat session, you will also help parents understand how they can use pleasant emotions to improve the well-being of themselves and their child or teen. \n\nYou can choose to stay or leave the WhatsApp Group after the program ends.",
       "_translations": {
-        "text": {}
+        "text": {
+          "mx_es": true
+        }
       },
       "_translatedFields": {
         "text": {
@@ -181,7 +183,9 @@
       "ignore": 9,
       "text": "Parents play an important role in supporting children during a crisis. If tough times come for your community, consider sharing these 16 tips to help parents in their moment of need.",
       "_translations": {
-        "text": {}
+        "text": {
+          "mx_es": true
+        }
       },
       "_translatedFields": {
         "text": {

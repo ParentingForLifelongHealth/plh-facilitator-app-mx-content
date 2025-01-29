@@ -8,7 +8,9 @@
       "type": "text",
       "question": "How many minutes did it take you to prepare for this session?",
       "_translations": {
-        "question": {}
+        "question": {
+          "mx_es": true
+        }
       },
       "_translatedFields": {
         "question": {
@@ -36,7 +38,9 @@
       "type": "text",
       "question": "How many minutes did it take you to deliver the sessions?",
       "_translations": {
-        "question": {}
+        "question": {
+          "mx_es": true
+        }
       },
       "_translatedFields": {
         "question": {
@@ -49,7 +53,9 @@
       "type": "select",
       "question": "Which of the parents in this group attended your in-person session?",
       "_translations": {
-        "question": {}
+        "question": {
+          "mx_es": true
+        }
       },
       "_translatedFields": {
         "question": {
