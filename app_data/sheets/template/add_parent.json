@@ -43,7 +43,9 @@
           "type": "text",
           "value": "First Name",
           "_translations": {
-            "value": {}
+            "value": {
+              "mx_es": true
+            }
           },
           "name": "text_1",
           "_nested_name": "display_group_5.text_1"
@@ -77,7 +79,9 @@
           "type": "text",
           "value": "Last Name",
           "_translations": {
-            "value": {}
+            "value": {
+              "mx_es": true
+            }
           },
           "name": "text_3",
           "_nested_name": "display_group_5.text_3"
@@ -535,7 +539,9 @@
               "name": "save",
               "value": "Save Profile",
               "_translations": {
-                "value": {}
+                "value": {
+                  "mx_es": true
+                }
               },
               "action_list": [
                 {
@@ -704,7 +710,9 @@
               "name": "save_new",
               "value": "Save and Add New",
               "_translations": {
-                "value": {}
+                "value": {
+                  "mx_es": true
+                }
               },
               "action_list": [
                 {

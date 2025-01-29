@@ -129,7 +129,9 @@
       ],
       "name": "Optional Report: Parenting Children in Crisis",
       "_translations": {
-        "name": {}
+        "name": {
+          "mx_es": true
+        }
       },
       "_translatedFields": {
         "name": {

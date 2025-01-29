@@ -69,7 +69,9 @@
       "image": "images/day_3_mh_stress_self_talk.svg",
       "title": "Parenting Children in Crisis",
       "_translations": {
-        "title": {}
+        "title": {
+          "mx_es": true
+        }
       },
       "_translatedFields": {
         "title": {

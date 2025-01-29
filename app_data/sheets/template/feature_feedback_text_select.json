@@ -74,7 +74,9 @@
           "name": "button_cancel",
           "value": "Cancel",
           "_translations": {
-            "value": {}
+            "value": {
+              "mx_es": true
+            }
           },
           "action_list": [
             {

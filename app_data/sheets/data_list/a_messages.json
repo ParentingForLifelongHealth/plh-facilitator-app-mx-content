@@ -141,7 +141,9 @@
         "title": {
           "mx_es": true
         },
-        "text": {},
+        "text": {
+          "mx_es": true
+        },
         "guidance": {
           "mx_es": true
         }
@@ -233,7 +235,9 @@
         "title": {
           "mx_es": true
         },
-        "text": {},
+        "text": {
+          "mx_es": true
+        },
         "guidance": {
           "mx_es": true
         }
@@ -327,7 +331,9 @@
         "title": {
           "mx_es": true
         },
-        "text": {},
+        "text": {
+          "mx_es": true
+        },
         "guidance": {}
       },
       "_translatedFields": {
@@ -417,7 +423,9 @@
         "title": {
           "mx_es": true
         },
-        "text": {},
+        "text": {
+          "mx_es": true
+        },
         "guidance": {
           "mx_es": true
         }
@@ -447,7 +455,9 @@
         "title": {
           "mx_es": true
         },
-        "text": {},
+        "text": {
+          "mx_es": true
+        },
         "guidance": {
           "mx_es": true
         }
@@ -477,7 +487,9 @@
         "title": {
           "mx_es": true
         },
-        "text": {},
+        "text": {
+          "mx_es": true
+        },
         "guidance": {
           "mx_es": true
         }
@@ -507,7 +519,9 @@
         "title": {
           "mx_es": true
         },
-        "text": {},
+        "text": {
+          "mx_es": true
+        },
         "guidance": {
           "mx_es": true
         }
@@ -537,7 +551,9 @@
         "title": {
           "mx_es": true
         },
-        "text": {},
+        "text": {
+          "mx_es": true
+        },
         "guidance": {
           "mx_es": true
         }
@@ -567,7 +583,9 @@
         "title": {
           "mx_es": true
         },
-        "text": {},
+        "text": {
+          "mx_es": true
+        },
         "guidance": {
           "mx_es": true
         }
@@ -597,7 +615,9 @@
         "title": {
           "mx_es": true
         },
-        "text": {},
+        "text": {
+          "mx_es": true
+        },
         "guidance": {
           "mx_es": true
         }
@@ -627,7 +647,9 @@
         "title": {
           "mx_es": true
         },
-        "text": {},
+        "text": {
+          "mx_es": true
+        },
         "guidance": {}
       },
       "_translatedFields": {
@@ -652,9 +674,15 @@
       "ignore": 22,
       "title": "Message 4: Example",
       "_translations": {
-        "title": {},
-        "text": {},
-        "guidance": {}
+        "title": {
+          "mx_es": true
+        },
+        "text": {
+          "mx_es": true
+        },
+        "guidance": {
+          "mx_es": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -681,7 +709,9 @@
         "title": {
           "mx_es": true
         },
-        "text": {},
+        "text": {
+          "mx_es": true
+        },
         "guidance": {}
       },
       "_translatedFields": {
@@ -709,7 +739,9 @@
         "title": {
           "mx_es": true
         },
-        "text": {},
+        "text": {
+          "mx_es": true
+        },
         "guidance": {
           "mx_es": true
         }
@@ -739,7 +771,9 @@
         "title": {
           "mx_es": true
         },
-        "text": {},
+        "text": {
+          "mx_es": true
+        },
         "guidance": {
           "mx_es": true
         }
@@ -769,7 +803,9 @@
         "title": {
           "mx_es": true
         },
-        "text": {},
+        "text": {
+          "mx_es": true
+        },
         "guidance": {
           "mx_es": true
         }
@@ -799,7 +835,9 @@
         "title": {
           "mx_es": true
         },
-        "text": {},
+        "text": {
+          "mx_es": true
+        },
         "guidance": {
           "mx_es": true
         }
@@ -829,7 +867,9 @@
         "title": {
           "mx_es": true
         },
-        "text": {},
+        "text": {
+          "mx_es": true
+        },
         "guidance": {}
       },
       "_translatedFields": {
@@ -857,7 +897,9 @@
         "title": {
           "mx_es": true
         },
-        "text": {},
+        "text": {
+          "mx_es": true
+        },
         "guidance": {
           "mx_es": true
         }
@@ -887,7 +929,9 @@
         "title": {
           "mx_es": true
         },
-        "text": {},
+        "text": {
+          "mx_es": true
+        },
         "guidance": {
           "mx_es": true
         }
@@ -917,8 +961,12 @@
         "title": {
           "mx_es": true
         },
-        "text": {},
-        "guidance": {}
+        "text": {
+          "mx_es": true
+        },
+        "guidance": {
+          "mx_es": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -945,8 +993,12 @@
         "title": {
           "mx_es": true
         },
-        "text": {},
-        "guidance": {}
+        "text": {
+          "mx_es": true
+        },
+        "guidance": {
+          "mx_es": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -973,7 +1025,9 @@
         "title": {
           "mx_es": true
         },
-        "text": {},
+        "text": {
+          "mx_es": true
+        },
         "guidance": {}
       },
       "_translatedFields": {
@@ -1001,7 +1055,9 @@
         "title": {
           "mx_es": true
         },
-        "text": {},
+        "text": {
+          "mx_es": true
+        },
         "guidance": {}
       },
       "_translatedFields": {
@@ -1026,7 +1082,9 @@
       "ignore": 35,
       "title": "Tip 1",
       "_translations": {
-        "title": {},
+        "title": {
+          "mx_es": true
+        },
         "text": {},
         "guidance": {}
       },
@@ -1052,7 +1110,9 @@
       "ignore": 36,
       "title": "Tip 2",
       "_translations": {
-        "title": {},
+        "title": {
+          "mx_es": true
+        },
         "text": {},
         "guidance": {}
       },
@@ -1078,7 +1138,9 @@
       "ignore": 37,
       "title": "Tip 3",
       "_translations": {
-        "title": {},
+        "title": {
+          "mx_es": true
+        },
         "text": {},
         "guidance": {}
       },
@@ -1104,7 +1166,9 @@
       "ignore": 38,
       "title": "Tip 4",
       "_translations": {
-        "title": {},
+        "title": {
+          "mx_es": true
+        },
         "text": {},
         "guidance": {}
       },
@@ -1130,7 +1194,9 @@
       "ignore": 39,
       "title": "Tip 5",
       "_translations": {
-        "title": {},
+        "title": {
+          "mx_es": true
+        },
         "text": {},
         "guidance": {}
       },
@@ -1156,7 +1222,9 @@
       "ignore": 40,
       "title": "Tip 6",
       "_translations": {
-        "title": {},
+        "title": {
+          "mx_es": true
+        },
         "text": {},
         "guidance": {}
       },
@@ -1182,7 +1250,9 @@
       "ignore": 41,
       "title": "Tip 7",
       "_translations": {
-        "title": {},
+        "title": {
+          "mx_es": true
+        },
         "text": {},
         "guidance": {}
       },
@@ -1208,7 +1278,9 @@
       "ignore": 42,
       "title": "Tip 8",
       "_translations": {
-        "title": {},
+        "title": {
+          "mx_es": true
+        },
         "text": {},
         "guidance": {}
       },
@@ -1234,7 +1306,9 @@
       "ignore": 43,
       "title": "Tip 9",
       "_translations": {
-        "title": {},
+        "title": {
+          "mx_es": true
+        },
         "text": {},
         "guidance": {}
       },
@@ -1260,7 +1334,9 @@
       "ignore": 44,
       "title": "Tip 10",
       "_translations": {
-        "title": {},
+        "title": {
+          "mx_es": true
+        },
         "text": {},
         "guidance": {}
       },
@@ -1286,7 +1362,9 @@
       "ignore": 45,
       "title": "Tip 11",
       "_translations": {
-        "title": {},
+        "title": {
+          "mx_es": true
+        },
         "text": {},
         "guidance": {}
       },
@@ -1312,7 +1390,9 @@
       "ignore": 46,
       "title": "Tip 12",
       "_translations": {
-        "title": {},
+        "title": {
+          "mx_es": true
+        },
         "text": {},
         "guidance": {}
       },
@@ -1338,7 +1418,9 @@
       "ignore": 47,
       "title": "Tip 13",
       "_translations": {
-        "title": {},
+        "title": {
+          "mx_es": true
+        },
         "text": {},
         "guidance": {}
       },
@@ -1364,7 +1446,9 @@
       "ignore": 48,
       "title": "Tip 14",
       "_translations": {
-        "title": {},
+        "title": {
+          "mx_es": true
+        },
         "text": {},
         "guidance": {}
       },
@@ -1390,7 +1474,9 @@
       "ignore": 49,
       "title": "Tip 15",
       "_translations": {
-        "title": {},
+        "title": {
+          "mx_es": true
+        },
         "text": {},
         "guidance": {}
       },
@@ -1416,7 +1502,9 @@
       "ignore": 50,
       "title": "Tip 16",
       "_translations": {
-        "title": {},
+        "title": {
+          "mx_es": true
+        },
         "text": {},
         "guidance": {}
       },

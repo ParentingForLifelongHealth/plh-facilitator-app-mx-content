@@ -43,7 +43,9 @@
           "type": "text",
           "value": "First Name",
           "_translations": {
-            "value": {}
+            "value": {
+              "mx_es": true
+            }
           },
           "name": "text_1",
           "_nested_name": "display_group_5.text_1"
@@ -104,7 +106,9 @@
           "type": "text",
           "value": "Last Name",
           "_translations": {
-            "value": {}
+            "value": {
+              "mx_es": true
+            }
           },
           "name": "text_3",
           "_nested_name": "display_group_5.text_3"

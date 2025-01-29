@@ -34,7 +34,9 @@
           "name": "display_title",
           "value": "Parenting Children in Crisis",
           "_translations": {
-            "value": {}
+            "value": {
+              "mx_es": true
+            }
           },
           "exclude_from_translation": true,
           "type": "set_variable",

@@ -300,7 +300,9 @@
       "name": "very_poorly",
       "value": "Very Poorly",
       "_translations": {
-        "value": {}
+        "value": {
+          "mx_es": true
+        }
       },
       "type": "set_variable",
       "_nested_name": "very_poorly"
@@ -434,7 +436,9 @@
       "name": "question_4",
       "value": "Which of the parents in this group attended your in-person session?",
       "_translations": {
-        "value": {}
+        "value": {
+          "mx_es": true
+        }
       },
       "_nested_name": "question_4"
     },

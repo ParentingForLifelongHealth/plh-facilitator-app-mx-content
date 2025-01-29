@@ -70,7 +70,9 @@
       "name": "settings",
       "value": "Settings",
       "_translations": {
-        "value": {}
+        "value": {
+          "mx_es": true
+        }
       },
       "parameter_list": {
         "variant": "page_banner"
@@ -164,7 +166,9 @@
           "name": "button_language",
           "value": "Switch language",
           "_translations": {
-            "value": {}
+            "value": {
+              "mx_es": true
+            }
           },
           "parameter_list": {
             "variant": "card",
@@ -219,7 +223,9 @@
           "name": "button_user_id",
           "value": "Your Facilitator Code",
           "_translations": {
-            "value": {}
+            "value": {
+              "mx_es": true
+            }
           },
           "parameter_list": {
             "variant": "card",
@@ -334,7 +340,9 @@
       "name": "parent",
       "value": "Parent Actions",
       "_translations": {
-        "value": {}
+        "value": {
+          "mx_es": true
+        }
       },
       "parameter_list": {
         "variant": "section_banner"

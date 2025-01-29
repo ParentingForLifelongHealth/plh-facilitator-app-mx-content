@@ -14,8 +14,12 @@
         "title": {
           "mx_es": true
         },
-        "text": {},
-        "button_text": {},
+        "text": {
+          "mx_es": true
+        },
+        "button_text": {
+          "mx_es": true
+        },
         "extra_text": {}
       },
       "_translatedFields": {
@@ -46,9 +50,15 @@
         "title": {
           "mx_es": true
         },
-        "text": {},
-        "button_text": {},
-        "extra_text": {}
+        "text": {
+          "mx_es": true
+        },
+        "button_text": {
+          "mx_es": true
+        },
+        "extra_text": {
+          "mx_es": true
+        }
       },
       "_translatedFields": {
         "title": {

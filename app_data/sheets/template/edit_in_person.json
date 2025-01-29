@@ -124,7 +124,9 @@
       "name": "question_1",
       "value": "How many minutes did it take you to prepare for this session?",
       "_translations": {
-        "value": {}
+        "value": {
+          "mx_es": true
+        }
       },
       "_nested_name": "question_1"
     },
@@ -228,7 +230,9 @@
       "name": "question_3",
       "value": "How many minutes did it take you to deliver the sessions?",
       "_translations": {
-        "value": {}
+        "value": {
+          "mx_es": true
+        }
       },
       "_nested_name": "question_3"
     },
@@ -279,7 +283,9 @@
       "name": "question_4",
       "value": "Which of the parents in this group attended your in-person session?",
       "_translations": {
-        "value": {}
+        "value": {
+          "mx_es": true
+        }
       },
       "_nested_name": "question_4"
     },

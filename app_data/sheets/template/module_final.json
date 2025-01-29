@@ -7,7 +7,9 @@
       "name": "module_id",
       "value": "test",
       "_translations": {
-        "value": {}
+        "value": {
+          "mx_es": true
+        }
       },
       "exclude_from_translation": true,
       "type": "set_variable",
@@ -17,7 +19,9 @@
       "name": "module_name",
       "value": "test",
       "_translations": {
-        "value": {}
+        "value": {
+          "mx_es": true
+        }
       },
       "exclude_from_translation": true,
       "type": "set_variable",
@@ -213,7 +217,9 @@
           "name": "finish_text",
           "value": "You successfully completed the report for this session!",
           "_translations": {
-            "value": {}
+            "value": {
+              "mx_es": true
+            }
           },
           "condition": "@fields.current_module_no == @item.module_id && @item.group_id == @field.current_group_no",
           "_nested_name": "data_items_10.finish_text",
@@ -265,7 +271,9 @@
           "name": "existing_report",
           "value": "Review Report",
           "_translations": {
-            "value": {}
+            "value": {
+              "mx_es": true
+            }
           },
           "action_list": [
             {
@@ -411,7 +419,9 @@
               "name": "new_report",
               "value": "Submit Report",
               "_translations": {
-                "value": {}
+                "value": {
+                  "mx_es": true
+                }
               },
               "action_list": [
                 {
@@ -494,7 +504,9 @@
       "name": "support",
       "value": "Get Support",
       "_translations": {
-        "value": {}
+        "value": {
+          "mx_es": true
+        }
       },
       "action_list": [
         {
