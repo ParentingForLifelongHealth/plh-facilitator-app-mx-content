@@ -9,16 +9,37 @@
       "_nested_name": "icon_asset"
     },
     {
+      "name": "title",
+      "type": "set_variable",
+      "_nested_name": "title"
+    },
+    {
       "type": "display_group",
       "name": "dg_header",
       "rows": [
         {
           "type": "title",
-          "name": "title",
+          "name": "print_title",
+          "condition": "!!@local.title",
           "style_list": [
             "flex:3"
           ],
-          "_nested_name": "dg_header.title"
+          "_nested_name": "dg_header.print_title",
+          "_dynamicFields": {
+            "condition": [
+              {
+                "fullExpression": "!!@local.title",
+                "matchedExpression": "!@local.title",
+                "type": "local",
+                "fieldName": "title"
+              }
+            ]
+          },
+          "_dynamicDependencies": {
+            "!@local.title": [
+              "condition"
+            ]
+          }
         },
         {
           "type": "image",
