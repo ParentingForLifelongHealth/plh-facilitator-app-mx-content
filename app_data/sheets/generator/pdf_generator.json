@@ -56,11 +56,6 @@
       "flow_type": "template"
     },
     {
-      "flow_name": "pdf_onboard_guide_study",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    {
       "flow_name": "pdf_more_info",
       "flow_subtype": "generated",
       "flow_type": "template"

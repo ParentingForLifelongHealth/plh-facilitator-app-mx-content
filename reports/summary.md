@@ -21,15 +21,15 @@
 | pdf | 1 |
 | qr_code | 1 |
 | radio_button_grid | 8 |
-| round_button | 30 |
+| round_button | 32 |
 | select_text | 1 |
 | set_field | 1 |
-| set_variable | 833 |
+| set_variable | 826 |
 | simple_checkbox | 2 |
 | task_card | 3 |
 | task_progress_bar | 2 |
-| template | 211 |
-| text | 163 |
+| template | 207 |
+| text | 164 |
 | text_area | 2 |
 | text_box | 24 |
 | title | 36 |
@@ -45,13 +45,13 @@
 | --- | --- |
 | add_data | 5 |
 | app_update | 1 |
-| emit: completed | 30 |
+| emit: completed | 29 |
 | emit: force_reload | 4 |
 | emit: force_reprocess | 9 |
 | emit: force_restart | 3 |
 | emit: server_sync | 4 |
 | emit: set_language | 1 |
-| emit: uncompleted | 72 |
+| emit: uncompleted | 70 |
 | feedback | 13 |
 | go_to | 36 |
 | nav_stack | 4 |
@@ -71,7 +71,7 @@
 
 | assets | KB | MB |
 | --- | --- | --- |
-| total | 8600 KB | 8.6 MB |
+| total | 7553 KB | 7.6 MB |
 | unused | 1344 KB | 1.3 MB |
 </details>
 
@@ -181,7 +181,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/backgrounds/reports_top_right.svg | 2 | 1 |
 | images/day_1_introduction.svg | 6.7 | 1 |
 | images/day_3_check_in.svg | 6.5 | 1 |
-| images/day_3_mh_stress_self_talk.svg | 5.4 | 6 |
+| images/day_3_mh_stress_self_talk.svg | 5.4 | 5 |
 | images/day_4_check_in.svg | 11.3 | 2 |
 | images/faq_h_parents_insult.svg | 12.5 | 1 |
 | images/faq_h_self_harm.svg | 14.9 | 1 |
@@ -245,7 +245,6 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/thoughts_feelings.png | 87.6 | 1 |
 | lottie/gift_box.json | 94.2 | 1 |
 | pdf/manual.pdf | 1213 | 1 |
-| pdf/manual_study.pdf | 1047 | 1 |
 | pdf/overview_guide_study.pdf | 2252.6 | 1 |
 | pdf/peas.pdf | 590.3 | 1 |
 | pdf/programme_details.pdf | 123 | 1 |
@@ -263,11 +262,11 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | data_list | lifecycle_actions | 1 |
 | data_pipe |  | 2 |
 | data_pipe | generated | 57 |
-| generator |  | 11 |
+| generator |  | 10 |
 | global |  | 11 |
 | global | legal_terms | 1 |
 | template |  | 75 |
-| template | generated | 164 |
+| template | generated | 162 |
 | template | legal_terms | 4 |
 | template | menu | 1 |
 </details>
