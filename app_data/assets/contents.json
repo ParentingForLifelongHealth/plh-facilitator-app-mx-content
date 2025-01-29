@@ -43,6 +43,10 @@
     "md5Checksum": "a59168c9e9ce9f722cda2c54f3eae369",
     "size_kb": 2.3
   },
+  "images/backgrounds/library_top_right.svg": {
+    "md5Checksum": "2a8f32d264768ab0036997f6026883df",
+    "size_kb": 0.3
+  },
   "images/backgrounds/report_edit.svg": {
     "md5Checksum": "3e4a45f91225fc7b3abcc9ada2961143",
     "size_kb": 0.2
@@ -539,6 +543,10 @@
     "md5Checksum": "694bc272bb2cc36de45efd3e3b259918",
     "size_kb": 19.3
   },
+  "images/thoughts_feelings.png": {
+    "md5Checksum": "77551fb1df949e4841bcdfe55366ab82",
+    "size_kb": 87.6
+  },
   "images/what_is_safeguarding.svg": {
     "md5Checksum": "720cf48f780d84ba2d4810c4befeee45",
     "size_kb": 5.6
@@ -556,8 +564,8 @@
     "size_kb": 209.4
   },
   "pdf/manual.pdf": {
-    "md5Checksum": "9188c320eec37ad742fb641aef69006f",
-    "size_kb": 470.3
+    "md5Checksum": "d47a912c7ae7de3f23e6c60e928b8fb1",
+    "size_kb": 1213
   },
   "pdf/manual_study.pdf": {
     "md5Checksum": "150ff71569a822bda0f3a02786ccfd0a",
