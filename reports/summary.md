@@ -71,8 +71,8 @@
 
 | assets | KB | MB |
 | --- | --- | --- |
-| total | 8513 KB | 8.5 MB |
-| unused | 1432 KB | 1.4 MB |
+| total | 8600 KB | 8.6 MB |
+| unused | 1344 KB | 1.3 MB |
 </details>
 
 <details open>
@@ -152,7 +152,6 @@ Assets that appear in app-data but do not have references within sheets
 | images/person_cog.png | 0.8 |
 | images/praise_challenges.svg | 20.6 |
 | images/routine_challenges.svg | 20.5 |
-| images/thoughts_feelings.png | 87.6 |
 | images/what_is_safeguarding.svg | 5.6 |
 | lottie/felicidades.json | 94.2 |
 | odk_forms/eplh_pilot_facilitator_weekly_survey_combined.json | 209.4 |
@@ -243,6 +242,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/pcc_8.png | 179.8 | 1 |
 | images/pcc_9.png | 158.4 | 1 |
 | images/talk_feelings_challenges.svg | 19.3 | 1 |
+| images/thoughts_feelings.png | 87.6 | 1 |
 | lottie/gift_box.json | 94.2 | 1 |
 | pdf/manual.pdf | 1213 | 1 |
 | pdf/manual_study.pdf | 1047 | 1 |

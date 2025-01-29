@@ -227,13 +227,13 @@
     "data": [
       {
         "assets": "total",
-        "KB": "8513 KB",
-        "MB": "8.5 MB"
+        "KB": "8600 KB",
+        "MB": "8.6 MB"
       },
       {
         "assets": "unused",
-        "KB": "1432 KB",
-        "MB": "1.4 MB"
+        "KB": "1344 KB",
+        "MB": "1.3 MB"
       }
     ]
   },
@@ -518,10 +518,6 @@
       {
         "path": "images/routine_challenges.svg",
         "size_kb": 20.5
-      },
-      {
-        "path": "images/thoughts_feelings.png",
-        "size_kb": 87.6
       },
       {
         "path": "images/what_is_safeguarding.svg",
@@ -887,6 +883,11 @@
         "path": "images/talk_feelings_challenges.svg",
         "count": 1,
         "size_kb": 19.3
+      },
+      {
+        "path": "images/thoughts_feelings.png",
+        "count": 1,
+        "size_kb": 87.6
       },
       {
         "path": "lottie/gift_box.json",
