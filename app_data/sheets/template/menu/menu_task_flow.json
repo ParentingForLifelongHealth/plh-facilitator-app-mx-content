@@ -153,6 +153,7 @@
                 {
                   "type": "combo_box",
                   "name": "selected_group",
+                  "value": "@fields.current_group_no",
                   "action_list": [
                     {
                       "trigger": "changed",
@@ -161,8 +162,8 @@
                         "current_group_no",
                         "this.value"
                       ],
-                      "_raw": "changed | set_field: current_group_no: @local.selected_group",
-                      "_cleaned": "changed | set_field: current_group_no: @local.selected_group"
+                      "_raw": "changed | set_field: current_group_no: this.value",
+                      "_cleaned": "changed | set_field: current_group_no: this.value"
                     },
                     {
                       "trigger": "changed",
@@ -215,25 +216,15 @@
                   ],
                   "_nested_name": "dg_top.dg_top_column.dg_top_row.selected_group",
                   "_dynamicFields": {
+                    "value": [
+                      {
+                        "fullExpression": "@fields.current_group_no",
+                        "matchedExpression": "@fields.current_group_no",
+                        "type": "fields",
+                        "fieldName": "current_group_no"
+                      }
+                    ],
                     "action_list": {
-                      "0": {
-                        "_raw": [
-                          {
-                            "fullExpression": "changed | set_field: current_group_no: @local.selected_group",
-                            "matchedExpression": "@local.selected_group",
-                            "type": "local",
-                            "fieldName": "selected_group"
-                          }
-                        ],
-                        "_cleaned": [
-                          {
-                            "fullExpression": "changed | set_field: current_group_no: @local.selected_group",
-                            "matchedExpression": "@local.selected_group",
-                            "type": "local",
-                            "fieldName": "selected_group"
-                          }
-                        ]
-                      },
                       "1": {
                         "_raw": [
                           {
@@ -283,9 +274,8 @@
                     }
                   },
                   "_dynamicDependencies": {
-                    "@local.selected_group": [
-                      "action_list.0._raw",
-                      "action_list.0._cleaned"
+                    "@fields.current_group_no": [
+                      "value"
                     ],
                     "@local.completed_prefix": [
                       "action_list.1._raw",
