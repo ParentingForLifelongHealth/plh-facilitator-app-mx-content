@@ -20,21 +20,6 @@
       }
     },
     {
-      "id": "onboard_guide_study",
-      "pdf_asset": "pdf/manual_study.pdf",
-      "title": "Onboarding Guide",
-      "_translations": {
-        "title": {
-          "mx_es": true
-        }
-      },
-      "_translatedFields": {
-        "title": {
-          "eng": "Onboarding Guide"
-        }
-      }
-    },
-    {
       "id": "more_info",
       "pdf_asset": "pdf/programme_details.pdf",
       "title": "Programme Details",

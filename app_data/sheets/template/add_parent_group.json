@@ -165,10 +165,27 @@
       "type": "text_box",
       "name": "text_box",
       "parameter_list": {
-        "placeholder": "Group Name"
+        "placeholder": "@local.text_group_name"
       },
       "exclude_from_translation": true,
-      "_nested_name": "text_box"
+      "_nested_name": "text_box",
+      "_dynamicFields": {
+        "parameter_list": {
+          "placeholder": [
+            {
+              "fullExpression": "@local.text_group_name",
+              "matchedExpression": "@local.text_group_name",
+              "type": "local",
+              "fieldName": "text_group_name"
+            }
+          ]
+        }
+      },
+      "_dynamicDependencies": {
+        "@local.text_group_name": [
+          "parameter_list.placeholder"
+        ]
+      }
     },
     {
       "exclude_from_translation": true,
