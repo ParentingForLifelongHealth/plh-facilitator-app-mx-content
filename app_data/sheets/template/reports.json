@@ -63,6 +63,19 @@
                 {
                   "type": "combo_box",
                   "name": "report_group",
+                  "value": "@fields.current_group_no",
+                  "action_list": [
+                    {
+                      "trigger": "changed",
+                      "action_id": "set_field",
+                      "args": [
+                        "current_group_no",
+                        "this.value"
+                      ],
+                      "_raw": "changed | set_field: current_group_no: this.value",
+                      "_cleaned": "changed | set_field: current_group_no: this.value"
+                    }
+                  ],
                   "parameter_list": {
                     "placeholder": "@global.select_group",
                     "disabled_text": "@global.no_groups",
@@ -102,6 +115,14 @@
                   ],
                   "_nested_name": "dg_top.dg_top_column.dg_top_row.report_group",
                   "_dynamicFields": {
+                    "value": [
+                      {
+                        "fullExpression": "@fields.current_group_no",
+                        "matchedExpression": "@fields.current_group_no",
+                        "type": "fields",
+                        "fieldName": "current_group_no"
+                      }
+                    ],
                     "parameter_list": {
                       "placeholder": [
                         {
@@ -122,6 +143,9 @@
                     }
                   },
                   "_dynamicDependencies": {
+                    "@fields.current_group_no": [
+                      "value"
+                    ],
                     "@global.select_group": [
                       "parameter_list.placeholder"
                     ],

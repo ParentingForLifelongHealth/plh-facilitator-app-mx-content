@@ -2383,18 +2383,6 @@
         }
       ]
     },
-    "gen_menus": {
-      "flow_type": "generator",
-      "flow_name": "gen_menus",
-      "parameter_list": {
-        "input_data_list": "menus",
-        "output_flow_name": "sub_item_{@gen.loop_id}",
-        "output_flow_type": "template",
-        "output_flow_subtype": "generated"
-      },
-      "_xlsxPath": "templates/menu_sub_tasks.xlsx",
-      "_output_flows": []
-    },
     "gen_prep_sub_items": {
       "flow_type": "generator",
       "flow_name": "gen_prep_sub_items",

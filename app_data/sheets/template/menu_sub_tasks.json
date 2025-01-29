@@ -11,6 +11,7 @@
           "mx_es": true
         }
       },
+      "exclude_from_translation": true,
       "type": "set_variable",
       "_nested_name": "menu_id"
     },
@@ -20,6 +21,7 @@
       "_translations": {
         "value": {}
       },
+      "exclude_from_translation": true,
       "type": "set_variable",
       "_nested_name": "type"
     },
@@ -60,6 +62,7 @@
           "_translations": {
             "value": {}
           },
+          "exclude_from_translation": true,
           "type": "set_variable",
           "_nested_name": "menu_sub_tasks_base.click_prefix"
         }

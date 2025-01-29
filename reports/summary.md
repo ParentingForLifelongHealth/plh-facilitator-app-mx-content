@@ -24,7 +24,7 @@
 | round_button | 30 |
 | select_text | 1 |
 | set_field | 1 |
-| set_variable | 831 |
+| set_variable | 833 |
 | simple_checkbox | 2 |
 | task_card | 3 |
 | task_progress_bar | 2 |
@@ -45,13 +45,13 @@
 | --- | --- |
 | add_data | 5 |
 | app_update | 1 |
-| emit: completed | 25 |
+| emit: completed | 30 |
 | emit: force_reload | 4 |
 | emit: force_reprocess | 9 |
 | emit: force_restart | 3 |
 | emit: server_sync | 4 |
 | emit: set_language | 1 |
-| emit: uncompleted | 67 |
+| emit: uncompleted | 72 |
 | feedback | 13 |
 | go_to | 36 |
 | nav_stack | 4 |
@@ -59,7 +59,7 @@
 | reset_app | 1 |
 | save_to_device | 4 |
 | set_data | 19 |
-| set_field | 53 |
+| set_field | 54 |
 | set_item | 10 |
 | set_local | 23 |
 | share | 3 |

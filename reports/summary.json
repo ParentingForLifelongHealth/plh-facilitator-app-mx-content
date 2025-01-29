@@ -87,7 +87,7 @@
       },
       {
         "type": "set_variable",
-        "count": 831
+        "count": 833
       },
       {
         "type": "simple_checkbox",
@@ -147,7 +147,7 @@
       },
       {
         "type": "emit: completed",
-        "count": 25
+        "count": 30
       },
       {
         "type": "emit: force_reload",
@@ -171,7 +171,7 @@
       },
       {
         "type": "emit: uncompleted",
-        "count": 67
+        "count": 72
       },
       {
         "type": "feedback",
@@ -203,7 +203,7 @@
       },
       {
         "type": "set_field",
-        "count": 53
+        "count": 54
       },
       {
         "type": "set_item",
