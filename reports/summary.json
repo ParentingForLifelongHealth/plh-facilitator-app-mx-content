@@ -15,7 +15,7 @@
       },
       {
         "type": "button",
-        "count": 74
+        "count": 73
       },
       {
         "type": "carousel",
@@ -27,7 +27,7 @@
       },
       {
         "type": "data_items",
-        "count": 25
+        "count": 26
       },
       {
         "type": "debug_toggle",
@@ -35,7 +35,7 @@
       },
       {
         "type": "display_grid",
-        "count": 4
+        "count": 3
       },
       {
         "type": "display_group",
@@ -47,11 +47,11 @@
       },
       {
         "type": "image",
-        "count": 9
+        "count": 10
       },
       {
         "type": "items",
-        "count": 31
+        "count": 30
       },
       {
         "type": "lottie_animation",
@@ -95,7 +95,7 @@
       },
       {
         "type": "task_card",
-        "count": 2
+        "count": 3
       },
       {
         "type": "task_progress_bar",
@@ -107,7 +107,7 @@
       },
       {
         "type": "text",
-        "count": 162
+        "count": 163
       },
       {
         "type": "text_area",
@@ -227,13 +227,13 @@
     "data": [
       {
         "assets": "total",
-        "KB": "8018 KB",
-        "MB": "8 MB"
+        "KB": "8513 KB",
+        "MB": "8.5 MB"
       },
       {
         "assets": "unused",
-        "KB": "1096 KB",
-        "MB": "1.1 MB"
+        "KB": "1432 KB",
+        "MB": "1.4 MB"
       }
     ]
   },
@@ -268,16 +268,76 @@
         "size_kb": 0.7
       },
       {
+        "path": "images/after_disclosed_abuse.svg",
+        "size_kb": 4.7
+      },
+      {
         "path": "images/backgrounds/library_bottom_left.svg",
         "size_kb": 2.3
+      },
+      {
+        "path": "images/backgrounds/library_top_right.svg",
+        "size_kb": 0.3
       },
       {
         "path": "images/backgrounds/report_edit.svg",
         "size_kb": 0.2
       },
       {
+        "path": "images/contact_for_reporting_abuse.svg",
+        "size_kb": 6.3
+      },
+      {
+        "path": "images/crisis_hotlines.svg",
+        "size_kb": 12.6
+      },
+      {
         "path": "images/day_5_goodbye.svg",
         "size_kb": 19.4
+      },
+      {
+        "path": "images/during_disclosed_abuse.svg",
+        "size_kb": 7.7
+      },
+      {
+        "path": "images/faq_ground_rules.svg",
+        "size_kb": 12.1
+      },
+      {
+        "path": "images/faq_h_after_group_ended.svg",
+        "size_kb": 19.8
+      },
+      {
+        "path": "images/faq_h_no_neg_to_pos.svg",
+        "size_kb": 7.4
+      },
+      {
+        "path": "images/faq_h_no_volunteers.svg",
+        "size_kb": 19.6
+      },
+      {
+        "path": "images/faq_h_prompts.svg",
+        "size_kb": 19.6
+      },
+      {
+        "path": "images/faq_h_sad_to_end.svg",
+        "size_kb": 9.2
+      },
+      {
+        "path": "images/faq_h_still_struggling.svg",
+        "size_kb": 23.2
+      },
+      {
+        "path": "images/faq_misbehaviour.svg",
+        "size_kb": 7.8
+      },
+      {
+        "path": "images/faq_small_group_active.svg",
+        "size_kb": 8.1
+      },
+      {
+        "path": "images/faq_text_support.svg",
+        "size_kb": 6.8
       },
       {
         "path": "images/flags/my.svg",
@@ -294,6 +354,18 @@
       {
         "path": "images/flags/zm.svg",
         "size_kb": 5.4
+      },
+      {
+        "path": "images/group_admin_onboarding.svg",
+        "size_kb": 13.5
+      },
+      {
+        "path": "images/how_to_chat_session.svg",
+        "size_kb": 11
+      },
+      {
+        "path": "images/how_to_report.svg",
+        "size_kb": 5.8
       },
       {
         "path": "images/icons/bar_chart_white.svg",
@@ -420,10 +492,6 @@
         "size_kb": 2.1
       },
       {
-        "path": "images/logos/bird_white.svg",
-        "size_kb": 1.9
-      },
-      {
         "path": "images/logos/lego.png",
         "size_kb": 10.4
       },
@@ -436,8 +504,28 @@
         "size_kb": 35.5
       },
       {
+        "path": "images/overview_cc.svg",
+        "size_kb": 7.8
+      },
+      {
         "path": "images/person_cog.png",
         "size_kb": 0.8
+      },
+      {
+        "path": "images/praise_challenges.svg",
+        "size_kb": 20.6
+      },
+      {
+        "path": "images/routine_challenges.svg",
+        "size_kb": 20.5
+      },
+      {
+        "path": "images/thoughts_feelings.png",
+        "size_kb": 87.6
+      },
+      {
+        "path": "images/what_is_safeguarding.svg",
+        "size_kb": 5.6
       },
       {
         "path": "lottie/felicidades.json",
@@ -465,21 +553,11 @@
         "path": "images/icons/tick.svg",
         "count": 1,
         "missing": true
-      },
-      {
-        "path": "images/logos/house_white.svg",
-        "count": 1,
-        "missing": true
       }
     ]
   },
   "asset_summary": {
     "data": [
-      {
-        "path": "images/after_disclosed_abuse.svg",
-        "count": 2,
-        "size_kb": 4.7
-      },
       {
         "path": "images/backgrounds/home_bottom_right.svg",
         "count": 1,
@@ -494,16 +572,6 @@
         "path": "images/backgrounds/reports_top_right.svg",
         "count": 1,
         "size_kb": 2
-      },
-      {
-        "path": "images/contact_for_reporting_abuse.svg",
-        "count": 1,
-        "size_kb": 6.3
-      },
-      {
-        "path": "images/crisis_hotlines.svg",
-        "count": 1,
-        "size_kb": 12.6
       },
       {
         "path": "images/day_1_introduction.svg",
@@ -526,74 +594,19 @@
         "size_kb": 11.3
       },
       {
-        "path": "images/during_disclosed_abuse.svg",
-        "count": 2,
-        "size_kb": 7.7
-      },
-      {
-        "path": "images/faq_ground_rules.svg",
-        "count": 2,
-        "size_kb": 12.1
-      },
-      {
-        "path": "images/faq_h_after_group_ended.svg",
-        "count": 2,
-        "size_kb": 19.8
-      },
-      {
-        "path": "images/faq_h_no_neg_to_pos.svg",
-        "count": 2,
-        "size_kb": 7.4
-      },
-      {
-        "path": "images/faq_h_no_volunteers.svg",
-        "count": 1,
-        "size_kb": 19.6
-      },
-      {
         "path": "images/faq_h_parents_insult.svg",
-        "count": 3,
+        "count": 1,
         "size_kb": 12.5
       },
       {
-        "path": "images/faq_h_prompts.svg",
-        "count": 2,
-        "size_kb": 19.6
-      },
-      {
-        "path": "images/faq_h_sad_to_end.svg",
-        "count": 2,
-        "size_kb": 9.2
-      },
-      {
         "path": "images/faq_h_self_harm.svg",
-        "count": 2,
+        "count": 1,
         "size_kb": 14.9
       },
       {
-        "path": "images/faq_h_still_struggling.svg",
-        "count": 1,
-        "size_kb": 23.2
-      },
-      {
-        "path": "images/faq_misbehaviour.svg",
-        "count": 1,
-        "size_kb": 7.8
-      },
-      {
         "path": "images/faq_no_participation_general.svg",
-        "count": 2,
+        "count": 1,
         "size_kb": 20.3
-      },
-      {
-        "path": "images/faq_small_group_active.svg",
-        "count": 1,
-        "size_kb": 8.1
-      },
-      {
-        "path": "images/faq_text_support.svg",
-        "count": 1,
-        "size_kb": 6.8
       },
       {
         "path": "images/flags/gb.svg",
@@ -606,23 +619,8 @@
         "size_kb": 91.3
       },
       {
-        "path": "images/group_admin_onboarding.svg",
-        "count": 1,
-        "size_kb": 13.5
-      },
-      {
-        "path": "images/how_to_chat_session.svg",
-        "count": 2,
-        "size_kb": 11
-      },
-      {
-        "path": "images/how_to_report.svg",
-        "count": 1,
-        "size_kb": 5.8
-      },
-      {
         "path": "images/how_to_report_abuse.svg",
-        "count": 2,
+        "count": 1,
         "size_kb": 12.2
       },
       {
@@ -781,6 +779,11 @@
         "size_kb": 2
       },
       {
+        "path": "images/logos/bird_white.svg",
+        "count": 1,
+        "size_kb": 1.9
+      },
+      {
         "path": "images/logos/nip.png",
         "count": 1,
         "size_kb": 11.9
@@ -792,18 +795,13 @@
       },
       {
         "path": "images/onboarding_cc.svg",
-        "count": 4,
+        "count": 2,
         "size_kb": 19.3
       },
       {
         "path": "images/one_on_one_challenges.svg",
-        "count": 2,
-        "size_kb": 13.1
-      },
-      {
-        "path": "images/overview_cc.svg",
         "count": 1,
-        "size_kb": 7.8
+        "size_kb": 13.1
       },
       {
         "path": "images/pcc_1.png",
@@ -886,24 +884,9 @@
         "size_kb": 158.4
       },
       {
-        "path": "images/praise_challenges.svg",
-        "count": 1,
-        "size_kb": 20.6
-      },
-      {
-        "path": "images/routine_challenges.svg",
-        "count": 1,
-        "size_kb": 20.5
-      },
-      {
         "path": "images/talk_feelings_challenges.svg",
-        "count": 2,
-        "size_kb": 19.3
-      },
-      {
-        "path": "images/what_is_safeguarding.svg",
         "count": 1,
-        "size_kb": 5.6
+        "size_kb": 19.3
       },
       {
         "path": "lottie/gift_box.json",
@@ -913,7 +896,7 @@
       {
         "path": "pdf/manual.pdf",
         "count": 1,
-        "size_kb": 470.3
+        "size_kb": 1213
       },
       {
         "path": "pdf/manual_study.pdf",
