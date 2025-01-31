@@ -24,12 +24,13 @@
 | round_button | 32 |
 | select_text | 1 |
 | set_field | 1 |
-| set_variable | 826 |
+| set_variable | 827 |
 | simple_checkbox | 2 |
 | task_card | 3 |
 | task_progress_bar | 2 |
-| template | 207 |
-| text | 164 |
+| template | 206 |
+| test | 1 |
+| text | 166 |
 | text_area | 2 |
 | text_box | 24 |
 | title | 36 |
@@ -51,7 +52,7 @@
 | emit: force_restart | 3 |
 | emit: server_sync | 4 |
 | emit: set_language | 1 |
-| emit: uncompleted | 70 |
+| emit: uncompleted | 69 |
 | feedback | 13 |
 | go_to | 37 |
 | nav_stack | 4 |
@@ -71,7 +72,7 @@
 
 | assets | KB | MB |
 | --- | --- | --- |
-| total | 7553 KB | 7.6 MB |
+| total | 7554 KB | 7.6 MB |
 | unused | 1344 KB | 1.3 MB |
 </details>
 
@@ -191,7 +192,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/flags/mx.svg | 91.3 | 2 |
 | images/how_to_report_abuse.svg | 12.2 | 1 |
 | images/icons/add_circle.svg | 1 | 2 |
-| images/icons/archive.svg | 0.9 | 2 |
+| images/icons/archive.svg | 0.9 | 1 |
 | images/icons/arrow_back.svg | 0.5 | 1 |
 | images/icons/arrow_forward.svg | 0.4 | 2 |
 | images/icons/cancel.svg | 1.7 | 1 |
@@ -215,6 +216,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/icons/profile_card.svg | 7.4 | 1 |
 | images/icons/red_plus.svg | 0.6 | 1 |
 | images/icons/share.svg | 2.3 | 2 |
+| images/icons/unarchive.svg | 1.1 | 1 |
 | images/icons/visibility.svg | 1.9 | 1 |
 | images/icons/world.svg | 6.2 | 1 |
 | images/logos/IDEMS.png | 84.6 | 1 |
@@ -266,7 +268,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | generator |  | 10 |
 | global |  | 11 |
 | global | legal_terms | 1 |
-| template |  | 75 |
+| template |  | 74 |
 | template | generated | 162 |
 | template | legal_terms | 4 |
 | template | menu | 1 |
