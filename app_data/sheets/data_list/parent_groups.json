@@ -9,7 +9,7 @@
       "name": "text_field",
       "text": "text_field",
       "archived": true,
-      "hidden": true
+      "hidden": false
     }
   ],
   "_xlsxPath": "data/profile_data.xlsx",

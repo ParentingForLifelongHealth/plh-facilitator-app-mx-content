@@ -2923,11 +2923,6 @@
       "flow_name": "archive_group",
       "_xlsxPath": "templates/profile.xlsx"
     },
-    "archived_groups": {
-      "flow_type": "template",
-      "flow_name": "archived_groups",
-      "_xlsxPath": "templates/profile.xlsx"
-    },
     "article": {
       "flow_type": "template",
       "flow_name": "article",

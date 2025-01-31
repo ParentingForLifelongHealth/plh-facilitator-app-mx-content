@@ -87,7 +87,7 @@
       },
       {
         "type": "set_variable",
-        "count": 826
+        "count": 827
       },
       {
         "type": "simple_checkbox",
@@ -103,11 +103,15 @@
       },
       {
         "type": "template",
-        "count": 207
+        "count": 206
+      },
+      {
+        "type": "test",
+        "count": 1
       },
       {
         "type": "text",
-        "count": 164
+        "count": 166
       },
       {
         "type": "text_area",
@@ -171,7 +175,7 @@
       },
       {
         "type": "emit: uncompleted",
-        "count": 70
+        "count": 69
       },
       {
         "type": "feedback",
@@ -227,7 +231,7 @@
     "data": [
       {
         "assets": "total",
-        "KB": "7553 KB",
+        "KB": "7554 KB",
         "MB": "7.6 MB"
       },
       {
@@ -631,7 +635,7 @@
       },
       {
         "path": "images/icons/archive.svg",
-        "count": 2,
+        "count": 1,
         "size_kb": 0.9
       },
       {
@@ -748,6 +752,11 @@
         "path": "images/icons/share.svg",
         "count": 2,
         "size_kb": 2.3
+      },
+      {
+        "path": "images/icons/unarchive.svg",
+        "count": 1,
+        "size_kb": 1.1
       },
       {
         "path": "images/icons/visibility.svg",
@@ -976,7 +985,7 @@
       {
         "type": "template",
         "subtype": null,
-        "total": 75
+        "total": 74
       },
       {
         "type": "template",
