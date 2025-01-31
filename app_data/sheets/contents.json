@@ -208,7 +208,12 @@
       "flow_type": "data_list",
       "flow_name": "pdf_data",
       "data_list_name": "pdf",
-      "_xlsxPath": "data/FacilitatorApp MX articles.xlsx"
+      "_xlsxPath": "data/FacilitatorApp MX articles.xlsx",
+      "_metadata": {
+        "library_asset": {
+          "type": "boolean"
+        }
+      }
     },
     "profile_section_data": {
       "flow_type": "data_list",

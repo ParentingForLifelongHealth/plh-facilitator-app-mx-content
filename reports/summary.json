@@ -15,11 +15,11 @@
       },
       {
         "type": "button",
-        "count": 73
+        "count": 74
       },
       {
         "type": "carousel",
-        "count": 1
+        "count": 2
       },
       {
         "type": "combo_box",
@@ -39,7 +39,7 @@
       },
       {
         "type": "display_group",
-        "count": 100
+        "count": 101
       },
       {
         "type": "drawer",
@@ -51,7 +51,7 @@
       },
       {
         "type": "items",
-        "count": 30
+        "count": 31
       },
       {
         "type": "lottie_animation",
@@ -179,7 +179,7 @@
       },
       {
         "type": "go_to",
-        "count": 36
+        "count": 37
       },
       {
         "type": "nav_stack",
@@ -257,7 +257,7 @@
       },
       {
         "path": "contents.json",
-        "size_kb": 2.7
+        "size_kb": 2.8
       },
       {
         "path": "images/Message.png",
@@ -538,6 +538,11 @@
       {
         "path": ".png",
         "count": 1,
+        "missing": true
+      },
+      {
+        "path": "@data.pdf",
+        "count": 3,
         "missing": true
       },
       {
