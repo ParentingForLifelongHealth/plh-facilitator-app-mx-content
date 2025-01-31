@@ -6,16 +6,16 @@
 | accordion | 2 |
 | accordion_section | 2 |
 | audio | 2 |
-| button | 73 |
-| carousel | 1 |
+| button | 74 |
+| carousel | 2 |
 | combo_box | 3 |
 | data_items | 26 |
 | debug_toggle | 1 |
 | display_grid | 3 |
-| display_group | 100 |
+| display_group | 101 |
 | drawer | 2 |
 | image | 10 |
-| items | 30 |
+| items | 31 |
 | lottie_animation | 1 |
 | navigation_bar | 2 |
 | pdf | 1 |
@@ -53,7 +53,7 @@
 | emit: set_language | 1 |
 | emit: uncompleted | 70 |
 | feedback | 13 |
-| go_to | 36 |
+| go_to | 37 |
 | nav_stack | 4 |
 | pop_up | 10 |
 | reset_app | 1 |
@@ -86,7 +86,7 @@ Assets that appear in app-data but do not have references within sheets
 | android/icon-foreground.png | 31.1 |
 | android/icon.png | 108.2 |
 | android/splash.png | 290.4 |
-| contents.json | 2.7 |
+| contents.json | 2.8 |
 | images/Message.png | 1.3 |
 | images/Message.svg | 0.7 |
 | images/after_disclosed_abuse.svg | 4.7 |
@@ -165,6 +165,7 @@ Assets that have references within sheets but do not appear in app-data
 | path | count |
 | --- | --- |
 | .png | 1 |
+| @data.pdf | 3 |
 | images/icons/in_progress.svg | 1 |
 | images/icons/tick.svg | 1 |
 </details>
