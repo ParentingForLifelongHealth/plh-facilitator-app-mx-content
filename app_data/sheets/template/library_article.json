@@ -142,30 +142,6 @@
       "value": "intro_element",
       "rows": [
         {
-          "name": "image",
-          "value": "@local.article_data.icon_asset",
-          "_translations": {
-            "value": {}
-          },
-          "type": "set_variable",
-          "_nested_name": "intro_element.image",
-          "_dynamicFields": {
-            "value": [
-              {
-                "fullExpression": "@local.article_data.icon_asset",
-                "matchedExpression": "@local.article_data.icon_asset",
-                "type": "local",
-                "fieldName": "article_data"
-              }
-            ]
-          },
-          "_dynamicDependencies": {
-            "@local.article_data.icon_asset": [
-              "value"
-            ]
-          }
-        },
-        {
           "name": "text",
           "value": "@local.article_data.introduction",
           "_translations": {
@@ -185,6 +161,54 @@
           },
           "_dynamicDependencies": {
             "@local.article_data.introduction": [
+              "value"
+            ]
+          }
+        },
+        {
+          "name": "image",
+          "value": "@local.article_data.introduction_image",
+          "_translations": {
+            "value": {}
+          },
+          "type": "set_variable",
+          "_nested_name": "intro_element.image",
+          "_dynamicFields": {
+            "value": [
+              {
+                "fullExpression": "@local.article_data.introduction_image",
+                "matchedExpression": "@local.article_data.introduction_image",
+                "type": "local",
+                "fieldName": "article_data"
+              }
+            ]
+          },
+          "_dynamicDependencies": {
+            "@local.article_data.introduction_image": [
+              "value"
+            ]
+          }
+        },
+        {
+          "name": "text_2",
+          "value": "@local.article_data.introduction_2",
+          "_translations": {
+            "value": {}
+          },
+          "type": "set_variable",
+          "_nested_name": "intro_element.text_2",
+          "_dynamicFields": {
+            "value": [
+              {
+                "fullExpression": "@local.article_data.introduction_2",
+                "matchedExpression": "@local.article_data.introduction_2",
+                "type": "local",
+                "fieldName": "article_data"
+              }
+            ]
+          },
+          "_dynamicDependencies": {
+            "@local.article_data.introduction_2": [
               "value"
             ]
           }

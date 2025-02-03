@@ -235,6 +235,11 @@
       "flow_name": "library_article_safety_challenges",
       "flow_subtype": "generated",
       "flow_type": "template"
+    },
+    {
+      "flow_name": "library_article_what_is_safeguarding",
+      "flow_subtype": "generated",
+      "flow_type": "template"
     }
   ]
 }
