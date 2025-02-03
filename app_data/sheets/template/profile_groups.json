@@ -46,14 +46,27 @@
     {
       "type": "text",
       "name": "group_desc",
-      "value": "Manage Existing Groups",
+      "value": "@global.active_group_title",
       "_translations": {
-        "value": {
-          "mx_es": true
-        }
+        "value": {}
       },
       "exclude_from_translation": false,
-      "_nested_name": "group_desc"
+      "_nested_name": "group_desc",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@global.active_group_title",
+            "matchedExpression": "@global.active_group_title",
+            "type": "global",
+            "fieldName": "active_group_title"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@global.active_group_title": [
+          "value"
+        ]
+      }
     },
     {
       "type": "data_items",
@@ -233,7 +246,7 @@
       "rows": [
         {
           "type": "text",
-          "value": "Your Archived Groups",
+          "value": "@global.archived_group_title",
           "_translations": {
             "value": {}
           },
@@ -242,6 +255,14 @@
           "name": "text_1",
           "_nested_name": "data_items_13.text_1",
           "_dynamicFields": {
+            "value": [
+              {
+                "fullExpression": "@global.archived_group_title",
+                "matchedExpression": "@global.archived_group_title",
+                "type": "global",
+                "fieldName": "archived_group_title"
+              }
+            ],
             "condition": [
               {
                 "fullExpression": "@item._first",
@@ -252,6 +273,9 @@
             ]
           },
           "_dynamicDependencies": {
+            "@global.archived_group_title": [
+              "value"
+            ],
             "@item._first": [
               "condition"
             ]

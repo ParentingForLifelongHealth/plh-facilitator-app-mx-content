@@ -699,9 +699,9 @@
                 }
               ],
               "parameter_list": {
-                "variant": "card"
+                "variant": "card",
+                "disabled": "!@local.valid"
               },
-              "condition": "@local.valid",
               "_nested_name": "data_items_10.display_group_6.save",
               "_dynamicFields": {
                 "action_list": {
@@ -794,14 +794,16 @@
                     }
                   }
                 },
-                "condition": [
-                  {
-                    "fullExpression": "@local.valid",
-                    "matchedExpression": "@local.valid",
-                    "type": "local",
-                    "fieldName": "valid"
-                  }
-                ]
+                "parameter_list": {
+                  "disabled": [
+                    {
+                      "fullExpression": "!@local.valid",
+                      "matchedExpression": "!@local.valid",
+                      "type": "local",
+                      "fieldName": "valid"
+                    }
+                  ]
+                }
               },
               "_dynamicDependencies": {
                 "@fields.current_parent_no": [
@@ -824,8 +826,8 @@
                   "action_list.0._cleaned",
                   "action_list.0.params.text_id"
                 ],
-                "@local.valid": [
-                  "condition"
+                "!@local.valid": [
+                  "parameter_list.disabled"
                 ]
               }
             }

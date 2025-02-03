@@ -12,11 +12,11 @@
 | data_items | 26 |
 | debug_toggle | 1 |
 | display_grid | 3 |
-| display_group | 101 |
+| display_group | 102 |
 | drawer | 2 |
 | image | 10 |
 | items | 31 |
-| lottie_animation | 1 |
+| lottie_animation | 2 |
 | navigation_bar | 2 |
 | pdf | 1 |
 | qr_code | 1 |
@@ -24,13 +24,13 @@
 | round_button | 32 |
 | select_text | 1 |
 | set_field | 1 |
-| set_variable | 827 |
+| set_variable | 829 |
 | simple_checkbox | 2 |
 | task_card | 3 |
 | task_progress_bar | 2 |
 | template | 206 |
 | test | 1 |
-| text | 166 |
+| text | 168 |
 | text_area | 2 |
 | text_box | 24 |
 | title | 36 |
@@ -72,8 +72,8 @@
 
 | assets | KB | MB |
 | --- | --- | --- |
-| total | 7554 KB | 7.6 MB |
-| unused | 1344 KB | 1.3 MB |
+| total | 7560 KB | 7.6 MB |
+| unused | 1339 KB | 1.3 MB |
 </details>
 
 <details open>
@@ -153,7 +153,6 @@ Assets that appear in app-data but do not have references within sheets
 | images/person_cog.png | 0.8 |
 | images/praise_challenges.svg | 20.6 |
 | images/routine_challenges.svg | 20.5 |
-| images/what_is_safeguarding.svg | 5.6 |
 | lottie/felicidades.json | 94.2 |
 | odk_forms/eplh_pilot_facilitator_weekly_survey_combined.json | 209.4 |
 </details>
@@ -246,7 +245,8 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/pcc_9.png | 158.4 | 1 |
 | images/talk_feelings_challenges.svg | 19.3 | 1 |
 | images/thoughts_feelings.png | 87.6 | 1 |
-| lottie/gift_box.json | 94.2 | 1 |
+| images/what_is_safeguarding.svg | 5.6 | 1 |
+| lottie/gift_box.json | 94.2 | 2 |
 | pdf/manual.pdf | 1213 | 1 |
 | pdf/overview_guide_study.pdf | 2252.6 | 1 |
 | pdf/peas.pdf | 590.3 | 1 |

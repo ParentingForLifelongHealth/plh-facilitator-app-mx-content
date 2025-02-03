@@ -215,15 +215,21 @@
         {
           "type": "text",
           "name": "finish_text",
-          "value": "You successfully completed the report for this session!",
+          "value": "@global.module_rep_complete",
           "_translations": {
-            "value": {
-              "mx_es": true
-            }
+            "value": {}
           },
           "condition": "@fields.current_module_no == @item.module_id && @item.group_id == @field.current_group_no",
           "_nested_name": "data_items_10.finish_text",
           "_dynamicFields": {
+            "value": [
+              {
+                "fullExpression": "@global.module_rep_complete",
+                "matchedExpression": "@global.module_rep_complete",
+                "type": "global",
+                "fieldName": "module_rep_complete"
+              }
+            ],
             "condition": [
               {
                 "fullExpression": "@fields.current_module_no == @item.module_id && @item.group_id == @field.current_group_no",
@@ -252,6 +258,9 @@
             ]
           },
           "_dynamicDependencies": {
+            "@global.module_rep_complete": [
+              "value"
+            ],
             "@fields.current_module_no": [
               "condition"
             ],
@@ -269,11 +278,9 @@
         {
           "type": "button",
           "name": "existing_report",
-          "value": "Review Report",
+          "value": "@global.review_report",
           "_translations": {
-            "value": {
-              "mx_es": true
-            }
+            "value": {}
           },
           "action_list": [
             {
@@ -302,6 +309,14 @@
           "condition": "@fields.current_module_no == @item.module_id && @item.group_id == @field.current_group_no",
           "_nested_name": "data_items_10.existing_report",
           "_dynamicFields": {
+            "value": [
+              {
+                "fullExpression": "@global.review_report",
+                "matchedExpression": "@global.review_report",
+                "type": "global",
+                "fieldName": "review_report"
+              }
+            ],
             "action_list": {
               "0": {
                 "args": {
@@ -360,6 +375,9 @@
             ]
           },
           "_dynamicDependencies": {
+            "@global.review_report": [
+              "value"
+            ],
             "@item.id": [
               "action_list.0.args.1",
               "action_list.0._raw",
@@ -417,11 +435,9 @@
             {
               "type": "button",
               "name": "new_report",
-              "value": "Submit Report",
+              "value": "@global.submit_report",
               "_translations": {
-                "value": {
-                  "mx_es": true
-                }
+                "value": {}
               },
               "action_list": [
                 {
@@ -437,7 +453,22 @@
               "parameter_list": {
                 "icon_src": "images/icons/edit.svg"
               },
-              "_nested_name": "data_items_10.display_group_5.new_report"
+              "_nested_name": "data_items_10.display_group_5.new_report",
+              "_dynamicFields": {
+                "value": [
+                  {
+                    "fullExpression": "@global.submit_report",
+                    "matchedExpression": "@global.submit_report",
+                    "type": "global",
+                    "fieldName": "submit_report"
+                  }
+                ]
+              },
+              "_dynamicDependencies": {
+                "@global.submit_report": [
+                  "value"
+                ]
+              }
             }
           ],
           "name": "display_group_5",
@@ -500,13 +531,70 @@
       }
     },
     {
+      "type": "display_group",
+      "parameter_list": {
+        "style": "column"
+      },
+      "condition": "@fields.current_report_id == \"empty\"",
+      "rows": [
+        {
+          "type": "lottie_animation",
+          "name": "lottie",
+          "value": "lottie/gift_box.json",
+          "_translations": {
+            "value": {}
+          },
+          "_nested_name": "display_group_12.lottie"
+        },
+        {
+          "type": "text",
+          "name": "finish_text",
+          "value": "@global.module_complete",
+          "_translations": {
+            "value": {}
+          },
+          "_nested_name": "display_group_12.finish_text",
+          "_dynamicFields": {
+            "value": [
+              {
+                "fullExpression": "@global.module_complete",
+                "matchedExpression": "@global.module_complete",
+                "type": "global",
+                "fieldName": "module_complete"
+              }
+            ]
+          },
+          "_dynamicDependencies": {
+            "@global.module_complete": [
+              "value"
+            ]
+          }
+        }
+      ],
+      "name": "display_group_12",
+      "_nested_name": "display_group_12",
+      "_dynamicFields": {
+        "condition": [
+          {
+            "fullExpression": "@fields.current_report_id == \"empty\"",
+            "matchedExpression": "@fields.current_report_id",
+            "type": "fields",
+            "fieldName": "current_report_id"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@fields.current_report_id": [
+          "condition"
+        ]
+      }
+    },
+    {
       "type": "button",
       "name": "support",
-      "value": "Get Support",
+      "value": "@global.support_button",
       "_translations": {
-        "value": {
-          "mx_es": true
-        }
+        "value": {}
       },
       "action_list": [
         {
@@ -522,7 +610,22 @@
       "parameter_list": {
         "icon_src": "images/icons/help.svg"
       },
-      "_nested_name": "support"
+      "_nested_name": "support",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@global.support_button",
+            "matchedExpression": "@global.support_button",
+            "type": "global",
+            "fieldName": "support_button"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@global.support_button": [
+          "value"
+        ]
+      }
     }
   ],
   "_xlsxPath": "templates/menu_sub_tasks.xlsx"
