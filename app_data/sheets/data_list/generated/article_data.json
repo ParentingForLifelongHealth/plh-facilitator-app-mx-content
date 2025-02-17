@@ -2518,33 +2518,6 @@
       "message_text_4": "😔 It is shocking to learn that people who we trust may cause discomfort to our girls and boys. \n\n👂 Listen to girl or boy if they want to talk about why it seems dangerous or uncomfortable. Ask if it’s the place, a particular person, or both that makes them uncomfortable. \n\nStay calm and open during the conversation. Trust what they say - they will not say such things for no reason!\n\n🔔Talk with someone and get support. Type @global.trigger_help if you need more assistance.\n\n💙 Remember to take a pause when you are stressed.",
       "message_title_5": "I am shy to talk to my young girl or boy about bodies and safe touch.",
       "message_text_5": "💙 It is slightly uncomfortable to talk to our children about male and female body parts. However, it helps to keep our girls and boys safe.\n\n💡Start a conversation with girl or boy about their body, its functions, and the importance of naming each part. Stories and puppets can be a helpful tool in facilitating this dialogue.\n\n💚 Talk with confidence about the body, especially private parts. Initially, it may feel awkward, but the more you do it, the more natural and comfortable it will become for both. girl or boy will learn how to talk about their body and can communicate with you if anything happens.\n\n🔑 Answer any questions from girl or boy honestly. You can do this to keep our girls and boys safe!🌷"
-    },
-    {
-      "id": "what_is_safeguarding",
-      "home_screen_section_list": [
-        "safeguarding"
-      ],
-      "status": "released",
-      "title": "Testing",
-      "_translations": {
-        "title": {},
-        "introduction": {},
-        "introduction_2": {}
-      },
-      "_translatedFields": {
-        "title": {
-          "eng": "Testing"
-        },
-        "introduction": {
-          "eng": "First text"
-        },
-        "introduction_2": {
-          "eng": "Last text"
-        }
-      },
-      "introduction": "First text",
-      "introduction_image": "images/what_is_safeguarding.svg",
-      "introduction_2": "Last text"
     }
   ]
 }
