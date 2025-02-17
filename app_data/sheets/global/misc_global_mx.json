@@ -1,0 +1,88 @@
+{
+  "flow_type": "global",
+  "flow_name": "misc_global_mx",
+  "status": "released",
+  "rows": [
+    {
+      "type": "declare_global_constant",
+      "name": "login",
+      "value": "Sign in",
+      "_translations": {
+        "value": {}
+      }
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "login_google",
+      "value": "Sign in with Google",
+      "_translations": {
+        "value": {}
+      }
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "logout",
+      "value": "Sign out",
+      "_translations": {
+        "value": {}
+      }
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "create_an_account",
+      "value": "Create an account",
+      "_translations": {
+        "value": {}
+      }
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "create_account_question",
+      "value": "Creating an account allows you to save your progress across devices. It is optional.",
+      "_translations": {
+        "value": {}
+      }
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "skip",
+      "value": "Skip",
+      "_translations": {
+        "value": {}
+      }
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "skip_login",
+      "value": "Continue without an account",
+      "_translations": {
+        "value": {}
+      }
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "logged_in_splash",
+      "value": "Yay! We're so glad you're here! Let's keep going.",
+      "_translations": {
+        "value": {}
+      }
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "logged_in_splash_user",
+      "value": "Yay! We're so glad you're here @global.user_name! Let's keep going.",
+      "_translations": {
+        "value": {}
+      }
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "logged_in",
+      "value": "You are signed in.",
+      "_translations": {
+        "value": {}
+      }
+    }
+  ],
+  "_xlsxPath": "data/deployment_data_mx.xlsx"
+}

@@ -36,30 +36,62 @@
           "rows": [
             {
               "type": "display_group",
+              "action_list": [
+                {
+                  "trigger": "click",
+                  "action_id": "go_to",
+                  "args": [
+                    "pdf_@item.id"
+                  ],
+                  "_raw": "click | go_to: pdf_@item.id",
+                  "_cleaned": "click | go_to: pdf_@item.id"
+                }
+              ],
+              "parameter_list": {
+                "variant": "box_secondary_alt",
+                "style": "column"
+              },
               "rows": [
                 {
-                  "type": "button",
+                  "type": "text",
+                  "value": "@global.guide_text",
+                  "_translations": {
+                    "value": {}
+                  },
+                  "style_list": [
+                    "font-size: 0.8rem",
+                    "color: white"
+                  ],
+                  "name": "text_1",
+                  "_nested_name": "carousel_3.items_1.display_group_1.text_1",
+                  "_dynamicFields": {
+                    "value": [
+                      {
+                        "fullExpression": "@global.guide_text",
+                        "matchedExpression": "@global.guide_text",
+                        "type": "global",
+                        "fieldName": "guide_text"
+                      }
+                    ]
+                  },
+                  "_dynamicDependencies": {
+                    "@global.guide_text": [
+                      "value"
+                    ]
+                  }
+                },
+                {
+                  "type": "text",
                   "value": "@item.description",
                   "_translations": {
                     "value": {}
                   },
-                  "action_list": [
-                    {
-                      "trigger": "click",
-                      "action_id": "go_to",
-                      "args": [
-                        "pdf_@item.id"
-                      ],
-                      "_raw": "click | go_to: pdf_@item.id",
-                      "_cleaned": "click | go_to: pdf_@item.id"
-                    }
+                  "style_list": [
+                    "margin-top: -6px",
+                    "color: white"
                   ],
-                  "parameter_list": {
-                    "variant": "card-portrait",
-                    "color": "red"
-                  },
-                  "name": "button_1",
-                  "_nested_name": "carousel_3.items_1.display_group_1.button_1",
+                  "name": "text_2",
+                  "_nested_name": "carousel_3.items_1.display_group_1.text_2",
                   "_dynamicFields": {
                     "value": [
                       {
@@ -68,52 +100,56 @@
                         "type": "item",
                         "fieldName": "description"
                       }
-                    ],
-                    "action_list": {
-                      "0": {
-                        "args": {
-                          "0": [
-                            {
-                              "fullExpression": "pdf_@item.id",
-                              "matchedExpression": "@item.id",
-                              "type": "item",
-                              "fieldName": "id"
-                            }
-                          ]
-                        },
-                        "_raw": [
-                          {
-                            "fullExpression": "click | go_to: pdf_@item.id",
-                            "matchedExpression": "@item.id",
-                            "type": "item",
-                            "fieldName": "id"
-                          }
-                        ],
-                        "_cleaned": [
-                          {
-                            "fullExpression": "click | go_to: pdf_@item.id",
-                            "matchedExpression": "@item.id",
-                            "type": "item",
-                            "fieldName": "id"
-                          }
-                        ]
-                      }
-                    }
+                    ]
                   },
                   "_dynamicDependencies": {
                     "@item.description": [
                       "value"
-                    ],
-                    "@item.id": [
-                      "action_list.0.args.0",
-                      "action_list.0._raw",
-                      "action_list.0._cleaned"
                     ]
                   }
                 }
               ],
               "name": "display_group_1",
-              "_nested_name": "carousel_3.items_1.display_group_1"
+              "_nested_name": "carousel_3.items_1.display_group_1",
+              "_dynamicFields": {
+                "action_list": {
+                  "0": {
+                    "args": {
+                      "0": [
+                        {
+                          "fullExpression": "pdf_@item.id",
+                          "matchedExpression": "@item.id",
+                          "type": "item",
+                          "fieldName": "id"
+                        }
+                      ]
+                    },
+                    "_raw": [
+                      {
+                        "fullExpression": "click | go_to: pdf_@item.id",
+                        "matchedExpression": "@item.id",
+                        "type": "item",
+                        "fieldName": "id"
+                      }
+                    ],
+                    "_cleaned": [
+                      {
+                        "fullExpression": "click | go_to: pdf_@item.id",
+                        "matchedExpression": "@item.id",
+                        "type": "item",
+                        "fieldName": "id"
+                      }
+                    ]
+                  }
+                }
+              },
+              "_dynamicDependencies": {
+                "@item.id": [
+                  "action_list.0.args.0",
+                  "action_list.0._raw",
+                  "action_list.0._cleaned"
+                ]
+              }
             }
           ],
           "name": "items_1",

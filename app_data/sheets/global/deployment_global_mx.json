@@ -256,6 +256,14 @@
           "mx_es": true
         }
       }
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "guide_text",
+      "value": "GUIDE",
+      "_translations": {
+        "value": {}
+      }
     }
   ],
   "_xlsxPath": "data/deployment_data_mx.xlsx"

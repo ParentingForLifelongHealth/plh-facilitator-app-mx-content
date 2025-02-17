@@ -3,37 +3,36 @@
 
 | type | count |
 | --- | --- |
-| accordion | 2 |
-| accordion_section | 2 |
+| accordion | 1 |
+| accordion_section | 1 |
 | audio | 2 |
-| button | 74 |
+| button | 72 |
 | carousel | 2 |
 | combo_box | 3 |
-| data_items | 26 |
+| data_items | 27 |
 | debug_toggle | 1 |
-| display_grid | 3 |
-| display_group | 102 |
-| drawer | 2 |
+| display_grid | 2 |
+| display_group | 95 |
+| drawer | 1 |
 | image | 10 |
-| items | 31 |
+| items | 27 |
 | lottie_animation | 2 |
 | navigation_bar | 2 |
 | pdf | 1 |
 | qr_code | 1 |
 | radio_button_grid | 8 |
-| round_button | 32 |
+| round_button | 30 |
 | select_text | 1 |
-| set_field | 1 |
-| set_variable | 829 |
+| set_variable | 681 |
 | simple_checkbox | 2 |
 | task_card | 3 |
 | task_progress_bar | 2 |
-| template | 206 |
+| template | 165 |
 | test | 1 |
-| text | 168 |
+| text | 163 |
 | text_area | 2 |
 | text_box | 24 |
-| title | 36 |
+| title | 33 |
 | toggle_bar | 7 |
 | update_action_list | 2 |
 | video | 2 |
@@ -54,7 +53,7 @@
 | emit: set_language | 1 |
 | emit: uncompleted | 69 |
 | feedback | 13 |
-| go_to | 37 |
+| go_to | 35 |
 | nav_stack | 4 |
 | pop_up | 10 |
 | reset_app | 1 |
@@ -63,7 +62,7 @@
 | set_field | 54 |
 | set_item | 10 |
 | set_local | 23 |
-| share | 3 |
+| share | 2 |
 | user | 1 |
 </details>
 
@@ -72,8 +71,8 @@
 
 | assets | KB | MB |
 | --- | --- | --- |
-| total | 7560 KB | 7.6 MB |
-| unused | 1339 KB | 1.3 MB |
+| total | 7554 KB | 7.6 MB |
+| unused | 1025 KB | 1 MB |
 </details>
 
 <details open>
@@ -88,33 +87,14 @@ Assets that appear in app-data but do not have references within sheets
 | android/icon.png | 108.2 |
 | android/splash.png | 290.4 |
 | contents.json | 2.8 |
-| images/Message.png | 1.3 |
-| images/Message.svg | 0.7 |
-| images/after_disclosed_abuse.svg | 4.7 |
 | images/backgrounds/library_bottom_left.svg | 2.3 |
 | images/backgrounds/library_top_right.svg | 0.3 |
 | images/backgrounds/report_edit.svg | 0.2 |
-| images/contact_for_reporting_abuse.svg | 6.3 |
-| images/crisis_hotlines.svg | 12.6 |
-| images/day_5_goodbye.svg | 19.4 |
 | images/during_disclosed_abuse.svg | 7.7 |
-| images/faq_ground_rules.svg | 12.1 |
-| images/faq_h_after_group_ended.svg | 19.8 |
-| images/faq_h_no_neg_to_pos.svg | 7.4 |
-| images/faq_h_no_volunteers.svg | 19.6 |
-| images/faq_h_prompts.svg | 19.6 |
-| images/faq_h_sad_to_end.svg | 9.2 |
-| images/faq_h_still_struggling.svg | 23.2 |
-| images/faq_misbehaviour.svg | 7.8 |
-| images/faq_small_group_active.svg | 8.1 |
-| images/faq_text_support.svg | 6.8 |
 | images/flags/my.svg | 1.4 |
 | images/flags/tz.svg | 0.5 |
 | images/flags/ug.svg | 3.9 |
 | images/flags/zm.svg | 5.4 |
-| images/group_admin_onboarding.svg | 13.5 |
-| images/how_to_chat_session.svg | 11 |
-| images/how_to_report.svg | 5.8 |
 | images/icons/bar_chart_white.svg | 1.5 |
 | images/icons/book_white.svg | 1.5 |
 | images/icons/check_circle.svg | 1.2 |
@@ -132,15 +112,6 @@ Assets that appear in app-data but do not have references within sheets
 | images/icons/sessions.png | 1.3 |
 | images/icons/settings.png | 1.1 |
 | images/icons/settings.svg | 2.4 |
-| images/icons/task_0.png | 2 |
-| images/icons/task_1.png | 1 |
-| images/icons/task_2.png | 1.9 |
-| images/icons/task_3.png | 2 |
-| images/icons/task_4.png | 1.4 |
-| images/icons/task_5.png | 1.8 |
-| images/icons/task_6.png | 2.2 |
-| images/icons/task_7.png | 1.5 |
-| images/icons/task_8.png | 2.4 |
 | images/logos/KEMAS.png | 5.6 |
 | images/logos/LPPKN.png | 41.2 |
 | images/logos/Oxford.png | 50 |
@@ -153,7 +124,7 @@ Assets that appear in app-data but do not have references within sheets
 | images/person_cog.png | 0.8 |
 | images/praise_challenges.svg | 20.6 |
 | images/routine_challenges.svg | 20.5 |
-| lottie/felicidades.json | 94.2 |
+| images/what_is_safeguarding.svg | 5.6 |
 | odk_forms/eplh_pilot_facilitator_weekly_survey_combined.json | 209.4 |
 </details>
 
@@ -245,7 +216,6 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/pcc_9.png | 158.4 | 1 |
 | images/talk_feelings_challenges.svg | 19.3 | 1 |
 | images/thoughts_feelings.png | 87.6 | 1 |
-| images/what_is_safeguarding.svg | 5.6 | 1 |
 | lottie/gift_box.json | 94.2 | 2 |
 | pdf/manual.pdf | 1213 | 1 |
 | pdf/overview_guide_study.pdf | 2252.6 | 1 |
@@ -265,11 +235,11 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | data_list | lifecycle_actions | 1 |
 | data_pipe |  | 2 |
 | data_pipe | generated | 57 |
-| generator |  | 10 |
-| global |  | 11 |
+| generator |  | 9 |
+| global |  | 12 |
 | global | legal_terms | 1 |
-| template |  | 74 |
-| template | generated | 162 |
+| template |  | 72 |
+| template | generated | 122 |
 | template | legal_terms | 4 |
 | template | menu | 1 |
 </details>
