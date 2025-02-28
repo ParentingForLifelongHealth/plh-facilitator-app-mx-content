@@ -87,7 +87,7 @@
       },
       {
         "type": "set_variable",
-        "count": 652
+        "count": 650
       },
       {
         "type": "simple_checkbox",
@@ -103,7 +103,7 @@
       },
       {
         "type": "template",
-        "count": 164
+        "count": 162
       },
       {
         "type": "test",
@@ -179,7 +179,7 @@
       },
       {
         "type": "emit: uncompleted",
-        "count": 72
+        "count": 70
       },
       {
         "type": "feedback",
@@ -211,7 +211,7 @@
       },
       {
         "type": "set_field",
-        "count": 56
+        "count": 57
       },
       {
         "type": "set_item",
@@ -788,7 +788,7 @@
       },
       {
         "path": "images/thoughts_feelings.png",
-        "count": 2,
+        "count": 1,
         "size_kb": 87.6
       },
       {
@@ -878,7 +878,7 @@
       {
         "type": "template",
         "subtype": "generated",
-        "total": 124
+        "total": 122
       },
       {
         "type": "template",

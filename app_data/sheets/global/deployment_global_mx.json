@@ -273,18 +273,14 @@
     {
       "type": "declare_global_constant",
       "name": "click_on",
-      "value": "Click on the",
+      "value": "No Parent Groups Found. Click on ⨁ to add a parent group. ⊕ ⨁ ➕",
       "_translations": {
         "value": {}
       }
     },
     {
       "type": "declare_global_constant",
-      "name": "to_add_group",
-      "value": "to add a parent group",
-      "_translations": {
-        "value": {}
-      }
+      "name": "to_add_group"
     }
   ],
   "_xlsxPath": "data/deployment_data_mx.xlsx"

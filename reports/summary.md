@@ -24,11 +24,11 @@
 | radio_button_grid | 8 |
 | round_button | 30 |
 | select_text | 1 |
-| set_variable | 652 |
+| set_variable | 650 |
 | simple_checkbox | 2 |
 | task_card | 3 |
 | task_progress_bar | 2 |
-| template | 164 |
+| template | 162 |
 | test | 1 |
 | text | 155 |
 | text_area | 2 |
@@ -53,7 +53,7 @@
 | emit: force_restart | 5 |
 | emit: server_sync | 4 |
 | emit: set_language | 1 |
-| emit: uncompleted | 72 |
+| emit: uncompleted | 70 |
 | feedback | 13 |
 | go_to | 34 |
 | nav_stack | 3 |
@@ -61,7 +61,7 @@
 | reset_app | 1 |
 | save_to_device | 4 |
 | set_data | 19 |
-| set_field | 56 |
+| set_field | 57 |
 | set_item | 6 |
 | set_local | 24 |
 | share | 2 |
@@ -217,7 +217,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/pcc_8.png | 179.8 | 1 |
 | images/pcc_9.png | 158.4 | 1 |
 | images/talk_feelings_challenges.svg | 19.3 | 1 |
-| images/thoughts_feelings.png | 87.6 | 2 |
+| images/thoughts_feelings.png | 87.6 | 1 |
 | lottie/gift_box.json | 94.2 | 2 |
 | pdf/manual.pdf | 1213 | 1 |
 | pdf/overview_guide_study.pdf | 2252.6 | 1 |
@@ -241,7 +241,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | global |  | 12 |
 | global | legal_terms | 1 |
 | template |  | 74 |
-| template | generated | 124 |
+| template | generated | 122 |
 | template | legal_terms | 4 |
 | template | menu | 1 |
 </details>
