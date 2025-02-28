@@ -2518,6 +2518,90 @@
       "message_text_4": "😔 It is shocking to learn that people who we trust may cause discomfort to our girls and boys. \n\n👂 Listen to girl or boy if they want to talk about why it seems dangerous or uncomfortable. Ask if it’s the place, a particular person, or both that makes them uncomfortable. \n\nStay calm and open during the conversation. Trust what they say - they will not say such things for no reason!\n\n🔔Talk with someone and get support. Type @global.trigger_help if you need more assistance.\n\n💙 Remember to take a pause when you are stressed.",
       "message_title_5": "I am shy to talk to my young girl or boy about bodies and safe touch.",
       "message_text_5": "💙 It is slightly uncomfortable to talk to our children about male and female body parts. However, it helps to keep our girls and boys safe.\n\n💡Start a conversation with girl or boy about their body, its functions, and the importance of naming each part. Stories and puppets can be a helpful tool in facilitating this dialogue.\n\n💚 Talk with confidence about the body, especially private parts. Initially, it may feel awkward, but the more you do it, the more natural and comfortable it will become for both. girl or boy will learn how to talk about their body and can communicate with you if anything happens.\n\n🔑 Answer any questions from girl or boy honestly. You can do this to keep our girls and boys safe!🌷"
+    },
+    {
+      "id": "test_article_populated",
+      "home_screen_section_list": [
+        "faq"
+      ],
+      "status": "released",
+      "title": "Test Article Populated",
+      "_translations": {
+        "title": {},
+        "introduction": {},
+        "message_title_1": {},
+        "message_text_1": {},
+        "section_title_1": {},
+        "section_text_1": {},
+        "message_guidance_1": {},
+        "section_title_2": {},
+        "section_text_2": {},
+        "sections_title": {},
+        "related_articles_title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Test Article Populated"
+        },
+        "introduction": {
+          "eng": "This is intro text. I've filled in an image, sections, messages, and a related article ID"
+        },
+        "sections_title": {
+          "eng": "Section Title"
+        },
+        "section_title_1": {
+          "eng": "Drop Down 1"
+        },
+        "section_text_1": {
+          "eng": "Text goes Here"
+        },
+        "section_title_2": {
+          "eng": "Drop Down 2"
+        },
+        "section_text_2": {
+          "eng": "Text goes here"
+        },
+        "message_title_1": {
+          "eng": "Sample Message"
+        },
+        "message_text_1": {
+          "eng": "Send Me!"
+        },
+        "message_guidance_1": {
+          "eng": "Here's some guidance"
+        },
+        "related_articles_title": {
+          "eng": "Related Article"
+        }
+      },
+      "introduction": "This is intro text. I've filled in an image, sections, messages, and a related article ID",
+      "message_title_1": "Sample Message",
+      "message_text_1": "Send Me!",
+      "section_title_1": "Drop Down 1",
+      "section_text_1": "Text goes Here",
+      "message_guidance_1": "Here's some guidance",
+      "section_title_2": "Drop Down 2",
+      "section_text_2": "Text goes here",
+      "sections_title": "Section Title",
+      "introduction_image": "images/thoughts_feelings.png",
+      "related_article_id_1": "talk_feelings_challenges",
+      "related_articles_title": "Related Article"
+    },
+    {
+      "id": "test_article_notpopulated",
+      "home_screen_section_list": [
+        "faq"
+      ],
+      "status": "released",
+      "title": "Test Article Not Populated",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Test Article Not Populated"
+        }
+      }
     }
   ]
 }

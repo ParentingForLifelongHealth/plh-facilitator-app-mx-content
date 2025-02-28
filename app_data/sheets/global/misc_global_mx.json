@@ -98,6 +98,26 @@
       "_translations": {
         "value": {}
       }
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "welcome",
+      "value": "Welcome",
+      "_translations": {
+        "value": {
+          "mx_es": true
+        }
+      }
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "continue",
+      "value": "Continue",
+      "_translations": {
+        "value": {
+          "mx_es": true
+        }
+      }
     }
   ],
   "_xlsxPath": "data/deployment_data_mx.xlsx"

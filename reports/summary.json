@@ -15,7 +15,7 @@
       },
       {
         "type": "button",
-        "count": 72
+        "count": 79
       },
       {
         "type": "carousel",
@@ -27,7 +27,7 @@
       },
       {
         "type": "data_items",
-        "count": 27
+        "count": 32
       },
       {
         "type": "debug_toggle",
@@ -39,15 +39,19 @@
       },
       {
         "type": "display_group",
-        "count": 95
+        "count": 96
       },
       {
         "type": "drawer",
         "count": 1
       },
       {
+        "type": "google_sign_in_button",
+        "count": 2
+      },
+      {
         "type": "image",
-        "count": 10
+        "count": 11
       },
       {
         "type": "items",
@@ -83,7 +87,7 @@
       },
       {
         "type": "set_variable",
-        "count": 681
+        "count": 652
       },
       {
         "type": "simple_checkbox",
@@ -99,7 +103,7 @@
       },
       {
         "type": "template",
-        "count": 165
+        "count": 164
       },
       {
         "type": "test",
@@ -107,7 +111,7 @@
       },
       {
         "type": "text",
-        "count": 163
+        "count": 154
       },
       {
         "type": "text_area",
@@ -119,7 +123,7 @@
       },
       {
         "type": "title",
-        "count": 33
+        "count": 35
       },
       {
         "type": "toggle_bar",
@@ -146,8 +150,12 @@
         "count": 1
       },
       {
+        "type": "auth",
+        "count": 2
+      },
+      {
         "type": "emit: completed",
-        "count": 29
+        "count": 31
       },
       {
         "type": "emit: force_reload",
@@ -155,11 +163,11 @@
       },
       {
         "type": "emit: force_reprocess",
-        "count": 9
+        "count": 13
       },
       {
         "type": "emit: force_restart",
-        "count": 3
+        "count": 5
       },
       {
         "type": "emit: server_sync",
@@ -171,7 +179,7 @@
       },
       {
         "type": "emit: uncompleted",
-        "count": 69
+        "count": 72
       },
       {
         "type": "feedback",
@@ -179,15 +187,15 @@
       },
       {
         "type": "go_to",
-        "count": 35
+        "count": 34
       },
       {
         "type": "nav_stack",
-        "count": 4
+        "count": 3
       },
       {
         "type": "pop_up",
-        "count": 10
+        "count": 12
       },
       {
         "type": "reset_app",
@@ -203,15 +211,15 @@
       },
       {
         "type": "set_field",
-        "count": 54
+        "count": 56
       },
       {
         "type": "set_item",
-        "count": 10
+        "count": 6
       },
       {
         "type": "set_local",
-        "count": 23
+        "count": 24
       },
       {
         "type": "share",
@@ -219,7 +227,7 @@
       },
       {
         "type": "user",
-        "count": 1
+        "count": 3
       }
     ]
   },
@@ -257,7 +265,7 @@
       },
       {
         "path": "contents.json",
-        "size_kb": 2.7
+        "size_kb": 2.8
       },
       {
         "path": "images/backgrounds/library_bottom_left.svg",
@@ -590,7 +598,7 @@
       },
       {
         "path": "images/icons/key.svg",
-        "count": 1,
+        "count": 2,
         "size_kb": 5.5
       },
       {
@@ -780,7 +788,7 @@
       },
       {
         "path": "images/thoughts_feelings.png",
-        "count": 1,
+        "count": 2,
         "size_kb": 87.6
       },
       {
@@ -865,12 +873,12 @@
       {
         "type": "template",
         "subtype": null,
-        "total": 72
+        "total": 74
       },
       {
         "type": "template",
         "subtype": "generated",
-        "total": 122
+        "total": 124
       },
       {
         "type": "template",
