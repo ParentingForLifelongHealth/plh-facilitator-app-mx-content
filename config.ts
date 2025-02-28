@@ -13,7 +13,7 @@ config.google_drive.assets_folder_ids = [
 
 config.git = {
   content_repo: "https://github.com/IDEMSInternational/plh-facilitator-app-mx-content.git",
-  content_tag_latest: "2.1.6",
+  content_tag_latest: "2.1.7",
 };
 
 config.android = {
