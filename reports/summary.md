@@ -6,15 +6,16 @@
 | accordion | 1 |
 | accordion_section | 1 |
 | audio | 2 |
-| button | 72 |
+| button | 79 |
 | carousel | 2 |
 | combo_box | 3 |
-| data_items | 27 |
+| data_items | 32 |
 | debug_toggle | 1 |
 | display_grid | 2 |
-| display_group | 95 |
+| display_group | 96 |
 | drawer | 1 |
-| image | 10 |
+| google_sign_in_button | 2 |
+| image | 11 |
 | items | 27 |
 | lottie_animation | 2 |
 | navigation_bar | 2 |
@@ -23,16 +24,16 @@
 | radio_button_grid | 8 |
 | round_button | 30 |
 | select_text | 1 |
-| set_variable | 681 |
+| set_variable | 659 |
 | simple_checkbox | 2 |
 | task_card | 3 |
 | task_progress_bar | 2 |
 | template | 165 |
 | test | 1 |
-| text | 163 |
+| text | 150 |
 | text_area | 2 |
 | text_box | 24 |
-| title | 33 |
+| title | 35 |
 | toggle_bar | 7 |
 | update_action_list | 2 |
 | video | 2 |
@@ -45,25 +46,26 @@
 | --- | --- |
 | add_data | 5 |
 | app_update | 1 |
-| emit: completed | 29 |
+| auth | 2 |
+| emit: completed | 31 |
 | emit: force_reload | 4 |
-| emit: force_reprocess | 9 |
-| emit: force_restart | 3 |
+| emit: force_reprocess | 13 |
+| emit: force_restart | 5 |
 | emit: server_sync | 4 |
 | emit: set_language | 1 |
-| emit: uncompleted | 69 |
+| emit: uncompleted | 72 |
 | feedback | 13 |
-| go_to | 35 |
-| nav_stack | 4 |
-| pop_up | 10 |
+| go_to | 34 |
+| nav_stack | 3 |
+| pop_up | 12 |
 | reset_app | 1 |
 | save_to_device | 4 |
 | set_data | 19 |
-| set_field | 54 |
-| set_item | 10 |
-| set_local | 23 |
+| set_field | 56 |
+| set_item | 6 |
+| set_local | 22 |
 | share | 2 |
-| user | 1 |
+| user | 3 |
 </details>
 
 <details open>
@@ -177,7 +179,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/icons/group_add_dark.svg | 2.3 | 1 |
 | images/icons/help.svg | 2.6 | 1 |
 | images/icons/home_white.svg | 1.7 | 1 |
-| images/icons/key.svg | 5.5 | 1 |
+| images/icons/key.svg | 5.5 | 2 |
 | images/icons/library.png | 1 | 1 |
 | images/icons/library_white.svg | 2.8 | 1 |
 | images/icons/pencil_white.svg | 2 | 1 |
@@ -215,7 +217,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/pcc_8.png | 179.8 | 1 |
 | images/pcc_9.png | 158.4 | 1 |
 | images/talk_feelings_challenges.svg | 19.3 | 1 |
-| images/thoughts_feelings.png | 87.6 | 1 |
+| images/thoughts_feelings.png | 87.6 | 2 |
 | lottie/gift_box.json | 94.2 | 2 |
 | pdf/manual.pdf | 1213 | 1 |
 | pdf/overview_guide_study.pdf | 2252.6 | 1 |
@@ -238,8 +240,8 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | generator |  | 9 |
 | global |  | 12 |
 | global | legal_terms | 1 |
-| template |  | 72 |
-| template | generated | 122 |
+| template |  | 74 |
+| template | generated | 124 |
 | template | legal_terms | 4 |
 | template | menu | 1 |
 </details>
