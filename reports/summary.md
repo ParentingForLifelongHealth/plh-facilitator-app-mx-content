@@ -12,10 +12,10 @@
 | data_items | 32 |
 | debug_toggle | 1 |
 | display_grid | 2 |
-| display_group | 96 |
+| display_group | 97 |
 | drawer | 1 |
 | google_sign_in_button | 2 |
-| image | 11 |
+| image | 12 |
 | items | 27 |
 | lottie_animation | 2 |
 | navigation_bar | 2 |
@@ -30,7 +30,7 @@
 | task_progress_bar | 2 |
 | template | 164 |
 | test | 1 |
-| text | 154 |
+| text | 155 |
 | text_area | 2 |
 | text_box | 24 |
 | title | 35 |
