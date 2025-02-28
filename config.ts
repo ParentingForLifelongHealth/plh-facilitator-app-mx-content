@@ -1,4 +1,5 @@
 import { extendDeploymentConfig } from "scripts";
+import { loadEncryptedConfig} from "scripts";
 const config = extendDeploymentConfig({ name: "plh_facilitator_mx", parent: "plh_facilitator" });
 
 config.google_drive.sheets_folder_ids =  [
@@ -12,7 +13,7 @@ config.google_drive.assets_folder_ids = [
 
 config.git = {
   content_repo: "https://github.com/IDEMSInternational/plh-facilitator-app-mx-content.git",
-  content_tag_latest: "2.1.5",
+  content_tag_latest: "2.1.6",
 };
 
 config.android = {
@@ -37,6 +38,14 @@ config.translations.translated_strings_path = "./app_data/translations_source/tr
 
 // Hacky fix to point extended deployment to content within its own repo
 config.app_data.output_path = "./app_data";
+
+config.firebase = {
+  config: loadEncryptedConfig('firebase.json')
+}
+
+config.auth = {
+  provider: 'firebase',
+}
 
 config.app_config.APP_LANGUAGES.default = "mx_es";
 config.app_config.APP_SIDEMENU_DEFAULTS.title = "Formando Conciencia+";
