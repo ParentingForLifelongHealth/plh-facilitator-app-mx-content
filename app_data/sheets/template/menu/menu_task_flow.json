@@ -535,7 +535,7 @@
       "parameter_list": {
         "style": "column"
       },
-      "condition": "@local.selected_group",
+      "condition": "@local.selected_group && @fields.current_group_no !== NULL",
       "rows": [
         {
           "type": "items",
@@ -1037,15 +1037,24 @@
       "_dynamicFields": {
         "condition": [
           {
-            "fullExpression": "@local.selected_group",
+            "fullExpression": "@local.selected_group && @fields.current_group_no !== NULL",
             "matchedExpression": "@local.selected_group",
             "type": "local",
             "fieldName": "selected_group"
+          },
+          {
+            "fullExpression": "@local.selected_group && @fields.current_group_no !== NULL",
+            "matchedExpression": "@fields.current_group_no",
+            "type": "fields",
+            "fieldName": "current_group_no"
           }
         ]
       },
       "_dynamicDependencies": {
         "@local.selected_group": [
+          "condition"
+        ],
+        "@fields.current_group_no": [
           "condition"
         ]
       }
@@ -1055,7 +1064,7 @@
       "parameter_list": {
         "style": "column"
       },
-      "condition": "!@local.selected_group",
+      "condition": "!@local.selected_group || @fields.current_group_no == NULL",
       "rows": [
         {
           "type": "image",
@@ -1162,15 +1171,24 @@
       "_dynamicFields": {
         "condition": [
           {
-            "fullExpression": "!@local.selected_group",
+            "fullExpression": "!@local.selected_group || @fields.current_group_no == NULL",
             "matchedExpression": "!@local.selected_group",
             "type": "local",
             "fieldName": "selected_group"
+          },
+          {
+            "fullExpression": "!@local.selected_group || @fields.current_group_no == NULL",
+            "matchedExpression": "@fields.current_group_no",
+            "type": "fields",
+            "fieldName": "current_group_no"
           }
         ]
       },
       "_dynamicDependencies": {
         "!@local.selected_group": [
+          "condition"
+        ],
+        "@fields.current_group_no": [
           "condition"
         ]
       }
