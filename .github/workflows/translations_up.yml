@@ -86,7 +86,7 @@ jobs:
       - name: Update idems_translation packages
         working-directory: idems_translation
         run: |
-          [ -f package.json ] || npm init -y
+          rm -rf node_modules package-lock.json
           npm install
 
       - name: List contents of current directory
