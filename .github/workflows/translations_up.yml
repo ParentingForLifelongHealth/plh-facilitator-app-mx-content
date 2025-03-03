@@ -117,6 +117,11 @@ jobs:
         with:          
           path: "parenting-app-ui/.idems_app/deployments/${{env.DEPLOYMENT_NAME}}"
 
+      - name: List installed packages
+        working-directory: idems_translation
+        run: npm list
+
+
         
       - name: Run script to create translation files
         working-directory: idems_translation
