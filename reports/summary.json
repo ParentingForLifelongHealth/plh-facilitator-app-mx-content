@@ -39,7 +39,7 @@
       },
       {
         "type": "display_group",
-        "count": 97
+        "count": 96
       },
       {
         "type": "drawer",
@@ -51,7 +51,7 @@
       },
       {
         "type": "image",
-        "count": 12
+        "count": 11
       },
       {
         "type": "items",
@@ -111,7 +111,7 @@
       },
       {
         "type": "text",
-        "count": 156
+        "count": 155
       },
       {
         "type": "text_area",
@@ -235,12 +235,12 @@
     "data": [
       {
         "assets": "total",
-        "KB": "7554 KB",
+        "KB": "7557 KB",
         "MB": "7.6 MB"
       },
       {
         "assets": "unused",
-        "KB": "1025 KB",
+        "KB": "1027 KB",
         "MB": "1 MB"
       }
     ]
@@ -344,8 +344,16 @@
         "size_kb": 1.5
       },
       {
+        "path": "images/icons/plus_emoji.png",
+        "size_kb": 1.1
+      },
+      {
         "path": "images/icons/reader_blue.svg",
         "size_kb": 1.4
+      },
+      {
+        "path": "images/icons/red_plus.svg",
+        "size_kb": 0.6
       },
       {
         "path": "images/icons/report.png",
@@ -627,14 +635,14 @@
         "size_kb": 1.5
       },
       {
+        "path": "images/icons/plus_emoji.svg",
+        "count": 1,
+        "size_kb": 2.9
+      },
+      {
         "path": "images/icons/profile_card.svg",
         "count": 1,
         "size_kb": 7.4
-      },
-      {
-        "path": "images/icons/red_plus.svg",
-        "count": 1,
-        "size_kb": 0.6
       },
       {
         "path": "images/icons/share.svg",
