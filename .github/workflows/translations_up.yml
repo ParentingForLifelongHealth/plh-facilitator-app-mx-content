@@ -1,4 +1,4 @@
-#Upload Translations to crowdin
+np#Upload Translations to crowdin
 #Get content repo
 #Get Translations repo
 #Get Translation content repo
@@ -83,10 +83,11 @@ jobs:
         with:
           python-version: '3.12'
 
-      - name: update idems_translation packages
+      - name: Update idems_translation packages
         working-directory: idems_translation
-        run: 
-          npm ci || true
+        run: |
+          [ -f package.json ] || npm init -y
+          npm install
 
       - name: List contents of current directory
         run: ls -l
