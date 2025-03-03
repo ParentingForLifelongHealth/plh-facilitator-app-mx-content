@@ -1104,91 +1104,31 @@
           "_nested_name": "display_group_18.logo"
         },
         {
-          "type": "display_group",
-          "style_list": [
-            "max-width: fit-content",
-            "margin-left: auto",
-            "margin-right: auto"
-          ],
-          "rows": [
-            {
-              "type": "text",
-              "value": "@global.click_on",
-              "_translations": {
-                "value": {}
-              },
-              "name": "text_1",
-              "_nested_name": "display_group_18.display_group_2.text_1",
-              "_dynamicFields": {
-                "value": [
-                  {
-                    "fullExpression": "@global.click_on",
-                    "matchedExpression": "@global.click_on",
-                    "type": "global",
-                    "fieldName": "click_on"
-                  }
-                ]
-              },
-              "_dynamicDependencies": {
-                "@global.click_on": [
-                  "value"
-                ]
+          "type": "text",
+          "value": "@global.sessions_no_groups",
+          "_translations": {
+            "value": {}
+          },
+          "parameter_list": {
+            "text_align": "center"
+          },
+          "name": "text_2",
+          "_nested_name": "display_group_18.text_2",
+          "_dynamicFields": {
+            "value": [
+              {
+                "fullExpression": "@global.sessions_no_groups",
+                "matchedExpression": "@global.sessions_no_groups",
+                "type": "global",
+                "fieldName": "sessions_no_groups"
               }
-            },
-            {
-              "type": "image",
-              "name": "icon_image",
-              "value": "@global.add_group_icon",
-              "_translations": {
-                "value": {}
-              },
-              "style_list": [
-                "max-width: 34px"
-              ],
-              "_nested_name": "display_group_18.display_group_2.icon_image",
-              "_dynamicFields": {
-                "value": [
-                  {
-                    "fullExpression": "@global.add_group_icon",
-                    "matchedExpression": "@global.add_group_icon",
-                    "type": "global",
-                    "fieldName": "add_group_icon"
-                  }
-                ]
-              },
-              "_dynamicDependencies": {
-                "@global.add_group_icon": [
-                  "value"
-                ]
-              }
-            },
-            {
-              "type": "text",
-              "value": "@global.to_add_group",
-              "_translations": {
-                "value": {}
-              },
-              "name": "text_3",
-              "_nested_name": "display_group_18.display_group_2.text_3",
-              "_dynamicFields": {
-                "value": [
-                  {
-                    "fullExpression": "@global.to_add_group",
-                    "matchedExpression": "@global.to_add_group",
-                    "type": "global",
-                    "fieldName": "to_add_group"
-                  }
-                ]
-              },
-              "_dynamicDependencies": {
-                "@global.to_add_group": [
-                  "value"
-                ]
-              }
-            }
-          ],
-          "name": "display_group_2",
-          "_nested_name": "display_group_18.display_group_2"
+            ]
+          },
+          "_dynamicDependencies": {
+            "@global.sessions_no_groups": [
+              "value"
+            ]
+          }
         }
       ],
       "name": "display_group_18",

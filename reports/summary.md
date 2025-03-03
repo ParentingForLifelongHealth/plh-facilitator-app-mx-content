@@ -12,10 +12,10 @@
 | data_items | 32 |
 | debug_toggle | 1 |
 | display_grid | 2 |
-| display_group | 97 |
+| display_group | 96 |
 | drawer | 1 |
 | google_sign_in_button | 2 |
-| image | 12 |
+| image | 11 |
 | items | 27 |
 | lottie_animation | 2 |
 | navigation_bar | 2 |
@@ -30,7 +30,7 @@
 | task_progress_bar | 2 |
 | template | 162 |
 | test | 1 |
-| text | 156 |
+| text | 155 |
 | text_area | 2 |
 | text_box | 24 |
 | title | 35 |
@@ -73,8 +73,8 @@
 
 | assets | KB | MB |
 | --- | --- | --- |
-| total | 7554 KB | 7.6 MB |
-| unused | 1025 KB | 1 MB |
+| total | 7557 KB | 7.6 MB |
+| unused | 1027 KB | 1 MB |
 </details>
 
 <details open>
@@ -108,7 +108,9 @@ Assets that appear in app-data but do not have references within sheets
 | images/icons/person_cog.png | 0.8 |
 | images/icons/person_cog.svg | 2.9 |
 | images/icons/person_white.svg | 1.5 |
+| images/icons/plus_emoji.png | 1.1 |
 | images/icons/reader_blue.svg | 1.4 |
+| images/icons/red_plus.svg | 0.6 |
 | images/icons/report.png | 0.5 |
 | images/icons/report.svg | 0.8 |
 | images/icons/sessions.png | 1.3 |
@@ -185,8 +187,8 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/icons/pencil_white.svg | 2 | 1 |
 | images/icons/people_network.svg | 6.9 | 1 |
 | images/icons/person_remove.svg | 1.5 | 1 |
+| images/icons/plus_emoji.svg | 2.9 | 1 |
 | images/icons/profile_card.svg | 7.4 | 1 |
-| images/icons/red_plus.svg | 0.6 | 1 |
 | images/icons/share.svg | 2.3 | 2 |
 | images/icons/unarchive.svg | 1.1 | 1 |
 | images/icons/visibility.svg | 1.9 | 1 |

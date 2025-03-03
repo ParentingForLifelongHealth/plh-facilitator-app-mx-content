@@ -128,11 +128,9 @@
     {
       "type": "declare_global_constant",
       "name": "sessions_no_groups",
-      "value": "Chat Sessions will load after you select a parent group",
+      "value": "No Parent Groups Found. Click on ➕ to add a parent group.",
       "_translations": {
-        "value": {
-          "mx_es": true
-        }
+        "value": {}
       }
     },
     {
@@ -192,7 +190,7 @@
     {
       "type": "declare_global_constant",
       "name": "add_group_icon",
-      "value": "images/icons/red_plus.svg",
+      "value": "images/icons/plus_emoji.svg",
       "_translations": {
         "value": {}
       },
@@ -269,18 +267,6 @@
       "_translations": {
         "value": {}
       }
-    },
-    {
-      "type": "declare_global_constant",
-      "name": "click_on",
-      "value": "No Parent Groups Found. Click on ⨁ to add a parent group. ⊕ ⨁ ➕",
-      "_translations": {
-        "value": {}
-      }
-    },
-    {
-      "type": "declare_global_constant",
-      "name": "to_add_group"
     }
   ],
   "_xlsxPath": "data/deployment_data_mx.xlsx"
