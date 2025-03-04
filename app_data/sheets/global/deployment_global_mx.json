@@ -130,7 +130,9 @@
       "name": "sessions_no_groups",
       "value": "No Parent Groups Found. Click on ➕ to add a parent group.",
       "_translations": {
-        "value": {}
+        "value": {
+          "mx_es": true
+        }
       }
     },
     {
@@ -201,7 +203,9 @@
       "name": "active_group_title",
       "value": "Your Active Groups",
       "_translations": {
-        "value": {}
+        "value": {
+          "mx_es": true
+        }
       }
     },
     {
@@ -209,7 +213,9 @@
       "name": "archived_group_title",
       "value": "Your Archived Groups",
       "_translations": {
-        "value": {}
+        "value": {
+          "mx_es": true
+        }
       }
     },
     {
@@ -217,7 +223,9 @@
       "name": "module_complete",
       "value": "You successfully completed this session!",
       "_translations": {
-        "value": {}
+        "value": {
+          "mx_es": true
+        }
       }
     },
     {
@@ -265,7 +273,9 @@
       "name": "guide_text",
       "value": "GUIDE",
       "_translations": {
-        "value": {}
+        "value": {
+          "mx_es": true
+        }
       }
     }
   ],
