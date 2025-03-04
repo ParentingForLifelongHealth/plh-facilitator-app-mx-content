@@ -137,7 +137,7 @@ jobs:
         
       - name: Run script to create translation files
         working-directory: idems_translation
-        run: python app/scripts/merge_files_post_translation.py ./open-app-builder/.idems_app/deployments/${{env.DEPLOYMENT_NAME}}/translator_settings.json
+        run: python app/scripts/merge_files_post_translation.py ../open-app-builder/.idems_app/deployments/${{env.DEPLOYMENT_NAME}}/translator_settings.json
 
       
       - name: Move and rename translation file
