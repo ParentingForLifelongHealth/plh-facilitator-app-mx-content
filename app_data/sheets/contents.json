@@ -225,12 +225,7 @@
       "flow_type": "data_list",
       "flow_name": "related",
       "data_list_name": "related",
-      "_xlsxPath": "data/modules_sub_items_mx.xlsx",
-      "_metadata": {
-        "ignore": {
-          "type": "number"
-        }
-      }
+      "_xlsxPath": "data/modules_sub_items_mx.xlsx"
     },
     "report_answers": {
       "flow_type": "data_list",
