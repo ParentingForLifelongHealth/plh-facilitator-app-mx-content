@@ -166,6 +166,7 @@ jobs:
             ${{ runner.os }}-node-modules-yarn-v1-
             
       - name: Install node modules
+        working-directory: open-app-builder
         run: yarn install --immutable
       - uses: actions/cache/save@v4
         if: steps.cache.outputs.cache-hit != 'true'
