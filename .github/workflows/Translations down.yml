@@ -55,21 +55,21 @@ jobs:
       steps:
 
       - name: Check translation repo   #TODO this repo should be a variable
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
         with:
           repository: "IDEMSInternational/plh-digital-content.git"
           path: "plh-digital-content"
           ref: "main"
 
       - name: Check idems_translation
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
         with:
           repository: "IDEMSInternational/idems_translation.git"
           path: "idems_translation"
           ref: "master"
 
       - name: set up python enviroment
-        uses: actions/setup-python@v5.0.0        
+        uses: actions/setup-python@v5.4.0        
         with:
           python-version: '3.12'
 
@@ -88,9 +88,9 @@ jobs:
         run: ls -l
   
       - name: Check out app code
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
         with:
-          repository: "IDEMSInternational/parenting-app-ui.git"
+          repository: "IDEMSInternational/open-app-builder.git"
           ref: ${{env.APP_CODE_BRANCH}}
           path: "open-app-builder"
       
@@ -104,14 +104,14 @@ jobs:
 
       - name: Checkout parent repo if needed
         if: env.PARENT_DEPLOYMENT_REPO != ''
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
         with:
           path: "open-app-builder/.idems_app/deployments/${{env.PARENT_DEPLOYMENT_NAME}}"
           repository: ${{env.PARENT_DEPLOYMENT_REPO}}
           ref: ${{env.PARENT_DEPLOYMENT_BRANCH}}
 
       - name: Checkout deployment
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
         with:
           token: ${{ secrets.PAT }}
           path: "open-app-builder/.idems_app/deployments/${{env.DEPLOYMENT_NAME}}"
@@ -143,7 +143,7 @@ jobs:
       - name: Populate Encryption key
         if: env.DEPLOYMENT_PRIVATE_KEY != ''
         working-directory: open-app-builder
-        run: echo "${{env.DEPLOYMENT_PRIVATE_KEY}}" > ./.idems_app/deployments/${{env.DEPLOYMENT_NAME}}/encrypted/private.key
+        run: echo "${{env.DEPLOYMENT_PRIVATE_KEY}}" > open-app-builder/.idems_app/deployments/${{env.DEPLOYMENT_NAME}}/encrypted/private.key
 
         # TODO - populate firebase as part of deployment set
       - name: Populate Firebase Config
