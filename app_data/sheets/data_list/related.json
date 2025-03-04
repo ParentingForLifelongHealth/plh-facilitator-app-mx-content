@@ -5,11 +5,11 @@
   "data_list_name": "related",
   "rows": [
     {
-      "id": "",
-      "foreign_key": "",
-      "related_article_id": "",
+      "id": "related_1",
+      "foreign_key": "week_1_chat_articles",
+      "related_article_id": "https://docs.google.com/document/d/196NYPfJGajrBb_A8R7-ByLisT3CQeHKlZy6_caREWt4",
       "ignore": 1,
-      "ignore_2": "#N/A",
+      "ignore_2": "week_1_chat_articles",
       "title": "",
       "_translations": {
         "title": {}
