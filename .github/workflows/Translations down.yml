@@ -125,6 +125,11 @@ jobs:
           token: ${{ secrets.PAT }}
           path: "parenting-app-ui/.idems_app/deployments/${{env.DEPLOYMENT_NAME}}"
 
+      - name: Populate Encryption key
+        if: env.DEPLOYMENT_PRIVATE_KEY != ''
+        run: echo "${{env.DEPLOYMENT_PRIVATE_KEY}}" > parenting-app-ui/.idems_app/deployments/${{env.DEPLOYMENT_NAME}}/encrypted/private.key
+
+          
       - name: List contents of current directory
         run: ls -l
 
@@ -156,22 +161,30 @@ jobs:
         run: echo 'export const firebaseConfig = ${{env.FIREBASE_CONFIG}}' > src/environments/firebaseConfig.ts
         
       - name: Setup Node
-        uses: actions/setup-node@v3
+        uses: actions/setup-node@v4
         with:
-          node-version: 18.x
+          node-version: 20.17.0
 
-      - name: Cache node modules
-        uses: actions/cache@v3
+      #############################################################################
+      #         Node Modules
+      # Manually restore any previous cache to speed install
+      # As immutable install will not change cache only save new cache if not hit
+      # Uses fine-grained methods from https://github.com/actions/cache
+      #############################################################################
+      - uses: actions/cache/restore@v4
+        id: cache
         with:
-          path: ./parenting-app-ui/.yarn/cache
-          # If cachebusting required (e.g. breaking yarn changes on update) change `v1` to another number
-          key: ${{ runner.os }}-node-modules-yarn-v1-${{ hashFiles('**/yarn.lock') }}
+          path: ./.yarn/cache
+          key: ${{ runner.os }}-node-modules-yarn-v1-${{ hashFiles('yarn.lock') }}
           restore-keys: |
             ${{ runner.os }}-node-modules-yarn-v1-
-
       - name: Install node modules
-        working-directory: parenting-app-ui
-        run: yarn install   
+        run: yarn install --immutable
+      - uses: actions/cache/save@v4
+        if: steps.cache.outputs.cache-hit != 'true'
+        with:
+          path: ./.yarn/cache
+          key: ${{ runner.os }}-node-modules-yarn-v1-${{ hashFiles('yarn.lock') }}
 
       - name: Set deployment
         working-directory: parenting-app-ui
