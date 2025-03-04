@@ -223,7 +223,10 @@ jobs:
 
           sed -i 's/\(content_tag_latest: "\)\([0-9]\+\.[0-9]\+\.\)\([0-9]\+\)"/\1\2'$((NEW_PATCH_VERSION))'"/' $FILE_PATH
       
-      
+      - name: Debug Git Status
+        run: git status
+        working-directory: open-app-builder/.idems_app/deployments/${{env.DEPLOYMENT_NAME}}
+  
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@v7.0.8
         with:
