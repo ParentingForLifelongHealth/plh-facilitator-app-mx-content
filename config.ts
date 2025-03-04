@@ -13,7 +13,7 @@ config.google_drive.assets_folder_ids = [
 
 config.git = {
   content_repo: "https://github.com/IDEMSInternational/plh-facilitator-app-mx-content.git",
-  content_tag_latest: "2.1.11",
+  content_tag_latest: "2.1.12",
 };
 
 config.android = {
@@ -24,6 +24,14 @@ config.android = {
   icon_asset_foreground_path: "./app_data/assets/android/icon-foreground.png",
   icon_asset_background_path: "./app_data/assets/android/icon-background.png",
 };
+
+config.firebase = {
+  config: loadEncryptedConfig('firebase.json')
+}
+
+config.auth = {
+  provider: 'firebase',
+}
 
 config.ios = {
   app_id: 'international.idems.plh-facilitator-mx',
