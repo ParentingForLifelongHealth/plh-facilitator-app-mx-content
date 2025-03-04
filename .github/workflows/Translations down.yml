@@ -228,7 +228,7 @@ jobs:
         uses: peter-evans/create-pull-request@v7.0.8
         with:
           token: ${{ secrets.PAT }}
-          path: parenting-app-ui/.idems_app/deployments/${{env.DEPLOYMENT_NAME}}  
+          path: open-app-builder/.idems_app/deployments/${{env.DEPLOYMENT_NAME}}  
           commit-message: Update translations
           title: ${{ inputs.pr-title }}
           body: ${{ inputs.pr-body }}
