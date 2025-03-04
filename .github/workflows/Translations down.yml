@@ -223,30 +223,30 @@ jobs:
 
           sed -i 's/\(content_tag_latest: "\)\([0-9]\+\.[0-9]\+\.\)\([0-9]\+\)"/\1\2'$((NEW_PATCH_VERSION))'"/' $FILE_PATH
       
-        - name: Commit changes
-          working-directory: open-app-builder/.idems_app/deployments/${{env.DEPLOYMENT_NAME}}
-          run: |
-            # Set safe directory to avoid permission issues
-            git config --global --add safe.directory "$(git rev-parse --show-toplevel)"
-            
-            # Configure Git user
-            git config --local user.email "action@github.com"
-            git config --local user.name "GitHub Action"
-        
-            # Add and commit changes if any
-            git add .
-            if ! git diff --quiet --cached; then
-              git commit -m "Automated commit message"
-              git push origin HEAD:patch
-            else
-              echo "No changes to commit."
-            fi
-        
-        - name: Create Pull Request
-          uses: peter-evans/create-pull-request@v7.0.8
-          with:
-            token: ${{ secrets.PAT }}
-            title: ${{ inputs.pr-title }}
-            body: ${{ inputs.pr-body }}
-            labels: test - preview
-            branch: patch
+      - name: Commit changes
+        working-directory: open-app-builder/.idems_app/deployments/${{env.DEPLOYMENT_NAME}}
+        run: |
+          # Set safe directory to avoid permission issues
+          git config --global --add safe.directory "$(git rev-parse --show-toplevel)"
+          
+          # Configure Git user
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+      
+          # Add and commit changes if any
+          git add .
+          if ! git diff --quiet --cached; then
+            git commit -m "Automated commit message"
+            git push origin HEAD:patch
+          else
+            echo "No changes to commit."
+          fi
+      
+      - name: Create Pull Request
+        uses: peter-evans/create-pull-request@v7.0.8
+        with:
+          token: ${{ secrets.PAT }}
+          title: ${{ inputs.pr-title }}
+          body: ${{ inputs.pr-body }}
+          labels: test - preview
+          branch: patch
