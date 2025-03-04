@@ -343,7 +343,7 @@
   },
   {
     "SourceText": "Message 1: Introduction",
-    "text": "Mensaje 1: Integración",
+    "text": "Mensaje 1: Bienvenida",
     "type": "data_list",
     "note": ""
   },
@@ -511,7 +511,7 @@
   },
   {
     "SourceText": "It's been wonderful being part of this amazing parent program with all of you! Saying goodbye makes me a bit sad. \n\nAs I shared with you during the onboarding session, I will now be exiting this WhatsApp Group. 👋\n\nYou are the best parents to your boys, girls, and teens.  *You can still complete your final @global.programme_name lessons if you have not done so yet*. 🌱\n\nWe all face difficult situations sometimes, and these final parts of @global.programme_name will help you and your girl, boy or teen to get through them well. \n\nYou’ve got this! ⭐You are doing a wonderful job as a parent. It has been a pleasure to be on this journey with you!",
-    "text": "¡Ser parte de este gran programa de crianza con ustedes ha sido maravilloso! Me pone un poco triste tener que despedirme. \n\nComo les compartí al principio, durante la sesión de integración, me saldré este Grupo de WhatsApp. 👋\n\nUstedes son las mejores madres, padres y personas cuidadoras para sus niñas, niños y adolescentes.  *Todavía estás a tiempo de completar las últimas sesiones de @global.programme_name si aún no lo has hecho*. 🌱\n\nTodas y todos nos enfrentamos a situaciones difíciles de vez en cuando, y estas últimas sesiones de @global.programme_name les ayudarán, tanto a ustedes como a sus niñas, niños o adolescentes, a superarlas con éxito. \n\n¡Tú puedes! ⭐ Estás haciendo un gran trabajo en la crianza de tu niña, niño o adolescente. ¡Ha sido un placer compartir este viaje con ustedes!",
+    "text": "¡Ser parte de este gran programa de crianza con ustedes ha sido maravilloso! Me pone un poco triste tener que despedirme. \n\nComo les compartí al principio, durante la sesión de integración, me saldré este Grupo de Reflexión. 👋\n\nRecuerden que ustedes son las mejores madres, padres y personas cuidadoras para sus niñas, niños y adolescentes.  *Todavía estás a tiempo de completar las últimas sesiones de @global.programme_name si aún no lo has hecho*. 🌱\n\nTodas y todos nos enfrentamos a situaciones difíciles de vez en cuando, y estas últimas sesiones de @global.programme_name les ayudarán, tanto a ustedes como a sus niñas, niños o adolescentes, a superarlas con éxito. \n\n⭐ Están haciendo un gran trabajo en la crianza de su niña, niño o adolescente. ¡Ha sido un placer compartir este viaje con ustedes!rt",
     "type": "data_list",
     "note": "The following strings should not be translated:\n@global.programme_name\n@global.programme_name"
   },
@@ -1026,12 +1026,6 @@
     "note": ""
   },
   {
-    "SourceText": "Parenting Children in Crisis",
-    "text": "Crianza en Contextos de Crisis",
-    "type": "data_list",
-    "note": ""
-  },
-  {
     "SourceText": "This chat session should happen on the same day or day after you complete the in-person onboarding session. As the first chat session, it offers a chance for parents to introduce themselves to the group.",
     "text": "Esta sesión de reflexión debe llevarse a cabo el mismo día o al día siguiente de completar la sesión presencial de integración. Como será  el primer mensaje clave que envíes, las personas participantes tendrán la oportunidad de presentarse ante el grupo.",
     "type": "data_list",
@@ -1118,6 +1112,12 @@
   {
     "SourceText": "Partners",
     "text": "Socios",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Overview of the Crianza con Conciencia+ Programme",
+    "text": "Descripción General del Programa Crianza con Conciencia+",
     "type": "data_list",
     "note": ""
   },
@@ -1621,7 +1621,7 @@
   },
   {
     "SourceText": "I don’t understand how thoughts, feelings, and actions are connected.",
-    "text": "No entiendo cómo están conectados los pensamientos, los sentimientos y las acciones.",
+    "text": "No entiendo cómo están conectados los pensamientos, las emociones y las acciones.",
     "type": "data_list",
     "note": ""
   },
@@ -1933,7 +1933,7 @@
   },
   {
     "SourceText": "If you require help while moderating your WhatsApp Support Group, the chat sessions provide a list of FAQs and potential solutions.\n\nIf you need support responding to a challenge shared by the parent during your chat session, see “Common Challenges” on the homepage. \n\nFollow the same instructions as Sharing Chat Messages to share the solutions to the challenges. \n\nIf you encounter a challenge not covered in the chat session, kindly contact your supervisor for further guidance.It is better to ask and not share wrong information",
-    "text": "Si necesitas ayuda mientras moderas tu Grupo de Comunidad de WhatsApp, en las sesiones de reflexión encontrarás una lista de preguntas frecuentes y posibles soluciones.\n\nSi necesitas apoyo para responder a un reto o desafío compartido por una madre, un padre o una persona cuidadora durante tu sesión de reflexión, consulta \"Desafíos Comunes\" en la página de inicio. \n\nSigue las mismas instrucciones que en Compartir Mensajes de Chat para compartir las soluciones a los retos. \n\nSi te encuentras con un desafío que no ha sido cubierto en la sesión de reflexión, ponte en contacto con tu persona asesora para que te oriente. Es mejor preguntar a compartir información incorrecta o la respuesta equivocada.",
+    "text": "Si necesitas ayuda mientras moderas tu Grupo de Reflexión, en la biblioteca encontrarás una lista de preguntas frecuentes y posibles soluciones.\n\nSi necesitas apoyo para responder a un reto o desafío compartido por una madre, un padre o una persona cuidadora durante tu sesión de reflexión, consulta \"Desafíos Comunes\" en la biblioteca. \n\nSigue las mismas instrucciones para compartir las soluciones a los retos. \n\nSi te encuentras con un desafío que no ha sido cubierto en la sesión de reflexión, ponte en contacto con tu persona asesora para que te oriente. Es mejor preguntar antes de compartir información que sea incorrecta o la respuesta equivocada.",
     "type": "data_list",
     "note": ""
   },
@@ -2107,7 +2107,7 @@
   },
   {
     "SourceText": "**Before conducting the chat sessions, make sure you:** \n\nCreate a WhatsApp Group during the onboarding session. \nIdentify the ground rules for the WhatsApp Group\n\n**Structure for the chat sessions**: \n\nDay  1 (immediately after the onboarding session): Welcome, introductions, and reminder of home practice. \n\nWeek 1: Thoughts, feelings, and actions\n\nWeek 2: Kind self-talk\n\nWeek 3: Character strengths\n\nWeek 4: Building pleasant emotions\n\n**When to send the messages** \n\nYou and your group will decide a time to chat during the onboarding session. \n\nBefore each chat session, send the reminder message few hours before the chat session. You can set alarms on your phone to remind you when to send messages.\n\nSend the remaining messages during the scheduled chat time.",
-    "text": "**Antes de realizar las sesiones de reflexión, asegúrate de:** \n\nCrear un Grupo de WhatsApp durante la sesión de incorporación. \nEstablece las normas básicas del Grupo de WhatsApp\n\n**Estructura de las sesiones de reflexión**: \n\nDía 1 (inmediatamente después de la sesión de incorporación): Bienvenida, presentaciones y recordatorio de la práctica en casa. \n\nSemana 1: Pensamientos, sentimientos y acciones\n\nSemana 2: Autoconversación amable\n\nSemana 3: Fortalezas del carácter\n\nSemana 4: Construir emociones agradables\n\n**Cuándo enviar los mensajes** \n\nTú y tu grupo decidiréis un momento para chatear durante la sesión de iniciación. \n\nAntes de cada sesión de chat, envía el mensaje recordatorio unas horas antes de la sesión de chat. Puedes programar alarmas en tu teléfono para que te recuerden cuándo enviar los mensajes.\n\nEnvía los mensajes restantes durante la hora de chat programada.",
+    "text": "**Antes de realizar las sesiones de reflexión, asegúrate de:** \n\nCrear un Grupo de WhatsApp durante la sesión de integración. \nEstablece las normas básicas del Grupo de WhatsApp\n\n**Estructura de las sesiones de reflexión**: \n\nDía 1 (inmediatamente después de la sesión de integración): Bienvenida, presentaciones y recordatorio de la práctica en casa. \n\nSemana 1: Pensamientos, Emociones y Acciones\n\nSemana 2: Diálogo Interno\n\nSemana 3: Fortalezas Personales\n\nSemana 4: Desarrollar Emociones Agradables\n\n**Cuándo enviar los mensajes** \n\nTú y tu grupo decidirán un momento para chatear durante la sesión de integración. \n\nAntes de cada sesión de reflexión, envía el mensaje recordatorio unas horas antes. Puedes programar alarmas en tu teléfono para que te recuerden cuándo enviar los mensajes.\n\nEnvía los mensajes restantes durante la hora de chat programada.",
     "type": "data_list",
     "note": ""
   },
@@ -2125,13 +2125,13 @@
   },
   {
     "SourceText": "Get Help with WhatsApp Support Group",
-    "text": "Consigue Ayuda con el Grupo de Comunidad de WhatsApp",
+    "text": "Consigue Ayuda dentro del Grupo de Reflexión",
     "type": "data_list",
     "note": ""
   },
   {
     "SourceText": "If you require help while moderating your WhatsApp Support Group, the chat sessions provide a list of FAQs and potential solutions.\n\nIf you need support responding to a challenge shared by the parent during your chat session, see “Common Challenges” on the homepage. \n\nFollow the same instructions as Sharing Chat Messages to share the solutions to the challenges. \n\nIf you encounter a challenge not covered in the chat session, kindly contact your supervisor for further guidance.",
-    "text": "Si necesitas ayuda mientras moderas tu Grupo de Comunidad de WhatsApp, en las sesiones de reflexión encontrarás una lista de preguntas frecuentes y posibles soluciones.\n\nSi necesitas apoyo para responder a un reto o desafío compartido por la madre, padre o persona cuidadora durante tu sesión de reflexión, consulta \"Desafíos Comunes\" en la página de inicio. \n\nSigue las mismas instrucciones que en Compartir mensajes de chat para compartir las soluciones a los retos. \n\nSi te encuentras con un desafío que no ha sido cubierto en la sesión de reflexión, ponte en contacto con tu supervisor para que te oriente.",
+    "text": "Si necesitas ayuda mientras moderas tu Grupo de Comunidad de WhatsApp, en las sesiones de reflexión encontrarás una lista de preguntas frecuentes y posibles soluciones.\n\nSi necesitas apoyo para responder a un reto o desafío compartido por una madre, un padre o una persona cuidadora durante tu sesión de reflexión, consulta \"Desafíos Comunes\" en la página de inicio. \n\nSigue las mismas instrucciones que en Compartir Mensajes de Chat para compartir las soluciones a los retos. \n\nSi te encuentras con un desafío que no ha sido cubierto en la sesión de reflexión, ponte en contacto con tu persona asesora para que te oriente. Es mejor preguntar a compartir información incorrecta o la respuesta equivocada.",
     "type": "data_list",
     "note": ""
   },
@@ -2161,7 +2161,7 @@
   },
   {
     "SourceText": "Select the profile icon from the bottom navigation bar. \n\nChoose “About you” \n\nType your name under “Your name” \n\nSelect your state from the dropdown menu \n\nTap Save",
-    "text": "Selecciona el icono de perfil en la barra de navegación que se encuentra en la parte de abajo. \n\nElige \"Acerca de ti\" \n\nEscribe tu nombre en \"Tu nombre\" \n\nSelecciona tu estado en el menú desplegable \n\nPresiona Guardar",
+    "text": "Selecciona el icono de Ajustes en la barra de navegación que se encuentra en la parte de abajo. \n\nElige \"Perfil\" \n\nEscribe tu nombre en \"Tu nombre\" \n\nSelecciona tu estado en el menú desplegable \n\nPresiona Guardar",
     "type": "data_list",
     "note": ""
   },
@@ -2173,7 +2173,7 @@
   },
   {
     "SourceText": "Select the profile icon from the bottom navigation bar. \n\nChoose “Add Parent”\n\nEnter parent details in the form. To enter the parent’s unique identifier (UID), ask them to text “ID” on @global.programme_name. Copy the 6-digit number into the parent profile.",
-    "text": "Selecciona el icono de perfil en la barra de navegación que se encuentra en la parte de abajo. \n\nEscoge \"Agregar madre, padre o persona cuidadora\"\n\nIngresa los datos de la madre, el padre o la persona cuidadora en el formulario. Para ingresar el número de registro (ID) del la persona participante, pídele que escriba \"ID\" en @global.programme_name Copia el número de 6 dígitos en el perfil del participante.",
+    "text": "1)Selecciona el ícono del colibrí y en la barra superior selecciona el signo de\n“+”.\n2)Elige \"Crear un nuevo grupo\" y posteriormente ingresa el nombre que le asignarás a ese grupo.Por ejemplo: CC+ Xochimilco.Te recomendamos que uses el mismo nombre que seleccionaste para el grupo de reflexión semanal.Puedes agregar emojis si lo consideras útil.\n3) Después selecciona “ Agregar persona cuidadora” .\n4)Introduce los datos de la persona cuidadora en el formulario. Estos 6 dígitos debes escribirlos en la sección de “Número de Registro (ID)”. Para introducir el número de registro de las personas cuidadoras, pídeles que escriban \"ID\" en el curso de @global.programme_name en WhatsApp y te compartan el número de 6 dígitos que les aparece o puedes recabarlos en tu lista de asistencia.",
     "type": "data_list",
     "note": "The string @global.programme_name. should not be translated."
   },
@@ -2185,31 +2185,31 @@
   },
   {
     "SourceText": "If two parents from the same family are participating in the programme, together, you must link their accounts. \n\nOnce you have added the first parent profile, to add a second parent, select “Add Parent”\n\nEnter parent details in the form. To enter the parent’s unique identifier (UID), ask them to text “ID” on @global.programme_name. Copy the 6-digit number into the parent profile. \n\nSelect “Add Co-Parent”\n\nSelect the co-parent from available parent user profiles. \n\nSelect “Save”\n\n*Both parent profiles will be updated to note the co-parent.*",
-    "text": "Si más de un miembro de la misma familia entra al programa, debes vincular sus cuentas. \n\nUna vez que hayas agregado el perfil de la primera persona (madre, padre o persona cuidadora), selecciona \"Agregar a una Madre, un Padre o una Persona Cuidadora\" para vincular a una segunda persona con la que comparta la crianza.\n\nIngresa los datos de la madre, el padre o la persona cuidadora en el formulario. Para ingresar el número de registro (ID), pídele a la madre, el padre o la persona cuidadora que escriba \"ID\" en el @global.programme_name. Copia el número de 6 dígitos en el perfil de la madre, el padre o la persona cuidadora. \n\nSelecciona \"Agregar persona con quien comparte la crianza\"\n\nSelecciona a la madre, el padre o la persona cuidadora adicional entre los perfiles de usuario disponibles. \n\nSelecciona \"Guardar\"\n\n*Los perfiles de ambos participantes se actualizarán para destacar a la persona con quien comparte la crianza.*",
+    "text": "Si dos madres, padres o personas cuidadoras participan juntos en el programa, es importante vincular sus cuentas. Esto permitirá al programa, y a ti como persona facilitadora o promotora, identificar a quienes ejercen una crian compartida y corresponsable. Para hacerlo, sigue estos pasos:\n1)Una vez que hayas añadido los perfiles de las personas cuidadoras de grupo, selecciona “Guardar perfil”. Esto te redirigirá a la página principal del grupo, donde podrás ver la lista completa de participantes.\n2)Dentro de la lista de participantes, ubica el siguiente ícono junto a los nombres de los perfiles de tu grupo y selecciona el que quieres vincular con otra persona cuidadora ya registrada en tu grupo.\n3)Elige el perfil de la persona con la que quieres vincularle.Al hacerlo, podrás ver quiénes comparten la crianza dentro de tu grupo.\n4)Finalmente, selecciona “Guardar”.\nLos perfiles de ambas madres, padres o personas cuidadoras se actualizarán automáticamente para reflejar que comparten la crianza.\n   \n",
     "type": "data_list",
     "note": "The string @global.programme_name. should not be translated."
   },
   {
     "SourceText": "Report Attendance",
-    "text": "Informar sobre la Asistencia",
+    "text": "Presentar tus reportes de las sesiones",
     "type": "data_list",
     "note": ""
   },
   {
     "SourceText": "Select the pencil icon from the bottom navigation bar. \n\nSelect whether you are reporting on an in-person or WhatsApp session with your parents. \n\nChoose which session you are reporting on. \n\n\nComplete the report \n\n⏰Specify the time spent on preparation, travel, and actual session delivery. \n\n✅Check the activities you completed (in-person) or the number of messages you sent (WhatsApp Group)\n\n🔵Selecting the parents who participated in the session:\n\nFor in-person sessions, “participation” is defined as parents who attended the session, in part or whole. \nFor the WhatsApp group, “participation” is defined as parents who have sent at least 1 message during the chat session. \n\nIf you do not see a parent’s name, then you need to add that parent to the App (see above).",
-    "text": "Selecciona el icono del lápiz en la barra de navegación que se encuentra en la parte de abajo. \n\nSelecciona entre estar informando sobre una sesión presencial o una de WhatsApp con tus participantes. \n\nEscoge la sesión sobre la cuál estás informando. \n\n\nCompleta el informe \n\n⏰Especifica el tiempo empleado en la preparación, el desplazamiento y la realización de la sesión ya estando con las personas participantes. \n\n✅Selecciona las actividades que completaste (en persona) o el número de mensajes que enviaste (Grupo de WhatsApp)\n\n🔵Selecciona a las madres, padres y personas cuidadoras que participaron en la sesión:\n\nPara las sesiones presenciales, la \"participación\" se define como las madres, padres o personas cuidadoras que asistieron a la sesión, ya sea una parte o en su totalidad. \nPara el grupo de WhatsApp, la \"participación\" se define como las madres, padres o personas cuidadoras que enviaron al menos 1 mensaje durante la sesión de reflexión. \n\nSi no ves el nombre de una persona participante, tienes que agregarlo a la App (ver más arriba).",
+    "text": "Una vez enviados los mensajes clave o sesiones de reflexión la aplicación te dará la opción de presentar un reporte. Si necesitas hacerlo después puedes seleccionar el icono del lápiz en la barra de navegación que se encuentra en la parte de abajo. \n\n1)Selecciona el reporte de la sesión que quieres presentar\n\n\nCompleta el informe \n\n⏰Especifica el tiempo empleado en la preparación, el desplazamiento y la realización de la sesión ya estando con las personas participantes. \n\n✅Selecciona las actividades que completaste (en persona) o el número de mensajes que enviaste (Grupo de WhatsApp)\n\n🔵Selecciona a las madres, padres y personas cuidadoras que participaron en la sesión:\n\nPara las sesiones, la \"participación\" se define como las madres, padres o personas cuidadoras que asistieron a la sesión  de forma presencial, ya sea una parte o en su totalidad. \nPara el grupo de WhatsApp, la \"participación\" se define como las madres, padres o personas cuidadoras que enviaron al menos 1 mensaje durante la sesión de reflexión. \n\nSi no ves el nombre de una persona participante, tienes que agregarlo a la App (ver más arriba).",
     "type": "data_list",
     "note": ""
   },
   {
     "SourceText": "Edit an Attendance Report",
-    "text": "Editar un Informe de Asistencia",
+    "text": "Editar un Reporte ",
     "type": "data_list",
     "note": ""
   },
   {
     "SourceText": "Only edit an attendance report if you have made a mistake.\n\nSelect the pencil icon from the bottom of the navigation bar. \n\nSelect whether you want to edit an in-person or WhatsApp session. \n\nSelect the session that you want to edit.\n\nYour previous selections will appear. You can now edit your selections and select “Save”",
-    "text": "Solamente debes editar un informe de asistencia si has cometido un error.\n\nSelecciona el icono del lápiz en la parte inferior de la barra de navegación. \n\nSelecciona si quieres editar una sesión presencial o de WhatsApp. \n\nSelecciona la sesión que quieres editar.\n\nAparecerán tus selecciones anteriores. Ahora podrás editarlas y presionar \"Guardar\"",
+    "text": "Solamente debes editar los reportes si has cometido un error.\n\n1) Selecciona el icono del lápiz en la parte inferior de la barra de navegación. \n\n2) Selecciona el reporte que quieres editar. \n\n3) Aparecerán tus selecciones anteriores. Ahora podrás editarlas y presionar \"Guardar\"",
     "type": "data_list",
     "note": ""
   },
@@ -2251,7 +2251,7 @@
   },
   {
     "SourceText": "Here is the schedule for your coaching session: \n\nSession 1: After you conduct the in-person onboarding session\n\nSession 2: After first WhatsApp chat session on thoughts, feelings, and actions\n\nSession 3: After second WhatsApp chat session on kind self-talk\n\nSession 4: After third WhatsApp chat session on character strengths",
-    "text": "Este es el programa para tu sesión de asesoría: \n\nSesión 1: Después de la sesión de integración presencial\n\nSesión 2: Después de la primera sesión de chat de WhatsApp sobre pensamientos, sentimientos y acciones\n\nSesión 3: Después de la segunda sesión de chat de WhatsApp sobre el diálogo interno amable\n\nSesión 4: Después de la tercera sesión de chat de WhatsApp sobre las fortalezas de carácter",
+    "text": "Este es el programa para tu sesión de asesoría: \n\nSesión 1: Después de la sesión de integración presencial\n\nSesión 2: Después de la primera sesión de chat de WhatsApp sobre pensamientos,emociones y acciones\n\nSesión 3: Después de la segunda sesión de chat de WhatsApp sobre el diálogo interno\n\nSesión 4: Después de la tercera sesión de chat de WhatsApp sobre las fortalezas personales",
     "type": "data_list",
     "note": ""
   },
@@ -2976,8 +2976,8 @@
     "note": ""
   },
   {
-    "SourceText": "Chat Sessions will load after you select a parent group",
-    "text": "Las sesiones de reflexión se mostrarán después de que selecciones un grupo",
+    "SourceText": "No Parent Groups Found. Click on ➕ to add a parent group.",
+    "text": "No se encontraron grupos. Haz clic en ➕ para agregar un grupo.",
     "type": "global",
     "note": ""
   },
@@ -3002,6 +3002,138 @@
   {
     "SourceText": "minutes",
     "text": "minutos",
+    "type": "global",
+    "note": ""
+  },
+  {
+    "SourceText": "Your Active Groups",
+    "text": "Tus grupos activos",
+    "type": "global",
+    "note": ""
+  },
+  {
+    "SourceText": "Your Archived Groups",
+    "text": "Tus grupos archivados",
+    "type": "global",
+    "note": ""
+  },
+  {
+    "SourceText": "You successfully completed this session!",
+    "text": "¡Completaste esta sesión!",
+    "type": "global",
+    "note": ""
+  },
+  {
+    "SourceText": "You successfully completed the report for this session!",
+    "text": "¡Completaste con éxito el reporte de esta sesión!",
+    "type": "global",
+    "note": ""
+  },
+  {
+    "SourceText": "Review Report",
+    "text": "Revisar Reporte",
+    "type": "global",
+    "note": ""
+  },
+  {
+    "SourceText": "Submit Report",
+    "text": "Enviar informe ",
+    "type": "global",
+    "note": ""
+  },
+  {
+    "SourceText": "Frequently Asked Questions",
+    "text": "Preguntas Frecuentes",
+    "type": "global",
+    "note": ""
+  },
+  {
+    "SourceText": "GUIDE",
+    "text": "GUÍA",
+    "type": "global",
+    "note": ""
+  },
+  {
+    "SourceText": "Sign in",
+    "text": "Ingresar",
+    "type": "global",
+    "note": ""
+  },
+  {
+    "SourceText": "Sign in with Google",
+    "text": "Ingresar con Google",
+    "type": "global",
+    "note": ""
+  },
+  {
+    "SourceText": "Sign out",
+    "text": "Cerrar sesión",
+    "type": "global",
+    "note": ""
+  },
+  {
+    "SourceText": "Create an account",
+    "text": "Crear una cuenta",
+    "type": "global",
+    "note": ""
+  },
+  {
+    "SourceText": "Creating an account allows you to save your progress across devices. It is optional.",
+    "text": "Crear una cuenta te permite guardar tu progreso en diferentes equipos. Es opcional.",
+    "type": "global",
+    "note": ""
+  },
+  {
+    "SourceText": "Skip",
+    "text": "Saltar",
+    "type": "global",
+    "note": ""
+  },
+  {
+    "SourceText": "Continue without an account",
+    "text": "Continuar sin una cuenta",
+    "type": "global",
+    "note": ""
+  },
+  {
+    "SourceText": "Excited to have you here! Let’s keep going.",
+    "text": "¡Me alegro de tenerte aquí! Sigamos adelante.",
+    "type": "global",
+    "note": ""
+  },
+  {
+    "SourceText": "Excited to have you here @fields._auth_user_given_name! Let’s keep going.",
+    "text": "¡Que gusto tenerte aquí @fields._auth_user_given_name! Sigamos adelante.",
+    "type": "global",
+    "note": "The string @fields._auth_user_given_name! should not be translated."
+  },
+  {
+    "SourceText": "You are signed in.",
+    "text": "Sesión iniciada.",
+    "type": "global",
+    "note": ""
+  },
+  {
+    "SourceText": "It looks like you've logged in on another device before. Would you like to continue from where you left off? \n\nIf you do, any progress made on this device will be lost.",
+    "text": "Parece que ya has iniciado sesión en otro dispositivo. ¿Quieres continuar desde donde lo dejaste? \n\nSi lo haces, cualquier progreso realizado en este dispositivo se perderá.",
+    "type": "global",
+    "note": ""
+  },
+  {
+    "SourceText": "Load saved progress",
+    "text": "Cargar progreso guardado",
+    "type": "global",
+    "note": ""
+  },
+  {
+    "SourceText": "Welcome",
+    "text": "Te damos la bienvenida ",
+    "type": "global",
+    "note": ""
+  },
+  {
+    "SourceText": "Continue",
+    "text": "Continúa",
     "type": "global",
     "note": ""
   },
@@ -3360,30 +3492,6 @@
     "note": ""
   },
   {
-    "SourceText": "You successfully completed the report for this session!",
-    "text": "¡Completaste con éxito el reporte de esta sesión!",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "Review Report",
-    "text": "Revisar Reporte",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "Submit Report",
-    "text": "Enviar informe de asistencia",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "Get Support",
-    "text": "Ayuda",
-    "type": "template",
-    "note": ""
-  },
-  {
     "SourceText": "Choose which content you want to see.",
     "text": "Escoge qué contenido quieres ver.",
     "type": "template",
@@ -3512,18 +3620,6 @@
   {
     "SourceText": "Save",
     "text": "Guardar",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "Manage Existing Groups",
-    "text": "Administrar Tus Grupos",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "Create New Group",
-    "text": "Crea un nuevo grupo",
     "type": "template",
     "note": ""
   },

@@ -13,7 +13,9 @@
         "title": {
           "mx_es": true
         },
-        "description": {}
+        "description": {
+          "mx_es": true
+        }
       },
       "_translatedFields": {
         "title": {
