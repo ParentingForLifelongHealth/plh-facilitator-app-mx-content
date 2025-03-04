@@ -243,3 +243,4 @@ jobs:
           # The body of the pull request.
           body: ${{ inputs.pr-body }}
           labels: test - preview
+          branch: patch
