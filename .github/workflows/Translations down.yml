@@ -223,24 +223,30 @@ jobs:
 
           sed -i 's/\(content_tag_latest: "\)\([0-9]\+\.[0-9]\+\.\)\([0-9]\+\)"/\1\2'$((NEW_PATCH_VERSION))'"/' $FILE_PATH
       
-      - name: Commit changes
-        working-directory: open-app-builder/.idems_app/deployments/${{env.DEPLOYMENT_NAME}}
-        run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"        
-          git add .  # This adds all changes to the staging area
-          git diff --quiet && git diff --staged --quiet || git commit -m "Automated commit message" # Only commit if there are changes
-        #  git checkout -b automated-changes
-
-      - name: Create Pull Request
-        uses: peter-evans/create-pull-request@v7.0.8
-        with:
-          token: ${{ secrets.PAT }}
-          # Relative path under $GITHUB_WORKSPACE to the repository. Defaults to $GITHUB_WORKSPACE.
-          path: open-app-builder/.idems_app/deployments/${{env.DEPLOYMENT_NAME}}             
-          # The title of the pull request.
-          title: ${{ inputs.pr-title }}
-          # The body of the pull request.
-          body: ${{ inputs.pr-body }}
-          labels: test - preview
-          branch: patch
+        - name: Commit changes
+          working-directory: open-app-builder/.idems_app/deployments/${{env.DEPLOYMENT_NAME}}
+          run: |
+            # Set safe directory to avoid permission issues
+            git config --global --add safe.directory "$(git rev-parse --show-toplevel)"
+            
+            # Configure Git user
+            git config --local user.email "action@github.com"
+            git config --local user.name "GitHub Action"
+        
+            # Add and commit changes if any
+            git add .
+            if ! git diff --quiet --cached; then
+              git commit -m "Automated commit message"
+              git push origin HEAD:patch
+            else
+              echo "No changes to commit."
+            fi
+        
+        - name: Create Pull Request
+          uses: peter-evans/create-pull-request@v7.0.8
+          with:
+            token: ${{ secrets.PAT }}
+            title: ${{ inputs.pr-title }}
+            body: ${{ inputs.pr-body }}
+            labels: test - preview
+            branch: patch
