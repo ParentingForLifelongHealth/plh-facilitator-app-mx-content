@@ -140,11 +140,6 @@ jobs:
             mv idems_translation/app/5_completed_dictionaries/${lang}_dictionary.json open-app-builder/.idems_app/deployments/${{env.DEPLOYMENT_NAME}}/translations_source/translated_strings/translated.${destination}.json
           done
       
-      - name: Populate Encryption key
-        if: env.DEPLOYMENT_PRIVATE_KEY != ''
-        working-directory: open-app-builder
-        run: echo "${{env.DEPLOYMENT_PRIVATE_KEY}}" > open-app-builder/.idems_app/deployments/${{env.DEPLOYMENT_NAME}}/encrypted/private.key
-
         # TODO - populate firebase as part of deployment set
       - name: Populate Firebase Config
         if: env.FIREBASE_CONFIG != ''
