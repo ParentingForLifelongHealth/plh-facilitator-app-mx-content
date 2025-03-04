@@ -232,12 +232,19 @@ jobs:
       - name: Stage, commit, and push changes
         run: |
           git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"   
+          git config --local user.name "GitHub Action"
           git add .
           git diff --quiet && git diff --staged --quiet || git commit -m "Update translations"
-          git pull --rebase origin patch  # Pull latest changes before pushing
-          git push --set-upstream origin patch
+      
+          # Check if the branch exists remotely
+          if git ls-remote --exit-code --heads origin patch; then
+            git pull --rebase origin patch  # If exists, pull before pushing
+            git push --force-with-lease origin patch
+          else
+            git push -u origin patch  # If doesn't exist, create and push
+          fi
         working-directory: open-app-builder/.idems_app/deployments/${{env.DEPLOYMENT_NAME}}
+
       
       - name: Debug Git Status
         run: git status
