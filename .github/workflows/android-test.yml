@@ -21,7 +21,7 @@ jobs:
       - name: Load .env File and Pass Variables
         run: |
           set -o allexport
-          source env-vars.env
+          source actions.env
           set +o allexport
           echo "APP_ID=$APP_ID" >> $GITHUB_ENV
           echo "LFS_USED=$LFS_USED" >> $GITHUB_ENV
