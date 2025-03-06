@@ -2,6 +2,28 @@ name: Get Variables
 
 on:
   workflow_call:
+    outputs:
+      APP_ID:
+        description: "Application ID"
+        value: ${{ jobs.get_vars.outputs.APP_ID }}
+      LFS_USED:
+        description: "LFS usage flag"
+        value: ${{ jobs.get_vars.outputs.LFS_USED }}
+      DEPLOYMENT_NAME:
+        description: "Deployment Name"
+        value: ${{ jobs.get_vars.outputs.DEPLOYMENT_NAME }}
+      PARENT_DEPLOYMENT_NAME:
+        description: "Parent Deployment Name"
+        value: ${{ jobs.get_vars.outputs.PARENT_DEPLOYMENT_NAME }}
+      PARENT_DEPLOYMENT_REPO:
+        description: "Parent Deployment Repository"
+        value: ${{ jobs.get_vars.outputs.PARENT_DEPLOYMENT_REPO }}
+      PARENT_DEPLOYMENT_BRANCH:
+        description: "Parent Deployment Branch"
+        value: ${{ jobs.get_vars.outputs.PARENT_DEPLOYMENT_BRANCH }}
+      ENCRYPTED:
+        description: "Encryption flag"
+        value: ${{ jobs.get_vars.outputs.ENCRYPTED }}
 
 jobs:
   get_vars:
