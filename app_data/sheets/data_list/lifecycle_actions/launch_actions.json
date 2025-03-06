@@ -75,6 +75,21 @@
       "priority": 4,
       "condition_list": [
         "!@fields.login_passed && @global.has_optional_login && @fields.user_mode"
+      ],
+      "action_list": [
+        {
+          "trigger": "click",
+          "action_id": "pop_up",
+          "args": [
+            "login"
+          ],
+          "_raw": "pop_up: login | fullscreen: true, showCloseButton: false",
+          "_cleaned": "click | pop_up: login | fullscreen: true, showCloseButton: false",
+          "params": {
+            "fullscreen": true,
+            "showCloseButton": false
+          }
+        }
       ]
     },
     {
