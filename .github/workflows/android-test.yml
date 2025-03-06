@@ -36,17 +36,8 @@ jobs:
           echo "PARENT_DEPLOYMENT_NAME=$PARENT_DEPLOYMENT_NAME" >> $GITHUB_OUTPUT
           echo "PARENT_DEPLOYMENT_REPO=$PARENT_DEPLOYMENT_REPO" >> $GITHUB_OUTPUT
           echo "PARENT_DEPLOYMENT_BRANCH=$PARENT_DEPLOYMENT_BRANCH" >> $GITHUB_OUTPUT
-          # Convert to boolean (true/false) and set it
-          if [[ "$ENCRYPTED" == "TRUE" || "$ENCRYPTED" == "true" ]]; then
-            echo "ENCRYPTED=true" >> $GITHUB_OUTPUT
-          else
-            echo "ENCRYPTED=false" >> $GITHUB_OUTPUT
-          fi
-          if [[ "$LFS_USED" == "TRUE" || "$LFS_USED" == "true" ]]; then
-            echo "LFS_USED=true" >> $GITHUB_OUTPUT
-          else
-            echo "LFS_USED=false" >> $GITHUB_OUTPUT
-          fi
+          echo "ENCRYPTED=$ENCRYPTED" >> $GITHUB_OUTPUT
+          echo "LFS_USED=$LFS_USED" >> $GITHUB_OUTPUT
 
   call_reusable_workflow:
     needs: get_vars
