@@ -61,7 +61,7 @@
 | reset_app | 1 |
 | save_to_device | 4 |
 | set_data | 19 |
-| set_field | 57 |
+| set_field | 59 |
 | set_item | 6 |
 | set_local | 24 |
 | share | 2 |
@@ -88,7 +88,7 @@ Assets that appear in app-data but do not have references within sheets
 | android/icon-foreground.png | 31.1 |
 | android/icon.png | 108.2 |
 | android/splash.png | 290.4 |
-| contents.json | 2.8 |
+| contents.json | 2.7 |
 | images/backgrounds/library_bottom_left.svg | 2.3 |
 | images/backgrounds/library_top_right.svg | 0.3 |
 | images/backgrounds/report_edit.svg | 0.2 |

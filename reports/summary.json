@@ -211,7 +211,7 @@
       },
       {
         "type": "set_field",
-        "count": 57
+        "count": 59
       },
       {
         "type": "set_item",
@@ -265,7 +265,7 @@
       },
       {
         "path": "contents.json",
-        "size_kb": 2.8
+        "size_kb": 2.7
       },
       {
         "path": "images/backgrounds/library_bottom_left.svg",
