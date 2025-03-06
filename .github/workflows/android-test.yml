@@ -31,21 +31,13 @@ jobs:
           set -o allexport
           source actions.env
           set +o allexport
-          echo "APP_ID=$APP_ID" >> $GITHUB_ENV
-          echo "LFS_USED=$LFS_USED" >> $GITHUB_ENV
-          echo "DEPLOYMENT_NAME=$DEPLOYMENT_NAME" >> $GITHUB_ENV
-          echo "PARENT_DEPLOYMENT_NAME=$PARENT_DEPLOYMENT_NAME" >> $GITHUB_ENV
-          echo "PARENT_DEPLOYMENT_REPO=$PARENT_DEPLOYMENT_REPO" >> $GITHUB_ENV
-          echo "PARENT_DEPLOYMENT_BRANCH=$PARENT_DEPLOYMENT_BRANCH" >> $GITHUB_ENV
-          echo "ENCRYPTED=$ENCRYPTED" >> $GITHUB_ENV
-
-          echo "::set-output name=APP_ID::$APP_ID"
-          echo "::set-output name=LFS_USED::$LFS_USED"
-          echo "::set-output name=DEPLOYMENT_NAME::$DEPLOYMENT_NAME"
-          echo "::set-output name=PARENT_DEPLOYMENT_NAME::$PARENT_DEPLOYMENT_NAME"
-          echo "::set-output name=PARENT_DEPLOYMENT_REPO::$PARENT_DEPLOYMENT_REPO"
-          echo "::set-output name=PARENT_DEPLOYMENT_BRANCH::$PARENT_DEPLOYMENT_BRANCH"
-          echo "::set-output name=ENCRYPTED::$ENCRYPTED"
+          echo "APP_ID=$APP_ID" >> $GITHUB_OUTPUT
+          echo "LFS_USED=$LFS_USED" >> $GITHUB_OUTPUT
+          echo "DEPLOYMENT_NAME=$DEPLOYMENT_NAME" >> $GITHUB_OUTPUT
+          echo "PARENT_DEPLOYMENT_NAME=$PARENT_DEPLOYMENT_NAME" >> $GITHUB_OUTPUT
+          echo "PARENT_DEPLOYMENT_REPO=$PARENT_DEPLOYMENT_REPO" >> $GITHUB_OUTPUT
+          echo "PARENT_DEPLOYMENT_BRANCH=$PARENT_DEPLOYMENT_BRANCH" >> $GITHUB_OUTPUT
+          echo "ENCRYPTED=$ENCRYPTED" >> $GITHUB_OUTPUT
 
   call_reusable_workflow:
     needs: get_vars
