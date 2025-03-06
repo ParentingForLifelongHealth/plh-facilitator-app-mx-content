@@ -45,12 +45,12 @@ jobs:
     with:
       APP_CODE_BRANCH: ${{ vars.APP_CODE_BRANCH }}
       APP_ID: ${{ needs.get_vars.outputs.APP_ID }}
-      LFS_USED: ${{ needs.get_vars.outputs.LFS_USED }} == 'true'
+      LFS_USED: ${{ needs.get_vars.outputs.LFS_USED  == 'true' }}
       DEPLOYMENT_NAME: ${{ needs.get_vars.outputs.DEPLOYMENT_NAME }}
       PARENT_DEPLOYMENT_NAME: ${{ needs.get_vars.outputs.PARENT_DEPLOYMENT_NAME }}
       PARENT_DEPLOYMENT_REPO: ${{ needs.get_vars.outputs.PARENT_DEPLOYMENT_REPO }}
       PARENT_DEPLOYMENT_BRANCH: ${{ needs.get_vars.outputs.PARENT_DEPLOYMENT_BRANCH }}
-      ENCRYPTED: ${{ needs.get_vars.outputs.ENCRYPTED }} == 'true'
+      ENCRYPTED: ${{ needs.get_vars.outputs.ENCRYPTED == 'true' }} 
     secrets:
       DEPLOYMENT_PRIVATE_KEY: ${{ secrets.DEPLOYMENT_PRIVATE_KEY }}  
       GOOGLE_SERVICES_JSON: ${{ secrets.GOOGLE_SERVICES_JSON }}  
