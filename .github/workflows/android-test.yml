@@ -32,7 +32,7 @@ jobs:
           echo "ENCRYPTED=$ENCRYPTED" >> $GITHUB_ENV
 
       - name: Call Reusable Workflow
-        uses: IDEMSInternational/open-app-builder-actions/.github/workflows/android-release.yml@master
+        uses: IDEMSInternational/open-app-builder-actions/.github/workflows/android-release.yml@main
         with:
           APP_CODE_BRANCH: ${{ vars.APP_CODE_BRANCH }}
           APP_ID: ${{ env.APP_ID }}
