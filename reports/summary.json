@@ -39,7 +39,7 @@
       },
       {
         "type": "display_group",
-        "count": 96
+        "count": 98
       },
       {
         "type": "drawer",
@@ -87,7 +87,7 @@
       },
       {
         "type": "set_variable",
-        "count": 650
+        "count": 649
       },
       {
         "type": "simple_checkbox",
@@ -219,7 +219,7 @@
       },
       {
         "type": "set_local",
-        "count": 24
+        "count": 25
       },
       {
         "type": "share",
@@ -265,7 +265,7 @@
       },
       {
         "path": "contents.json",
-        "size_kb": 2.7
+        "size_kb": 2.8
       },
       {
         "path": "images/backgrounds/library_bottom_left.svg",

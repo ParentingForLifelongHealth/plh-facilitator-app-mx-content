@@ -12,7 +12,7 @@
 | data_items | 32 |
 | debug_toggle | 1 |
 | display_grid | 2 |
-| display_group | 96 |
+| display_group | 98 |
 | drawer | 1 |
 | google_sign_in_button | 2 |
 | image | 11 |
@@ -24,7 +24,7 @@
 | radio_button_grid | 8 |
 | round_button | 30 |
 | select_text | 1 |
-| set_variable | 650 |
+| set_variable | 649 |
 | simple_checkbox | 2 |
 | task_card | 3 |
 | task_progress_bar | 2 |
@@ -63,7 +63,7 @@
 | set_data | 19 |
 | set_field | 59 |
 | set_item | 6 |
-| set_local | 24 |
+| set_local | 25 |
 | share | 2 |
 | user | 3 |
 </details>
@@ -88,7 +88,7 @@ Assets that appear in app-data but do not have references within sheets
 | android/icon-foreground.png | 31.1 |
 | android/icon.png | 108.2 |
 | android/splash.png | 290.4 |
-| contents.json | 2.7 |
+| contents.json | 2.8 |
 | images/backgrounds/library_bottom_left.svg | 2.3 |
 | images/backgrounds/library_top_right.svg | 0.3 |
 | images/backgrounds/report_edit.svg | 0.2 |
