@@ -3754,5 +3754,11 @@
     "text": "Muy Mal",
     "type": "template",
     "note": ""
+  },
+  {
+    "SourceText": "Create New Group",
+    "text": "Crea un nuevo grupo",
+    "type": "template",
+    "note": ""
   }
 ]

@@ -171,7 +171,7 @@
       },
       {
         "type": "emit: server_sync",
-        "count": 4
+        "count": 13
       },
       {
         "type": "emit: set_language",

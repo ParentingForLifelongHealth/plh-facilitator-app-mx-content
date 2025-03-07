@@ -491,7 +491,9 @@
           "name": "add_group",
           "value": "Create New Group",
           "_translations": {
-            "value": {}
+            "value": {
+              "mx_es": true
+            }
           },
           "action_list": [
             {
