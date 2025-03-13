@@ -1005,6 +1005,9 @@
         "introduction": {
           "eng": "The Onboarding Session sets the tone for the entire @global.programme_name programme. It is important to create a welcoming and safe space for the participants to feel at ease and familiarise themselves with the programme."
         },
+        "resource_title_1": {
+          "eng": "Onboarding Guide"
+        },
         "sections_title": {
           "eng": "Preparation Checklist"
         },
@@ -1019,9 +1022,6 @@
         },
         "section_text_2": {
           "eng": "- Download the PowerPoint slide to your laptop \n\n- Download the videos embedded in the slides to your laptop \n\n- Go through your PowerPoint slides and videos to make sure everything is working smoothly"
-        },
-        "resource_title_1": {
-          "eng": "Onboarding Guide"
         }
       },
       "introduction": "The Onboarding Session sets the tone for the entire @global.programme_name programme. It is important to create a welcoming and safe space for the participants to feel at ease and familiarise themselves with the programme.",
@@ -1172,13 +1172,13 @@
         "section_text_4": {
           "mx_es": true
         },
+        "resource_title_2": {
+          "mx_es": true
+        },
         "section_title_5": {
           "mx_es": true
         },
         "section_text_5": {
-          "mx_es": true
-        },
-        "resource_title_2": {
           "mx_es": true
         }
       },
@@ -1188,6 +1188,12 @@
         },
         "introduction": {
           "eng": "Welcome to the @global.programme_name Positive Parenting Programme! \n\nThank you for your commitment and dedication to supporting girls, boys, teens and families in your community. \nYou are a shining star!"
+        },
+        "resource_title_1": {
+          "eng": "Overview Guide"
+        },
+        "resource_title_2": {
+          "eng": "Know more about the programme"
         },
         "sections_title": {
           "eng": "Welcome"
@@ -1221,12 +1227,6 @@
         },
         "section_text_5": {
           "eng": "You can view the full CC+ content received through the chatbot online. (Access the content package.)[https://drive.google.com/file/d/1lmDoPddUsF5LuUNUTFhNSRiNDOfmlilg/view?usp=sharing]"
-        },
-        "resource_title_1": {
-          "eng": "Overview Guide"
-        },
-        "resource_title_2": {
-          "eng": "Know more about the programme"
         }
       },
       "introduction": "Welcome to the @global.programme_name Positive Parenting Programme! \n\nThank you for your commitment and dedication to supporting girls, boys, teens and families in your community. \nYou are a shining star!",
@@ -1249,9 +1249,9 @@
       "section_text_4": "Just as we say to the parents, “It is what you do at home that makes the difference,” the same thing applies to you: “It is how you interact with the parents in your group that makes the difference.” \n\nIf you take the time to deliver a session before it begins, you will be more confident. If there is anything that you cannot remember or feel unsure of, contact another facilitator to practise with. \n\nAccess the Facilitator Guide for your group by clicking on the icon above.",
       "resource_data_2": "pdf",
       "resource_id_2": "more_info",
+      "resource_title_2": "Know more about the programme",
       "section_title_5": "CC+ Content Guide",
-      "section_text_5": "You can view the full CC+ content received through the chatbot online. (Access the content package.)[https://drive.google.com/file/d/1lmDoPddUsF5LuUNUTFhNSRiNDOfmlilg/view?usp=sharing]",
-      "resource_title_2": "Know more about the programme"
+      "section_text_5": "You can view the full CC+ content received through the chatbot online. (Access the content package.)[https://drive.google.com/file/d/1lmDoPddUsF5LuUNUTFhNSRiNDOfmlilg/view?usp=sharing]"
     },
     {
       "id": "onboarding_cc_study",
@@ -1295,6 +1295,9 @@
         "introduction": {
           "eng": "The Onboarding Session sets the tone for the entire @global.programme_name programme. It is important to create an empathetic, welcoming and safe space for the participants to feel at ease and familiarise themselves with the programme."
         },
+        "resource_title_1": {
+          "eng": "Onboarding Guide"
+        },
         "sections_title": {
           "eng": "Trigger Words"
         },
@@ -1309,9 +1312,6 @@
         },
         "section_text_2": {
           "eng": "Type ID in the chatbot"
-        },
-        "resource_title_1": {
-          "eng": "Onboarding Guide"
         }
       },
       "introduction": "The Onboarding Session sets the tone for the entire @global.programme_name programme. It is important to create an empathetic, welcoming and safe space for the participants to feel at ease and familiarise themselves with the programme.",
