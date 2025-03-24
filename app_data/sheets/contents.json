@@ -3544,12 +3544,6 @@
       "flow_name": "media",
       "_xlsxPath": "templates/media.xlsx"
     },
-    "menu_task_flow": {
-      "flow_type": "template",
-      "flow_name": "menu_task_flow",
-      "flow_subtype": "menu",
-      "_xlsxPath": "templates/menu_multi_run_task_flow.xlsx"
-    },
     "menu_sub_tasks": {
       "flow_type": "template",
       "flow_name": "menu_sub_tasks",
@@ -3563,6 +3557,11 @@
     "menu_task_card": {
       "flow_type": "template",
       "flow_name": "menu_task_card",
+      "_xlsxPath": "templates/menu_multi_run_task_flow.xlsx"
+    },
+    "menu_task_flow": {
+      "flow_type": "template",
+      "flow_name": "menu_task_flow",
       "_xlsxPath": "templates/menu_multi_run_task_flow.xlsx"
     },
     "message_element": {

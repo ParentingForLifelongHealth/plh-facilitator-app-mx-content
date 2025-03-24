@@ -51,10 +51,10 @@
           "trigger": "uncompleted",
           "action_id": "go_to",
           "args": [
-            "settings"
+            "profile"
           ],
-          "_raw": "uncompleted | go_to: settings",
-          "_cleaned": "uncompleted | go_to: settings"
+          "_raw": "uncompleted | go_to: profile",
+          "_cleaned": "uncompleted | go_to: profile"
         }
       ],
       "rows": [

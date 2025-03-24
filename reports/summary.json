@@ -87,7 +87,7 @@
       },
       {
         "type": "set_variable",
-        "count": 662
+        "count": 663
       },
       {
         "type": "simple_checkbox",
@@ -265,7 +265,7 @@
       },
       {
         "path": "contents.json",
-        "size_kb": 2.8
+        "size_kb": 2.7
       },
       {
         "path": "images/backgrounds/library_bottom_left.svg",
@@ -877,7 +877,7 @@
       {
         "type": "template",
         "subtype": null,
-        "total": 74
+        "total": 75
       },
       {
         "type": "template",
@@ -888,11 +888,6 @@
         "type": "template",
         "subtype": "legal_terms",
         "total": 4
-      },
-      {
-        "type": "template",
-        "subtype": "menu",
-        "total": 1
       }
     ]
   }

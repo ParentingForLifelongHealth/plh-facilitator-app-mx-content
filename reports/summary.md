@@ -24,7 +24,7 @@
 | radio_button_grid | 8 |
 | round_button | 30 |
 | select_text | 1 |
-| set_variable | 662 |
+| set_variable | 663 |
 | simple_checkbox | 2 |
 | task_card | 3 |
 | task_progress_bar | 2 |
@@ -88,7 +88,7 @@ Assets that appear in app-data but do not have references within sheets
 | android/icon-foreground.png | 31.1 |
 | android/icon.png | 108.2 |
 | android/splash.png | 290.4 |
-| contents.json | 2.8 |
+| contents.json | 2.7 |
 | images/backgrounds/library_bottom_left.svg | 2.3 |
 | images/backgrounds/library_top_right.svg | 0.3 |
 | images/backgrounds/report_edit.svg | 0.2 |
@@ -241,8 +241,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | generator |  | 9 |
 | global |  | 12 |
 | global | legal_terms | 1 |
-| template |  | 74 |
+| template |  | 75 |
 | template | generated | 122 |
 | template | legal_terms | 4 |
-| template | menu | 1 |
 </details>

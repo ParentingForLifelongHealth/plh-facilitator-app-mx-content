@@ -2,7 +2,6 @@
   "flow_type": "template",
   "flow_name": "menu_task_flow",
   "status": "released",
-  "flow_subtype": "menu",
   "rows": [
     {
       "name": "completed_prefix",
