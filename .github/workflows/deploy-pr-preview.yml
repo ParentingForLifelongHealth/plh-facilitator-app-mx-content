@@ -7,12 +7,6 @@ on:
   pull_request:
     types: [labeled, synchronize]
 
-jobs:
-  pr_preview:
-    uses: IDEMSInternational/open-app-builder/.github/workflows/reusable-deploy-pr-preview.yml@master
-    secrets: inherit
-
-
 
 jobs:
   call_get_vars:
