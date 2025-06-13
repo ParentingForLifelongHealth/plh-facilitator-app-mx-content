@@ -128,11 +128,9 @@
     {
       "type": "declare_global_constant",
       "name": "sessions_no_groups",
-      "value": "No Parent Groups Found. Click on ➕ to add a parent group.",
+      "value": "Chat Sessions will load after you select a parent group",
       "_translations": {
-        "value": {
-          "mx_es": true
-        }
+        "value": {}
       }
     },
     {
@@ -192,7 +190,7 @@
     {
       "type": "declare_global_constant",
       "name": "add_group_icon",
-      "value": "images/icons/plus_emoji.svg",
+      "value": "images/icons/red_plus.svg",
       "_translations": {
         "value": {}
       },
@@ -277,7 +275,16 @@
           "mx_es": true
         }
       }
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "choose_role",
+      "value": "Choose your role:",
+      "_translations": {
+        "value": {}
+      }
     }
   ],
-  "_xlsxPath": "data/deployment_data_mx.xlsx"
+  "_xlsxPath": "data/deployment_data_mx.xlsx",
+  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1rFg8qsmb3xSOXw_9Iwxk8RgSmyjqiao9"
 }
