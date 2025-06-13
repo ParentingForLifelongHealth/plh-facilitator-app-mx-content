@@ -7,7 +7,6 @@ on:
   pull_request:
     types: [labeled, synchronize]
 
-
 jobs:
   call_get_vars:
     uses: ./.github/workflows/get-vars.yml  
