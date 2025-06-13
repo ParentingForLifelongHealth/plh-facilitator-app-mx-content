@@ -279,6 +279,13 @@
       "flow_name": "tag_data",
       "data_list_name": "tag",
       "_xlsxPath": "data/FacilitatorApp MX articles.xlsx"
+    },
+    "user_type": {
+      "flow_type": "data_list",
+      "flow_name": "user_type",
+      "data_list_name": "user_type",
+      "_xlsxPath": "data/deployment_data_mx.xlsx",
+      "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1rFg8qsmb3xSOXw_9Iwxk8RgSmyjqiao9"
     }
   },
   "data_pipe": {
@@ -287,6 +294,7 @@
       "flow_name": "article_filter",
       "comments": "Gives an error when the status column does not exist for any of the items in the list",
       "_xlsxPath": "data/content_data_pipes.xlsx",
+      "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1Jo1-q7KOE4gC2XRKEMcU9bXnrwB5oCRC",
       "_output_flows": [
         {
           "flow_name": "article_data",
@@ -3645,12 +3653,20 @@
     "profile_login": {
       "flow_type": "template",
       "flow_name": "profile_login",
-      "_xlsxPath": "templates/profile.xlsx"
+      "_xlsxPath": "templates/profile.xlsx",
+      "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1Jo1-q7KOE4gC2XRKEMcU9bXnrwB5oCRC"
+    },
+    "profile_user_type": {
+      "flow_type": "template",
+      "flow_name": "profile_user_type",
+      "_xlsxPath": "templates/app_launch.xlsx",
+      "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1Jo1-q7KOE4gC2XRKEMcU9bXnrwB5oCRC"
     },
     "related_element": {
       "flow_type": "template",
       "flow_name": "related_element",
-      "_xlsxPath": "templates/article_elements.xlsx"
+      "_xlsxPath": "templates/article_elements.xlsx",
+      "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1Jo1-q7KOE4gC2XRKEMcU9bXnrwB5oCRC"
     },
     "report_card": {
       "flow_type": "template",
