@@ -1,7 +1,7 @@
 {
-  "flow_name": "article_data",
-  "flow_subtype": "generated",
   "flow_type": "data_list",
+  "flow_name": "article_data",
+  "status": "released",
   "rows": [
     {
       "id": "what_is_safeguarding",
@@ -208,6 +208,221 @@
       "introduction": "You can share any of the following contact numbers with the participant:\n\n1️⃣ Abuse, neglect, violence, poverty, and juvenile delinquency:\nFiscalía General de Justicia\n+911 (Call)\n+089 (Anonymous Call)\n\n\n2️⃣ Abuse of women, girls, and boys \nFiscalía General de Justicia\n+911 (Call)\n+089 (Anonymous Call)\n\n3️⃣ Emotional distress and suicidal thoughts:\nNational System of Support, Psychological Counselling and Crisis Intervention by Telephone\n55 5259-8121 (Call)\nLínea de la vida\n+800 911 2000 (Call)\nlalineadelavida@salud.gob.mx (Email)\n\n4️⃣ Cybersecurity incident\nPolicía Cibernética \n+5552425100 ext. 5086 (Call)\npolicia.cibernetica@ssc.cdmx.gob.mx (Email)",
       "message_title_1": "Quickly Share These Resources",
       "message_text_1": "1️⃣ Abuse, neglect, violence, poverty, and juvenile delinquency:\nFiscalía General de Justicia\n+911 (Call)\n+089 (Anonymous Call)\n\n2️⃣ Abuse of women, girls, and boys: \nFiscalía General de Justicia\n+911 (Call)\n+089 (Anonymous Call)\n\n3️⃣ Emotional distress and suicidal thoughts:\nNational System of Support, Psychological Counselling and Crisis Intervention by Telephone\n55 5259-8121 (Call)\nLínea de la Vida\n+800 911 2000 (Call)\nlalineadelavida@salud.gob.mx (Email)\n\n4️⃣ Cybersecurity incident\nPolicía Cibernética \n+5552425100 ext. 5086 (Call)\npolicia.cibernetica@ssc.cdmx.gob.mx (Email)"
+    },
+    {
+      "id": "onboarding_day_chat",
+      "status": "draft",
+      "home_screen_section_list": [
+        "sessions"
+      ],
+      "title": "After Onboarding Session",
+      "_translations": {
+        "title": {
+          "mx_es": true
+        },
+        "introduction": {
+          "mx_es": true
+        },
+        "section_title_1": {
+          "mx_es": true
+        },
+        "section_text_1": {},
+        "message_title_1": {
+          "mx_es": true
+        },
+        "message_text_1": {
+          "mx_es": true
+        },
+        "message_guidance_1": {
+          "mx_es": true
+        },
+        "message_title_2": {
+          "mx_es": true
+        },
+        "message_text_2": {
+          "mx_es": true
+        },
+        "message_guidance_2": {
+          "mx_es": true
+        },
+        "message_title_3": {
+          "mx_es": true
+        },
+        "message_text_3": {
+          "mx_es": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "After Onboarding Session"
+        },
+        "introduction": {
+          "eng": "This chat session should happen on the same day or day after you complete the in-person onboarding session. As the first chat session, it offers a chance for parents to introduce themselves to the group."
+        },
+        "section_title_1": {
+          "eng": "Add Ground Rules, previously agreed, to the WhatsApp Group Description"
+        },
+        "section_text_1": {
+          "eng": "Remember to add the ground rules to the WhatsApp Group Description. \n\n​​To add the ground rules to the Group Description, copy the following ground rules or use the ones agreed during the onboarding session: \n\n“To make this a a comfortable, empathetic and safe space for everyone, here are some ground rules:\n \n✅ What is said in the group stays in the group, both in person and online You need to know that this group is private.\n✅ Accept each other. Everyone is different and has different experiences.\n✅ Share only what you feel comfortable sharing. Avoid topics unrelated to the content of the workshop, advertisements or sales. \n✅Respect each other by paying attention and taking turns to share and listen.\n✅The conversation in the WhatsApp group will focus solely on the parenting of children.\n✅ Feel free to ask questions! \n✅ Respect privacy of personal pictures and videos that are sent to the chat group. \n✅ I AM only here as an observer. I will not respond to questions about your parenting habits in this group or personally. However, if there is a message that will benefit the entire group, then I will share a general message here.”\n✅Connect and participate in the interaction schedule with the facilitator. The schedule to interact in this chat is:[Enter schedule]\n\n\nOpen the WhatsApp group chat. \n\nTap the group name. \n\nTap the existing description, or tap Add Group Description. \nPaste the ground rules. \n\nTap Save."
+        },
+        "message_title_1": {
+          "eng": "Message 1: Introduction"
+        },
+        "message_text_1": {
+          "eng": "😃 Hi there! Welcome to our @global.programme_name WhatsApp Group! \n\nToday, we are introducing ourselves and our goals for the programme! ⭐ \n\nMy name is [INSERT NAME], and my goal is to learn more about how to help my girl go to bed by 8 every night.⏰🌙 \n\nPlease share your name and your goal for @global.programme_name using text or audio message."
+        },
+        "message_guidance_1": {
+          "eng": "Remember to fill in your name where it says [INSERT NAME] before sending your message. \n\nAllow some time for parents to share. Try to praise each response.\n\nFor example, you can say, “Thanks for the response, [Insert Name]!” or “Great goal, [Insert Name]”! You can also use simple emojis like 👍or 🙂"
+        },
+        "message_title_2": {
+          "eng": "Message 2: Setting time to chat"
+        },
+        "message_text_2": {
+          "eng": "This week, we will catch up at [INSERT TIME] on [INSERT DAY] to chat about our @global.programme_name journey. \n\n👋Please join to share how things are going. Every little step matters. Share what works when you practise, reflections about the topic, any challenges you experience, or just say hi! 😊\n\n⏰Does this time and day work for everyone?"
+        },
+        "message_guidance_2": {
+          "eng": "Add the time and day of the week before sending the message."
+        },
+        "message_title_3": {
+          "eng": "Message 3: Closing"
+        },
+        "message_text_3": {
+          "eng": "😃Thank you so much for being part of our WhatsApp chat group! \n\nAs your home practice, try to spend at least 5 minutes of one-on-one time with your girl, boy or teen each day. \n\nWe can share how it goes during our next chat session. \n\n👋See you later."
+        }
+      },
+      "introduction": "This chat session should happen on the same day or day after you complete the in-person onboarding session. As the first chat session, it offers a chance for parents to introduce themselves to the group.",
+      "section_title_1": "Add Ground Rules, previously agreed, to the WhatsApp Group Description",
+      "section_text_1": "Remember to add the ground rules to the WhatsApp Group Description. \n\n​​To add the ground rules to the Group Description, copy the following ground rules or use the ones agreed during the onboarding session: \n\n“To make this a a comfortable, empathetic and safe space for everyone, here are some ground rules:\n \n✅ What is said in the group stays in the group, both in person and online You need to know that this group is private.\n✅ Accept each other. Everyone is different and has different experiences.\n✅ Share only what you feel comfortable sharing. Avoid topics unrelated to the content of the workshop, advertisements or sales. \n✅Respect each other by paying attention and taking turns to share and listen.\n✅The conversation in the WhatsApp group will focus solely on the parenting of children.\n✅ Feel free to ask questions! \n✅ Respect privacy of personal pictures and videos that are sent to the chat group. \n✅ I AM only here as an observer. I will not respond to questions about your parenting habits in this group or personally. However, if there is a message that will benefit the entire group, then I will share a general message here.”\n✅Connect and participate in the interaction schedule with the facilitator. The schedule to interact in this chat is:[Enter schedule]\n\n\nOpen the WhatsApp group chat. \n\nTap the group name. \n\nTap the existing description, or tap Add Group Description. \nPaste the ground rules. \n\nTap Save.",
+      "message_title_1": "Message 1: Introduction",
+      "message_text_1": "😃 Hi there! Welcome to our @global.programme_name WhatsApp Group! \n\nToday, we are introducing ourselves and our goals for the programme! ⭐ \n\nMy name is [INSERT NAME], and my goal is to learn more about how to help my girl go to bed by 8 every night.⏰🌙 \n\nPlease share your name and your goal for @global.programme_name using text or audio message.",
+      "message_guidance_1": "Remember to fill in your name where it says [INSERT NAME] before sending your message. \n\nAllow some time for parents to share. Try to praise each response.\n\nFor example, you can say, “Thanks for the response, [Insert Name]!” or “Great goal, [Insert Name]”! You can also use simple emojis like 👍or 🙂",
+      "message_title_2": "Message 2: Setting time to chat",
+      "message_text_2": "This week, we will catch up at [INSERT TIME] on [INSERT DAY] to chat about our @global.programme_name journey. \n\n👋Please join to share how things are going. Every little step matters. Share what works when you practise, reflections about the topic, any challenges you experience, or just say hi! 😊\n\n⏰Does this time and day work for everyone?",
+      "message_guidance_2": "Add the time and day of the week before sending the message.",
+      "message_title_3": "Message 3: Closing",
+      "message_text_3": "😃Thank you so much for being part of our WhatsApp chat group! \n\nAs your home practice, try to spend at least 5 minutes of one-on-one time with your girl, boy or teen each day. \n\nWe can share how it goes during our next chat session. \n\n👋See you later."
+    },
+    {
+      "id": "day_3_mh_stress_self_talk",
+      "status": "draft",
+      "home_screen_section_list": [
+        "sessions"
+      ],
+      "tag_list": [
+        "scale_dif"
+      ],
+      "title": "Day 3: Self-Talk",
+      "_translations": {
+        "title": {
+          "mx_es": true
+        },
+        "introduction": {
+          "mx_es": true
+        },
+        "message_title_1": {
+          "mx_es": true
+        },
+        "message_text_1": {
+          "mx_es": true
+        },
+        "message_guidance_1": {
+          "mx_es": true
+        },
+        "message_title_2": {
+          "mx_es": true
+        },
+        "message_text_2": {},
+        "message_guidance_2": {
+          "mx_es": true
+        },
+        "message_title_3": {
+          "mx_es": true
+        },
+        "message_text_3": {
+          "mx_es": true
+        },
+        "message_guidance_3": {
+          "mx_es": true
+        },
+        "message_title_4": {
+          "mx_es": true
+        },
+        "message_text_4": {
+          "mx_es": true
+        },
+        "message_title_5": {
+          "mx_es": true
+        },
+        "message_text_5": {},
+        "message_guidance_5": {
+          "mx_es": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Day 3: Self-Talk"
+        },
+        "introduction": {
+          "eng": "**Before conducting the chat sessions, make sure you:** \n\nCreate a WhatsApp Group during the onboarding session. \nIdentify the ground rules for the WhatsApp Group\n\nMake sure all participants are already in the WhatsApp group and know the session time.\n\n**Structure for the chat sessions**: \n\nDay  1 (immediately after the onboarding session): Welcome, introductions, and reminder of home practice. \n\nDay 3: Self-talk: WhatsApp Chat session on self-talk and stress\n\nDay 5: Saying Goodbye\n\n**When to send the messages** \n\nYou and your group will decide a time to chat during the onboarding session. \n\nEach chat session has a reminder message (Message 1) that you should send a few hours before the chat session. \n\nSend the remaining messages during the scheduled chat time."
+        },
+        "message_title_1": {
+          "eng": "Message 1: Chat Reminder"
+        },
+        "message_text_1": {
+          "eng": "💚Hello everyone! Our next chat session will be later today at [INSERT TIME]. Chat soon!"
+        },
+        "message_guidance_1": {
+          "eng": "Send this message in the morning on the day of the chat session. Insert the time for the chat before sending the message."
+        },
+        "message_title_2": {
+          "eng": "Message 2: Welcome and Check-in"
+        },
+        "message_text_2": {
+          "eng": "Hello, everyone! 😃\nWelcome to our second chat session! \n\nToday, we are talking about feeling stressed. Feeling stressed is a normal part of being human, and parenting can add an extra layer of challenges. \n\nIt’s important to manage our stress. Otherwise, it can build up and affect our health and relationships!\n\nHow is everyone’s stress level today? \n\nUse a number from 1 to 10 to share your stress level:\n1 - No Stress \n2 to 5 - Some Stress \n6 to 9 - Feeling Stressed \n10 - Extremely Stressed \n\nFeel free to share your number with the group. We're all in this together!"
+        },
+        "message_guidance_2": {
+          "eng": "Allow time for parents to share how they are feeling. You should also share how you are feeling. For example, “Today, I'm at a 5 stress level, my teen has been sick for a few days but happy to be part of the chat today.”"
+        },
+        "message_title_3": {
+          "eng": "Message 3: Understanding Self Talk"
+        },
+        "message_text_3": {
+          "eng": "Thank you all for sharing your honest responses! 🎉\n💡 Today, we're going to practise a skill to manage stress: self-talk.\n🎤 Self-talk is the way we talk to ourselves in our head or out loud during stressful situations. It’s the things we say to ourselves out loud and the thoughts in our minds.\nIt's easy to be unkind to ourselves, especially when we're tired or upset.\nCan anyone share a time when they said something negative to themselves?"
+        },
+        "message_guidance_3": {
+          "eng": "Allow parents to respond. You can reply to the parents with an emoji ⭐ or words of encouragement, like “That is a good example! I am sure a lot of us have felt that way”."
+        },
+        "message_title_4": {
+          "eng": "Message 4: Positive Self-Talk"
+        },
+        "message_text_4": {
+          "eng": "Thanks for sharing that example! \nParenting can be challenging. But you can reduce your overall stress when you think about what you’re doing well and speak kindly to yourself. \n\n1️⃣ The first step for practising self-talk is to notice when a negative thought comes.\n2️⃣Then, ask yourself: How can I change this thought into something kind or caring? You can: \n😃 Look for small parenting accomplishments or efforts. \n✅ Consider what you’ve learned from the negative situation. \n📝Come up with a few ways to help you act differently next time. Remember, this is temporary, and you have the chance to be better in the future."
+        },
+        "message_title_5": {
+          "eng": "Practice Activity: Re-wording Negative Self-Talk"
+        },
+        "message_text_5": {
+          "eng": "📝 Let's notice negative self-talk when it happens, and turn it around. For example, \n**Negative Self-Talk:** \"I was a bad parent today. I yelled at my teen for an honest mistake.\"\n**Positive Self-Talk:** \"Today was tough because I've been overwhelmed. I yelled at my teen, knowing it was an honest mistake. Next time, I'll pause before responding, ensuring I'm calm and in control.\"\n💡 See how the positive self-talk is more supportive? 🏠 Now, your turn! Share a time you talked negatively to yourself, and let’s find and turn it into positive self-talk. Try doing this three times by the week’s end and feel the difference! \nHow parents talk to themselves teaches their kids how to talk to themselves. Girls, boys,  and teens learn from watching their parents."
+        },
+        "message_guidance_5": {
+          "eng": "Briefly read the participants’ responses and make sure they are not insulting themselves and generally follow the example above. Any instances of intent of self-harm or harm to girls and boys should be reported appropriately. \nThank you and react positively to all participation. Invite those who have not written their response to participate."
+        }
+      },
+      "introduction": "**Before conducting the chat sessions, make sure you:** \n\nCreate a WhatsApp Group during the onboarding session. \nIdentify the ground rules for the WhatsApp Group\n\nMake sure all participants are already in the WhatsApp group and know the session time.\n\n**Structure for the chat sessions**: \n\nDay  1 (immediately after the onboarding session): Welcome, introductions, and reminder of home practice. \n\nDay 3: Self-talk: WhatsApp Chat session on self-talk and stress\n\nDay 5: Saying Goodbye\n\n**When to send the messages** \n\nYou and your group will decide a time to chat during the onboarding session. \n\nEach chat session has a reminder message (Message 1) that you should send a few hours before the chat session. \n\nSend the remaining messages during the scheduled chat time.",
+      "message_title_1": "Message 1: Chat Reminder",
+      "message_text_1": "💚Hello everyone! Our next chat session will be later today at [INSERT TIME]. Chat soon!",
+      "message_guidance_1": "Send this message in the morning on the day of the chat session. Insert the time for the chat before sending the message.",
+      "message_title_2": "Message 2: Welcome and Check-in",
+      "message_text_2": "Hello, everyone! 😃\nWelcome to our second chat session! \n\nToday, we are talking about feeling stressed. Feeling stressed is a normal part of being human, and parenting can add an extra layer of challenges. \n\nIt’s important to manage our stress. Otherwise, it can build up and affect our health and relationships!\n\nHow is everyone’s stress level today? \n\nUse a number from 1 to 10 to share your stress level:\n1 - No Stress \n2 to 5 - Some Stress \n6 to 9 - Feeling Stressed \n10 - Extremely Stressed \n\nFeel free to share your number with the group. We're all in this together!",
+      "message_guidance_2": "Allow time for parents to share how they are feeling. You should also share how you are feeling. For example, “Today, I'm at a 5 stress level, my teen has been sick for a few days but happy to be part of the chat today.”",
+      "message_title_3": "Message 3: Understanding Self Talk",
+      "message_text_3": "Thank you all for sharing your honest responses! 🎉\n💡 Today, we're going to practise a skill to manage stress: self-talk.\n🎤 Self-talk is the way we talk to ourselves in our head or out loud during stressful situations. It’s the things we say to ourselves out loud and the thoughts in our minds.\nIt's easy to be unkind to ourselves, especially when we're tired or upset.\nCan anyone share a time when they said something negative to themselves?",
+      "message_guidance_3": "Allow parents to respond. You can reply to the parents with an emoji ⭐ or words of encouragement, like “That is a good example! I am sure a lot of us have felt that way”.",
+      "message_title_4": "Message 4: Positive Self-Talk",
+      "message_text_4": "Thanks for sharing that example! \nParenting can be challenging. But you can reduce your overall stress when you think about what you’re doing well and speak kindly to yourself. \n\n1️⃣ The first step for practising self-talk is to notice when a negative thought comes.\n2️⃣Then, ask yourself: How can I change this thought into something kind or caring? You can: \n😃 Look for small parenting accomplishments or efforts. \n✅ Consider what you’ve learned from the negative situation. \n📝Come up with a few ways to help you act differently next time. Remember, this is temporary, and you have the chance to be better in the future.",
+      "message_title_5": "Practice Activity: Re-wording Negative Self-Talk",
+      "message_text_5": "📝 Let's notice negative self-talk when it happens, and turn it around. For example, \n**Negative Self-Talk:** \"I was a bad parent today. I yelled at my teen for an honest mistake.\"\n**Positive Self-Talk:** \"Today was tough because I've been overwhelmed. I yelled at my teen, knowing it was an honest mistake. Next time, I'll pause before responding, ensuring I'm calm and in control.\"\n💡 See how the positive self-talk is more supportive? 🏠 Now, your turn! Share a time you talked negatively to yourself, and let’s find and turn it into positive self-talk. Try doing this three times by the week’s end and feel the difference! \nHow parents talk to themselves teaches their kids how to talk to themselves. Girls, boys,  and teens learn from watching their parents.",
+      "message_guidance_5": "Briefly read the participants’ responses and make sure they are not insulting themselves and generally follow the example above. Any instances of intent of self-harm or harm to girls and boys should be reported appropriately. \nThank you and react positively to all participation. Invite those who have not written their response to participate."
     },
     {
       "id": "faq_text_support",
@@ -521,6 +736,14 @@
       "home_screen_section_list": [
         "faq"
       ],
+      "tag_list": [
+        "study_dif_bc",
+        "study_dif_chih",
+        "study_dif_cdmx",
+        "study_dif_mich",
+        "cc_guer",
+        "demo"
+      ],
       "status": "released",
       "title": "I don’t understand how thoughts, feelings, and actions are connected.",
       "_translations": {
@@ -567,19 +790,20 @@
       "message_title_1": "Share this message with the parent",
       "message_text_1": "Hi! Sometimes it’s hard to see how our thoughts connect to our feelings. \n\nIt can all begin with a feeling, thought or action and affect the other two:\n\n                Thoughts\n               /               \\\n        Actions  –  Feelings\n\nYou can break this relationship down into Situation, Thought, and Feeling, and list each statement next to the label. For example: \n\nSituation: My child keeps interrupting me when I’m speaking. \n\nThought: He is being inconsiderate of me and disrespectful.\n\nFeeling: I’m now annoyed and irritated because I’m trying to finish something. \n\nCan you think of one situation that happened? What did it make you think? How did you feel?",
       "message_title_2": "If you want to share an example:",
-      "message_text_2": "One thought I’ve had recently is, it’s challenging to calm down when my child is crying. It made me feel overwhelmed and upset.",
-      "tag_list": [
-        "study_dif_bc",
-        "study_dif_chih",
-        "study_dif_cdmx",
-        "study_dif_mich",
-        "cc_guer"
-      ]
+      "message_text_2": "One thought I’ve had recently is, it’s challenging to calm down when my child is crying. It made me feel overwhelmed and upset."
     },
     {
       "id": "faq_h_no_thoughts",
       "home_screen_section_list": [
         "faq"
+      ],
+      "tag_list": [
+        "study_dif_bc",
+        "study_dif_chih",
+        "study_dif_cdmx",
+        "study_dif_mich",
+        "cc_guer",
+        "demo"
       ],
       "status": "released",
       "title": "I don’t know what thoughts are affecting my feelings or actions.",
@@ -590,13 +814,13 @@
         "introduction": {
           "mx_es": true
         },
+        "section_text_1": {},
         "message_title_1": {
           "mx_es": true
         },
         "message_text_1": {
           "mx_es": true
         },
-        "section_text_1": {},
         "message_title_2": {
           "mx_es": true
         },
@@ -640,20 +864,13 @@
         }
       },
       "introduction": "Parents may struggle to identify thoughts that are affecting their feelings or actions. This is normal, as this is a new skill for many! \n\nSometimes, thoughts and feelings can be very similar to one another, and that is ok. \n\nThe goal is just for them to understand that they are related and how they can impact their and their girl’s, boy’s and teens well-being. \n\nYou can guide the parents by asking the following questions:",
+      "section_text_1": "",
       "message_title_1": "Message 1:",
       "message_text_1": "It can be difficult to identify thoughts sometimes, particularly when you have an intense feeling.",
-      "section_text_1": "",
       "message_title_2": "Message 2:",
       "message_text_2": "When you feel this way, what is going through your head?",
       "message_title_3": "Message 3:",
-      "message_text_3": "What was happening around you that made you feel this way? Notice what feelings and thoughts and thoughts come up?",
-      "tag_list": [
-        "study_dif_bc",
-        "study_dif_chih",
-        "study_dif_cdmx",
-        "study_dif_mich",
-        "cc_guer"
-      ]
+      "message_text_3": "What was happening around you that made you feel this way? Notice what feelings and thoughts and thoughts come up?"
     },
     {
       "id": "faq_h_parents_insult",
@@ -798,6 +1015,14 @@
       "home_screen_section_list": [
         "faq"
       ],
+      "tag_list": [
+        "study_dif_bc",
+        "study_dif_chih",
+        "study_dif_cdmx",
+        "study_dif_mich",
+        "cc_guer",
+        "demo"
+      ],
       "status": "released",
       "title": "I can’t identify my strengths.",
       "_translations": {
@@ -844,14 +1069,7 @@
       "message_title_1": "Send this to caregivers:",
       "message_text_1": "Hi! It can be hard to think of our strengths, but trust me, we all have them. \n\nLet’s try an exercise together. I am going to share some positive qualities, and I want you to try putting these in order for what is most like you to least like you. \nI’m a good listener.  \n\nI love learning new things\n\nI give helpful advice to others\n\nI am brave\n\nEveryone has strengths!",
       "message_title_2": "Send this to caregivers:",
-      "message_text_2": "Hi! Even if you don’t know it, you will have positive qualities, including as a parent. \n\nYou are here trying to be better and that show’s love of learning. \n\nYou do what you can to love and care for your girl, boy or teen. That’s the strength of love! \n\nCan you think of something good that happened with you as a caregiver? What positive quality do you think you used?",
-      "tag_list": [
-        "study_dif_bc",
-        "study_dif_chih",
-        "study_dif_cdmx",
-        "study_dif_mich",
-        "cc_guer"
-      ]
+      "message_text_2": "Hi! Even if you don’t know it, you will have positive qualities, including as a parent. \n\nYou are here trying to be better and that show’s love of learning. \n\nYou do what you can to love and care for your girl, boy or teen. That’s the strength of love! \n\nCan you think of something good that happened with you as a caregiver? What positive quality do you think you used?"
     },
     {
       "id": "faq_h_after_group_ended",
@@ -968,6 +1186,9 @@
       "home_screen_section_list": [
         "programme"
       ],
+      "tag_list": [
+        "scale_dif"
+      ],
       "resource_data_1": "pdf",
       "resource_id_1": "onboard_guide",
       "status": "released",
@@ -982,6 +1203,9 @@
         "resource_title_1": {
           "mx_es": true
         },
+        "sections_title": {
+          "mx_es": true
+        },
         "section_title_1": {
           "mx_es": true
         },
@@ -992,9 +1216,6 @@
           "mx_es": true
         },
         "section_text_2": {
-          "mx_es": true
-        },
-        "sections_title": {
           "mx_es": true
         }
       },
@@ -1026,19 +1247,19 @@
       },
       "introduction": "The Onboarding Session sets the tone for the entire @global.programme_name programme. It is important to create a welcoming and safe space for the participants to feel at ease and familiarise themselves with the programme.",
       "resource_title_1": "Onboarding Guide",
+      "sections_title": "Preparation Checklist",
       "section_title_1": "1 week before your session",
       "section_text_1": "- Read the Facilitator Guide on Formando Conciencia+ \n\n- Practise the onboarding session with a peer or supervisor",
-      "tag_list": [
-        "scale_dif"
-      ],
       "section_title_2": "1 hour before your session",
-      "section_text_2": "- Download the PowerPoint slide to your laptop \n\n- Download the videos embedded in the slides to your laptop \n\n- Go through your PowerPoint slides and videos to make sure everything is working smoothly",
-      "sections_title": "Preparation Checklist"
+      "section_text_2": "- Download the PowerPoint slide to your laptop \n\n- Download the videos embedded in the slides to your laptop \n\n- Go through your PowerPoint slides and videos to make sure everything is working smoothly"
     },
     {
       "id": "how_to_chat_session_scale",
       "home_screen_section_list": [
         "programme"
+      ],
+      "tag_list": [
+        "scale_dif"
       ],
       "status": "released",
       "title": "How to Conduct WhatsApp Group Chat Sessions",
@@ -1047,6 +1268,9 @@
           "mx_es": true
         },
         "introduction": {
+          "mx_es": true
+        },
+        "sections_title": {
           "mx_es": true
         },
         "section_title_1": {
@@ -1059,9 +1283,6 @@
           "mx_es": true
         },
         "section_text_2": {
-          "mx_es": true
-        },
-        "sections_title": {
           "mx_es": true
         },
         "section_title_3": {
@@ -1113,14 +1334,11 @@
         }
       },
       "introduction": "The @global.programme_name programme includes WhatsApp support Groups with parents with pre-scripted messages that you share from Formando Conciencia+\n\nThe aim of this group is to provide parents with extra support during their @global.programme_name journey.",
+      "sections_title": "How to:",
       "section_title_1": "Create a WhatsApp Group",
       "section_text_1": "**Make sure you have done the following before the onboarding session starts:** \n\n- Save the names and WhatsApp numbers of the parents assigned to you on your phone (if available), so you can easily confirm details during the onboarding session. \n\n- Create your WhatsApp group (with the temporary group name, icon, and description). The name of each WhatsApp group has the same structure:\n“CC+ WhatsApp Support Group”\nA name selected by the group \n\nWhen you create your temporary group name, you will use \"CC+ WhatsApp Support Group” \n\nYou can keep your temporary group name or you can add a name to the temporary group name. For example, “CC+ __HappyFamilies”.",
-      "tag_list": [
-        "scale_dif"
-      ],
       "section_title_2": "Conduct Chat Session",
       "section_text_2": "**Before conducting the chat sessions, make sure you:** \n\nCreate a WhatsApp Group during the onboarding session. \nIdentify the ground rules for the WhatsApp Group\n\n**Structure for the chat sessions**: \n\nDay  1 (immediately after the onboarding session): Welcome, introductions, and reminder of home practice. \n\nDay 3: Self-talk: WhatsApp Chat session on self-talk and stress\n\nDay 5: Checking in on parents’ experience and closing\n\n**When to send the messages** \n\nYou and your group will decide a time to chat during the onboarding session. \n\nEach chat session has a reminder message (Message 1) that you should send a few hours before the chat session. \n\nSend the remaining messages during the scheduled chat time.",
-      "sections_title": "How to:",
       "section_title_3": "Share the messages in the chat session",
       "section_text_3": "Look for the \"Chat Sessions\" section on the Formando Conciencia+ homepage\n\nFind the specific chat session you want to share and click on it.\n\nOnce you're on the content for that session, locate the \"Share\" icon. It should look like an arrow pointing upward or a box with an arrow, and it's used to share content. Click on the \"Share\" icon.\n\nSelect \"WhatsApp\" as your sharing option in the menu that appears.\n\nChoose your @global.programme_name Support Group from the list. \n\nBefore you hit the \"Send\" button, make sure to add or change any necessary information like your name. \n\nFinally, click the \"Send\" button to share the content with your @global.programme_name Support Group.",
       "section_title_4": "Get Help with WhatsApp Support Group",
@@ -1131,8 +1349,18 @@
       "home_screen_section_list": [
         "programme"
       ],
+      "tag_list": [
+        "study_dif_bc",
+        "study_dif_chih",
+        "study_dif_cdmx",
+        "study_dif_mich",
+        "cc_guer",
+        "demo"
+      ],
       "resource_data_1": "pdf",
       "resource_id_1": "overview_study",
+      "resource_data_2": "pdf",
+      "resource_id_2": "more_info",
       "status": "released",
       "title": "Overview of the @global.programme_name Programme",
       "_translations": {
@@ -1143,6 +1371,12 @@
           "mx_es": true
         },
         "resource_title_1": {
+          "mx_es": true
+        },
+        "resource_title_2": {
+          "mx_es": true
+        },
+        "sections_title": {
           "mx_es": true
         },
         "section_title_1": {
@@ -1157,9 +1391,6 @@
         "section_text_2": {
           "mx_es": true
         },
-        "sections_title": {
-          "mx_es": true
-        },
         "section_title_3": {
           "mx_es": true
         },
@@ -1170,9 +1401,6 @@
           "mx_es": true
         },
         "section_text_4": {
-          "mx_es": true
-        },
-        "resource_title_2": {
           "mx_es": true
         },
         "section_title_5": {
@@ -1231,25 +1459,16 @@
       },
       "introduction": "Welcome to the @global.programme_name Positive Parenting Programme! \n\nThank you for your commitment and dedication to supporting girls, boys, teens and families in your community. \nYou are a shining star!",
       "resource_title_1": "Overview Guide",
+      "resource_title_2": "Know more about the programme",
+      "sections_title": "Welcome",
       "section_title_1": "What’s inside the Facilitator Guide?",
       "section_text_1": "This guide is for YOU!! \nA comprehensive guide to help you deliver @global.programme_name to families around you. \nSteps on how to introduce caregivers to the programme and support them\nSpecific information on the programme’s content.",
-      "tag_list": [
-        "study_dif_bc",
-        "study_dif_chih",
-        "study_dif_cdmx",
-        "study_dif_mich",
-        "cc_guer"
-      ],
       "section_title_2": "What to remember?",
       "section_text_2": "It is important to follow this manual as closely as possible. However, manuals are only a guide to support you after what you have learned in the training workshop. \nWhat you deliver – the content of the manual – is only 20% of the programme. The rest 80%? It’s all about HOW you facilitate the programme and behave towards the parents.",
-      "sections_title": "Welcome",
       "section_title_3": "Skills you need",
       "section_text_3": "The core skills of a good facilitator are a mirror for parents to learn how to bring about the change we want to see in parents and the community. These include understanding stages of child development, praising and encouraging parents, using active listening skills, being consistent and compassionate, exploring problems, and finding solutions together.",
       "section_title_4": "⭐Remember",
       "section_text_4": "Just as we say to the parents, “It is what you do at home that makes the difference,” the same thing applies to you: “It is how you interact with the parents in your group that makes the difference.” \n\nIf you take the time to deliver a session before it begins, you will be more confident. If there is anything that you cannot remember or feel unsure of, contact another facilitator to practise with. \n\nAccess the Facilitator Guide for your group by clicking on the icon above.",
-      "resource_data_2": "pdf",
-      "resource_id_2": "more_info",
-      "resource_title_2": "Know more about the programme",
       "section_title_5": "CC+ Content Guide",
       "section_text_5": "You can view the full CC+ content received through the chatbot online. (Access the content package.)[https://drive.google.com/file/d/1lmDoPddUsF5LuUNUTFhNSRiNDOfmlilg/view?usp=sharing]"
     },
@@ -1257,6 +1476,14 @@
       "id": "onboarding_cc_study",
       "home_screen_section_list": [
         "programme"
+      ],
+      "tag_list": [
+        "study_dif_bc",
+        "study_dif_chih",
+        "study_dif_cdmx",
+        "study_dif_mich",
+        "cc_guer",
+        "demo"
       ],
       "resource_data_1": "pdf",
       "resource_id_1": "onboard_guide",
@@ -1272,6 +1499,9 @@
         "resource_title_1": {
           "mx_es": true
         },
+        "sections_title": {
+          "mx_es": true
+        },
         "section_title_1": {
           "mx_es": true
         },
@@ -1282,9 +1512,6 @@
           "mx_es": true
         },
         "section_text_2": {
-          "mx_es": true
-        },
-        "sections_title": {
           "mx_es": true
         }
       },
@@ -1316,23 +1543,24 @@
       },
       "introduction": "The Onboarding Session sets the tone for the entire @global.programme_name programme. It is important to create an empathetic, welcoming and safe space for the participants to feel at ease and familiarise themselves with the programme.",
       "resource_title_1": "Onboarding Guide",
+      "sections_title": "Trigger Words",
       "section_title_1": "To start the chatbot in WhatsApp",
       "section_text_1": "Parents can type: \nAFECTIVA to start the programme, if you are in Chihuahua state. \n\nFORMANDO to start the programme, for all other states.",
-      "tag_list": [
-        "study_dif_bc",
-        "study_dif_chih",
-        "study_dif_cdmx",
-        "study_dif_mich",
-        "cc_guer"
-      ],
       "section_title_2": "To get parents’ research ID",
-      "section_text_2": "Type ID in the chatbot",
-      "sections_title": "Trigger Words"
+      "section_text_2": "Type ID in the chatbot"
     },
     {
       "id": "how_to_chat_session_study",
       "home_screen_section_list": [
         "programme"
+      ],
+      "tag_list": [
+        "study_dif_bc",
+        "study_dif_chih",
+        "study_dif_cdmx",
+        "study_dif_mich",
+        "cc_guer",
+        "demo"
       ],
       "status": "released",
       "title": "How to Conduct WhatsApp Support Group Chat Sessions",
@@ -1341,6 +1569,9 @@
           "mx_es": true
         },
         "introduction": {
+          "mx_es": true
+        },
+        "sections_title": {
           "mx_es": true
         },
         "section_title_1": {
@@ -1353,9 +1584,6 @@
           "mx_es": true
         },
         "section_text_2": {
-          "mx_es": true
-        },
-        "sections_title": {
           "mx_es": true
         },
         "section_title_3": {
@@ -1407,18 +1635,11 @@
         }
       },
       "introduction": "The @global.programme_name programme includes WhatsApp support  Groups with parents with pre-scripted messages that you share from Formando Conciencia+\n\nThe aim of this group is to provide parents with extra support during their @global.programme_name journey.",
+      "sections_title": "How to:",
       "section_title_1": "Create a WhatsApp Group",
       "section_text_1": "**Make sure you have done the following before the onboarding session starts:** \n\n- Save the names and WhatsApp numbers of the parents assigned to you on your phone (if available), so you can easily confirm details during the onboarding session. \n\n- Create your WhatsApp group (with the temporary group name, icon, and description). The name of each WhatsApp group has the same structure:\n“CC+ WhatsApp Support Group”\nA name selected by the group \n\nWhen you create your temporary group name, you will use \"CC+ WhatsApp Support Group” \n\nYou can keep your temporary group name or you can add a name to the temporary group name. For example, “CC+ __HappyFamilies”.",
-      "tag_list": [
-        "study_dif_bc",
-        "study_dif_chih",
-        "study_dif_cdmx",
-        "study_dif_mich",
-        "cc_guer"
-      ],
       "section_title_2": "Conduct Chat Session",
       "section_text_2": "**Before conducting the chat sessions, make sure you:** \n\nCreate a WhatsApp Group during the onboarding session. \nIdentify the ground rules for the WhatsApp Group\n\n**Structure for the chat sessions**: \n\nDay  1 (immediately after the onboarding session): Welcome, introductions, and reminder of home practice. \n\nWeek 1: Thoughts, feelings, and actions\n\nWeek 2: Kind self-talk\n\nWeek 3: Character strengths\n\nWeek 4: Building pleasant emotions\n\n**When to send the messages** \n\nYou and your group will decide a time to chat during the onboarding session. \n\nBefore each chat session, send the reminder message few hours before the chat session. You can set alarms on your phone to remind you when to send messages.\n\nSend the remaining messages during the scheduled chat time.",
-      "sections_title": "How to:",
       "section_title_3": "Share the messages in the chat session",
       "section_text_3": "Look for the \"Chat Sessions\" section on the Formando Conciencia+ homepage\n\nFind the specific chat session you want to share and click on it.\n\nOnce you're on the content for that session, locate the \"Share\" icon. It should look like an arrow pointing upward or a box with an arrow, and it's used to share content. Click on the \"Share\" icon.\n\nSelect \"WhatsApp\" as your sharing option in the menu that appears.\n\nChoose your @global.programme_name Support Group from the list. \n\nBefore you hit the \"Send\" button, make sure to add or change any necessary information like your name. \n\nFinally, click the \"Send\" button to share the content with your @global.programme_name Support Group.",
       "section_title_4": "Get Help with WhatsApp Support Group",
@@ -1438,6 +1659,9 @@
         "introduction": {
           "mx_es": true
         },
+        "sections_title": {
+          "mx_es": true
+        },
         "section_title_1": {
           "mx_es": true
         },
@@ -1448,9 +1672,6 @@
           "mx_es": true
         },
         "section_text_2": {
-          "mx_es": true
-        },
-        "sections_title": {
           "mx_es": true
         },
         "section_title_3": {
@@ -1514,11 +1735,11 @@
         }
       },
       "introduction": "The Formando Conciencia+ also makes reporting on the delivery of @global.programme_name much easier than paper forms.\n\nAfter adding each parent’s name to the App, you will be able to report on their participation during in-person and WhatsApp group sessions.\n\nYou will also report on your own experience, including the time spent conducting each session and whether you were able to do all the activities in the session. Be honest with the information, we are really interested in knowing your experience",
+      "sections_title": "How to:",
       "section_title_1": "Set up your profile",
       "section_text_1": "Select the profile icon from the bottom navigation bar. \n\nChoose “About you” \n\nType your name under “Your name” \n\nSelect your state from the dropdown menu \n\nTap Save",
       "section_title_2": "Add a Parent",
       "section_text_2": "Select the profile icon from the bottom navigation bar. \n\nChoose “Add Parent”\n\nEnter parent details in the form. To enter the parent’s unique identifier (UID), ask them to text “ID” on @global.programme_name. Copy the 6-digit number into the parent profile.",
-      "sections_title": "How to:",
       "section_title_3": "Add a Co-Parent",
       "section_text_3": "If two parents from the same family are participating in the programme, together, you must link their accounts. \n\nOnce you have added the first parent profile, to add a second parent, select “Add Parent”\n\nEnter parent details in the form. To enter the parent’s unique identifier (UID), ask them to text “ID” on @global.programme_name. Copy the 6-digit number into the parent profile. \n\nSelect “Add Co-Parent”\n\nSelect the co-parent from available parent user profiles. \n\nSelect “Save”\n\n*Both parent profiles will be updated to note the co-parent.*",
       "section_title_4": "Report Attendance",
@@ -1531,6 +1752,14 @@
       "home_screen_section_list": [
         "programme"
       ],
+      "tag_list": [
+        "study_dif_bc",
+        "study_dif_chih",
+        "study_dif_cdmx",
+        "study_dif_mich",
+        "cc_guer",
+        "demo"
+      ],
       "status": "released",
       "title": "Coaching support",
       "_translations": {
@@ -1538,6 +1767,9 @@
           "mx_es": true
         },
         "introduction": {
+          "mx_es": true
+        },
+        "sections_title": {
           "mx_es": true
         },
         "section_title_1": {
@@ -1550,9 +1782,6 @@
           "mx_es": true
         },
         "section_text_2": {
-          "mx_es": true
-        },
-        "sections_title": {
           "mx_es": true
         },
         "section_title_3": {
@@ -1604,18 +1833,11 @@
         }
       },
       "introduction": "Once you join the program, you'll be matched with a coach right from the start. \n\nYour coach will help you prepare for your chat sessions with the caregivers, talk about any problems you had during your sessions, find solutions together, and practise them. \n\nYou will have 4 coaching sessions with other facilitators and your coach. Each coaching session will be 60 minutes long.",
+      "sections_title": "More details:",
       "section_title_1": "How will the coach get in touch with me?",
       "section_text_1": "Make sure you're part of a WhatsApp group with other facilitators from your state and your coach. Your coach will share important information with you through this group. Stay connected and keep an eye out for updates from your coach in the WhatsApp group!",
-      "tag_list": [
-        "study_dif_bc",
-        "study_dif_chih",
-        "study_dif_cdmx",
-        "study_dif_mich",
-        "cc_guer"
-      ],
       "section_title_2": "When will the coaching session happen?",
       "section_text_2": "Here is the schedule for your coaching session: \n\nSession 1: After you conduct the in-person onboarding session\n\nSession 2: After first WhatsApp chat session on thoughts, feelings, and actions\n\nSession 3: After second WhatsApp chat session on kind self-talk\n\nSession 4: After third WhatsApp chat session on character strengths",
-      "sections_title": "More details:",
       "section_title_3": "Prepare for coaching session",
       "section_text_3": "Before your coaching session: \n\nReview your WhatsApp chat session with the parents \nSelect a challenge or issue from your chat session that they want to receive support from during coaching. A challenge is a specific issue or difficulty the facilitators faced during their chat session.  \nThink about what coaching skills you want to improve. For example, you could build a stronger sense of community amongst the caregivers or improve their facilitation skills.",
       "section_title_4": "Need more support?",
@@ -1626,6 +1848,14 @@
       "home_screen_section_list": [
         "programme"
       ],
+      "tag_list": [
+        "study_dif_bc",
+        "study_dif_chih",
+        "study_dif_cdmx",
+        "study_dif_mich",
+        "cc_guer",
+        "demo"
+      ],
       "status": "released",
       "title": "How to hand over to Group Admin",
       "_translations": {
@@ -1635,16 +1865,16 @@
         "introduction": {
           "mx_es": true
         },
-        "message_title_1": {
-          "mx_es": true
-        },
-        "message_text_1": {
-          "mx_es": true
-        },
         "section_title_1": {
           "mx_es": true
         },
         "section_text_1": {
+          "mx_es": true
+        },
+        "message_title_1": {
+          "mx_es": true
+        },
+        "message_text_1": {
           "mx_es": true
         },
         "message_title_2": {
@@ -1687,25 +1917,26 @@
         }
       },
       "introduction": "Once 2 volunteers to be group admin are selected, schedule a WhatsApp call with them.\n\nWhen you’re done with the call, you can send the guidelines as messages to remind them what you discussed.",
-      "message_title_1": "Send this message after your WhatsApp Call",
-      "message_text_1": "Hi! Thank you for volunteering to lead the group discussions. \n\n*While engaging with other parents in the group, keep the following in mind*: \n\n👋Greet parents when engaging with them.\n\n💛Respect what participants share and be aware of different ages, genders, values and circumstances. \n\n🏅Encourage parents to share and respond to each other - and praise them for it.\n\n🔔Remind parents of ground rules when needed.\n\n🔑Model the behaviour you want to see among the parents.",
       "section_title_1": "What to cover in the WhatsApp Call?",
       "section_text_1": "Thank the parents for volunteering to lead the WhatsApp group.  \n\nWhile engaging with other parents in the group, keep the following in mind:\n🔵Greet parents when engaging with them.\n🔵Respect what participants share and be aware of different ages, genders, values and circumstances.\n🔵Encourage parents to share and respond to each other - and praise them for it.\n🔵Remind parents of ground rules when needed.\n🔵Model the behaviour you want to see among the parents.\n\nIf the parent needs any prompts for discussion, share the following: \n\nLet us celebrate our successes! What was something positive you experienced when you tried one of the @global.programme_name skills with your boy, girl, or teen?\n\nTrying out new skills can be hard at first. What was something difficult that you experienced when you tried a @global.programme_name skill with your girl, boy, or teen at home?\nRemind the parent that they are not obligated to respond to messages all times. Participants may send messages at any time during the week. To keep your workload manageable, you can respond to messages once or twice a day, depending on your schedule. \n\nAsk them if they have any questions. \n\nRemind the parent that unfortunately, you will no longer be able to participate in the WhatsApp group.",
+      "message_title_1": "Send this message after your WhatsApp Call",
+      "message_text_1": "Hi! Thank you for volunteering to lead the group discussions. \n\n*While engaging with other parents in the group, keep the following in mind*: \n\n👋Greet parents when engaging with them.\n\n💛Respect what participants share and be aware of different ages, genders, values and circumstances. \n\n🏅Encourage parents to share and respond to each other - and praise them for it.\n\n🔔Remind parents of ground rules when needed.\n\n🔑Model the behaviour you want to see among the parents.",
       "message_title_2": "When should the group admin respond to messages?",
       "message_text_2": "*When should you respond to messages?*\n\n⏰Participants may send messages at any time during the week. To keep your workload manageable, you can respond to messages once or twice a day, depending on your schedule. \n\n👍You can also respond to messages with a relevant emoji or short response when you can.",
-      "message_guidance_2": "Send this message to the group admin volunteers.",
-      "tag_list": [
-        "study_dif_bc",
-        "study_dif_chih",
-        "study_dif_cdmx",
-        "study_dif_mich",
-        "cc_guer"
-      ]
+      "message_guidance_2": "Send this message to the group admin volunteers."
     },
     {
       "id": "faq_h_prompts",
       "home_screen_section_list": [
         "faq"
+      ],
+      "tag_list": [
+        "study_dif_bc",
+        "study_dif_chih",
+        "study_dif_cdmx",
+        "study_dif_mich",
+        "cc_guer",
+        "demo"
       ],
       "status": "released",
       "title": "Chat session prompts for new group admin",
@@ -1746,19 +1977,20 @@
       "introduction": "After your call with the new group admin, you can share these prompts to support them with leading the chat sessions.",
       "message_text_1": "🎉Let us celebrate our successes! What was something positive you experienced when you tried one of the @global.programme_name skills with your boy or girl?",
       "message_text_2": "🌱Trying out new skills can be hard at first. What was something *difficult* that you experienced when you tried a @global.programme_name skill with your boy or girl at home?",
-      "message_text_3": "💙You are welcome to use this WhatsApp space to share any questions or experiences you have on your @global.programme_name journey. Remember, I may not always be able to respond, but this is our group – *together we can find all the answers we need*!",
-      "tag_list": [
-        "study_dif_bc",
-        "study_dif_chih",
-        "study_dif_cdmx",
-        "study_dif_mich",
-        "cc_guer"
-      ]
+      "message_text_3": "💙You are welcome to use this WhatsApp space to share any questions or experiences you have on your @global.programme_name journey. Remember, I may not always be able to respond, but this is our group – *together we can find all the answers we need*!"
     },
     {
       "id": "faq_h_no_volunteers",
       "home_screen_section_list": [
         "faq"
+      ],
+      "tag_list": [
+        "study_dif_bc",
+        "study_dif_chih",
+        "study_dif_cdmx",
+        "study_dif_mich",
+        "cc_guer",
+        "demo"
       ],
       "status": "released",
       "title": "No one volunteered to be group admin",
@@ -1792,14 +2024,7 @@
       },
       "introduction": "It may be difficult to find volunteers to become group admin. If no one volunteers to lead the group, you can send the message below to close the group. \n\nWait a couple days before closing because someone might still volunteer!",
       "message_title_1": "Alternate Closing Message",
-      "message_text_1": "Thank you for sharing your thoughts 💙\n\nSince we don’t have any volunteers for group admin, I will be closing this WhatsApp Support Group at the end of the Programme. \n\nRemember, you can still continue your @global.programme_name journey with your family!",
-      "tag_list": [
-        "study_dif_bc",
-        "study_dif_chih",
-        "study_dif_cdmx",
-        "study_dif_mich",
-        "cc_guer"
-      ]
+      "message_text_1": "Thank you for sharing your thoughts 💙\n\nSince we don’t have any volunteers for group admin, I will be closing this WhatsApp Support Group at the end of the Programme. \n\nRemember, you can still continue your @global.programme_name journey with your family!"
     },
     {
       "id": "one_on_one_challenges",
@@ -2144,6 +2369,14 @@
       "home_screen_section_list": [
         "challenges"
       ],
+      "tag_list": [
+        "study_dif_bc",
+        "study_dif_chih",
+        "study_dif_cdmx",
+        "study_dif_mich",
+        "cc_guer",
+        "demo"
+      ],
       "status": "released",
       "title": "Supporting girl, boy, or teen’s learning",
       "_translations": {
@@ -2204,19 +2437,19 @@
       "message_title_2": "I don't know what to do with my teen.",
       "message_text_2": "📝 You could make a weekly plan with your teen for after school and weekends. \n\n🌙 Include activities for learning, relaxing, and fun so that it is enjoyable for your teen. Come up with these ideas together!\n \n🎉 Helping your teen have more routine is a great way to support their learning!",
       "message_title_3": "I am feeling overwhelmed.",
-      "message_text_3": "💙 I’m sorry you’re feeling overwhelmed. \n\n💡 Try doing short, simple, and fun things that can fit in with your routine. \n\n🌈 For example, point at things like letters, numbers, colours, and objects and tell girl or boy what they are. Start slowly and simply.\n\nFor older teen, 🔄contact your teen's teacher or school to ask for some advice. \n\n🍚 If you’re busy, just involve your girl, boy, or teen in what you are doing.",
+      "message_text_3": "💙 I’m sorry you’re feeling overwhelmed. \n\n💡 Try doing short, simple, and fun things that can fit in with your routine. \n\n🌈 For example, point at things like letters, numbers, colours, and objects and tell girl or boy what they are. Start slowly and simply.\n\nFor older teen, 🔄contact your teen's teacher or school to ask for some advice. \n\n🍚 If you’re busy, just involve your girl, boy, or teen in what you are doing."
+    },
+    {
+      "id": "structure_challenges",
+      "home_screen_section_list": [
+        "challenges"
+      ],
       "tag_list": [
         "study_dif_bc",
         "study_dif_chih",
         "study_dif_cdmx",
         "study_dif_mich",
         "cc_guer"
-      ]
-    },
-    {
-      "id": "structure_challenges",
-      "home_screen_section_list": [
-        "challenges"
       ],
       "status": "released",
       "title": "Helping your girl, boy, or teen give structure",
@@ -2303,13 +2536,6 @@
       "message_text_2": "⭐ Our teens learn best from us.\n\n✅ The more we follow the rules, the more they will follow the rules too. \n\n🌈 You can adapt the rule to make sure that it is something everyone can follow.",
       "message_title_3": "My girl or boy felt it was unfair that they had to follow the rule while I didn’t have to follow it.",
       "message_text_3": "⭐ Our girls and boys learn best from us.\n\n✅ The more we follow the rules, the more they will follow the rules too.\n\n💛 You can adapt the rule to make sure that it is something everyone can follow.",
-      "tag_list": [
-        "study_dif_bc",
-        "study_dif_chih",
-        "study_dif_cdmx",
-        "study_dif_mich",
-        "cc_guer"
-      ],
       "message_title_4": "My teen is finding it challenging to adapt to a new routine or structure.",
       "message_text_4": "⏰ Adjusting to a new routine can be tough for both teens and us adults, too! Remember, it takes time.\n\n🔑 Introduce the new routine gradually, starting with small changes and building on what’s familiar. Give them cues to signal upcoming transitions. \n\n🌷 If you are concerned about your teen’s ability to adapt, type @global.trigger_grow to take the developmental assessment and explore if there is a need for additional support.",
       "message_title_5": "I felt uncomfortable because I think an adult should create the rule, not my girl or boy.",
@@ -2319,6 +2545,13 @@
       "id": "behave_challenges",
       "home_screen_section_list": [
         "challenges"
+      ],
+      "tag_list": [
+        "study_dif_bc",
+        "study_dif_chih",
+        "study_dif_cdmx",
+        "study_dif_mich",
+        "cc_guer"
       ],
       "status": "released",
       "title": "Supporting positive child behaviour",
@@ -2405,13 +2638,6 @@
       "message_text_2": "⏸ Next time, when you are overwhelmed or angry, take a deep breath. If needed, walk away from the situation before you react. \n\nRemember, your teen’s behaviour isn’t meant to hurt you. As teens, it's normal for them to explore their limits. \n\nLater, find something small and clear that your teen is doing and you wish they could do more of. Then, praise them when they do it.",
       "message_title_3": "I get too angry at my girl or boy and find it difficult to be positive with them when they are no longer misbehaving.",
       "message_text_3": "🌱 It is normal to sometimes get angry at our girls and boys when they are misbehaving, especially when they are driving us crazy.\n\n⏸ Next time, when you are overwhelmed or angry, take a deep breath. If needed, walk away from the situation before you react. \n\nRemember, your teen’s behaviour isn’t meant to hurt you. As girls and boys, it's normal for them to explore their limits. \n\nLater, find something small and clear that your teen is doing and you wish they could do more of. Then, praise them when they do it. \n\n☀️ Later, find something small and clear that your girl or boy is doing and you wish they could do more of it. Then, praise them when they do it.",
-      "tag_list": [
-        "study_dif_bc",
-        "study_dif_chih",
-        "study_dif_cdmx",
-        "study_dif_mich",
-        "cc_guer"
-      ],
       "message_title_4": "I got very angry with my teen and shouted at them.",
       "message_text_4": "⏸ First, take a pause.\n\n💚 Be kind to yourself. You are both learning and it’s okay not to get it right all the time.\n\nIf you are feeling overwhelmed or angry, take a deep breath. If needed, walk away from the situation before you react. \n\nRemember, your teen’s behaviour isn’t meant to hurt you. As teens, it's normal for them to explore their limits.\n\n🌱 When you feel calmer, you could say sorry for shouting. Even if you meant some of what you said and want them to hear that, you can say sorry for how you said it.\n\n🎈 Repeat the core message of what you were trying to say in a calmer way.\n\n💛Make them feel loved, even when you and your teen are facing difficult situation.",
       "message_title_5": "I forgot to give my girl or boy a chance to do what I asked before giving the consequence.",
@@ -2421,6 +2647,13 @@
       "id": "safety_challenges",
       "home_screen_section_list": [
         "challenges"
+      ],
+      "tag_list": [
+        "study_dif_bc",
+        "study_dif_chih",
+        "study_dif_cdmx",
+        "study_dif_mich",
+        "cc_guer"
       ],
       "status": "released",
       "title": "Keeping the girl, boy, or teen safe and healthy",
@@ -2507,17 +2740,12 @@
       "message_text_2": "🍅 It is common for children to refuse vegetables and fruits, especially when tastier but less healthy food options are available all around us.\n\n🌱 You could encourage your child to eat slightly sweeter fruits and vegetables for a start, such as mango childs and sweet potatoes. You can gradually introduce other vegetables and fruits.\n\n🎈 Praise you child even when they take one mouthful of vegetables or fruits!",
       "message_title_3": "My teen and I did not agree on which areas were unsafe.",
       "message_text_3": "👂That’s alright. Even adults don’t agree on this sometimes. Listening to your teen, even if we disagree, helps us understand their thinking. \n\n⏰ Find time to talk about safe and unsafe areas again. \n\n💚 This time, really listen and show you understand their view before sharing your thoughts.\n\n📝 Tell your teen that you appreciate their opinions and you are proud of them for being honest about how they feel.\n\n😃 Reach a common agreement and establish safe and unsafe areas, as well as what to do in case of emergency.",
-      "tag_list": [
-        "study_dif_bc",
-        "study_dif_chih",
-        "study_dif_cdmx",
-        "study_dif_mich",
-        "cc_guer"
-      ],
       "message_title_4": "My girl or boy told me that school or the house of someone I trust is an unsafe place. I was shocked and did not know what to do!",
       "message_text_4": "😔 It is shocking to learn that people who we trust may cause discomfort to our girls and boys. \n\n👂 Listen to girl or boy if they want to talk about why it seems dangerous or uncomfortable. Ask if it’s the place, a particular person, or both that makes them uncomfortable. \n\nStay calm and open during the conversation. Trust what they say - they will not say such things for no reason!\n\n🔔Talk with someone and get support. Type @global.trigger_help if you need more assistance.\n\n💙 Remember to take a pause when you are stressed.",
       "message_title_5": "I am shy to talk to my young girl or boy about bodies and safe touch.",
       "message_text_5": "💙 It is slightly uncomfortable to talk to our children about male and female body parts. However, it helps to keep our girls and boys safe.\n\n💡Start a conversation with girl or boy about their body, its functions, and the importance of naming each part. Stories and puppets can be a helpful tool in facilitating this dialogue.\n\n💚 Talk with confidence about the body, especially private parts. Initially, it may feel awkward, but the more you do it, the more natural and comfortable it will become for both. girl or boy will learn how to talk about their body and can communicate with you if anything happens.\n\n🔑 Answer any questions from girl or boy honestly. You can do this to keep our girls and boys safe!🌷"
     }
-  ]
+  ],
+  "_xlsxPath": "data/FacilitatorApp MX articles.xlsx",
+  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1rFg8qsmb3xSOXw_9Iwxk8RgSmyjqiao9"
 }

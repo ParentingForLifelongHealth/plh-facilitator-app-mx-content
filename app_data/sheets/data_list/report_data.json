@@ -13,7 +13,8 @@
         "study_dif_cdmx",
         "study_dif_mich",
         "scale_dif",
-        "cc_guer"
+        "cc_guer",
+        "demo"
       ],
       "name": "Onboarding",
       "_translations": {
@@ -36,7 +37,8 @@
         "study_dif_cdmx",
         "study_dif_mich",
         "scale_dif",
-        "cc_guer"
+        "cc_guer",
+        "demo"
       ],
       "name": "Week 1: Thoughts, Feelings, and Actions",
       "_translations": {
@@ -58,7 +60,8 @@
         "study_dif_chih",
         "study_dif_cdmx",
         "study_dif_mich",
-        "cc_guer"
+        "cc_guer",
+        "demo"
       ],
       "name": "Week 2: Self-Talk",
       "_translations": {
@@ -80,7 +83,8 @@
         "study_dif_chih",
         "study_dif_cdmx",
         "study_dif_mich",
-        "cc_guer"
+        "cc_guer",
+        "demo"
       ],
       "name": "Week 3: Character Strengths",
       "_translations": {
@@ -102,7 +106,8 @@
         "study_dif_chih",
         "study_dif_cdmx",
         "study_dif_mich",
-        "cc_guer"
+        "cc_guer",
+        "demo"
       ],
       "name": "Week 4: Building Pleasant Emotions",
       "_translations": {
@@ -125,7 +130,8 @@
         "study_dif_cdmx",
         "study_dif_mich",
         "scale_dif",
-        "cc_guer"
+        "cc_guer",
+        "demo"
       ],
       "name": "Optional Report: Parenting Children in Crisis",
       "_translations": {
@@ -140,5 +146,6 @@
       }
     }
   ],
-  "_xlsxPath": "data/FacilitatorApp MX articles.xlsx"
+  "_xlsxPath": "data/FacilitatorApp MX articles.xlsx",
+  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1rFg8qsmb3xSOXw_9Iwxk8RgSmyjqiao9"
 }

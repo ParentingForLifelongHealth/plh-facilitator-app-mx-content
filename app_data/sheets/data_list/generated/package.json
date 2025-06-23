@@ -98,6 +98,20 @@
       },
       "name": "cc_guer",
       "text": "CC+ Guerrero"
+    },
+    {
+      "id": "demo",
+      "title": "Demo",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Demo"
+        }
+      },
+      "name": "demo",
+      "text": "Demo"
     }
   ]
 }

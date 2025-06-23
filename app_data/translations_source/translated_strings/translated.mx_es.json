@@ -264,6 +264,12 @@
     "note": ""
   },
   {
+    "SourceText": "You can only move on and access the app if you provide your consent.",
+    "text": "Solo podrás seguir adelante y acceder a la aplicación si das tu consentimiento.",
+    "type": "template",
+    "note": ""
+  },
+  {
     "SourceText": "By providing your consent below you acknowledge reading and accepting the @global.terms_and_conditions and @global.privacy_policy. The most important commitments are:\n1. This is, and will always be, a fully free app.\n2. Your data will never be sold. We are not for profit.\n3. By using the app you are helping to make the app better for you and others.\n4. Your anonymised data may be used for research purposes by our @global.app_name team.",
     "text": "Al dar tu consentimiento a continuación, reconoces haber leído y aceptado los @global.terms_and_conditions y la @global.privacy_policy. Los compromisos más importantes son:\n1. Esta es, y siempre será, una aplicación totalmente gratuita.\n2. Tus datos nunca se venderán. No tenemos fines de lucro.\n3. Al utilizar la aplicación, contribuyes a mejorarla para ti y para los demás.\n4. Nuestro equipo @global.app_name puede utilizar tus datos anónimos con fines de investigación.",
     "type": "template",
@@ -294,16 +300,100 @@
     "note": "The string @global.deployment_terms_text should not be translated."
   },
   {
-    "SourceText": "You can only move on and access the app if you provide your consent.",
-    "text": "Solo podrás seguir adelante y acceder a la aplicación si das tu consentimiento.",
-    "type": "template",
+    "SourceText": "This chat session should happen on the same day or day after you complete the in-person onboarding session. As the first chat session, it offers a chance for parents to introduce themselves to the group.",
+    "text": "Esta sesión de reflexión debe llevarse a cabo el mismo día o al día siguiente de completar la sesión presencial de integración. Como será  el primer mensaje clave que envíes, las personas participantes tendrán la oportunidad de presentarse ante el grupo.",
+    "type": "data_list",
     "note": ""
   },
   {
-    "SourceText": "@global.app_name is an app designed by IDEMS International and Parenting for Lifelong Health to support the scale up of Crianza con Conciencia + in Mexico. The content herein is available under an open source Creative Commons International 4.0 license. It was developed in collaboration with key partners:",
-    "text": "@global.app_name es una aplicación diseñada por IDEMS Internacional y Parenting for Lifelong Health para apoyar la ampliación del Programa Crianza con Conciencia + (CC+) en México. Su contenido está disponible bajo una licencia Creative Commons Internacional 4.0 de código abierto. Se desarrolló en colaboración con socios clave:",
+    "SourceText": "**Before conducting the chat sessions, make sure you:** \n\nCreate a WhatsApp Group during the onboarding session. \nIdentify the ground rules for the WhatsApp Group\n\nMake sure all participants are already in the WhatsApp group and know the session time.\n\n**Structure for the chat sessions**: \n\nDay  1 (immediately after the onboarding session): Welcome, introductions, and reminder of home practice. \n\nDay 3: Self-talk: WhatsApp Chat session on self-talk and stress\n\nDay 5: Saying Goodbye\n\n**When to send the messages** \n\nYou and your group will decide a time to chat during the onboarding session. \n\nEach chat session has a reminder message (Message 1) that you should send a few hours before the chat session. \n\nSend the remaining messages during the scheduled chat time.",
+    "text": "**Antes de llevar a cabo las sesiones de reflexión, asegúrate de:** \n\n☀️Crear un Grupo de WhatsApp durante la sesión de integración. \nIdentificar las reglas generales para Grupo de WhatsApp\n\n🌱Asegurarte de que todas las personas participantes forman parte del grupo de WhatsApp y conocen los horarios para la sesión.\n\n**Estructura de las sesiones de chat**: \n\nDía 1: (inmediatamente después de la sesión de integración): Bienvenida, presentaciones y un recordatorio de los ejercicios para la casa.  \n\nSesión de Reflexión Semana 1: Pensamientos, Emociones y Acciones\n\nSesión de Reflexión Semana 2: Diálogo Interno\n\nSesión de Reflexión Semana 3: Fortalezas Personales\n\nSesión de Reflexión Semana 4: Desarrollar Emociones Agradabl\n\n**Cuándo enviar los mensajes** \n\n💚Tu grupo y tú decidirán una hora para chatear durante la sesión de integración.\n\nCada sesión de reflexión tiene un mensaje recordatorio (Mensaje clave) que debes enviar unas horas antes de la sesión de chat. \n\nManda los demás mensajes durante la hora programada para la sesión.\n",
     "type": "data_list",
-    "note": "The string @global.app_name should not be translated."
+    "note": ""
+  },
+  {
+    "SourceText": "This is your final chat session with the group. You should congratulate yourself for taking the parents through the @global.programme_name journey and celebrate with them the positive changes in their lives and for their girls, boys, and teens.\n\nYou can choose to stay or leave the WhatsApp Group after the program ends.",
+    "text": "Esta es tu última sesión de reflexión con el grupo. Deberías felicitarte por haber guiado a las madres, los padres y las personas cuidadoras en la aventura de @global.programme_name. Celebren los cambios positivos en sus vidas y en las de sus niñas, niños y adolescentes.💚\n\nPuedes optar por quedarte o abandonar el Grupo de WhatsApp una vez terminado el programa.",
+    "type": "data_list",
+    "note": "The string @global.programme_name should not be translated."
+  },
+  {
+    "SourceText": "On the morning of your chat session, send the following message as a reminder:",
+    "text": "La mañana de tu sesión de reflexión correspondiente, envía el siguiente mensaje como recordatorio:",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "This chat session will help parents understand the connection between thoughts, feelings, and actions. \nThe goal is for caregivers to identify how emotions, feelings, and actions impact their and their girls’, boys’, and teen’s well-being.",
+    "text": "Esta sesión de chat ayudará a las madres, los padres y las personas cuidadoras a comprender la conexión entre los pensamientos, las emociones y las acciones. 💚\nEl objetivo es que las madres, los padres y las personas cuidadoras identifiquen cómo los pensamientos, las emociones y las acciones impactan en su bienestar y en el de sus niñas, niños y adolescentes.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "In this chat, caregivers will learn how the way they talk to themselves can change how they feel. \n\nThey will also practise identifying unkind self-talk and replacing it with kind self-talk.",
+    "text": "En esta sesión, las madres, los padres y las personas cuidadoras aprenderán cómo es que la forma en que se hablan a ellas y ellos mismos puede cambiar cómo se sienten. 💚\n\nTambién practicarán la identificación del diálogo interno desagradable y su sustitución por el diálogo interno amable.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "This chat session will help caregivers understand how to identify strengths in themselves. They will learn about the connection between strengths and well-being and practice identifying how to incorporate strengths into their daily lives.",
+    "text": "Esta sesión de reflexión ayudará a las madres, los padres y las personas cuidadoras a entender cómo identificar sus fortalezas. Aprenderán sobre la conexión entre sus fortalezas y el bienestar, y practicarán cómo incorporar dichas fortalezas en su vida cotidiana.💚",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "This is your final chat session with the group.You should congratulate yourself for taking the parents through the Crianza con Conciencia+ journey and celebrate with them the positive changes in their lives and for their girls, boys, and teens.\n\nIn this chat session, you will also help parents understand how they can use pleasant emotions to improve the well-being of themselves and their child or teen. \n\nYou can choose to stay or leave the WhatsApp Group after the program ends.",
+    "text": "Esta es tu última sesión de reflexión con tu grupo. Deberías felicitarte por haber guiado a las madres, los padres y las personas cuidadoras en este viaje llamado Crianza con Conciencia +. Celebra, con todo el grupo, el impacto y los cambios positivos en sus vidas y en las de sus niñas, niños y adolescentes.💚\n\nEn esta sesión de reflexión, les ayudarás a las madres, los padres y las personas cuidadoras a entender cómo pueden usar las emociones agradables para mejorar su bienestar y el de sus niñas, niños y adolescentes también.\n\nPuedes optar por quedarte o abandonar el Grupo de WhatsApp una vez terminado el programa.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Parents play an important role in supporting children during a crisis. If tough times come for your community, consider sharing these 16 tips to help parents in their moment of need.",
+    "text": "Las personas cuidadoras desempeñan un papel importante a la hora de apoyar a sus niñas, niños y adolescentes durante una crisis. Si su comunidad atraviesa momentos difíciles, considere compartir estos 16 consejos para ayudarles en  momentos complejos.💚",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Overview of the Crianza con Conciencia+ Programme",
+    "text": "Descripción General del Programa Crianza con Conciencia+",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Programme Details",
+    "text": "Detalles del Programa",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Partners",
+    "text": "Socios",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Facilitator Guide",
+    "text": "Guía de la Persona Facilitadora",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Frequently Asked Questions",
+    "text": "Preguntas Frecuentes",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Safeguarding",
+    "text": "Medidas de Salvaguarda",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Common Challenges",
+    "text": "Desafíos Comunes",
+    "type": "data_list",
+    "note": ""
   },
   {
     "SourceText": "Sessions",
@@ -338,6 +428,102 @@
   {
     "SourceText": "Your profile provides your facilitator ID and is also where you can edit the list of parents attending your groups.",
     "text": "En tu perfil podrás ver tu identificación de persona facilitadora y también puedes editar la lista de las personas cuidadoras que asisten a tus grupos.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "How many minutes did it take you to prepare for this session?",
+    "text": "¿Cuántos minutos tardaste en preparar la sesión?",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "How many minutes did it take you to travel to the location where the session was delivered?",
+    "text": "¿Cuántos minutos tardaste en desplazarte al lugar donde se impartió la sesión?",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "How many minutes did it take you to deliver the sessions?",
+    "text": "¿Cuántos minutos tardaste en impartir la sesión?",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Which of the parents in this group attended your in-person session?",
+    "text": "¿Quiénes asistieron a la sesión presencial de integración?",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "@global.app_name is an app designed by IDEMS International and Parenting for Lifelong Health to support the scale up of Crianza con Conciencia + in Mexico. The content herein is available under an open source Creative Commons International 4.0 license. It was developed in collaboration with key partners:",
+    "text": "@global.app_name es una aplicación diseñada por IDEMS Internacional y Parenting for Lifelong Health para apoyar la ampliación del Programa Crianza con Conciencia + (CC+) en México. Su contenido está disponible bajo una licencia Creative Commons Internacional 4.0 de código abierto. Se desarrolló en colaboración con socios clave:",
+    "type": "data_list",
+    "note": "The string @global.app_name should not be translated."
+  },
+  {
+    "SourceText": "After Onboarding Session",
+    "text": "Después de la Sesión de Integración al programa",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Day 3: Self-Talk",
+    "text": "Día 3: El Diálogo Interno",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Day 5: Final Chat Session",
+    "text": "Día 5: Sesión final de chat",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Before Your Chat Session",
+    "text": "Antes de tus Sesiones de Reflexión",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Optional Parenting Children in a Crisis",
+    "text": "Contenido Opcional: Crianza en Contextos de Crisis",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Onboarding",
+    "text": "Integración",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Week 1: Thoughts, Feelings, and Actions",
+    "text": "Semana 1: Pensamientos, Emociones y Acciones",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Week 2: Self-Talk",
+    "text": "Semana 2: Diálogo Interno",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Week 3: Character Strengths",
+    "text": "Semana 3: Fortalezas Personales",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Week 4: Building Pleasant Emotions",
+    "text": "Semana 4: Desarrollar Emociones Agradables",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Optional Report: Parenting Children in Crisis",
+    "text": "Reporte Opcional:Crianza en Contextos de Crisis",
     "type": "data_list",
     "note": ""
   },
@@ -1002,216 +1188,6 @@
     "note": ""
   },
   {
-    "SourceText": "Facilitator Guide",
-    "text": "Guía de la Persona Facilitadora",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Frequently Asked Questions",
-    "text": "Preguntas Frecuentes",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Safeguarding",
-    "text": "Medidas de Salvaguarda",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Common Challenges",
-    "text": "Desafíos Comunes",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "This chat session should happen on the same day or day after you complete the in-person onboarding session. As the first chat session, it offers a chance for parents to introduce themselves to the group.",
-    "text": "Esta sesión de reflexión debe llevarse a cabo el mismo día o al día siguiente de completar la sesión presencial de integración. Como será  el primer mensaje clave que envíes, las personas participantes tendrán la oportunidad de presentarse ante el grupo.",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "**Before conducting the chat sessions, make sure you:** \n\nCreate a WhatsApp Group during the onboarding session. \nIdentify the ground rules for the WhatsApp Group\n\nMake sure all participants are already in the WhatsApp group and know the session time.\n\n**Structure for the chat sessions**: \n\nDay  1 (immediately after the onboarding session): Welcome, introductions, and reminder of home practice. \n\nDay 3: Self-talk: WhatsApp Chat session on self-talk and stress\n\nDay 5: Saying Goodbye\n\n**When to send the messages** \n\nYou and your group will decide a time to chat during the onboarding session. \n\nEach chat session has a reminder message (Message 1) that you should send a few hours before the chat session. \n\nSend the remaining messages during the scheduled chat time.",
-    "text": "**Antes de llevar a cabo las sesiones de reflexión, asegúrate de:** \n\n☀️Crear un Grupo de WhatsApp durante la sesión de integración. \nIdentificar las reglas generales para Grupo de WhatsApp\n\n🌱Asegurarte de que todas las personas participantes forman parte del grupo de WhatsApp y conocen los horarios para la sesión.\n\n**Estructura de las sesiones de chat**: \n\nDía 1: (inmediatamente después de la sesión de integración): Bienvenida, presentaciones y un recordatorio de los ejercicios para la casa.  \n\nSesión de Reflexión Semana 1: Pensamientos, Emociones y Acciones\n\nSesión de Reflexión Semana 2: Diálogo Interno\n\nSesión de Reflexión Semana 3: Fortalezas Personales\n\nSesión de Reflexión Semana 4: Desarrollar Emociones Agradabl\n\n**Cuándo enviar los mensajes** \n\n💚Tu grupo y tú decidirán una hora para chatear durante la sesión de integración.\n\nCada sesión de reflexión tiene un mensaje recordatorio (Mensaje clave) que debes enviar unas horas antes de la sesión de chat. \n\nManda los demás mensajes durante la hora programada para la sesión.\n",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "This is your final chat session with the group. You should congratulate yourself for taking the parents through the @global.programme_name journey and celebrate with them the positive changes in their lives and for their girls, boys, and teens.\n\nYou can choose to stay or leave the WhatsApp Group after the program ends.",
-    "text": "Esta es tu última sesión de reflexión con el grupo. Deberías felicitarte por haber guiado a las madres, los padres y las personas cuidadoras en la aventura de @global.programme_name. Celebren los cambios positivos en sus vidas y en las de sus niñas, niños y adolescentes.💚\n\nPuedes optar por quedarte o abandonar el Grupo de WhatsApp una vez terminado el programa.",
-    "type": "data_list",
-    "note": "The string @global.programme_name should not be translated."
-  },
-  {
-    "SourceText": "On the morning of your chat session, send the following message as a reminder:",
-    "text": "La mañana de tu sesión de reflexión correspondiente, envía el siguiente mensaje como recordatorio:",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "This chat session will help parents understand the connection between thoughts, feelings, and actions. \nThe goal is for caregivers to identify how emotions, feelings, and actions impact their and their girls’, boys’, and teen’s well-being.",
-    "text": "Esta sesión de chat ayudará a las madres, los padres y las personas cuidadoras a comprender la conexión entre los pensamientos, las emociones y las acciones. 💚\nEl objetivo es que las madres, los padres y las personas cuidadoras identifiquen cómo los pensamientos, las emociones y las acciones impactan en su bienestar y en el de sus niñas, niños y adolescentes.",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "In this chat, caregivers will learn how the way they talk to themselves can change how they feel. \n\nThey will also practise identifying unkind self-talk and replacing it with kind self-talk.",
-    "text": "En esta sesión, las madres, los padres y las personas cuidadoras aprenderán cómo es que la forma en que se hablan a ellas y ellos mismos puede cambiar cómo se sienten. 💚\n\nTambién practicarán la identificación del diálogo interno desagradable y su sustitución por el diálogo interno amable.",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "This chat session will help caregivers understand how to identify strengths in themselves. They will learn about the connection between strengths and well-being and practice identifying how to incorporate strengths into their daily lives.",
-    "text": "Esta sesión de reflexión ayudará a las madres, los padres y las personas cuidadoras a entender cómo identificar sus fortalezas. Aprenderán sobre la conexión entre sus fortalezas y el bienestar, y practicarán cómo incorporar dichas fortalezas en su vida cotidiana.💚",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "This is your final chat session with the group.You should congratulate yourself for taking the parents through the Crianza con Conciencia+ journey and celebrate with them the positive changes in their lives and for their girls, boys, and teens.\n\nIn this chat session, you will also help parents understand how they can use pleasant emotions to improve the well-being of themselves and their child or teen. \n\nYou can choose to stay or leave the WhatsApp Group after the program ends.",
-    "text": "Esta es tu última sesión de reflexión con tu grupo. Deberías felicitarte por haber guiado a las madres, los padres y las personas cuidadoras en este viaje llamado Crianza con Conciencia +. Celebra, con todo el grupo, el impacto y los cambios positivos en sus vidas y en las de sus niñas, niños y adolescentes.💚\n\nEn esta sesión de reflexión, les ayudarás a las madres, los padres y las personas cuidadoras a entender cómo pueden usar las emociones agradables para mejorar su bienestar y el de sus niñas, niños y adolescentes también.\n\nPuedes optar por quedarte o abandonar el Grupo de WhatsApp una vez terminado el programa.",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Parents play an important role in supporting children during a crisis. If tough times come for your community, consider sharing these 16 tips to help parents in their moment of need.",
-    "text": "Las personas cuidadoras desempeñan un papel importante a la hora de apoyar a sus niñas, niños y adolescentes durante una crisis. Si su comunidad atraviesa momentos difíciles, considere compartir estos 16 consejos para ayudarles en  momentos complejos.💚",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "After Onboarding Session",
-    "text": "Después de la Sesión de Integración al programa",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Day 3: Self-Talk",
-    "text": "Día 3: El Diálogo Interno",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Day 5: Final Chat Session",
-    "text": "Día 5: Sesión final de chat",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Before Your Chat Session",
-    "text": "Antes de tus Sesiones de Reflexión",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Optional Parenting Children in a Crisis",
-    "text": "Contenido Opcional: Crianza en Contextos de Crisis",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Partners",
-    "text": "Socios",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Overview of the Crianza con Conciencia+ Programme",
-    "text": "Descripción General del Programa Crianza con Conciencia+",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Programme Details",
-    "text": "Detalles del Programa",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "About you",
-    "text": "Sobre Ti",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "We will use this to personalise the messages for sharing with your @global.share_groups.",
-    "text": "Usaremos esto para personalizar los mensajes que vas a compartir con tu @global.share_groups.",
-    "type": "data_list",
-    "note": "The string @global.share_groups. should not be translated."
-  },
-  {
-    "SourceText": "Your Facilitator ID",
-    "text": "Tu identificación de Persona Facilitadora",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Here you can find your unique code. You may be asked to share this code with people who will support your @global.app_name journey.",
-    "text": "Aquí puedes encontrar tu código único. Es posible que te pidan que compartas este código con otras personas que te estarán apoyando durante tu travesía con @global.app_name.",
-    "type": "data_list",
-    "note": "The string @global.app_name should not be translated."
-  },
-  {
-    "SourceText": "Your Parent Group",
-    "text": "Tu Grupo de Madres, Padres y Personas Cuidadoras",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "See and edit the list of parents attending your groups.",
-    "text": "Consulta y edita la lista de participantes que asisten a tus grupos.",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Your Parent Groups",
-    "text": "Selecciona o crea un grupo",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "See and edit the lists of parents attending your groups.",
-    "text": "Consulta y edita las listas de participantes que asisten a tus grupos.",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Onboarding",
-    "text": "Integración",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Week 1: Thoughts, Feelings, and Actions",
-    "text": "Semana 1: Pensamientos, Emociones y Acciones",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Week 2: Self-Talk",
-    "text": "Semana 2: Diálogo Interno",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Week 3: Character Strengths",
-    "text": "Semana 3: Fortalezas Personales",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Week 4: Building Pleasant Emotions",
-    "text": "Semana 4: Desarrollar Emociones Agradables",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Optional Report: Parenting Children in Crisis",
-    "text": "Reporte Opcional:Crianza en Contextos de Crisis",
-    "type": "data_list",
-    "note": ""
-  },
-  {
     "SourceText": "Getting to know each other",
     "text": "Conociéndonos",
     "type": "data_list",
@@ -1284,26 +1260,86 @@
     "note": ""
   },
   {
-    "SourceText": "How many minutes did it take you to prepare for this session?",
-    "text": "¿Cuántos minutos tardaste en preparar la sesión?",
+    "SourceText": "About you",
+    "text": "Sobre Ti",
     "type": "data_list",
     "note": ""
   },
   {
-    "SourceText": "How many minutes did it take you to travel to the location where the session was delivered?",
-    "text": "¿Cuántos minutos tardaste en desplazarte al lugar donde se impartió la sesión?",
+    "SourceText": "We will use this to personalise the messages for sharing with your @global.share_groups.",
+    "text": "Usaremos esto para personalizar los mensajes que vas a compartir con tu @global.share_groups.",
+    "type": "data_list",
+    "note": "The string @global.share_groups. should not be translated."
+  },
+  {
+    "SourceText": "Your Facilitator ID",
+    "text": "Tu identificación de Persona Facilitadora",
     "type": "data_list",
     "note": ""
   },
   {
-    "SourceText": "How many minutes did it take you to deliver the sessions?",
-    "text": "¿Cuántos minutos tardaste en impartir la sesión?",
+    "SourceText": "Here you can find your unique code. You may be asked to share this code with people who will support your @global.app_name journey.",
+    "text": "Aquí puedes encontrar tu código único. Es posible que te pidan que compartas este código con otras personas que te estarán apoyando durante tu travesía con @global.app_name.",
+    "type": "data_list",
+    "note": "The string @global.app_name should not be translated."
+  },
+  {
+    "SourceText": "Your Parent Group",
+    "text": "Tu Grupo de Madres, Padres y Personas Cuidadoras",
     "type": "data_list",
     "note": ""
   },
   {
-    "SourceText": "Which of the parents in this group attended your in-person session?",
-    "text": "¿Quiénes asistieron a la sesión presencial de integración?",
+    "SourceText": "See and edit the list of parents attending your groups.",
+    "text": "Consulta y edita la lista de participantes que asisten a tus grupos.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Your Parent Groups",
+    "text": "Selecciona o crea un grupo",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "See and edit the lists of parents attending your groups.",
+    "text": "Consulta y edita las listas de participantes que asisten a tus grupos.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "SNDIF Capacitación Nacional",
+    "text": "SNDIF Capacitación Nacional",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "CC+ Baja California",
+    "text": "CC+ Baja California",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "CA Chihuahua",
+    "text": "CA Chihuahua",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "CC+ Ciudad de México",
+    "text": "CC+ Ciudad de México",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "CC+ Michoacan",
+    "text": "CC+ Michoacán",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "CC+ Guerrero",
+    "text": "CC+ Guerrero",
     "type": "data_list",
     "note": ""
   },
@@ -1950,6 +1986,18 @@
     "note": "The string @global.programme_name should not be translated."
   },
   {
+    "SourceText": "Overview Guide",
+    "text": "Guía General",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Know more about the programme",
+    "text": "Más información sobre el programa",
+    "type": "data_list",
+    "note": ""
+  },
+  {
     "SourceText": "Welcome",
     "text": "Te damos la bienvenida",
     "type": "data_list",
@@ -2016,18 +2064,6 @@
     "note": ""
   },
   {
-    "SourceText": "Overview Guide",
-    "text": "Guía General",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Know more about the programme",
-    "text": "Más información sobre el programa",
-    "type": "data_list",
-    "note": ""
-  },
-  {
     "SourceText": "Guide for In-Person Onboarding",
     "text": "Guía para la Sesión de Integración",
     "type": "data_list",
@@ -2038,6 +2074,12 @@
     "text": "La Sesión de Integración sienta las bases para el programa de @global.programme_name. Es importante crear un espacio empático, acogedor y seguro para que las personas participantes se sientan a gusto y se familiaricen con el programa.",
     "type": "data_list",
     "note": "The string @global.programme_name should not be translated."
+  },
+  {
+    "SourceText": "Onboarding Guide",
+    "text": "Guía para la Sesión de Integración",
+    "type": "data_list",
+    "note": ""
   },
   {
     "SourceText": "Trigger Words",
@@ -2066,12 +2108,6 @@
   {
     "SourceText": "Type ID in the chatbot",
     "text": "Escribe ID en el chat",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Onboarding Guide",
-    "text": "Guía para la Sesión de Integración",
     "type": "data_list",
     "note": ""
   },
@@ -2461,25 +2497,25 @@
   },
   {
     "SourceText": "Praising your girl, boy, or teen",
-    "text": "Reconocer y halagar a tu niña, niño o adolescente",
+    "text": "Reconocer a tu niña, niño o adolescente",
     "type": "data_list",
     "note": ""
   },
   {
     "SourceText": "It is normal for caregivers to feel uncomfortable or have challenges when praising their boys, girls, and teens. They may at first think that praise will either inflate their girls, boys, or teens or is not part of what they were taught. \n\nIt is important to remember that there are many different ways to praise boys, girls, and teens. @global.programme_name focuses mainly on praise as a method to reinforce positive behaviour. We praise the behaviour more than just the girl, boy, or teen! With practice it will become easier and more comfortable.\n\nHere are some common challenges and possible solutions for praising your girl, boy, or teen. \n\nYou can share the following messages as responses during your weekly chat when parents share challenges with this topic.",
-    "text": "Es normal que a las madres, los padres y las personas cuidadoras les incomode o les resulte difícil halagar a sus niñas, niños y adolescentes. Al principio, puede que piensen que el halago no es parte de su rutina o que, simplemente, no es algo que sepan hacer. \n\nEs importante recordar que hay muchas formas distintas de reconocer y halagar a las niñas, niños y adolescentes. @global.programme_name se centra principalmente en el halago como método para reforzar el comportamiento positivo. Lo que se reconoce y se halaga es el comportamiento más que a la niña, el niño o el adolescente. Con el tiempo y la práctica, se hará más fácil y se sentirán bien haciéndolo.\n\nAquí tienes algunos desafíos comunes y posibles soluciones para halagar a tu niña, niño o adolescente. \n\rPuedes compartir los siguientes mensajes como respuestas durante tu sesión de chat semanal cuando las madres, los padres o las personas cuidadoras compartan sus retos con este tema.",
+    "text": "Es normal que a las madres, los padres y las personas cuidadoras les incomode o les resulte difícil reconocer a sus niñas, niños y adolescentes. Al principio, puede que piensen que el halago no es parte de su rutina o que, simplemente, no es algo que sepan hacer. \n\nEs importante recordar que hay muchas formas distintas de reconocer a las niñas, niños y adolescentes. @global.programme_name se centra principalmente en el halago como método para reforzar el comportamiento positivo. Lo que se reconoce y se halaga es el comportamiento más que a la niña, el niño o el adolescente. Con el tiempo y la práctica, se hará más fácil y se sentirán bien haciéndolo.\n\nAquí tienes algunos desafíos comunes y posibles soluciones para reconocer a tu niña, niño o adolescente. \n\rPuedes compartir los siguientes mensajes como respuestas durante tu sesión de chat semanal cuando las madres, los padres o las personas cuidadoras compartan sus retos con este tema.",
     "type": "data_list",
     "note": "The string @global.programme_name should not be translated."
   },
   {
     "SourceText": "I forgot to praise my boy, girl, or teen.",
-    "text": "Olvidé halagar a mi niña, niño o  adolescente.",
+    "text": "Olvidé reconocer a mi niña, niño o  adolescente.",
     "type": "data_list",
     "note": ""
   },
   {
     "SourceText": "💚It can be difficult to juggle all the different things we need to do. \n\n🌱Next time you spend one-on-one time, try and think of one thing you can praise them for. \n\n☀️You can even say, “Thank you for spending time with me!”",
-    "text": "💚 Puede ser difícil malabarear todas las cosas que tenemos que hacer. \n\n🌱La próxima vez que pases Tiempo Uno a Uno, intenten identificar alguna cosa pequeña que tu niña, niño o adolescente haya hecho bien y que puedas halagar. \n\n☀️Incluso le puedes decir: \"¡Gracias por pasar tiempo conmigo!\"",
+    "text": "💚 Puede ser difícil malabarear todas las cosas que tenemos que hacer. \n\n🌱La próxima vez que pases Tiempo Uno a Uno, intenten identificar alguna cosa pequeña que tu niña, niño o adolescente haya hecho bien y que puedas reconocer. \n\n☀️Incluso le puedes decir: \"¡Gracias por pasar tiempo conmigo!\"",
     "type": "data_list",
     "note": ""
   },
@@ -2497,13 +2533,13 @@
   },
   {
     "SourceText": "I can’t think of anything to praise my girl, boy, or teen.",
-    "text": "No se me ocurre nada que pueda halagarle a mi niña, niño o adolescente.",
+    "text": "No se me ocurre nada que pueda reconocerle a mi niña, niño o adolescente.",
     "type": "data_list",
     "note": ""
   },
   {
     "SourceText": "🔔Start small! You don’t have to select anything big to praise. \n\n💡Find a simple behaviour that your girl, boy, or teen does that you are happy about and tell them. Even something that they already do. \n\n♥️ It will make a difference!",
-    "text": "🔔 ¡Empieza poco a poco! No tienes que escoger algo grande para poder halagar. \n\n💡Encuentra un comportamiento sencillo (Por ejemplo: saludar, usar un tono de voz bajo, caminar cerca del adulto, escuchar) que tu niña, niño o adolescente haga. También pueden ser cosas de las que sientas orgullo, felicidad o incluso algo que ya hagan con regularidad. ¡Identifícalo y comunícaselo! \n\n♥️ ¡Hará la diferencia!",
+    "text": "🔔 ¡Empieza poco a poco! No tienes que escoger algo grande para poder reconocer. \n\n💡Encuentra un comportamiento sencillo (Por ejemplo: saludar, usar un tono de voz bajo, caminar cerca del adulto, escuchar) que tu niña, niño o adolescente haga. También pueden ser cosas de las que sientas orgullo, felicidad o incluso algo que ya hagan con regularidad. ¡Identifícalo y comunícaselo! \n\n♥️ ¡Hará la diferencia!",
     "type": "data_list",
     "note": ""
   },
@@ -2779,7 +2815,7 @@
   },
   {
     "SourceText": "🌱 Next time, try to catch the misbehaviour early on, before it sets in or gets worse.\n\n👂 Talk to them about this behaviour when both of you feel calmer.\n\n⭐ Remember to praise your girl or boy when they behave well.",
-    "text": "🌱 La próxima vez, intenta detectar el comportamiento que no quieres que se repita desde un principio, antes de que se arraigue o empeore.\n\n👂 Habla con tu niña o niño de ese comportamiento cuando la situación se haya tranquilizado y todas las personas involucradas estén más calmadas.\n\n⭐ Acuérdate de halagar a tu niña o niño cuando se porte bien.",
+    "text": "🌱 La próxima vez, intenta detectar el comportamiento que no quieres que se repita desde un principio, antes de que se arraigue o empeore.\n\n👂 Habla con tu niña o niño de ese comportamiento cuando la situación se haya tranquilizado y todas las personas involucradas estén más calmadas.\n\n⭐ Acuérdate de reconocer a tu niña o niño cuando se porte bien.",
     "type": "data_list",
     "note": ""
   },
@@ -2904,46 +2940,40 @@
     "note": ""
   },
   {
-    "SourceText": "SNDIF Capacitación Nacional",
-    "text": "SNDIF Capacitación Nacional",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "CC+ Baja California",
-    "text": "CC+ Baja California",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "CA Chihuahua",
-    "text": "CA Chihuahua",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "CC+ Ciudad de México",
-    "text": "CC+ Ciudad de México",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "CC+ Michoacan",
-    "text": "CC+ Michoacán",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "CC+ Guerrero",
-    "text": "CC+ Guerrero",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Share",
-    "text": "Compartir",
+    "SourceText": "Language",
+    "text": "Idioma",
     "type": "global",
     "note": ""
+  },
+  {
+    "SourceText": "Your Content Package",
+    "text": "Tu Paquete de Contenidos",
+    "type": "global",
+    "note": ""
+  },
+  {
+    "SourceText": "parent groups",
+    "text": "grupos de madres, padres y personas cuidadoras",
+    "type": "global",
+    "note": ""
+  },
+  {
+    "SourceText": "Tap and type",
+    "text": "Toca y escribe",
+    "type": "global",
+    "note": ""
+  },
+  {
+    "SourceText": "Tap and select",
+    "text": "Toca y selecciona",
+    "type": "global",
+    "note": ""
+  },
+  {
+    "SourceText": "About @global.app_name",
+    "text": "Acerca de @global.app_name",
+    "type": "global",
+    "note": "The string @global.app_name should not be translated."
   },
   {
     "SourceText": "WhatsApp",
@@ -2976,8 +3006,8 @@
     "note": ""
   },
   {
-    "SourceText": "No Parent Groups Found. Click on ➕ to add a parent group.",
-    "text": "No se encontraron grupos. Haz clic en ➕ para agregar un grupo.",
+    "SourceText": "Chat Sessions will load after you select a parent group",
+    "text": "Las sesiones de reflexión se mostrarán después de que selecciones un grupo",
     "type": "global",
     "note": ""
   },
@@ -3054,6 +3084,12 @@
     "note": ""
   },
   {
+    "SourceText": "Share",
+    "text": "Compartir",
+    "type": "global",
+    "note": ""
+  },
+  {
     "SourceText": "Sign in",
     "text": "Ingresar",
     "type": "global",
@@ -3061,7 +3097,7 @@
   },
   {
     "SourceText": "Sign in with Google",
-    "text": "Acceder con Google",
+    "text": "Acceder con una cuenta de Google",
     "type": "global",
     "note": ""
   },
@@ -3138,42 +3174,6 @@
     "note": ""
   },
   {
-    "SourceText": "Language",
-    "text": "Idioma",
-    "type": "global",
-    "note": ""
-  },
-  {
-    "SourceText": "Your Content Package",
-    "text": "Tu Paquete de Contenidos",
-    "type": "global",
-    "note": ""
-  },
-  {
-    "SourceText": "parent groups",
-    "text": "grupos de madres, padres y personas cuidadoras",
-    "type": "global",
-    "note": ""
-  },
-  {
-    "SourceText": "Tap and type",
-    "text": "Toca y escribe",
-    "type": "global",
-    "note": ""
-  },
-  {
-    "SourceText": "Tap and select",
-    "text": "Toca y selecciona",
-    "type": "global",
-    "note": ""
-  },
-  {
-    "SourceText": "About @global.app_name",
-    "text": "Acerca de @global.app_name",
-    "type": "global",
-    "note": "The string @global.app_name should not be translated."
-  },
-  {
     "SourceText": "Your name",
     "text": "Tu nombre",
     "type": "global",
@@ -3210,120 +3210,6 @@
     "note": ""
   },
   {
-    "SourceText": "Save Profile",
-    "text": "Guardar perfil",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "Save and Add New",
-    "text": "Guardar y agregar nueva persona cuidadora",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "New Parent Group",
-    "text": "Nuevo grupo",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "Developer mode",
-    "text": "Opciones de desarrollador",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "Exit developer mode",
-    "text": "Salir de opciones de desarrollador",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "Open feedback",
-    "text": "Abrir retroalimentación",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "Close feedback",
-    "text": "Cerrar retroalimentación",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "Templates",
-    "text": "Plantillas",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "Themes",
-    "text": "Temas",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "Reset app",
-    "text": "Restablecer aplicación",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "@global.app_name has downloaded an update. Please restart the app to finish installation.",
-    "text": "@global.app_name ha descargado una actualización. Reinicia la aplicación para finalizar la instalación.",
-    "type": "template",
-    "note": "The string @global.app_name should not be translated."
-  },
-  {
-    "SourceText": "Restart",
-    "text": "Reiniciar",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "Are you sure you want to archive @fields.current_group_name?",
-    "text": "¿Estás seguro de que quieres archivar el grupo @fields.current_group_name?",
-    "type": "template",
-    "note": "The string @fields.current_group_name should not be translated."
-  },
-  {
-    "SourceText": "This will archive all of @fields.current_group_name group data.",
-    "text": "Esto archivará todos los datos del grupo de @fields.current_group_name.",
-    "type": "template",
-    "note": "The string @fields.current_group_name should not be translated."
-  },
-  {
-    "SourceText": "Archive",
-    "text": "Archivo",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "Are you sure you want to delete @fields.current_group_name?",
-    "text": "¿Quieres eliminar al grupo @fields.current_group_name? Esto borrará toda su información y no se podrá deshacer",
-    "type": "template",
-    "note": "The string @fields.current_group_name should not be translated."
-  },
-  {
-    "SourceText": "This will delete all of @fields.current_group_name group data. The action cannot be undone.",
-    "text": "Esto eliminará todos los datos del grupo de @fields.current_group_name . La acción no se podrá deshacer.",
-    "type": "template",
-    "note": "The string @fields.current_group_name should not be translated."
-  },
-  {
-    "SourceText": "Are you sure you want to delete @fields.current_parent_name?",
-    "text": "¿Quieres eliminar a @fields.current_parent_name? Esto borrará toda su información y no se podrá deshacer",
-    "type": "template",
-    "note": "The string @fields.current_parent_name should not be translated."
-  },
-  {
-    "SourceText": "This will delete all of @fields.current_parent_name parent data. The action cannot be undone.",
-    "text": "Esto borrará todos los datos de la persona cuidadora @fields.current_parent_name. La acción no se podrá deshacer.",
-    "type": "template",
-    "note": "The string @fields.current_parent_name should not be translated."
-  },
-  {
     "SourceText": "Are you sure you want to delete this report?",
     "text": "¿Estás seguro de que quieres borrar este reporte?",
     "type": "template",
@@ -3336,110 +3222,8 @@
     "note": ""
   },
   {
-    "SourceText": "Cancel",
-    "text": "No",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "Delete",
-    "text": "Sí",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "How many minutes did it take you to prepare for this session?",
-    "text": "¿Cuántos minutos tardaste en preparar la sesión?",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "How many minutes did it take you to travel to the location where the session was delivered?",
-    "text": "¿Cuántos minutos tardaste en desplazarte al lugar donde se impartió la sesión?",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "How many minutes did it take you to deliver the sessions?",
-    "text": "¿Cuántos minutos tardaste en impartir la sesión?",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "Please check all the activities you completed during this session:",
-    "text": "Selecciona todas las actividades que hayas completado durante esta sesión:",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "First Name",
-    "text": "Nombre",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "Last Name",
-    "text": "Apellidos",
-    "type": "template",
-    "note": ""
-  },
-  {
     "SourceText": "Edit Parent Group",
     "text": "Nuevo grupo",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "Group Name",
-    "text": "Nombre del grupo",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "Very Poorly",
-    "text": "Muy Mal",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "Which of the parents in this group attended your in-person session?",
-    "text": "¿Quiénes fueron las y los miembros de tu grupo que asistieron a la sesión presencial de integración?",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "Submit",
-    "text": "Enviar",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "Enter developer mode",
-    "text": "Abrir con opciones de desarrollador",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "To launch the app in developer mode, enter your developer code in the box below and press @local.submit.",
-    "text": "Para abrir la aplicación con opciones de desarrollador, ingresa tu código de desarrollador en el espacio de abajo y presiona @local.submit.",
-    "type": "template",
-    "note": "The string @local.submit should not be translated."
-  },
-  {
-    "SourceText": "You have successfully entered developer mode.",
-    "text": "Has abierto la aplicación con opciones de desarrollador de manera exitosa.",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "You have entered an incorrect code.",
-    "text": "Has ingresado un código incorrecto.",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "Import user",
-    "text": "Importar usuario",
     "type": "template",
     "note": ""
   },
@@ -3486,38 +3270,32 @@
     "note": ""
   },
   {
-    "SourceText": "Library",
-    "text": "Biblioteca",
+    "SourceText": "New Parent Group",
+    "text": "Nuevo grupo",
     "type": "template",
     "note": ""
   },
   {
-    "SourceText": "Choose which content you want to see.",
-    "text": "Escoge qué contenido quieres ver.",
+    "SourceText": "Group Name",
+    "text": "Nombre del grupo",
     "type": "template",
     "note": ""
   },
   {
-    "SourceText": "Continue",
-    "text": "Continúa",
+    "SourceText": "Are you sure you want to delete @fields.current_parent_name?",
+    "text": "¿Quieres eliminar a @fields.current_parent_name? Esto borrará toda su información y no se podrá deshacer",
     "type": "template",
-    "note": ""
+    "note": "The string @fields.current_parent_name should not be translated."
   },
   {
-    "SourceText": "test",
-    "text": "prueba",
+    "SourceText": "This will delete all of @fields.current_parent_name parent data. The action cannot be undone.",
+    "text": "Esto borrará todos los datos de la persona cuidadora @fields.current_parent_name. La acción no se podrá deshacer.",
     "type": "template",
-    "note": ""
+    "note": "The string @fields.current_parent_name should not be translated."
   },
   {
     "SourceText": "Add Parent to Group",
     "text": "Agregar persona cuidadora\n",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "parents",
-    "text": "madre, padre o persona cuidadora",
     "type": "template",
     "note": ""
   },
@@ -3546,32 +3324,200 @@
     "note": ""
   },
   {
-    "SourceText": "ParentText ID",
-    "text": "Número de registro(ID)",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "Make sure that the ParentText ID consists of 6 numerical characters.",
-    "text": "Asegúrate de que el número de Identificación del Programa Crianza con Conciencia + (CC+) conste de 6 caracteres numéricos.",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "This ParentText ID has already been assigned to another parent.",
-    "text": "Este número de Identificación del Programa Crianza con Conciencia + (CC+) ya ha sido asignado a otra madre, padre o persona cuidadora.",
-    "type": "template",
-    "note": ""
-  },
-  {
     "SourceText": "Co-parenting with",
     "text": "Agregar persona con quien comparte la crianza",
     "type": "template",
     "note": ""
   },
   {
-    "SourceText": "pdf",
-    "text": "pdf",
+    "SourceText": "Syncing...",
+    "text": "Sincronizando...",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Copy code",
+    "text": "Copiar código",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Copied!",
+    "text": "¡Copiado!",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Last sync at: @local.sync_latest",
+    "text": "Última sincronización: @local.sync_latest",
+    "type": "template",
+    "note": "The string @local.sync_latest should not be translated."
+  },
+  {
+    "SourceText": "This device has never been synced. Sync to reveal your code.",
+    "text": "Este dispositivo nunca se ha sincronizado. Sincronízalo para revelar tu código.",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Sync now",
+    "text": "Sincronizar ahora",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "minutes",
+    "text": "minutos",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "**Which of the parents in your group participated?**\n*Participation is defined as any parent who posts a comment, question, reply or reaction (such as a thumbs up) within the chat since you shared the first message from the weekly discussion.*",
+    "text": "**¿Quiénes fueron las madres, padres y personas cuidadoras de tu grupo que participaron?**\n*La Participación se entiende como cualquier miembro del grupo que publique un comentario, pregunta, respuesta o reacción (como un pulgar hacia arriba) dentro del chat desde que compartiste el primer mensaje para la conversación semanal.*",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Parent",
+    "text": "Madre, Padre o Persona Cuidadora",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Very poorly",
+    "text": "Muy Mal",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Your Reports",
+    "text": "Tus Reportes",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Parent Group",
+    "text": "Grupo de madres, padres y personas cuidadoras",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Save Profile",
+    "text": "Guardar perfil",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Save and Add New",
+    "text": "Guardar y agregar nueva persona cuidadora",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "@global.app_name has downloaded an update. Please restart the app to finish installation.",
+    "text": "@global.app_name ha descargado una actualización. Reinicia la aplicación para finalizar la instalación.",
+    "type": "template",
+    "note": "The string @global.app_name should not be translated."
+  },
+  {
+    "SourceText": "Restart",
+    "text": "Reiniciar",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Are you sure you want to archive @fields.current_group_name?",
+    "text": "¿Estás seguro de que quieres archivar el grupo @fields.current_group_name?",
+    "type": "template",
+    "note": "The string @fields.current_group_name should not be translated."
+  },
+  {
+    "SourceText": "This will archive all of @fields.current_group_name group data.",
+    "text": "Esto archivará todos los datos del grupo de @fields.current_group_name.",
+    "type": "template",
+    "note": "The string @fields.current_group_name should not be translated."
+  },
+  {
+    "SourceText": "Archive",
+    "text": "Archivo",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Submit",
+    "text": "Enviar",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Enter developer mode",
+    "text": "Abrir con opciones de desarrollador",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "To launch the app in developer mode, enter your developer code in the box below and press @local.submit.",
+    "text": "Para abrir la aplicación con opciones de desarrollador, ingresa tu código de desarrollador en el espacio de abajo y presiona @local.submit.",
+    "type": "template",
+    "note": "The string @local.submit should not be translated."
+  },
+  {
+    "SourceText": "You have successfully entered developer mode.",
+    "text": "Has abierto la aplicación con opciones de desarrollador de manera exitosa.",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "You have entered an incorrect code.",
+    "text": "Has ingresado un código incorrecto.",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Are you sure you want to delete @fields.current_group_name?",
+    "text": "¿Quieres eliminar al grupo @fields.current_group_name? Esto borrará toda su información y no se podrá deshacer",
+    "type": "template",
+    "note": "The string @fields.current_group_name should not be translated."
+  },
+  {
+    "SourceText": "This will delete all of @fields.current_group_name group data. The action cannot be undone.",
+    "text": "Esto eliminará todos los datos del grupo de @fields.current_group_name . La acción no se podrá deshacer.",
+    "type": "template",
+    "note": "The string @fields.current_group_name should not be translated."
+  },
+  {
+    "SourceText": "Cancel",
+    "text": "No",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Delete",
+    "text": "Sí",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "How many minutes did it take you to prepare for this session?",
+    "text": "¿Cuántos minutos tardaste en preparar la sesión?",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "How many minutes did it take you to travel to the location where the session was delivered?",
+    "text": "¿Cuántos minutos tardaste en desplazarte al lugar donde se impartió la sesión?",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "How many minutes did it take you to deliver the sessions?",
+    "text": "¿Cuántos minutos tardaste en impartir la sesión?",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Please check all the activities you completed during this session:",
+    "text": "Selecciona todas las actividades que hayas completado durante esta sesión:",
     "type": "template",
     "note": ""
   },
@@ -3618,62 +3564,20 @@
     "note": ""
   },
   {
-    "SourceText": "Save",
-    "text": "Guardar",
+    "SourceText": "Choose which content you want to see.",
+    "text": "Escoge qué contenido quieres ver.",
     "type": "template",
     "note": ""
   },
   {
-    "SourceText": "Syncing...",
-    "text": "Sincronizando...",
+    "SourceText": "Library",
+    "text": "Biblioteca",
     "type": "template",
     "note": ""
   },
   {
-    "SourceText": "Copy code",
-    "text": "Copiar código",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "Copied!",
-    "text": "¡Copiado!",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "Last sync at: @local.sync_latest",
-    "text": "Última sincronización: @local.sync_latest",
-    "type": "template",
-    "note": "The string @local.sync_latest should not be translated."
-  },
-  {
-    "SourceText": "This device has never been synced. Sync to reveal your code.",
-    "text": "Este dispositivo nunca se ha sincronizado. Sincronízalo para revelar tu código.",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "Sync now",
-    "text": "Sincronizar ahora",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "Your Reports",
-    "text": "Tus Reportes",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "Parent Group",
-    "text": "Grupo de madres, padres y personas cuidadoras",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "minutes",
-    "text": "minutos",
+    "SourceText": "Continue",
+    "text": "Continúa",
     "type": "template",
     "note": ""
   },
@@ -3682,18 +3586,6 @@
     "text": "¿Cuántos minutos de la semana pasada dedicaste a moderar en WhatsApp tu grupo de madres, padres y personas cuidadoras?",
     "type": "template",
     "note": "The string @global.share_medium should not be translated."
-  },
-  {
-    "SourceText": "**Which of the parents in your group participated?**\n*Participation is defined as any parent who posts a comment, question, reply or reaction (such as a thumbs up) within the chat since you shared the first message from the weekly discussion.*",
-    "text": "**¿Quiénes fueron las madres, padres y personas cuidadoras de tu grupo que participaron?**\n*La Participación se entiende como cualquier miembro del grupo que publique un comentario, pregunta, respuesta o reacción (como un pulgar hacia arriba) dentro del chat desde que compartiste el primer mensaje para la conversación semanal.*",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "Parent",
-    "text": "Madre, Padre o Persona Cuidadora",
-    "type": "template",
-    "note": ""
   },
   {
     "SourceText": "I was able to send...",
@@ -3750,14 +3642,116 @@
     "note": ""
   },
   {
-    "SourceText": "Very poorly",
+    "SourceText": "Very Poorly",
     "text": "Muy Mal",
     "type": "template",
     "note": ""
   },
   {
-    "SourceText": "Create New Group",
-    "text": "Crea un nuevo grupo",
+    "SourceText": "Which of the parents in this group attended your in-person session?",
+    "text": "¿Quiénes fueron las y los miembros de tu grupo que asistieron a la sesión presencial de integración?",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "parents",
+    "text": "madre, padre o persona cuidadora",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "test",
+    "text": "prueba",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "pdf",
+    "text": "pdf",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "First Name",
+    "text": "Nombre",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Last Name",
+    "text": "Apellidos",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "ParentText ID",
+    "text": "Número de registro(ID)",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Make sure that the ParentText ID consists of 6 numerical characters.",
+    "text": "Asegúrate de que el número de Identificación del Programa Crianza con Conciencia + (CC+) conste de 6 caracteres numéricos.",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "This ParentText ID has already been assigned to another parent.",
+    "text": "Este número de Identificación del Programa Crianza con Conciencia + (CC+) ya ha sido asignado a otra madre, padre o persona cuidadora.",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Save",
+    "text": "Guardar",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Developer mode",
+    "text": "Opciones de desarrollador",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Exit developer mode",
+    "text": "Salir de opciones de desarrollador",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Open feedback",
+    "text": "Abrir retroalimentación",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Close feedback",
+    "text": "Cerrar retroalimentación",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Templates",
+    "text": "Plantillas",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Themes",
+    "text": "Temas",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Import user",
+    "text": "Importar usuario",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Reset app",
+    "text": "Restablecer aplicación",
     "type": "template",
     "note": ""
   }

@@ -111,6 +111,9 @@
           "_cleaned": "click | go_to: library_article_@local.article_id"
         }
       ],
+      "style_list": [
+        "padding-bottom: 10px"
+      ],
       "exclude_from_translation": true,
       "name": "button_8",
       "_nested_name": "button_8",
@@ -164,7 +167,17 @@
           "action_list.0._cleaned"
         ]
       }
+    },
+    {
+      "value": "",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "name": "set_variable_9",
+      "_nested_name": "set_variable_9"
     }
   ],
-  "_xlsxPath": "templates/article_elements.xlsx"
+  "_xlsxPath": "templates/article_elements.xlsx",
+  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1Jo1-q7KOE4gC2XRKEMcU9bXnrwB5oCRC"
 }
