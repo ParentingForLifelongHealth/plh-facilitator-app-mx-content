@@ -239,6 +239,7 @@
         {
           "type": "items",
           "value": "@data.modules",
+          "exclude_from_translation": true,
           "rows": [
             {
               "name": "packages",
@@ -582,5 +583,6 @@
       }
     }
   ],
-  "_xlsxPath": "templates/reports.xlsx"
+  "_xlsxPath": "templates/reports.xlsx",
+  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1Jo1-q7KOE4gC2XRKEMcU9bXnrwB5oCRC"
 }

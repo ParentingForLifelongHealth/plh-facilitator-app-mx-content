@@ -64,7 +64,8 @@
         "study_dif_chih",
         "study_dif_cdmx",
         "study_dif_mich",
-        "cc_guer"
+        "cc_guer",
+        "demo"
       ],
       "image_asset": "images/day_3_check_in.svg",
       "title": "Before Your Chat Session",
@@ -86,8 +87,8 @@
         "study_dif_chih",
         "study_dif_cdmx",
         "study_dif_mich",
-        "scale_dif_guer",
-        "cc_guer"
+        "cc_guer",
+        "demo"
       ],
       "image_asset": "images/day_3_mh_stress_self_talk.svg",
       "report_id": "week_1",
@@ -110,7 +111,8 @@
         "study_dif_chih",
         "study_dif_cdmx",
         "study_dif_mich",
-        "cc_guer"
+        "cc_guer",
+        "demo"
       ],
       "image_asset": "images/day_4_check_in.svg",
       "report_id": "week_2",
@@ -133,7 +135,8 @@
         "study_dif_chih",
         "study_dif_cdmx",
         "study_dif_mich",
-        "cc_guer"
+        "cc_guer",
+        "demo"
       ],
       "image_asset": "images/one_on_one_challenges.svg",
       "report_id": "week_3",
@@ -156,7 +159,8 @@
         "study_dif_chih",
         "study_dif_cdmx",
         "study_dif_mich",
-        "cc_guer"
+        "cc_guer",
+        "demo"
       ],
       "image_asset": "images/onboarding_cc.svg",
       "report_id": "week_4",
@@ -189,5 +193,6 @@
       }
     }
   ],
-  "_xlsxPath": "data/modules_sub_items_mx.xlsx"
+  "_xlsxPath": "data/modules_sub_items_mx.xlsx",
+  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1rFg8qsmb3xSOXw_9Iwxk8RgSmyjqiao9"
 }

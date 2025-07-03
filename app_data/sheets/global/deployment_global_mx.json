@@ -130,7 +130,9 @@
       "name": "sessions_no_groups",
       "value": "Chat Sessions will load after you select a parent group",
       "_translations": {
-        "value": {}
+        "value": {
+          "mx_es": true
+        }
       }
     },
     {
@@ -281,7 +283,9 @@
       "name": "choose_role",
       "value": "Choose your role:",
       "_translations": {
-        "value": {}
+        "value": {
+          "mx_es": true
+        }
       }
     }
   ],

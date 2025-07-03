@@ -51,10 +51,10 @@
           "trigger": "uncompleted",
           "action_id": "go_to",
           "args": [
-            "settings"
+            "profile"
           ],
-          "_raw": "uncompleted | go_to: settings",
-          "_cleaned": "uncompleted | go_to: settings"
+          "_raw": "uncompleted | go_to: profile",
+          "_cleaned": "uncompleted | go_to: profile"
         }
       ],
       "rows": [
@@ -162,6 +162,63 @@
           "_dynamicDependencies": {
             "@global.create_account_question": [
               "value"
+            ]
+          }
+        },
+        {
+          "type": "apple_sign_in_button",
+          "name": "button_apple_sign_in",
+          "value": "@global.login_apple",
+          "_translations": {
+            "value": {}
+          },
+          "action_list": [
+            {
+              "trigger": "click",
+              "action_id": "emit",
+              "args": [
+                "force_reprocess"
+              ],
+              "_raw": "click | emit: force_reprocess",
+              "_cleaned": "click | emit: force_reprocess"
+            },
+            {
+              "trigger": "click",
+              "action_id": "set_local",
+              "args": [
+                "just_logged_in",
+                true
+              ],
+              "_raw": "click | set_local: just_logged_in: true",
+              "_cleaned": "click | set_local: just_logged_in: true"
+            }
+          ],
+          "condition": "@fields._platform === \"ios\"",
+          "_nested_name": "login.button_apple_sign_in",
+          "_dynamicFields": {
+            "value": [
+              {
+                "fullExpression": "@global.login_apple",
+                "matchedExpression": "@global.login_apple",
+                "type": "global",
+                "fieldName": "login_apple"
+              }
+            ],
+            "condition": [
+              {
+                "fullExpression": "@fields._platform === \"ios\"",
+                "matchedExpression": "@fields._platform",
+                "type": "fields",
+                "fieldName": "_platform"
+              }
+            ]
+          },
+          "_dynamicDependencies": {
+            "@global.login_apple": [
+              "value"
+            ],
+            "@fields._platform": [
+              "condition"
             ]
           }
         },
@@ -508,5 +565,6 @@
       }
     }
   ],
-  "_xlsxPath": "templates/profile.xlsx"
+  "_xlsxPath": "templates/profile.xlsx",
+  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1Jo1-q7KOE4gC2XRKEMcU9bXnrwB5oCRC"
 }

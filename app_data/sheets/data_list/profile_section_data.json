@@ -97,5 +97,6 @@
       "description": "See and edit the lists of parents attending your groups."
     }
   ],
-  "_xlsxPath": "data/profile_data.xlsx"
+  "_xlsxPath": "data/profile_data.xlsx",
+  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1Jo1-q7KOE4gC2XRKEMcU9bXnrwB5oCRC"
 }
