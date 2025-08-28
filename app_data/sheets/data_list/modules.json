@@ -6,8 +6,14 @@
   "rows": [
     {
       "id": "onboarding_day_chat",
+      "status": "released",
+      "tag_list": [
+        "ALL"
+      ],
       "image_asset": "images/day_1_introduction.svg",
       "report_id": "onboarding",
+      "page_count": 4,
+      "completed": false,
       "title": "After Onboarding Session",
       "_translations": {
         "title": {
@@ -22,10 +28,13 @@
     },
     {
       "id": "day_3_mh_stress",
+      "status": "released",
       "tag_list": [
         "scale_dif"
       ],
       "image_asset": "images/day_3_mh_stress_self_talk.svg",
+      "page_count": 6,
+      "completed": false,
       "title": "Day 3: Self-Talk",
       "_translations": {
         "title": {
@@ -40,11 +49,14 @@
     },
     {
       "id": "day_5_final_chat_session_5ux",
+      "status": "released",
       "tag_list": [
-        "scale_dif"
+        "ALL"
       ],
       "image_asset": "images/how_to_report_abuse.svg",
       "report_id": "week_1",
+      "page_count": 5,
+      "completed": false,
       "title": "Day 5: Final Chat Session",
       "_translations": {
         "title": {
@@ -59,14 +71,18 @@
     },
     {
       "id": "before_chat",
+      "status": "released",
       "tag_list": [
         "study_dif_bc",
         "study_dif_chih",
         "study_dif_cdmx",
         "study_dif_mich",
-        "cc_guer"
+        "cc_guer",
+        "demo"
       ],
       "image_asset": "images/day_3_check_in.svg",
+      "page_count": 1,
+      "completed": false,
       "title": "Before Your Chat Session",
       "_translations": {
         "title": {
@@ -81,16 +97,19 @@
     },
     {
       "id": "week_1_chat",
+      "status": "released",
       "tag_list": [
         "study_dif_bc",
         "study_dif_chih",
         "study_dif_cdmx",
         "study_dif_mich",
-        "scale_dif_guer",
-        "cc_guer"
+        "cc_guer",
+        "demo"
       ],
       "image_asset": "images/day_3_mh_stress_self_talk.svg",
       "report_id": "week_1",
+      "page_count": 6,
+      "completed": false,
       "title": "Week 1: Thoughts, Feelings, and Actions",
       "_translations": {
         "title": {
@@ -105,15 +124,19 @@
     },
     {
       "id": "week_2_chat",
+      "status": "released",
       "tag_list": [
         "study_dif_bc",
         "study_dif_chih",
         "study_dif_cdmx",
         "study_dif_mich",
-        "cc_guer"
+        "cc_guer",
+        "demo"
       ],
       "image_asset": "images/day_4_check_in.svg",
       "report_id": "week_2",
+      "page_count": 7,
+      "completed": false,
       "title": "Week 2: Self-Talk",
       "_translations": {
         "title": {
@@ -128,15 +151,19 @@
     },
     {
       "id": "week_3_chat",
+      "status": "released",
       "tag_list": [
         "study_dif_bc",
         "study_dif_chih",
         "study_dif_cdmx",
         "study_dif_mich",
-        "cc_guer"
+        "cc_guer",
+        "demo"
       ],
       "image_asset": "images/one_on_one_challenges.svg",
       "report_id": "week_3",
+      "page_count": 6,
+      "completed": false,
       "title": "Week 3: Character Strengths",
       "_translations": {
         "title": {
@@ -151,15 +178,19 @@
     },
     {
       "id": "week_4_chat",
+      "status": "released",
       "tag_list": [
         "study_dif_bc",
         "study_dif_chih",
         "study_dif_cdmx",
         "study_dif_mich",
-        "cc_guer"
+        "cc_guer",
+        "demo"
       ],
       "image_asset": "images/onboarding_cc.svg",
       "report_id": "week_4",
+      "page_count": 6,
+      "completed": false,
       "title": "Week 4: Building Pleasant Emotions",
       "_translations": {
         "title": {
@@ -174,8 +205,14 @@
     },
     {
       "id": "pcc",
+      "status": "released",
+      "tag_list": [
+        "ALL"
+      ],
       "image_asset": "images/day_3_mh_stress_self_talk.svg",
       "report_id": "pcc",
+      "page_count": 16,
+      "completed": false,
       "title": "Optional Parenting Children in a Crisis",
       "_translations": {
         "title": {
@@ -189,5 +226,14 @@
       }
     }
   ],
-  "_xlsxPath": "data/modules_sub_items_mx.xlsx"
+  "_xlsxPath": "data/modules_sub_items_mx.xlsx",
+  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1rFg8qsmb3xSOXw_9Iwxk8RgSmyjqiao9",
+  "_metadata": {
+    "page_count": {
+      "type": "number"
+    },
+    "completed": {
+      "type": "boolean"
+    }
+  }
 }

@@ -5,89 +5,43 @@
   "data_list_name": "tag",
   "rows": [
     {
-      "id": "scale_dif",
-      "title": "SNDIF Capacitación Nacional",
+      "id": "cc",
+      "title": "Crianza con Conciencia +",
       "_translations": {
-        "title": {
-          "mx_es": true
-        }
+        "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "SNDIF Capacitación Nacional"
-        }
-      }
-    },
-    {
-      "id": "study_dif_bc",
-      "title": "CC+ Baja California",
-      "_translations": {
-        "title": {
-          "mx_es": true
-        }
-      },
-      "_translatedFields": {
-        "title": {
-          "eng": "CC+ Baja California"
+          "eng": "Crianza con Conciencia +"
         }
       }
     },
     {
       "id": "study_dif_chih",
-      "title": "CA Chihuahua",
+      "user_state": "chihuahua",
+      "title": "Crianza Afectiva",
       "_translations": {
-        "title": {
-          "mx_es": true
-        }
+        "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "CA Chihuahua"
+          "eng": "Crianza Afectiva"
         }
       }
     },
     {
-      "id": "study_dif_cdmx",
-      "title": "CC+ Ciudad de México",
+      "id": "demo",
+      "title": "Demo",
       "_translations": {
-        "title": {
-          "mx_es": true
-        }
+        "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "CC+ Ciudad de México"
-        }
-      }
-    },
-    {
-      "id": "study_dif_mich",
-      "title": "CC+ Michoacan",
-      "_translations": {
-        "title": {
-          "mx_es": true
-        }
-      },
-      "_translatedFields": {
-        "title": {
-          "eng": "CC+ Michoacan"
-        }
-      }
-    },
-    {
-      "id": "cc_guer",
-      "title": "CC+ Guerrero",
-      "_translations": {
-        "title": {
-          "mx_es": true
-        }
-      },
-      "_translatedFields": {
-        "title": {
-          "eng": "CC+ Guerrero"
+          "eng": "Demo"
         }
       }
     }
   ],
-  "_xlsxPath": "data/FacilitatorApp MX articles.xlsx"
+  "_xlsxPath": "data/FacilitatorApp MX articles.xlsx",
+  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1rFg8qsmb3xSOXw_9Iwxk8RgSmyjqiao9"
 }

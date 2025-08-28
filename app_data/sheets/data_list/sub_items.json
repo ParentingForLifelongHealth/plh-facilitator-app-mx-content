@@ -3,698 +3,301 @@
   "flow_name": "sub_items",
   "status": "released",
   "data_list_name": "sub_items",
+  "__EMPTY_3": "before_chat",
+  "__EMPTY_4": "released",
+  "__EMPTY_5": "study_dif_bc; study_dif_chih; study_dif_cdmx; study_dif_mich; cc_guer; demo",
+  "__EMPTY_6": "Before Your Chat Session",
+  "__EMPTY_8": "images/day_3_check_in.svg",
   "rows": [
     {
-      "ignore": 1,
       "id": "onboarding_day_chat",
       "completed": false,
-      "loop_id": "onboarding_day_chat",
-      "foreign_key": "onboarding_day_chat",
-      "type": "article",
-      "next_article": "onboarding_day_chat_2",
-      "previous_article": "",
-      "test": "onboarding_day_chat",
-      "create_loop": "create",
-      "self_link": ""
+      "foreign_key": "onboarding_day_chat"
     },
     {
-      "ignore": 2,
       "id": "onboarding_day_chat_2",
       "completed": false,
-      "loop_id": "onboarding_day_chat",
-      "foreign_key": "onboarding_day_chat",
-      "type": "article",
-      "next_article": "onboarding_day_chat_3",
-      "previous_article": "onboarding_day_chat",
-      "test": "onboarding_day_chat",
-      "create_loop": 0
+      "foreign_key": "onboarding_day_chat"
     },
     {
-      "ignore": 3,
       "id": "onboarding_day_chat_3",
       "completed": false,
-      "loop_id": "onboarding_day_chat",
-      "foreign_key": "onboarding_day_chat",
-      "type": "article",
-      "next_article": "onboarding_day_chat_4",
-      "previous_article": "onboarding_day_chat_2",
-      "test": "onboarding_day_chat",
-      "create_loop": 0
+      "foreign_key": "onboarding_day_chat"
     },
     {
-      "ignore": 4,
       "id": "onboarding_day_chat_4",
       "completed": false,
-      "loop_id": "onboarding_day_chat",
-      "foreign_key": "onboarding_day_chat",
-      "type": "article",
-      "next_article": "",
-      "previous_article": "onboarding_day_chat_3",
-      "test": "onboarding_day_chat",
-      "create_loop": 0
+      "foreign_key": "onboarding_day_chat"
     },
     {
-      "ignore": 5,
       "id": "day_3_mh_stress",
       "completed": false,
-      "loop_id": "day_3_mh_stress",
-      "foreign_key": "day_3_mh_stress",
-      "type": "article",
-      "next_article": "day_3_mh_stress_2",
-      "previous_article": "",
-      "test": "day_3_mh_stress",
-      "create_loop": "create"
+      "foreign_key": "day_3_mh_stress"
     },
     {
-      "ignore": 6,
       "id": "day_3_mh_stress_2",
       "completed": false,
-      "loop_id": "day_3_mh_stress",
-      "foreign_key": "day_3_mh_stress",
-      "type": "article",
-      "next_article": "day_3_mh_stress_3",
-      "previous_article": "day_3_mh_stress",
-      "test": "day_3_mh_stress",
-      "create_loop": 0
+      "foreign_key": "day_3_mh_stress"
     },
     {
-      "ignore": 7,
       "id": "day_3_mh_stress_3",
       "completed": false,
-      "loop_id": "day_3_mh_stress",
-      "foreign_key": "day_3_mh_stress",
-      "type": "article",
-      "next_article": "day_3_mh_stress_4",
-      "previous_article": "day_3_mh_stress_2",
-      "test": "day_3_mh_stress",
-      "create_loop": 0
+      "foreign_key": "day_3_mh_stress"
     },
     {
-      "ignore": 8,
       "id": "day_3_mh_stress_4",
       "completed": false,
-      "loop_id": "day_3_mh_stress",
-      "foreign_key": "day_3_mh_stress",
-      "type": "article",
-      "next_article": "day_3_mh_stress_5",
-      "previous_article": "day_3_mh_stress_3",
-      "test": "day_3_mh_stress",
-      "create_loop": 0
+      "foreign_key": "day_3_mh_stress"
     },
     {
-      "ignore": 9,
       "id": "day_3_mh_stress_5",
       "completed": false,
-      "loop_id": "day_3_mh_stress",
-      "foreign_key": "day_3_mh_stress",
-      "type": "article",
-      "next_article": "day_3_mh_stress_6",
-      "previous_article": "day_3_mh_stress_4",
-      "test": "day_3_mh_stress",
-      "create_loop": 0
+      "foreign_key": "day_3_mh_stress"
     },
     {
-      "ignore": 10,
       "id": "day_3_mh_stress_6",
       "completed": false,
-      "loop_id": "day_3_mh_stress",
-      "foreign_key": "day_3_mh_stress",
-      "type": "article",
-      "next_article": "",
-      "previous_article": "day_3_mh_stress_5",
-      "test": "day_3_mh_stress",
-      "create_loop": 0
+      "foreign_key": "day_3_mh_stress"
     },
     {
-      "ignore": 11,
       "id": "day_5_final_chat_session_5ux",
       "completed": false,
-      "loop_id": "day_5_final_chat_session_5ux",
-      "foreign_key": "day_5_final_chat_session_5ux",
-      "type": "article",
-      "next_article": "day_5_final_chat_session_5ux_2",
-      "previous_article": "",
-      "test": "day_5_final_chat_session_5ux",
-      "create_loop": "create"
+      "foreign_key": "day_5_final_chat_session_5ux"
     },
     {
-      "ignore": 12,
       "id": "day_5_final_chat_session_5ux_2",
       "completed": false,
-      "loop_id": "day_5_final_chat_session_5ux",
-      "foreign_key": "day_5_final_chat_session_5ux",
-      "type": "article",
-      "next_article": "day_5_final_chat_session_5ux_3",
-      "previous_article": "day_5_final_chat_session_5ux",
-      "test": "day_5_final_chat_session_5ux",
-      "create_loop": 0
+      "foreign_key": "day_5_final_chat_session_5ux"
     },
     {
-      "ignore": 13,
       "id": "day_5_final_chat_session_5ux_3",
       "completed": false,
-      "loop_id": "day_5_final_chat_session_5ux",
-      "foreign_key": "day_5_final_chat_session_5ux",
-      "type": "article",
-      "next_article": "day_5_final_chat_session_5ux_4",
-      "previous_article": "day_5_final_chat_session_5ux_2",
-      "test": "day_5_final_chat_session_5ux",
-      "create_loop": 0
+      "foreign_key": "day_5_final_chat_session_5ux"
     },
     {
-      "ignore": 14,
       "id": "day_5_final_chat_session_5ux_4",
       "completed": false,
-      "loop_id": "day_5_final_chat_session_5ux",
-      "foreign_key": "day_5_final_chat_session_5ux",
-      "type": "article",
-      "next_article": "day_5_final_chat_session_5ux_5",
-      "previous_article": "day_5_final_chat_session_5ux_3",
-      "test": "day_5_final_chat_session_5ux",
-      "create_loop": 0
+      "foreign_key": "day_5_final_chat_session_5ux"
     },
     {
-      "ignore": 15,
       "id": "day_5_final_chat_session_5ux_5",
       "completed": false,
-      "loop_id": "day_5_final_chat_session_5ux",
-      "foreign_key": "day_5_final_chat_session_5ux",
-      "type": "article",
-      "next_article": "",
-      "previous_article": "day_5_final_chat_session_5ux_4",
-      "test": "day_5_final_chat_session_5ux",
-      "create_loop": 0
+      "foreign_key": "day_5_final_chat_session_5ux"
     },
     {
-      "ignore": 16,
       "id": "before_chat",
       "completed": false,
-      "loop_id": "before_chat",
-      "foreign_key": "before_chat",
-      "type": "article",
-      "next_article": "",
-      "previous_article": "",
-      "test": "before_chat",
-      "create_loop": "create"
+      "foreign_key": "before_chat"
     },
     {
-      "ignore": 17,
       "id": "week_1_chat",
       "completed": false,
-      "loop_id": "week_1_chat",
-      "foreign_key": "week_1_chat",
-      "type": "article",
-      "next_article": "week_1_chat_2",
-      "previous_article": "",
-      "test": "week_1_chat",
-      "create_loop": "create"
+      "foreign_key": "week_1_chat"
     },
     {
-      "ignore": 18,
       "id": "week_1_chat_2",
       "completed": false,
-      "loop_id": "week_1_chat",
-      "foreign_key": "week_1_chat",
-      "type": "article",
-      "next_article": "week_1_chat_3",
-      "previous_article": "week_1_chat",
-      "test": "week_1_chat",
-      "create_loop": 0
+      "foreign_key": "week_1_chat"
     },
     {
-      "ignore": 19,
       "id": "week_1_chat_3",
       "completed": false,
-      "loop_id": "week_1_chat",
-      "foreign_key": "week_1_chat",
-      "type": "article",
-      "next_article": "week_1_chat_4",
-      "previous_article": "week_1_chat_2",
-      "test": "week_1_chat",
-      "create_loop": 0
+      "foreign_key": "week_1_chat"
     },
     {
-      "ignore": 20,
       "id": "week_1_chat_4",
       "completed": false,
-      "loop_id": "week_1_chat",
-      "foreign_key": "week_1_chat",
-      "type": "article",
-      "next_article": "week_1_chat_5",
-      "previous_article": "week_1_chat_3",
-      "test": "week_1_chat",
-      "create_loop": 0
+      "foreign_key": "week_1_chat"
     },
     {
-      "ignore": 21,
       "id": "week_1_chat_5",
       "completed": false,
-      "loop_id": "week_1_chat",
-      "foreign_key": "week_1_chat",
-      "type": "article",
-      "next_article": "week_1_chat_6",
-      "previous_article": "week_1_chat_4",
-      "test": "week_1_chat",
-      "create_loop": 0
+      "foreign_key": "week_1_chat"
     },
     {
-      "ignore": 22,
       "id": "week_1_chat_6",
       "completed": false,
-      "loop_id": "week_1_chat",
-      "foreign_key": "week_1_chat",
-      "type": "article",
-      "next_article": "",
-      "previous_article": "week_1_chat_5",
-      "test": "week_1_chat",
-      "create_loop": 0
+      "foreign_key": "week_1_chat"
     },
     {
-      "ignore": 23,
       "id": "week_2_chat",
       "completed": false,
-      "loop_id": "week_2_chat",
-      "foreign_key": "week_2_chat",
-      "type": "article",
-      "next_article": "week_2_chat_2",
-      "previous_article": "",
-      "test": "week_2_chat",
-      "create_loop": "create"
+      "foreign_key": "week_2_chat"
     },
     {
-      "ignore": 24,
       "id": "week_2_chat_2",
       "completed": false,
-      "loop_id": "week_2_chat",
-      "foreign_key": "week_2_chat",
-      "type": "article",
-      "next_article": "week_2_chat_3",
-      "previous_article": "week_2_chat",
-      "test": "week_2_chat",
-      "create_loop": 0
+      "foreign_key": "week_2_chat"
     },
     {
-      "ignore": 25,
       "id": "week_2_chat_3",
       "completed": false,
-      "loop_id": "week_2_chat",
-      "foreign_key": "week_2_chat",
-      "type": "article",
-      "next_article": "week_2_chat_4",
-      "previous_article": "week_2_chat_2",
-      "test": "week_2_chat",
-      "create_loop": 0
+      "foreign_key": "week_2_chat"
     },
     {
-      "ignore": 26,
       "id": "week_2_chat_4",
       "completed": false,
-      "loop_id": "week_2_chat",
-      "foreign_key": "week_2_chat",
-      "type": "article",
-      "next_article": "week_2_chat_5",
-      "previous_article": "week_2_chat_3",
-      "test": "week_2_chat",
-      "create_loop": 0
+      "foreign_key": "week_2_chat"
     },
     {
-      "ignore": 27,
       "id": "week_2_chat_5",
       "completed": false,
-      "loop_id": "week_2_chat",
-      "foreign_key": "week_2_chat",
-      "type": "article",
-      "next_article": "week_2_chat_6",
-      "previous_article": "week_2_chat_4",
-      "test": "week_2_chat",
-      "create_loop": 0
+      "foreign_key": "week_2_chat"
     },
     {
-      "ignore": 28,
       "id": "week_2_chat_6",
       "completed": false,
-      "loop_id": "week_2_chat",
-      "foreign_key": "week_2_chat",
-      "type": "article",
-      "next_article": "week_2_chat_7",
-      "previous_article": "week_2_chat_5",
-      "test": "week_2_chat",
-      "create_loop": 0
+      "foreign_key": "week_2_chat"
     },
     {
-      "ignore": 29,
       "id": "week_2_chat_7",
       "completed": false,
-      "loop_id": "week_2_chat",
-      "foreign_key": "week_2_chat",
-      "type": "article",
-      "next_article": "",
-      "previous_article": "week_2_chat_6",
-      "test": "week_2_chat",
-      "create_loop": 0
+      "foreign_key": "week_2_chat"
     },
     {
-      "ignore": 30,
       "id": "week_3_chat",
       "completed": false,
-      "loop_id": "week_3_chat",
-      "foreign_key": "week_3_chat",
-      "type": "article",
-      "next_article": "week_3_chat_2",
-      "previous_article": "",
-      "test": "week_3_chat",
-      "create_loop": "create"
+      "foreign_key": "week_3_chat"
     },
     {
-      "ignore": 31,
       "id": "week_3_chat_2",
       "completed": false,
-      "loop_id": "week_3_chat",
-      "foreign_key": "week_3_chat",
-      "type": "article",
-      "next_article": "week_3_chat_3",
-      "previous_article": "week_3_chat",
-      "test": "week_3_chat",
-      "create_loop": 0
+      "foreign_key": "week_3_chat"
     },
     {
-      "ignore": 32,
       "id": "week_3_chat_3",
       "completed": false,
-      "loop_id": "week_3_chat",
-      "foreign_key": "week_3_chat",
-      "type": "article",
-      "next_article": "week_3_chat_4",
-      "previous_article": "week_3_chat_2",
-      "test": "week_3_chat",
-      "create_loop": 0
+      "foreign_key": "week_3_chat"
     },
     {
-      "ignore": 33,
       "id": "week_3_chat_4",
       "completed": false,
-      "loop_id": "week_3_chat",
-      "foreign_key": "week_3_chat",
-      "type": "article",
-      "next_article": "week_3_chat_5",
-      "previous_article": "week_3_chat_3",
-      "test": "week_3_chat",
-      "create_loop": 0
+      "foreign_key": "week_3_chat"
     },
     {
-      "ignore": 34,
       "id": "week_3_chat_5",
       "completed": false,
-      "loop_id": "week_3_chat",
-      "foreign_key": "week_3_chat",
-      "type": "article",
-      "next_article": "week_3_chat_6",
-      "previous_article": "week_3_chat_4",
-      "test": "week_3_chat",
-      "create_loop": 0
+      "foreign_key": "week_3_chat"
     },
     {
-      "ignore": 35,
       "id": "week_3_chat_6",
       "completed": false,
-      "loop_id": "week_3_chat",
-      "foreign_key": "week_3_chat",
-      "type": "article",
-      "next_article": "",
-      "previous_article": "week_3_chat_5",
-      "test": "week_3_chat",
-      "create_loop": 0
+      "foreign_key": "week_3_chat"
     },
     {
-      "ignore": 36,
       "id": "week_4_chat",
       "completed": false,
-      "loop_id": "week_4_chat",
-      "foreign_key": "week_4_chat",
-      "type": "article",
-      "next_article": "week_4_chat_2",
-      "previous_article": "",
-      "test": "week_4_chat",
-      "create_loop": "create"
+      "foreign_key": "week_4_chat"
     },
     {
-      "ignore": 37,
       "id": "week_4_chat_2",
       "completed": false,
-      "loop_id": "week_4_chat",
-      "foreign_key": "week_4_chat",
-      "type": "article",
-      "next_article": "week_4_chat_3",
-      "previous_article": "week_4_chat",
-      "test": "week_4_chat",
-      "create_loop": 0
+      "foreign_key": "week_4_chat"
     },
     {
-      "ignore": 38,
       "id": "week_4_chat_3",
       "completed": false,
-      "loop_id": "week_4_chat",
-      "foreign_key": "week_4_chat",
-      "type": "article",
-      "next_article": "week_4_chat_4",
-      "previous_article": "week_4_chat_2",
-      "test": "week_4_chat",
-      "create_loop": 0
+      "foreign_key": "week_4_chat"
     },
     {
-      "ignore": 39,
       "id": "week_4_chat_4",
       "completed": false,
-      "loop_id": "week_4_chat",
-      "foreign_key": "week_4_chat",
-      "type": "article",
-      "next_article": "week_4_chat_5",
-      "previous_article": "week_4_chat_3",
-      "test": "week_4_chat",
-      "create_loop": 0
+      "foreign_key": "week_4_chat"
     },
     {
-      "ignore": 40,
       "id": "week_4_chat_5",
       "completed": false,
-      "loop_id": "week_4_chat",
-      "foreign_key": "week_4_chat",
-      "type": "article",
-      "next_article": "week_4_chat_6",
-      "previous_article": "week_4_chat_4",
-      "test": "week_4_chat",
-      "create_loop": 0
+      "foreign_key": "week_4_chat"
     },
     {
-      "ignore": 41,
       "id": "week_4_chat_6",
       "completed": false,
-      "loop_id": "week_4_chat",
-      "foreign_key": "week_4_chat",
-      "type": "article",
-      "next_article": "",
-      "previous_article": "week_4_chat_5",
-      "test": "week_4_chat",
-      "create_loop": 0
+      "foreign_key": "week_4_chat"
     },
     {
-      "ignore": 42,
       "id": "pcc",
       "completed": false,
-      "loop_id": "pcc",
-      "foreign_key": "pcc",
-      "type": "article",
-      "next_article": "pcc_2",
-      "previous_article": "",
-      "test": "pcc",
-      "create_loop": "create"
+      "foreign_key": "pcc"
     },
     {
-      "ignore": 43,
       "id": "pcc_2",
       "completed": false,
-      "loop_id": "pcc",
-      "foreign_key": "pcc",
-      "type": "article",
-      "next_article": "pcc_3",
-      "previous_article": "pcc",
-      "test": "pcc",
-      "create_loop": 0
+      "foreign_key": "pcc"
     },
     {
-      "ignore": 44,
       "id": "pcc_3",
       "completed": false,
-      "loop_id": "pcc",
-      "foreign_key": "pcc",
-      "type": "article",
-      "next_article": "pcc_4",
-      "previous_article": "pcc_2",
-      "test": "pcc",
-      "create_loop": 0
+      "foreign_key": "pcc"
     },
     {
-      "ignore": 45,
       "id": "pcc_4",
       "completed": false,
-      "loop_id": "pcc",
-      "foreign_key": "pcc",
-      "type": "article",
-      "next_article": "pcc_5",
-      "previous_article": "pcc_3",
-      "test": "pcc",
-      "create_loop": 0
+      "foreign_key": "pcc"
     },
     {
-      "ignore": 46,
       "id": "pcc_5",
       "completed": false,
-      "loop_id": "pcc",
-      "foreign_key": "pcc",
-      "type": "article",
-      "next_article": "pcc_6",
-      "previous_article": "pcc_4",
-      "test": "pcc",
-      "create_loop": 0
+      "foreign_key": "pcc"
     },
     {
-      "ignore": 47,
       "id": "pcc_6",
       "completed": false,
-      "loop_id": "pcc",
-      "foreign_key": "pcc",
-      "type": "article",
-      "next_article": "pcc_7",
-      "previous_article": "pcc_5",
-      "test": "pcc",
-      "create_loop": 0
+      "foreign_key": "pcc"
     },
     {
-      "ignore": 48,
       "id": "pcc_7",
       "completed": false,
-      "loop_id": "pcc",
-      "foreign_key": "pcc",
-      "type": "article",
-      "next_article": "pcc_8",
-      "previous_article": "pcc_6",
-      "test": "pcc",
-      "create_loop": 0
+      "foreign_key": "pcc"
     },
     {
-      "ignore": 49,
       "id": "pcc_8",
       "completed": false,
-      "loop_id": "pcc",
-      "foreign_key": "pcc",
-      "type": "article",
-      "next_article": "pcc_9",
-      "previous_article": "pcc_7",
-      "test": "pcc",
-      "create_loop": 0
+      "foreign_key": "pcc"
     },
     {
-      "ignore": 50,
       "id": "pcc_9",
       "completed": false,
-      "loop_id": "pcc",
-      "foreign_key": "pcc",
-      "type": "article",
-      "next_article": "pcc_10",
-      "previous_article": "pcc_8",
-      "test": "pcc",
-      "create_loop": 0
+      "foreign_key": "pcc"
     },
     {
-      "ignore": 51,
       "id": "pcc_10",
       "completed": false,
-      "loop_id": "pcc",
-      "foreign_key": "pcc",
-      "type": "article",
-      "next_article": "pcc_11",
-      "previous_article": "pcc_9",
-      "test": "pcc",
-      "create_loop": 0
+      "foreign_key": "pcc"
     },
     {
-      "ignore": 52,
       "id": "pcc_11",
       "completed": false,
-      "loop_id": "pcc",
-      "foreign_key": "pcc",
-      "type": "article",
-      "next_article": "pcc_12",
-      "previous_article": "pcc_10",
-      "test": "pcc",
-      "create_loop": 0
+      "foreign_key": "pcc"
     },
     {
-      "ignore": 53,
       "id": "pcc_12",
       "completed": false,
-      "loop_id": "pcc",
-      "foreign_key": "pcc",
-      "type": "article",
-      "next_article": "pcc_13",
-      "previous_article": "pcc_11",
-      "test": "pcc",
-      "create_loop": 0
+      "foreign_key": "pcc"
     },
     {
-      "ignore": 54,
       "id": "pcc_13",
       "completed": false,
-      "loop_id": "pcc",
-      "foreign_key": "pcc",
-      "type": "article",
-      "next_article": "pcc_14",
-      "previous_article": "pcc_12",
-      "test": "pcc",
-      "create_loop": 0
+      "foreign_key": "pcc"
     },
     {
-      "ignore": 55,
       "id": "pcc_14",
       "completed": false,
-      "loop_id": "pcc",
-      "foreign_key": "pcc",
-      "type": "article",
-      "next_article": "pcc_15",
-      "previous_article": "pcc_13",
-      "test": "pcc",
-      "create_loop": 0
+      "foreign_key": "pcc"
     },
     {
-      "ignore": 56,
       "id": "pcc_15",
       "completed": false,
-      "loop_id": "pcc",
-      "foreign_key": "pcc",
-      "type": "article",
-      "next_article": "pcc_16",
-      "previous_article": "pcc_14",
-      "test": "pcc",
-      "create_loop": 0
+      "foreign_key": "pcc"
     },
     {
-      "ignore": 57,
       "id": "pcc_16",
       "completed": false,
-      "loop_id": "pcc",
-      "foreign_key": "pcc",
-      "type": "article",
-      "next_article": "",
-      "previous_article": "pcc_15",
-      "test": "pcc",
-      "create_loop": 0
+      "foreign_key": "pcc"
     }
   ],
   "_xlsxPath": "data/modules_sub_items_mx.xlsx",
+  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1rFg8qsmb3xSOXw_9Iwxk8RgSmyjqiao9",
   "_metadata": {
-    "ignore": {
-      "type": "number"
-    },
     "completed": {
       "type": "boolean"
     }
