@@ -27,58 +27,10 @@
       }
     },
     {
-      "id": "day_3_mh_stress",
-      "status": "released",
-      "tag_list": [
-        "scale_dif"
-      ],
-      "image_asset": "images/day_3_mh_stress_self_talk.svg",
-      "page_count": 6,
-      "completed": false,
-      "title": "Day 3: Self-Talk",
-      "_translations": {
-        "title": {
-          "mx_es": true
-        }
-      },
-      "_translatedFields": {
-        "title": {
-          "eng": "Day 3: Self-Talk"
-        }
-      }
-    },
-    {
-      "id": "day_5_final_chat_session_5ux",
-      "status": "released",
-      "tag_list": [
-        "ALL"
-      ],
-      "image_asset": "images/how_to_report_abuse.svg",
-      "report_id": "week_1",
-      "page_count": 5,
-      "completed": false,
-      "title": "Day 5: Final Chat Session",
-      "_translations": {
-        "title": {
-          "mx_es": true
-        }
-      },
-      "_translatedFields": {
-        "title": {
-          "eng": "Day 5: Final Chat Session"
-        }
-      }
-    },
-    {
       "id": "before_chat",
       "status": "released",
       "tag_list": [
-        "study_dif_bc",
-        "study_dif_chih",
-        "study_dif_cdmx",
-        "study_dif_mich",
-        "cc_guer",
-        "demo"
+        "ALL"
       ],
       "image_asset": "images/day_3_check_in.svg",
       "page_count": 1,
@@ -99,12 +51,7 @@
       "id": "week_1_chat",
       "status": "released",
       "tag_list": [
-        "study_dif_bc",
-        "study_dif_chih",
-        "study_dif_cdmx",
-        "study_dif_mich",
-        "cc_guer",
-        "demo"
+        "ALL"
       ],
       "image_asset": "images/day_3_mh_stress_self_talk.svg",
       "report_id": "week_1",
@@ -126,12 +73,7 @@
       "id": "week_2_chat",
       "status": "released",
       "tag_list": [
-        "study_dif_bc",
-        "study_dif_chih",
-        "study_dif_cdmx",
-        "study_dif_mich",
-        "cc_guer",
-        "demo"
+        "ALL"
       ],
       "image_asset": "images/day_4_check_in.svg",
       "report_id": "week_2",
@@ -153,12 +95,7 @@
       "id": "week_3_chat",
       "status": "released",
       "tag_list": [
-        "study_dif_bc",
-        "study_dif_chih",
-        "study_dif_cdmx",
-        "study_dif_mich",
-        "cc_guer",
-        "demo"
+        "ALL"
       ],
       "image_asset": "images/one_on_one_challenges.svg",
       "report_id": "week_3",
@@ -180,12 +117,7 @@
       "id": "week_4_chat",
       "status": "released",
       "tag_list": [
-        "study_dif_bc",
-        "study_dif_chih",
-        "study_dif_cdmx",
-        "study_dif_mich",
-        "cc_guer",
-        "demo"
+        "ALL"
       ],
       "image_asset": "images/onboarding_cc.svg",
       "report_id": "week_4",

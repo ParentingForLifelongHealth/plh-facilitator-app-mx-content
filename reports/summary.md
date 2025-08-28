@@ -77,8 +77,8 @@
 
 | assets | KB | MB |
 | --- | --- | --- |
-| total | 7112 KB | 7.1 MB |
-| unused | 1115 KB | 1.1 MB |
+| total | 7100 KB | 7.1 MB |
+| unused | 1127 KB | 1.1 MB |
 </details>
 
 <details open>
@@ -101,6 +101,7 @@ Assets that appear in app-data but do not have references within sheets
 | images/flags/tz.svg | 0.5 |
 | images/flags/ug.svg | 3.9 |
 | images/flags/zm.svg | 5.4 |
+| images/how_to_report_abuse.svg | 12.2 |
 | images/icons/bar_chart_white.svg | 1.5 |
 | images/icons/book_white.svg | 1.5 |
 | images/icons/check_circle.svg | 1.2 |
@@ -158,14 +159,13 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/backgrounds/reports_top_right.svg | 2 | 1 |
 | images/day_1_introduction.svg | 6.7 | 1 |
 | images/day_3_check_in.svg | 6.5 | 2 |
-| images/day_3_mh_stress_self_talk.svg | 5.4 | 7 |
+| images/day_3_mh_stress_self_talk.svg | 5.4 | 5 |
 | images/day_4_check_in.svg | 11.3 | 3 |
 | images/faq_h_parents_insult.svg | 12.5 | 1 |
 | images/faq_h_self_harm.svg | 14.9 | 1 |
 | images/faq_no_participation_general.svg | 20.3 | 1 |
 | images/flags/gb.svg | 0.5 | 2 |
 | images/flags/mx.svg | 91.3 | 2 |
-| images/how_to_report_abuse.svg | 12.2 | 1 |
 | images/icons/add_circle.svg | 1 | 2 |
 | images/icons/archive.svg | 0.5 | 1 |
 | images/icons/arrow_back.svg | 0.5 | 1 |
