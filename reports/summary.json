@@ -251,12 +251,12 @@
     "data": [
       {
         "assets": "total",
-        "KB": "7112 KB",
+        "KB": "7100 KB",
         "MB": "7.1 MB"
       },
       {
         "assets": "unused",
-        "KB": "1115 KB",
+        "KB": "1127 KB",
         "MB": "1.1 MB"
       }
     ]
@@ -314,6 +314,10 @@
       {
         "path": "images/flags/zm.svg",
         "size_kb": 5.4
+      },
+      {
+        "path": "images/how_to_report_abuse.svg",
+        "size_kb": 12.2
       },
       {
         "path": "images/icons/bar_chart_white.svg",
@@ -490,7 +494,7 @@
       },
       {
         "path": "images/day_3_mh_stress_self_talk.svg",
-        "count": 7,
+        "count": 5,
         "size_kb": 5.4
       },
       {
@@ -522,11 +526,6 @@
         "path": "images/flags/mx.svg",
         "count": 2,
         "size_kb": 91.3
-      },
-      {
-        "path": "images/how_to_report_abuse.svg",
-        "count": 1,
-        "size_kb": 12.2
       },
       {
         "path": "images/icons/add_circle.svg",
