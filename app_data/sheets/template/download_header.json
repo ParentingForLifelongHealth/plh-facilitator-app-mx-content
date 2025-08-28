@@ -4,14 +4,14 @@
   "status": "released",
   "rows": [
     {
+      "name": "asset",
+      "type": "set_variable",
+      "_nested_name": "asset"
+    },
+    {
       "type": "display_group",
       "name": "dg_header",
       "rows": [
-        {
-          "name": "asset",
-          "type": "set_variable",
-          "_nested_name": "dg_header.asset"
-        },
         {
           "type": "title",
           "name": "title",
@@ -82,5 +82,6 @@
       "_nested_name": "dg_header"
     }
   ],
-  "_xlsxPath": "templates/media.xlsx"
+  "_xlsxPath": "templates/media.xlsx",
+  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1Jo1-q7KOE4gC2XRKEMcU9bXnrwB5oCRC"
 }

@@ -108,8 +108,8 @@
     "size_kb": 1
   },
   "images/icons/archive.svg": {
-    "md5Checksum": "af60ad3a4a7e515373ef65cabb4af297",
-    "size_kb": 0.9
+    "md5Checksum": "ce24ad3ae3eaa76b1c5b45d159dfc7e2",
+    "size_kb": 0.5
   },
   "images/icons/arrow_back.svg": {
     "md5Checksum": "878951da30fb77058b77d74964ba9f18",
@@ -139,6 +139,10 @@
     "md5Checksum": "1be7ee8ef948e4080cae2badd9cdfe74",
     "size_kb": 1.2
   },
+  "images/icons/checkmark-outline.svg": {
+    "md5Checksum": "58f25155270f30c8940b82d9883549d7",
+    "size_kb": 0.2
+  },
   "images/icons/cog_white.svg": {
     "md5Checksum": "8d4f5938ab8dcdac16104e688fbce50e",
     "size_kb": 3.6
@@ -146,6 +150,10 @@
   "images/icons/content.svg": {
     "md5Checksum": "be5b6579df10ff99b930cc87494a3945",
     "size_kb": 7.2
+  },
+  "images/icons/copy-outline.svg": {
+    "md5Checksum": "7d8531190980300ac03b14f3f4069ba5",
+    "size_kb": 0.4
   },
   "images/icons/delete.svg": {
     "md5Checksum": "c826cae44139a913440643fa7cbfacdd",
@@ -166,6 +174,10 @@
   "images/icons/edit.svg": {
     "md5Checksum": "8e798678adcd89011b7b48b2d07930b8",
     "size_kb": 0.9
+  },
+  "images/icons/feather.svg": {
+    "md5Checksum": "618dbb9e7b404e3d5c8da9e0ce605ab6",
+    "size_kb": 4.6
   },
   "images/icons/globe_blue.svg": {
     "md5Checksum": "17709dbf6ff432c362ac51477203d44a",
@@ -206,6 +218,10 @@
   "images/icons/library_white.svg": {
     "md5Checksum": "750f9dbe40645067e953df8f92b51598",
     "size_kb": 2.8
+  },
+  "images/icons/magnify_glass.svg": {
+    "md5Checksum": "fdd466065098f3b031d90162bc130866",
+    "size_kb": 3
   },
   "images/icons/paper_plane_white.svg": {
     "md5Checksum": "2543ae3bac7582aa96103aadc372e175",
@@ -456,12 +472,12 @@
     "size_kb": 209.4
   },
   "pdf/manual.pdf": {
-    "md5Checksum": "d47a912c7ae7de3f23e6c60e928b8fb1",
-    "size_kb": 1213
+    "md5Checksum": "d947608a495dc794d3fb3506997bbca0",
+    "size_kb": 1107.6
   },
   "pdf/overview_guide_study.pdf": {
-    "md5Checksum": "fbb4961d36ae4a2897f123e6f585e59d",
-    "size_kb": 2252.6
+    "md5Checksum": "1cf696b1b3c4bb79886c2782b80f281e",
+    "size_kb": 1996.8
   },
   "pdf/peas.pdf": {
     "md5Checksum": "fa25d1dc22744b9a9ee5987b74ccc1c7",

@@ -1,0 +1,15 @@
+{
+  "flow_type": "data_list",
+  "flow_name": "m_resources",
+  "status": "released",
+  "data_list_name": "m_resources",
+  "__EMPTY_3": "week_2_chat",
+  "__EMPTY_4": "released",
+  "__EMPTY_5": "study_dif_bc; study_dif_chih; study_dif_cdmx; study_dif_mich; cc_guer; demo",
+  "__EMPTY_6": "Week 2: Self-Talk",
+  "__EMPTY_8": "images/day_4_check_in.svg",
+  "__EMPTY_9": "week_2",
+  "rows": [],
+  "_xlsxPath": "data/modules_sub_items_mx.xlsx",
+  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1rFg8qsmb3xSOXw_9Iwxk8RgSmyjqiao9"
+}

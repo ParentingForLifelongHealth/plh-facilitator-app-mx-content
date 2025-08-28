@@ -1,0 +1,33 @@
+{
+  "flow_type": "data_list",
+  "flow_name": "m_related",
+  "status": "released",
+  "data_list_name": "m_related",
+  "__EMPTY_3": "pcc",
+  "__EMPTY_4": "released",
+  "__EMPTY_6": "Optional Parenting Children in a Crisis",
+  "__EMPTY_8": "images/day_3_mh_stress_self_talk.svg",
+  "__EMPTY_9": "pcc",
+  "rows": [
+    {
+      "id": "test",
+      "foreign_key": "test",
+      "related_article_id": "test",
+      "ignore": "test",
+      "ignore_2": "test",
+      "title": "test",
+      "_translations": {
+        "title": {
+          "mx_es": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "test"
+        }
+      }
+    }
+  ],
+  "_xlsxPath": "data/modules_sub_items_mx.xlsx",
+  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1rFg8qsmb3xSOXw_9Iwxk8RgSmyjqiao9"
+}
