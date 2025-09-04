@@ -1,45 +1,32 @@
 {
   "flow_type": "data_list",
-  "flow_name": "user_type",
+  "flow_name": "user_gender",
   "status": "released",
-  "data_list_name": "user_type",
+  "data_list_name": "user_gender",
   "rows": [
     {
-      "id": "coach",
-      "name": "coach",
-      "text": "Coach",
+      "id": "female",
+      "name": "female",
+      "text": "Female",
       "_translations": {
         "text": {}
       },
       "_translatedFields": {
         "text": {
-          "eng": "Coach"
+          "eng": "Female"
         }
       }
     },
     {
-      "id": "facilitator",
-      "name": "facilitator",
-      "text": "Facilitator",
+      "id": "male",
+      "name": "male",
+      "text": "Male",
       "_translations": {
         "text": {}
       },
       "_translatedFields": {
         "text": {
-          "eng": "Facilitator"
-        }
-      }
-    },
-    {
-      "id": "tester",
-      "name": "tester",
-      "text": "System tester",
-      "_translations": {
-        "text": {}
-      },
-      "_translatedFields": {
-        "text": {
-          "eng": "System tester"
+          "eng": "Male"
         }
       }
     },
@@ -53,6 +40,19 @@
       "_translatedFields": {
         "text": {
           "eng": "Other"
+        }
+      }
+    },
+    {
+      "id": "prefer_not_to_say",
+      "name": "prefer_not_to_say",
+      "text": "Prefer not to say",
+      "_translations": {
+        "text": {}
+      },
+      "_translatedFields": {
+        "text": {
+          "eng": "Prefer not to say"
         }
       }
     }

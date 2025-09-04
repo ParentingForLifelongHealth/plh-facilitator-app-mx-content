@@ -1,0 +1,88 @@
+{
+  "flow_type": "data_list",
+  "flow_name": "user_organisation",
+  "status": "released",
+  "data_list_name": "user_organisation",
+  "rows": [
+    {
+      "id": "sndif",
+      "name": "sndif",
+      "text": "SNDIF",
+      "_translations": {
+        "text": {}
+      },
+      "_translatedFields": {
+        "text": {
+          "eng": "SNDIF"
+        }
+      }
+    },
+    {
+      "id": "sep",
+      "name": "sep",
+      "text": "SEP",
+      "_translations": {
+        "text": {}
+      },
+      "_translatedFields": {
+        "text": {
+          "eng": "SEP"
+        }
+      }
+    },
+    {
+      "id": "secretaría_de_las_mujeres",
+      "name": "secretaría_de_las_mujeres",
+      "text": "Secretaría de las Mujeres",
+      "_translations": {
+        "text": {}
+      },
+      "_translatedFields": {
+        "text": {
+          "eng": "Secretaría de las Mujeres"
+        }
+      }
+    },
+    {
+      "id": "secretaría_de_salud",
+      "name": "secretaría_de_salud",
+      "text": "Secretaría de Salud",
+      "_translations": {
+        "text": {}
+      },
+      "_translatedFields": {
+        "text": {
+          "eng": "Secretaría de Salud"
+        }
+      }
+    },
+    {
+      "id": "fiscalía_general_de_la_república",
+      "name": "fiscalía_general_de_la_república",
+      "text": "Fiscalía General de la República",
+      "_translations": {
+        "text": {}
+      },
+      "_translatedFields": {
+        "text": {
+          "eng": "Fiscalía General de la República"
+        }
+      }
+    },
+    {
+      "id": "juconi",
+      "name": "juconi",
+      "text": "Juconi",
+      "_translations": {
+        "text": {}
+      },
+      "_translatedFields": {
+        "text": {
+          "eng": "Juconi"
+        }
+      }
+    }
+  ],
+  "_xlsxPath": "data/deployment_data_mx.xlsx",
+  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1rFg8qsmb3xSOXw_9Iwxk8RgSmyjqiao9"
+}
