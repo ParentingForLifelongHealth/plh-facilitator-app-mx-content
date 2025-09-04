@@ -1,0 +1,703 @@
+{
+  "flow_type": "template",
+  "flow_name": "onboarding_settings_page_2",
+  "status": "released",
+  "rows": [
+    {
+      "type": "text",
+      "name": "question_user_profession",
+      "value": "@global.question_user_profession",
+      "_translations": {
+        "value": {}
+      },
+      "parameter_list": {
+        "style": "emphasised"
+      },
+      "_nested_name": "question_user_profession",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@global.question_user_profession",
+            "matchedExpression": "@global.question_user_profession",
+            "type": "global",
+            "fieldName": "question_user_profession"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@global.question_user_profession": [
+          "value"
+        ]
+      }
+    },
+    {
+      "type": "combo_box",
+      "name": "user_profession_select",
+      "value": "@fields.user_profession",
+      "_translations": {
+        "value": {}
+      },
+      "parameter_list": {
+        "answer_list": "@data.user_profession",
+        "placeholder": "@global.placeholder_user_profession",
+        "variant": "dropdown"
+      },
+      "condition": "!!@fields.user_profession",
+      "exclude_from_translation": true,
+      "_nested_name": "user_profession_select",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@fields.user_profession",
+            "matchedExpression": "@fields.user_profession",
+            "type": "fields",
+            "fieldName": "user_profession"
+          }
+        ],
+        "parameter_list": {
+          "answer_list": [
+            {
+              "fullExpression": "@data.user_profession",
+              "matchedExpression": "@data.user_profession",
+              "type": "data",
+              "fieldName": "user_profession"
+            }
+          ],
+          "placeholder": [
+            {
+              "fullExpression": "@global.placeholder_user_profession",
+              "matchedExpression": "@global.placeholder_user_profession",
+              "type": "global",
+              "fieldName": "placeholder_user_profession"
+            }
+          ]
+        },
+        "condition": [
+          {
+            "fullExpression": "!!@fields.user_profession",
+            "matchedExpression": "!@fields.user_profession",
+            "type": "fields",
+            "fieldName": "user_profession"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@fields.user_profession": [
+          "value"
+        ],
+        "@data.user_profession": [
+          "parameter_list.answer_list"
+        ],
+        "@global.placeholder_user_profession": [
+          "parameter_list.placeholder"
+        ],
+        "!@fields.user_profession": [
+          "condition"
+        ]
+      }
+    },
+    {
+      "type": "combo_box",
+      "name": "user_profession_select",
+      "parameter_list": {
+        "answer_list": "@data.user_profession",
+        "placeholder": "@global.placeholder_user_profession",
+        "variant": "dropdown"
+      },
+      "condition": "!@fields.user_profession",
+      "exclude_from_translation": true,
+      "_nested_name": "user_profession_select",
+      "_dynamicFields": {
+        "parameter_list": {
+          "answer_list": [
+            {
+              "fullExpression": "@data.user_profession",
+              "matchedExpression": "@data.user_profession",
+              "type": "data",
+              "fieldName": "user_profession"
+            }
+          ],
+          "placeholder": [
+            {
+              "fullExpression": "@global.placeholder_user_profession",
+              "matchedExpression": "@global.placeholder_user_profession",
+              "type": "global",
+              "fieldName": "placeholder_user_profession"
+            }
+          ]
+        },
+        "condition": [
+          {
+            "fullExpression": "!@fields.user_profession",
+            "matchedExpression": "!@fields.user_profession",
+            "type": "fields",
+            "fieldName": "user_profession"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@data.user_profession": [
+          "parameter_list.answer_list"
+        ],
+        "@global.placeholder_user_profession": [
+          "parameter_list.placeholder"
+        ],
+        "!@fields.user_profession": [
+          "condition"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "name": "question_user_organisation",
+      "value": "@global.question_user_organisation",
+      "_translations": {
+        "value": {}
+      },
+      "parameter_list": {
+        "style": "emphasised"
+      },
+      "_nested_name": "question_user_organisation",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@global.question_user_organisation",
+            "matchedExpression": "@global.question_user_organisation",
+            "type": "global",
+            "fieldName": "question_user_organisation"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@global.question_user_organisation": [
+          "value"
+        ]
+      }
+    },
+    {
+      "type": "combo_box",
+      "name": "user_organisation_select",
+      "value": "@fields.user_organisation",
+      "_translations": {
+        "value": {}
+      },
+      "parameter_list": {
+        "answer_list": "@data.user_organisation",
+        "placeholder": "@global.placeholder_user_organisation",
+        "variant": "dropdown"
+      },
+      "condition": "!!@fields.user_organisation",
+      "exclude_from_translation": true,
+      "_nested_name": "user_organisation_select",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@fields.user_organisation",
+            "matchedExpression": "@fields.user_organisation",
+            "type": "fields",
+            "fieldName": "user_organisation"
+          }
+        ],
+        "parameter_list": {
+          "answer_list": [
+            {
+              "fullExpression": "@data.user_organisation",
+              "matchedExpression": "@data.user_organisation",
+              "type": "data",
+              "fieldName": "user_organisation"
+            }
+          ],
+          "placeholder": [
+            {
+              "fullExpression": "@global.placeholder_user_organisation",
+              "matchedExpression": "@global.placeholder_user_organisation",
+              "type": "global",
+              "fieldName": "placeholder_user_organisation"
+            }
+          ]
+        },
+        "condition": [
+          {
+            "fullExpression": "!!@fields.user_organisation",
+            "matchedExpression": "!@fields.user_organisation",
+            "type": "fields",
+            "fieldName": "user_organisation"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@fields.user_organisation": [
+          "value"
+        ],
+        "@data.user_organisation": [
+          "parameter_list.answer_list"
+        ],
+        "@global.placeholder_user_organisation": [
+          "parameter_list.placeholder"
+        ],
+        "!@fields.user_organisation": [
+          "condition"
+        ]
+      }
+    },
+    {
+      "type": "combo_box",
+      "name": "user_organisation_select",
+      "parameter_list": {
+        "answer_list": "@data.user_organisation",
+        "placeholder": "@global.placeholder_user_organisation",
+        "variant": "dropdown"
+      },
+      "condition": "!@fields.user_organisation",
+      "exclude_from_translation": true,
+      "_nested_name": "user_organisation_select",
+      "_dynamicFields": {
+        "parameter_list": {
+          "answer_list": [
+            {
+              "fullExpression": "@data.user_organisation",
+              "matchedExpression": "@data.user_organisation",
+              "type": "data",
+              "fieldName": "user_organisation"
+            }
+          ],
+          "placeholder": [
+            {
+              "fullExpression": "@global.placeholder_user_organisation",
+              "matchedExpression": "@global.placeholder_user_organisation",
+              "type": "global",
+              "fieldName": "placeholder_user_organisation"
+            }
+          ]
+        },
+        "condition": [
+          {
+            "fullExpression": "!@fields.user_organisation",
+            "matchedExpression": "!@fields.user_organisation",
+            "type": "fields",
+            "fieldName": "user_organisation"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@data.user_organisation": [
+          "parameter_list.answer_list"
+        ],
+        "@global.placeholder_user_organisation": [
+          "parameter_list.placeholder"
+        ],
+        "!@fields.user_organisation": [
+          "condition"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "name": "question_user_state",
+      "value": "@global.question_user_state",
+      "_translations": {
+        "value": {}
+      },
+      "parameter_list": {
+        "style": "emphasised"
+      },
+      "_nested_name": "question_user_state",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@global.question_user_state",
+            "matchedExpression": "@global.question_user_state",
+            "type": "global",
+            "fieldName": "question_user_state"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@global.question_user_state": [
+          "value"
+        ]
+      }
+    },
+    {
+      "type": "combo_box",
+      "name": "user_state_select",
+      "value": "@fields.user_state",
+      "_translations": {
+        "value": {}
+      },
+      "parameter_list": {
+        "answer_list": "@data.user_state",
+        "placeholder": "@global.placeholder_user_state",
+        "variant": "dropdown"
+      },
+      "condition": "!!@fields.user_state",
+      "exclude_from_translation": true,
+      "_nested_name": "user_state_select",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@fields.user_state",
+            "matchedExpression": "@fields.user_state",
+            "type": "fields",
+            "fieldName": "user_state"
+          }
+        ],
+        "parameter_list": {
+          "answer_list": [
+            {
+              "fullExpression": "@data.user_state",
+              "matchedExpression": "@data.user_state",
+              "type": "data",
+              "fieldName": "user_state"
+            }
+          ],
+          "placeholder": [
+            {
+              "fullExpression": "@global.placeholder_user_state",
+              "matchedExpression": "@global.placeholder_user_state",
+              "type": "global",
+              "fieldName": "placeholder_user_state"
+            }
+          ]
+        },
+        "condition": [
+          {
+            "fullExpression": "!!@fields.user_state",
+            "matchedExpression": "!@fields.user_state",
+            "type": "fields",
+            "fieldName": "user_state"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@fields.user_state": [
+          "value"
+        ],
+        "@data.user_state": [
+          "parameter_list.answer_list"
+        ],
+        "@global.placeholder_user_state": [
+          "parameter_list.placeholder"
+        ],
+        "!@fields.user_state": [
+          "condition"
+        ]
+      }
+    },
+    {
+      "type": "combo_box",
+      "name": "user_state_select",
+      "parameter_list": {
+        "answer_list": "@data.state",
+        "placeholder": "@global.placeholder_user_state",
+        "variant": "dropdown"
+      },
+      "condition": "!@fields.user_state",
+      "exclude_from_translation": true,
+      "_nested_name": "user_state_select",
+      "_dynamicFields": {
+        "parameter_list": {
+          "answer_list": [
+            {
+              "fullExpression": "@data.state",
+              "matchedExpression": "@data.state",
+              "type": "data",
+              "fieldName": "state"
+            }
+          ],
+          "placeholder": [
+            {
+              "fullExpression": "@global.placeholder_user_state",
+              "matchedExpression": "@global.placeholder_user_state",
+              "type": "global",
+              "fieldName": "placeholder_user_state"
+            }
+          ]
+        },
+        "condition": [
+          {
+            "fullExpression": "!@fields.user_state",
+            "matchedExpression": "!@fields.user_state",
+            "type": "fields",
+            "fieldName": "user_state"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@data.state": [
+          "parameter_list.answer_list"
+        ],
+        "@global.placeholder_user_state": [
+          "parameter_list.placeholder"
+        ],
+        "!@fields.user_state": [
+          "condition"
+        ]
+      }
+    },
+    {
+      "name": "completed_enabled",
+      "value": "!!@local.user_profession_select && !!@local.user_organisation_select && !!@local.user_state_select",
+      "_translations": {
+        "value": {}
+      },
+      "exclude_from_translation": true,
+      "type": "set_variable",
+      "_nested_name": "completed_enabled",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "!!@local.user_profession_select && !!@local.user_organisation_select && !!@local.user_state_select",
+            "matchedExpression": "!@local.user_profession_select",
+            "type": "local",
+            "fieldName": "user_profession_select"
+          },
+          {
+            "fullExpression": "!!@local.user_profession_select && !!@local.user_organisation_select && !!@local.user_state_select",
+            "matchedExpression": "!@local.user_organisation_select",
+            "type": "local",
+            "fieldName": "user_organisation_select"
+          },
+          {
+            "fullExpression": "!!@local.user_profession_select && !!@local.user_organisation_select && !!@local.user_state_select",
+            "matchedExpression": "!@local.user_state_select",
+            "type": "local",
+            "fieldName": "user_state_select"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "!@local.user_profession_select": [
+          "value"
+        ],
+        "!@local.user_organisation_select": [
+          "value"
+        ],
+        "!@local.user_state_select": [
+          "value"
+        ]
+      }
+    },
+    {
+      "type": "display_group",
+      "name": "dg_footer",
+      "parameter_list": {
+        "sticky": "bottom"
+      },
+      "style_list": [
+        "padding: 12px 24px"
+      ],
+      "rows": [
+        {
+          "type": "round_button",
+          "name": "button_back",
+          "action_list": [
+            {
+              "trigger": "click",
+              "action_id": "emit",
+              "args": [
+                "uncompleted"
+              ],
+              "_raw": "click | emit: uncompleted",
+              "_cleaned": "click | emit: uncompleted"
+            }
+          ],
+          "parameter_list": {
+            "icon_src": "arrow-back",
+            "variant": "no-background"
+          },
+          "_nested_name": "dg_footer.button_back"
+        },
+        {
+          "type": "button",
+          "name": "button_completed",
+          "value": "@global.continue",
+          "_translations": {
+            "value": {}
+          },
+          "action_list": [
+            {
+              "trigger": "click",
+              "action_id": "set_field",
+              "args": [
+                "user_profession",
+                "@local.user_profession_select"
+              ],
+              "_raw": "click | set_field: user_profession: @local.user_profession_select",
+              "_cleaned": "click | set_field: user_profession: @local.user_profession_select"
+            },
+            {
+              "trigger": "click",
+              "action_id": "set_field",
+              "args": [
+                "user_organisation",
+                "@local.user_organisation_select"
+              ],
+              "_raw": "click | set_field: user_organisation: @local.user_organisation_select",
+              "_cleaned": "click | set_field: user_organisation: @local.user_organisation_select"
+            },
+            {
+              "trigger": "click",
+              "action_id": "set_field",
+              "args": [
+                "user_state",
+                "@local.user_state_select"
+              ],
+              "_raw": "click | set_field: user_state: @local.user_state_select",
+              "_cleaned": "click | set_field: user_state: @local.user_state_select"
+            },
+            {
+              "trigger": "click",
+              "action_id": "emit",
+              "args": [
+                "completed"
+              ],
+              "_raw": "click | emit: completed",
+              "_cleaned": "click | emit: completed"
+            }
+          ],
+          "parameter_list": {
+            "style": "navigation",
+            "disabled": "!@local.completed_enabled"
+          },
+          "style_list": [
+            "flex: 1"
+          ],
+          "_nested_name": "dg_footer.button_completed",
+          "_dynamicFields": {
+            "value": [
+              {
+                "fullExpression": "@global.continue",
+                "matchedExpression": "@global.continue",
+                "type": "global",
+                "fieldName": "continue"
+              }
+            ],
+            "action_list": {
+              "0": {
+                "args": {
+                  "1": [
+                    {
+                      "fullExpression": "@local.user_profession_select",
+                      "matchedExpression": "@local.user_profession_select",
+                      "type": "local",
+                      "fieldName": "user_profession_select"
+                    }
+                  ]
+                },
+                "_raw": [
+                  {
+                    "fullExpression": "click | set_field: user_profession: @local.user_profession_select",
+                    "matchedExpression": "@local.user_profession_select",
+                    "type": "local",
+                    "fieldName": "user_profession_select"
+                  }
+                ],
+                "_cleaned": [
+                  {
+                    "fullExpression": "click | set_field: user_profession: @local.user_profession_select",
+                    "matchedExpression": "@local.user_profession_select",
+                    "type": "local",
+                    "fieldName": "user_profession_select"
+                  }
+                ]
+              },
+              "1": {
+                "args": {
+                  "1": [
+                    {
+                      "fullExpression": "@local.user_organisation_select",
+                      "matchedExpression": "@local.user_organisation_select",
+                      "type": "local",
+                      "fieldName": "user_organisation_select"
+                    }
+                  ]
+                },
+                "_raw": [
+                  {
+                    "fullExpression": "click | set_field: user_organisation: @local.user_organisation_select",
+                    "matchedExpression": "@local.user_organisation_select",
+                    "type": "local",
+                    "fieldName": "user_organisation_select"
+                  }
+                ],
+                "_cleaned": [
+                  {
+                    "fullExpression": "click | set_field: user_organisation: @local.user_organisation_select",
+                    "matchedExpression": "@local.user_organisation_select",
+                    "type": "local",
+                    "fieldName": "user_organisation_select"
+                  }
+                ]
+              },
+              "2": {
+                "args": {
+                  "1": [
+                    {
+                      "fullExpression": "@local.user_state_select",
+                      "matchedExpression": "@local.user_state_select",
+                      "type": "local",
+                      "fieldName": "user_state_select"
+                    }
+                  ]
+                },
+                "_raw": [
+                  {
+                    "fullExpression": "click | set_field: user_state: @local.user_state_select",
+                    "matchedExpression": "@local.user_state_select",
+                    "type": "local",
+                    "fieldName": "user_state_select"
+                  }
+                ],
+                "_cleaned": [
+                  {
+                    "fullExpression": "click | set_field: user_state: @local.user_state_select",
+                    "matchedExpression": "@local.user_state_select",
+                    "type": "local",
+                    "fieldName": "user_state_select"
+                  }
+                ]
+              }
+            },
+            "parameter_list": {
+              "disabled": [
+                {
+                  "fullExpression": "!@local.completed_enabled",
+                  "matchedExpression": "!@local.completed_enabled",
+                  "type": "local",
+                  "fieldName": "completed_enabled"
+                }
+              ]
+            }
+          },
+          "_dynamicDependencies": {
+            "@global.continue": [
+              "value"
+            ],
+            "@local.user_profession_select": [
+              "action_list.0.args.1",
+              "action_list.0._raw",
+              "action_list.0._cleaned"
+            ],
+            "@local.user_organisation_select": [
+              "action_list.1.args.1",
+              "action_list.1._raw",
+              "action_list.1._cleaned"
+            ],
+            "@local.user_state_select": [
+              "action_list.2.args.1",
+              "action_list.2._raw",
+              "action_list.2._cleaned"
+            ],
+            "!@local.completed_enabled": [
+              "parameter_list.disabled"
+            ]
+          }
+        }
+      ],
+      "_nested_name": "dg_footer"
+    }
+  ],
+  "_xlsxPath": "templates/MX onboarding templates.xlsx",
+  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1rFg8qsmb3xSOXw_9Iwxk8RgSmyjqiao9"
+}

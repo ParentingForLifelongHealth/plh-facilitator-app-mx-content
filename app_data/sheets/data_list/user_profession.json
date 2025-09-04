@@ -1,45 +1,45 @@
 {
   "flow_type": "data_list",
-  "flow_name": "user_type",
+  "flow_name": "user_profession",
   "status": "released",
-  "data_list_name": "user_type",
+  "data_list_name": "user_profession",
   "rows": [
     {
-      "id": "coach",
-      "name": "coach",
-      "text": "Coach",
+      "id": "social_worker",
+      "name": "social_worker",
+      "text": "Social worker",
       "_translations": {
         "text": {}
       },
       "_translatedFields": {
         "text": {
-          "eng": "Coach"
+          "eng": "Social worker"
         }
       }
     },
     {
-      "id": "facilitator",
-      "name": "facilitator",
-      "text": "Facilitator",
+      "id": "psychologist",
+      "name": "psychologist",
+      "text": "Psychologist",
       "_translations": {
         "text": {}
       },
       "_translatedFields": {
         "text": {
-          "eng": "Facilitator"
+          "eng": "Psychologist"
         }
       }
     },
     {
-      "id": "tester",
-      "name": "tester",
-      "text": "System tester",
+      "id": "educator",
+      "name": "educator",
+      "text": "Educator",
       "_translations": {
         "text": {}
       },
       "_translatedFields": {
         "text": {
-          "eng": "System tester"
+          "eng": "Educator"
         }
       }
     },

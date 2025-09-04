@@ -10,8 +10,16 @@
         "count": 1
       },
       {
-        "type": "apple_sign_in_button",
+        "type": "animated_section",
         "count": 1
+      },
+      {
+        "type": "animated_slides",
+        "count": 1
+      },
+      {
+        "type": "apple_sign_in_button",
+        "count": 2
       },
       {
         "type": "audio",
@@ -19,7 +27,7 @@
       },
       {
         "type": "button",
-        "count": 103
+        "count": 112
       },
       {
         "type": "carousel",
@@ -27,11 +35,11 @@
       },
       {
         "type": "combo_box",
-        "count": 4
+        "count": 14
       },
       {
         "type": "data_items",
-        "count": 42
+        "count": 47
       },
       {
         "type": "debug_toggle",
@@ -43,7 +51,7 @@
       },
       {
         "type": "display_group",
-        "count": 120
+        "count": 135
       },
       {
         "type": "drawer",
@@ -51,19 +59,19 @@
       },
       {
         "type": "google_sign_in_button",
-        "count": 2
+        "count": 3
       },
       {
         "type": "image",
-        "count": 17
+        "count": 21
       },
       {
         "type": "items",
-        "count": 20
+        "count": 21
       },
       {
         "type": "lottie_animation",
-        "count": 7
+        "count": 8
       },
       {
         "type": "navigation_bar",
@@ -79,11 +87,11 @@
       },
       {
         "type": "radio_button_grid",
-        "count": 8
+        "count": 9
       },
       {
         "type": "round_button",
-        "count": 31
+        "count": 32
       },
       {
         "type": "select_text",
@@ -95,7 +103,7 @@
       },
       {
         "type": "set_variable",
-        "count": 610
+        "count": 619
       },
       {
         "type": "simple_checkbox",
@@ -107,11 +115,11 @@
       },
       {
         "type": "task_progress_bar",
-        "count": 1
+        "count": 2
       },
       {
         "type": "template",
-        "count": 99
+        "count": 104
       },
       {
         "type": "test",
@@ -119,7 +127,7 @@
       },
       {
         "type": "text",
-        "count": 170
+        "count": 183
       },
       {
         "type": "text_area",
@@ -127,11 +135,11 @@
       },
       {
         "type": "text_box",
-        "count": 21
+        "count": 23
       },
       {
         "type": "title",
-        "count": 42
+        "count": 48
       },
       {
         "type": "toggle_bar",
@@ -163,7 +171,7 @@
       },
       {
         "type": "emit: completed",
-        "count": 37
+        "count": 44
       },
       {
         "type": "emit: force_reload",
@@ -171,7 +179,7 @@
       },
       {
         "type": "emit: force_reprocess",
-        "count": 19
+        "count": 21
       },
       {
         "type": "emit: force_restart",
@@ -183,11 +191,11 @@
       },
       {
         "type": "emit: set_language",
-        "count": 1
+        "count": 2
       },
       {
         "type": "emit: uncompleted",
-        "count": 70
+        "count": 72
       },
       {
         "type": "feedback",
@@ -207,15 +215,15 @@
       },
       {
         "type": "pop_up",
-        "count": 14
+        "count": 16
       },
       {
         "type": "reset_app",
-        "count": 3
+        "count": 4
       },
       {
         "type": "reset_data",
-        "count": 2
+        "count": 3
       },
       {
         "type": "save_to_device",
@@ -223,11 +231,11 @@
       },
       {
         "type": "set_data",
-        "count": 22
+        "count": 24
       },
       {
         "type": "set_field",
-        "count": 66
+        "count": 78
       },
       {
         "type": "set_item",
@@ -235,7 +243,7 @@
       },
       {
         "type": "set_local",
-        "count": 44
+        "count": 46
       },
       {
         "type": "share",
@@ -243,7 +251,7 @@
       },
       {
         "type": "user",
-        "count": 3
+        "count": 4
       }
     ]
   },
@@ -256,8 +264,8 @@
       },
       {
         "assets": "unused",
-        "KB": "1127 KB",
-        "MB": "1.1 MB"
+        "KB": "1219 KB",
+        "MB": "1.2 MB"
       }
     ]
   },
@@ -281,7 +289,7 @@
       },
       {
         "path": "contents.json",
-        "size_kb": 2.8
+        "size_kb": 2.7
       },
       {
         "path": "images/backgrounds/library_bottom_left.svg",
@@ -298,6 +306,14 @@
       {
         "path": "images/during_disclosed_abuse.svg",
         "size_kb": 7.7
+      },
+      {
+        "path": "images/flags/gb.svg",
+        "size_kb": 0.5
+      },
+      {
+        "path": "images/flags/mx.svg",
+        "size_kb": 91.3
       },
       {
         "path": "images/flags/my.svg",
@@ -459,6 +475,11 @@
         "missing": true
       },
       {
+        "path": "images/logos/plh_logomark.png",
+        "count": 1,
+        "missing": true
+      },
+      {
         "path": "lottie/checkmark_blue.json",
         "count": 2,
         "missing": true
@@ -516,16 +537,6 @@
         "path": "images/faq_no_participation_general.svg",
         "count": 1,
         "size_kb": 20.3
-      },
-      {
-        "path": "images/flags/gb.svg",
-        "count": 2,
-        "size_kb": 0.5
-      },
-      {
-        "path": "images/flags/mx.svg",
-        "count": 2,
-        "size_kb": 91.3
       },
       {
         "path": "images/icons/add_circle.svg",
@@ -728,6 +739,11 @@
         "size_kb": 1.9
       },
       {
+        "path": "images/logos/full_on_dark.png",
+        "count": 1,
+        "size_kb": 68.5
+      },
+      {
         "path": "images/logos/nip.png",
         "count": 1,
         "size_kb": 11.9
@@ -838,6 +854,11 @@
         "size_kb": 87.6
       },
       {
+        "path": "lottie/checkmark.json",
+        "count": 1,
+        "size_kb": 23.6
+      },
+      {
         "path": "pdf/manual.pdf",
         "count": 1,
         "size_kb": 1107.6
@@ -864,7 +885,7 @@
       {
         "type": "data_list",
         "subtype": null,
-        "total": 27
+        "total": 32
       },
       {
         "type": "data_list",
@@ -907,9 +928,14 @@
         "total": 2
       },
       {
+        "type": "global",
+        "subtype": "onboarding",
+        "total": 2
+      },
+      {
         "type": "template",
         "subtype": null,
-        "total": 78
+        "total": 86
       },
       {
         "type": "template",

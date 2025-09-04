@@ -4,17 +4,18 @@ const config = extendDeploymentConfig({ name: "plh_facilitator_mx", parent: "plh
 
 config.google_drive.sheets_folder_ids =  [
     "19wSspWYMbRc75een-kS0q0aq24--75u8", // library_app_menu
-    "1Jo1-q7KOE4gC2XRKEMcU9bXnrwB5oCRC",  //Global
-    "1rFg8qsmb3xSOXw_9Iwxk8RgSmyjqiao9"   //MX Sheets
+    "1Jo1-q7KOE4gC2XRKEMcU9bXnrwB5oCRC", // Global facilitator
+    "1XBq4iGIZHEwzwPk3xbHDAm9WCesjR7kR", // library PLH onboarding
+    "1rFg8qsmb3xSOXw_9Iwxk8RgSmyjqiao9"   // MX facilitator
   ];
 config.google_drive.assets_folder_ids = [
-  "1nrj0QSvhVKdUaPFrnCB6CyXSCvpozBDK", //Global
+  "1nrj0QSvhVKdUaPFrnCB6CyXSCvpozBDK", // Global
   "1tr76W9OusHHkjJ4DNR84x-B26VgGCSFy" //MX Assets
 ];
 
 config.git = {
   content_repo: "https://github.com/IDEMSInternational/plh-facilitator-app-mx-content.git",
-  content_tag_latest: "2.1.29",
+  content_tag_latest: "2.1.30",
 };
 
 config.android = {

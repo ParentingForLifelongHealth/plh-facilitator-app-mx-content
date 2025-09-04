@@ -1,0 +1,177 @@
+{
+  "flow_type": "global",
+  "flow_subtype": "onboarding",
+  "flow_name": "onboarding_global_mx",
+  "status": "released",
+  "rows": [
+    {
+      "type": "declare_global_constant",
+      "name": "has_onboarding_language_select",
+      "value": true,
+      "exclude_from_translation": true
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "has_onboarding_splash",
+      "value": false,
+      "exclude_from_translation": true
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "has_onboarding_terms_login",
+      "value": true,
+      "exclude_from_translation": true
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "login_is_mandatory",
+      "value": false,
+      "exclude_from_translation": true
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "has_onboarding_settings",
+      "value": true,
+      "exclude_from_translation": true
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "onboarding_header_background_colour",
+      "value": "#0e3a5a",
+      "_translations": {
+        "value": {}
+      },
+      "exclude_from_translation": true
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "onboarding_header_image_asset",
+      "value": "images/logos/full_on_dark.png",
+      "_translations": {
+        "value": {}
+      },
+      "exclude_from_translation": true
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "onboarding_header_image_height",
+      "value": "120px",
+      "_translations": {
+        "value": {}
+      },
+      "exclude_from_translation": true
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "onboarding_footer_image_asset",
+      "exclude_from_translation": true
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "onboarding_completed_lottie_asset",
+      "value": "lottie/checkmark.json",
+      "_translations": {
+        "value": {}
+      },
+      "exclude_from_translation": true
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "question_user_name",
+      "value": "What is your name?",
+      "_translations": {
+        "value": {}
+      }
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "placeholder_user_name",
+      "value": "Enter name",
+      "_translations": {
+        "value": {}
+      }
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "question_user_gender",
+      "value": "What is your gender?",
+      "_translations": {
+        "value": {}
+      }
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "placeholder_user_gender",
+      "value": "Select gender",
+      "_translations": {
+        "value": {}
+      }
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "question_user_type",
+      "value": "What is your role?",
+      "_translations": {
+        "value": {}
+      }
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "placeholder_user_type",
+      "value": "Select role",
+      "_translations": {
+        "value": {}
+      }
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "question_user_profession",
+      "value": "I am a:",
+      "_translations": {
+        "value": {}
+      }
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "placeholder_user_profession",
+      "value": "Select profession",
+      "_translations": {
+        "value": {}
+      }
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "question_user_organisation",
+      "value": "Select your organisation:",
+      "_translations": {
+        "value": {}
+      }
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "placeholder_user_organisation",
+      "value": "Select organisation",
+      "_translations": {
+        "value": {}
+      }
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "question_user_state",
+      "value": "Select your state:",
+      "_translations": {
+        "value": {}
+      }
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "placeholder_user_state",
+      "value": "Select state",
+      "_translations": {
+        "value": {}
+      }
+    }
+  ],
+  "_xlsxPath": "data/MX onboarding.xlsx",
+  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1rFg8qsmb3xSOXw_9Iwxk8RgSmyjqiao9"
+}
