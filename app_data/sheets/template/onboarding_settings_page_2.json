@@ -326,7 +326,7 @@
         "value": {}
       },
       "parameter_list": {
-        "answer_list": "@data.user_state",
+        "answer_list": "@data.state",
         "placeholder": "@global.placeholder_user_state",
         "variant": "dropdown"
       },
@@ -345,10 +345,10 @@
         "parameter_list": {
           "answer_list": [
             {
-              "fullExpression": "@data.user_state",
-              "matchedExpression": "@data.user_state",
+              "fullExpression": "@data.state",
+              "matchedExpression": "@data.state",
               "type": "data",
-              "fieldName": "user_state"
+              "fieldName": "state"
             }
           ],
           "placeholder": [
@@ -373,7 +373,7 @@
         "@fields.user_state": [
           "value"
         ],
-        "@data.user_state": [
+        "@data.state": [
           "parameter_list.answer_list"
         ],
         "@global.placeholder_user_state": [
