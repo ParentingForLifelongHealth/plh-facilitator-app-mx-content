@@ -4,7 +4,9 @@ This package contains data used in the Mexico PLH facilitator version of the app
 Linked directly to PLH facilitator https://github.com/IDEMSInternational/plh-facilitator-app-content
 
 ## App Preview
-https://plh-facilitator-mx.web.app/
+Testing: https://plh-facilitator-mx-uat1.web.app/
+
+Production: https://plh-facilitator-mx1.web.app/
 
 ## Syncing data updates
 Data can be syncd from corresponding google drive folders via the script
