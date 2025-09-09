@@ -8,7 +8,9 @@
       "id": "text_1",
       "text": "@global.app_name is an app designed by IDEMS International and Parenting for Lifelong Health to support the scale up of Crianza con Conciencia + in Mexico. Illustrations are adaptations of original work by Orli Setton, created by Nicole Colixto for Parenting for Lifelong Health. The content herein is shared under a CC BY-SA 4.0 International licence. It was developed in collaboration with key partners:",
       "_translations": {
-        "text": {}
+        "text": {
+          "mx_es": true
+        }
       },
       "_translatedFields": {
         "text": {

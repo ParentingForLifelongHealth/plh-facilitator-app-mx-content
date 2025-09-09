@@ -69,7 +69,9 @@
       "name": "text_warning",
       "value": "Archiving this group will remove it from your active list.\nYou can still view its data later if needed.",
       "_translations": {
-        "value": {}
+        "value": {
+          "mx_es": true
+        }
       },
       "_nested_name": "text_warning"
     },

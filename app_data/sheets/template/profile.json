@@ -513,7 +513,9 @@
       "name": "terms",
       "value": "App Details & Terms",
       "_translations": {
-        "value": {}
+        "value": {
+          "mx_es": true
+        }
       },
       "parameter_list": {
         "variant": "section_banner"

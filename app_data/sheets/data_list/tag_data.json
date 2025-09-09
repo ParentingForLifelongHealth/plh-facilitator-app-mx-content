@@ -8,7 +8,9 @@
       "id": "cc",
       "title": "Crianza con Conciencia +",
       "_translations": {
-        "title": {}
+        "title": {
+          "mx_es": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -21,7 +23,9 @@
       "user_state": "chihuahua",
       "title": "Crianza Afectiva",
       "_translations": {
-        "title": {}
+        "title": {
+          "mx_es": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -33,7 +37,9 @@
       "id": "demo",
       "title": "Demo",
       "_translations": {
-        "title": {}
+        "title": {
+          "mx_es": true
+        }
       },
       "_translatedFields": {
         "title": {

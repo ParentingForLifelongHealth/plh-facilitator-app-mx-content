@@ -132,7 +132,9 @@
       "name": "sessions_no_groups",
       "value": "Chat Sessions will load after you select a parent group",
       "_translations": {
-        "value": {}
+        "value": {
+          "mx_es": true
+        }
       }
     },
     {
@@ -168,7 +170,9 @@
       "name": "edit_text_id",
       "value": "Parent Text ID",
       "_translations": {
-        "value": {}
+        "value": {
+          "mx_es": true
+        }
       }
     },
     {
@@ -247,7 +251,9 @@
       "name": "copied_message",
       "value": "Copied to clipboard",
       "_translations": {
-        "value": {}
+        "value": {
+          "mx_es": true
+        }
       }
     },
     {
@@ -255,7 +261,9 @@
       "name": "incomplete_parent",
       "value": "This profile is incomplete. Open to complete the missing details.",
       "_translations": {
-        "value": {}
+        "value": {
+          "mx_es": true
+        }
       }
     },
     {
@@ -263,7 +271,9 @@
       "name": "pdf_compatibility_error_message",
       "value": "Embedded PDFs are not supported in this browser, please use an up-to-date version of Google Chrome to view or open in external app",
       "_translations": {
-        "value": {}
+        "value": {
+          "mx_es": true
+        }
       }
     },
     {
@@ -271,7 +281,9 @@
       "name": "pdf_open_external_text",
       "value": "Open with...",
       "_translations": {
-        "value": {}
+        "value": {
+          "mx_es": true
+        }
       }
     }
   ],
