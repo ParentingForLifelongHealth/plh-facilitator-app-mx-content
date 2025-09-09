@@ -436,7 +436,9 @@
       "name": "question_4",
       "value": "Which of the parents in this group attended your @global.virtual_session_platform group session?",
       "_translations": {
-        "value": {}
+        "value": {
+          "mx_es": true
+        }
       },
       "_nested_name": "question_4",
       "_dynamicFields": {

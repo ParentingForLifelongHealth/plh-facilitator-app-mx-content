@@ -43,7 +43,9 @@
           "name": "button_dynamic_data",
           "value": "Dynamic data",
           "_translations": {
-            "value": {}
+            "value": {
+              "mx_es": true
+            }
           },
           "action_list": [
             {

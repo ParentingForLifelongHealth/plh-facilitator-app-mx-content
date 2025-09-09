@@ -10,7 +10,9 @@
       "name": "programme_name",
       "value": "Crianza Afectiva",
       "_translations": {
-        "value": {}
+        "value": {
+          "mx_es": true
+        }
       },
       "exclude_from_translation": true
     }

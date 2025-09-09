@@ -7,7 +7,9 @@
       "id": "cc",
       "title": "Crianza con Conciencia +",
       "_translations": {
-        "title": {}
+        "title": {
+          "mx_es": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -21,7 +23,9 @@
       "id": "study_dif_chih",
       "title": "Crianza Afectiva",
       "_translations": {
-        "title": {}
+        "title": {
+          "mx_es": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -36,7 +40,9 @@
       "id": "demo",
       "title": "Demo",
       "_translations": {
-        "title": {}
+        "title": {
+          "mx_es": true
+        }
       },
       "_translatedFields": {
         "title": {

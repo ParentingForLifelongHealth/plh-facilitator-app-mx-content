@@ -1,5 +1,119 @@
 [
   {
+    "SourceText": "User Agreement",
+    "text": "Acuerdo del Usuario",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "These @global.terms_and_conditions are an agreement between you and @global.app_name (or ‘the app’) which furthermore sets out the rules for your use of @global.app_name.\n\n@global.app_name is a free app, that seeks to support facilitators and other implementers in their role in delivering Parenting for Lifelong Health in-person or hybrid programmes. Within the Mexican context, the app will support facilitators of the Familias en Cambio Programme acting as a ‘guide in your pocket’ enabling facilitators to track a) parental attendance and b) co-caregivers of those registered for the project who will be using ParentText.\n\n@global.app_name is brought to you by the collaboration of partners including Parenting for Lifelong Health, University of Oxford, IDEMS International, INNODEMS and UNICEF Mexico, and the National Institute of Psychiatry (‘the @global.app_name team’).\n\nPlease read these @global.terms_and_conditions carefully. By downloading or using the app, you agree that you have read, understood, and accepted the @global.terms_and_conditions contained below.\n\nYour privacy is important to us – please also read our @global.privacy_policy, which will detail how we collect, store and use the information that you provide to us. By using @global.app_name you are confirming to us that you are further agreeing to our @global.privacy_policy, as set out separately.",
+    "text": "Estos @global.terms_and_conditions son un acuerdo entre tú y @global.app_name (o \"la app\") que además establece las normas para tu uso de @global.app_name.\n\n@global.app_name es una app gratuita, que pretende apoyar a las personas facilitadoras e implementadoras en su función de impartir programas presenciales o híbridos de Parenting for Lifelong Health. En el contexto mexicano, la app apoyará a las personas facilitadoras del Programa Crianza con Conciencia + actuando como una \"guía en tu bolsillo\" que permitirá a las personas facilitadoras hacer un seguimiento de a) la asistencia de los padres/madres y b) las personas que comparten la crianza con  las personas inscritas en el proyecto que utilizarán el chat automatizado de Crianza con Conciencia +.\n\n@global.app_name es fruto de la colaboración de socios como Parenting for Lifelong Health, Universidad de Oxford, IDEMS Internacional, INNODEMS y UNICEF México, y el Instituto Nacional de Psiquiatría Ramón de la Fuente Muñiz (\"el equipo de @global.app_name\").\n\nLee atentamente estos @global.terms_and_conditions. Al descargar o utilizar la aplicación, aceptas que has leído, entendido y aceptado los @global.terms_and_conditions contenidos a continuación.\n\nTu privacidad es importante para nosotros; lee también nuestra política de privacidad @global.privacy_policy, en la que se detalla cómo recopilamos, almacenamos y utilizamos la información que nos proporcionas. Al utilizar @global.app_name nos confirmas que aceptas nuestra @global.privacy_policy, tal y como se establece por separado.",
+    "type": "data_list",
+    "note": "The following strings should not be translated:\n@global.terms_and_conditions\n@global.app_name\n@global.app_name.\n@global.app_name\n@global.app_name\n@global.app_name\n@global.terms_and_conditions\n@global.terms_and_conditions\n@global.privacy_policy,\n@global.app_name\n@global.privacy_policy,"
+  },
+  {
+    "SourceText": "Rules of Usage",
+    "text": "Normas de Uso",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "@global.app_name is open-source, which means that its codebase can be found on GitHub for the wider software developer community. However, it's against the terms of use to alter the existing application or its materials, or to replicate any trademarks from the @global.app_name team. Although open source, refrain from translating the software into other languages or creating alternate versions without crediting the @global.app_name team. Unauthorised access to confidential user data is forbidden. It's not acceptable to provide false information about yourself when using the app, make unfounded claims of affiliation, or inaccurately report the app's behaviour. Ensure that your usage of the app adheres to all local rules and laws. Finally in accessing and using the app, we believe you not to be a minor in your country of residence.",
+    "text": "@global.app_name es de código abierto, lo que significa que su código base puede encontrarse en GitHub para la comunidad de desarrolladores de software en general. Sin embargo, va en contra de las condiciones de uso alterar la aplicación existente o sus materiales, o replicar cualquier marca registrada del equipo de @global.app_name. Aunque es de código abierto, abstente de traducir el software a otros idiomas o de crear versiones alternativas sin acreditar al equipo de @global.app_name. Está prohibido el acceso no autorizado a datos confidenciales de los usuarios. No es aceptable proporcionar información falsa sobre ti mismo cuando utilices la app, hacer afirmaciones infundadas sobre tu afiliación o informar de forma inexacta sobre el comportamiento de la app. Asegúrate de que tu uso de la aplicación cumple todas las normas y leyes locales. Por último, al acceder y utilizar la app, consideramos que no eres menor de edad en tu país de residencia.",
+    "type": "data_list",
+    "note": "The following strings should not be translated:\n@global.app_name\n@global.app_name\n@global.app_name"
+  },
+  {
+    "SourceText": "Content Changes",
+    "text": "Cambios en el Contenido",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "The @global.app_name team is committed to ensuring that the app is as useful and user friendly as possible. For that reason, we reserve the right to make changes to the app which will be delivered through updates. At present the app is free of charge and our intention is for it to stay that way.\n\nIn the future it is possible that some services may be offered that would incur a cost. We will never charge you for the app or its services without clearly making known to you first any access charges applicable.",
+    "text": "El equipo de @global.app_name se compromete a garantizar que la aplicación sea lo más útil y fácil de usar posible. Por ese motivo, nos reservamos el derecho a realizar cambios en la aplicación, que se comunicarán mediante actualizaciones. Actualmente la aplicación es gratuita y nuestra intención es que siga siéndolo.\n\nEn el futuro es posible que se ofrezcan algunos servicios que supongan un costo. Nunca te cobraremos por la aplicación o sus servicios sin informarte antes claramente de cualquier coste de acceso aplicable.",
+    "type": "data_list",
+    "note": "The string @global.app_name should not be translated."
+  },
+  {
+    "SourceText": "Intellectual property",
+    "text": "Propiedad intelectual",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "The app itself, the trademarks, copyright, database rights and other intellectual property rights related to it, belong to or are licensed to the various applicable collaborators of the @global.app_name team (noting that code is covered under GPL 3 and content by CC BY licence). The use of names and emblems/logos of collaborating institutions are the exclusive property of those institutions and are protected under international and national laws. Unauthorised use is prohibited. Logos may not be copied or reproduced in any way without the prior written permission of said institution.",
+    "text": "La aplicación en sí, las marcas registradas, los derechos de autor, los derechos sobre la base de datos y otros derechos de propiedad intelectual relacionados con ella, pertenecen o están licenciados a los diversos colaboradores aplicables del equipo @global.app_name (señalando que el código está cubierto por la licencia GPL 3 y el contenido por la licencia CC BY). El uso de nombres y emblemas/logos de las instituciones colaboradoras son propiedad exclusiva de dichas instituciones y están protegidos por las leyes internacionales y nacionales. Queda prohibido su uso no autorizado. Los logotipos no pueden copiarse ni reproducirse de ninguna manera sin el permiso previo por escrito de dicha institución.",
+    "type": "data_list",
+    "note": "The string @global.app_name should not be translated."
+  },
+  {
+    "SourceText": "Submissions",
+    "text": "Envíos",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Your feedback on the app is appreciated. So that we can improve, any comments are not considered confidential and will become available for further lawful use without additional approval or compensation. We shall therefore own exclusive rights and believe any feedback that you have made is original by you.",
+    "text": "Agradecemos tus comentarios sobre la aplicación. Para que podamos mejorar, cualquier comentario no se considerará confidencial y estará disponible para su uso legal posterior sin necesidad de aprobación o compensación adicional. Por lo tanto, tendremos derechos exclusivos y consideraremos que cualquier comentario que hayas hecho es original de tu autoría.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Security",
+    "text": "Seguridad",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Our app stores and processes personal data that you have provided to us, in order to offer our services. It is your responsibility to keep your phone and access to the app secure. Removal of software restrictions and limitations imposed by the official operating system of your device is therefore not recommended. Doing so could make your phone vulnerable to malware, viruses, malicious programs as well as compromise your phone’s security features and could mean that the app will not work properly or at all.\n\nTo see how we handle your personal information, please see our @global.privacy_policy.",
+    "text": "Nuestra app almacena y procesa los datos personales que nos has proporcionado, con el fin de ofrecerte nuestros servicios. Es tu responsabilidad mantener tu teléfono y el acceso a la app seguros. Por lo tanto, no se recomienda eliminar las restricciones y limitaciones de software impuestas por el sistema operativo oficial de tu dispositivo. Hacerlo podría hacer que tu teléfono fuera vulnerable a malware, virus, programas maliciosos, así como comprometer las funciones de seguridad de tu teléfono, y podría significar que la app no funcionara correctamente o no funcionara en absoluto.\n\nPara saber cómo tratamos tu información personal, consulta nuestra política de privacidad @global.privacy_policy.",
+    "type": "data_list",
+    "note": "The string @global.privacy_policy. should not be translated."
+  },
+  {
+    "SourceText": "External links and resources",
+    "text": "Enlaces y recursos externos",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "The app uses third party services that declare their own @global.terms_and_conditions and may link to other websites and resources that are not under the app's control.\n\nLinks to @global.terms_and_conditions of third party service providers used by the app include:\n\n-   [Google Play Services](https://policies.google.com/terms)\n-   [Google Analytics for Firebase](https://firebase.google.com/terms/analytics)\n-   [Sentry](https://sentry.io/terms/)\n-   [Matomo](https://matomo.org/matomo-cloud-terms-of-service/)\n-   [GlitchTip](https://glitchtip.com/legal/tos)\n\nThe inclusion of such links does not imply an endorsement or approval by the app and/or its partners of any website, product, or service. Similarly, the app and the @global.app_name team affiliated developers and collaborators do not assume any responsibility or liability in respect of such websites, product, or service, including, for example, responsibility or liability for the accuracy or reliability of any information, data, opinions, advice or statements made on those web sites.",
+    "text": "La aplicación utiliza servicios de terceros que declaran sus propios términos y condiciones @global.terms_and_conditions y pueden enlazar con otros sitios web y recursos que no están bajo el control de la aplicación.\n\nLos enlaces a @global.terms_and_conditions de proveedores de servicios de terceros utilizados por la app incluyen:\n\n- [Google Play Services](https://policies.google.com/terms)\n- [Google Analytics para Firebase](https://firebase.google.com/terms/analytics)\n- [Sentry](https://sentry.io/terms/)\n- [Matomo](https://matomo.org/matomo-cloud-terms-of-service/)\n- [GlitchTip](https://glitchtip.com/legal/tos)\n\nLa inclusión de dichos enlaces no implica la aprobación o respaldo por parte de la app y/o sus socios de ningún sitio web, producto o servicio. Del mismo modo, la app y los desarrolladores y colaboradores afiliados al equipo @global.app_name no asumen ninguna responsabilidad u obligación con respecto a dichos sitios web, producto o servicio, incluyendo, por ejemplo, la responsabilidad u obligación por la exactitud o fiabilidad de cualquier información, datos, opiniones, consejos o declaraciones realizadas en dichos sitios web.",
+    "type": "data_list",
+    "note": "The following strings should not be translated:\n@global.terms_and_conditions\n@global.terms_and_conditions\n@global.app_name"
+  },
+  {
+    "SourceText": "Disclaimer",
+    "text": "Exención de responsabilidad",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Please be aware that the @global.app_name team exclude responsibility for the following:\n\n1. Certain functions of the app will require the app to have an active internet connection. The @global.app_name team cannot take responsibility for the app not working at full functionality if you do not have access to Wi-Fi, or you do not have any of your data allowance left.\n\n2. Using the app outside of an area with Wi-Fi, will mean that your terms of agreement with your mobile network provider will still apply. As a result, you may be charged by your mobile provider for the cost of data for the duration of the connection while accessing the app, or other third party charges. In using the app, you accept responsibility for any such charges, including roaming data charges if you use the app outside of your home territory (i.e. region or country) without turning off data roaming. If you are not the bill payer for the device on which you are using the app, please be aware that we assume that you have received permission from the bill payer for using the app.\n\n3. Although we endeavour to ensure that the app is updated and its content accurate, we do rely on third parties to provide information to us so that we can make it available to you. We do not regularly check out all of the external sites and cannot guarantee that they are always accurate or reliable.\n\n4. The @global.app_name team accepts no liability for any damage or loss, direct or indirect, you experience as a result of using the app, or arising from any reliance you may place on advice or information provided from the app. You should always exercise your own discretion and judgement appropriate to your own circumstances in relation to any advice or information provided from the app.\n\n5. Any instances of software bugs, viruses or other malicious material transmitted by a third party through our site are a regret, but we are devoid of responsibility.\n\n6. Updates to the app occur regularly in order to improve performance and content. The app is available on Android -- the requirements for this system (and for any additional systems we decide to extend the availability of the app to) may change. It is your responsibility to download app updates to keep using the app. The @global.app_name team does not promise that it will always update the app so that it is relevant to you and/or works with the Android version that you have installed on your device. However, you agree to always accept updates to the application when offered to you.\n\n7. The app site might not be available at all times for reasons of maintenance or trouble with associated software or hardware. Whilst we apologise for inconveniences, we are not liable for any loss you may incur should the site not be accessible or is withdrawn. Equally, we have the right and choice to terminate your access and use of the app (including availability of captured data) at any time, without warning. Unless we tell you otherwise, upon any termination, (a) the rights and licences granted to you in these terms will end; (b) you must stop using the app, and (if needed) delete it from your device.\n\n8. You agree to indemnify, at your own expense, the @global.app_name, its officials, employees, consultants and agents, against any claims, including your costs and expenses, by any third party, resulting from your use of the app.\n\n9. Companies or products associated with the app should not be interpreted as endorsement by the app or the @global.app_name team or demonstrate an intention to infringe proprietary rights.",
+    "text": "Considera que el equipo de @global.app_name excluye la responsabilidad de lo siguiente:\n\n1. Ciertas funciones de la aplicación requerirán que esta tenga una conexión activa a Internet. El equipo de @global.app_name no puede responsabilizarse de que la aplicación no funcione a pleno rendimiento si no tienes acceso a Wi-Fi o si no te queda saldo de datos.\n\n2. Si utilizas la aplicación fuera de una zona con Wi-Fi, se seguirán aplicando las condiciones del contrato con tu proveedor de red móvil. Como resultado, es posible que tu proveedor de telefonía móvil te cobre el costo de los datos durante el tiempo que dure la conexión mientras accedes a la aplicación, u otros cargos de terceros. Al utilizar la aplicación, aceptas la responsabilidad de dichos cargos, incluidos los cargos por datos en roaming si utilizas la aplicación fuera de tu territorio nacional (es decir, región o país) sin desactivar el roaming de datos. Si tú no pagas la factura del dispositivo en el que utilizas la aplicación, considera que asumimos que has recibido permiso de la persona que paga la factura para utilizar la aplicación.\n\n3. Aunque nos esforzamos por garantizar la actualización de la aplicación y la exactitud de su contenido, dependemos de terceros que nos proporcionan información para que podamos ponerla a tu disposición. No verificamos regularmente todos los sitios externos y no podemos garantizar que sean siempre exactos o confiables.\n\n4. El equipo de @global.app_name no acepta ninguna responsabilidad por cualquier daño o pérdida, directa o indirecta, que experimentes como resultado del uso de la aplicación, o que se derive de la confianza que puedas depositar en los consejos o la información facilitados desde la aplicación. Siempre debes ejercer tu propia discreción y juicio adecuados a tus propias circunstancias en relación con cualquier consejo o información proporcionados desde la aplicación.\n\n5. Lamentamos cualquier caso de errores de software, virus u otro material malicioso transmitido por terceros a través de nuestro sitio, pero no asumimos ninguna responsabilidad.\n\n6. La aplicación se actualiza regularmente para mejorar su rendimiento y contenido. La app está disponible en Android -- los requisitos para este sistema (y para cualquier sistema adicional al que decidamos ampliar la disponibilidad de la app) pueden cambiar. Es tu responsabilidad descargar las actualizaciones de la aplicación para seguir utilizándola. El equipo de @global.app_name no promete que siempre actualizará la aplicación para que sea relevante para ti y/o funcione con la versión de Android que tengas instalada en tu dispositivo. Sin embargo, te comprometes a aceptar siempre las actualizaciones de la aplicación cuando se te ofrezcan.\n\n7. El sitio de la aplicación podría no estar disponible en todo momento por motivos de mantenimiento o problemas con el software o hardware asociados. Aunque te pedimos disculpas por los inconvenientes, no nos hacemos responsables de ninguna pérdida en la que puedas incurrir en caso de que el sitio no esté accesible o sea retirado. Del mismo modo, tenemos el derecho y la opción de poner fin a tu acceso y uso de la aplicación (incluida la disponibilidad de los datos capturados) en cualquier momento, sin previo aviso. A menos que te indiquemos lo contrario, después de cualquier terminación, (a) finalizarán los derechos y licencias que se te conceden en estas condiciones; (b) deberás dejar de utilizar la app y (si es necesario) borrarla de tu dispositivo.\n\n8. Aceptas indemnizar, a tu cargo, a @global.app_name, sus funcionarios, empleados, consultores y agentes, por cualquier reclamación, incluidos tus costes y gastos, por parte de cualquier tercero, que resulte de tu uso de la aplicación.\n\n9. Las empresas o productos asociados con la app no deben interpretarse como un respaldo de la app o del equipo de @global.app_name ni demostrar una intención de infringir derechos de propiedad.",
+    "type": "data_list",
+    "note": "The following strings should not be translated:\n@global.app_name\n@global.app_name\n@global.app_name\n@global.app_name\n@global.app_name,\n@global.app_name"
+  },
+  {
+    "SourceText": "Changes to the @global.terms_and_conditions",
+    "text": "Cambios en @global.terms_and_conditions",
+    "type": "data_list",
+    "note": "The string @global.terms_and_conditions should not be translated."
+  },
+  {
+    "SourceText": "We may update our @global.terms_and_conditions from time to time. You waive your right to be notified directly of changes and are advised to review this page periodically for any updates. Your continued use of the app suggests you agree to subsequent revisions of the @global.terms_and_conditions.",
+    "text": "Podemos actualizar nuestros @global.terms_and_conditions de vez en cuando. Renuncias a tu derecho a ser notificado directamente de los cambios y se te aconseja que revises esta página periódicamente para conocer las actualizaciones. Tu uso continuo de la aplicación sugiere que estás de acuerdo con las revisiones posteriores de los @global.terms_and_conditions.",
+    "type": "data_list",
+    "note": "The following strings should not be translated:\n@global.terms_and_conditions\n@global.terms_and_conditions."
+  },
+  {
+    "SourceText": "If you have any questions or suggestions about our @global.terms_and_conditions, do not hesitate to contact us at <apps@idems.international>.\n\n**Last updated: @global.deployment_terms_text**",
+    "text": "Si tienes alguna pregunta o sugerencia sobre nuestros @global.terms_and_conditions, no dudes en ponerte en contacto con nosotros en <apps@idems.international>.\n\n**Última actualización: @global.deployment_terms_text**",
+    "type": "data_list",
+    "note": "The following strings should not be translated:\n@global.terms_and_conditions,\n<apps@idems.international>.\n@global.deployment_terms_text**"
+  },
+  {
     "SourceText": "Your data is important to us. This @global.privacy_policy sets out our policies for the collection, use, and disclosure of personal information in the use of @global.app_name.\n\n@global.app_name is a free app, that seeks to support facilitators and other implementers in their role in delivering Parenting for Lifelong Health in-person or hybrid programmes. Within the Mexican context, the app will support facilitators of the Familias en Cambio Programme acting as a ‘guide in your pocket’ enabling facilitators to track a) parental attendance and b) co-caregivers of those registered for the project who will be using ParentText.\n\n@global.app_name is brought to you by the collaboration of partners including Parenting for Lifelong Health, University of Oxford, IDEMS International, INNODEMS and UNICEF Mexico, and the National Institute of Psychiatry (‘the @global.app_name team’).\n\nPlease read this @global.privacy_policy carefully. By downloading or using the app, you agree to the collection and use of information in relation to this policy. We will not use or share your information with anyone except as described in this @global.privacy_policy.\n\nThe terms used in this @global.privacy_policy have the same meanings as in our @global.terms_and_conditions, which are accessible within the app, unless otherwise defined in this @global.privacy_policy.",
     "text": "Tus datos son importantes para nosotros. Esta @global.privacy_policy establece nuestras políticas para la recopilación, uso y divulgación de información personal en el uso de @global.app_name.\n\n@global.app_name es una app gratuita, que busca apoyar a personas facilitadoras e implementadoras en su función de impartir programas presenciales o híbridos de Parenting for Lifelong Health. En el contexto dentro de México, la app apoyará a las personas facilitadoras del Programa Crianza con Conciencia + actuando como una \"guía en tu bolsillo\" que permitirá a las personas facilitadoras hacer un seguimiento de a) la asistencia de las madres, padres y personas cuidadoras y b) las personas que comparten la crianza con  las personas inscritas en el proyecto que utilizarán el chat automatizado de Crianza con Conciencia +.\n\n@global.app_name es fruto de la colaboración de socios como Parenting for Lifelong Health, Universidad de Oxford, IDEMS Internacional, INNODEMS, UNICEF México y el Instituto Nacional de Psiquiatría Ramón de la Fuente Muñiz (\"el equipo de @global.app_name\").\n\nPor favor, lee atentamente esta @global.privacy_policy. Al descargar o utilizar la app, aceptas la recopilación y el uso de información en relación con esta política. No utilizaremos ni compartiremos tu información con nadie excepto en los casos descritos en esta política de privacidad @global.privacy_policy.\n\nLos términos utilizados en esta @global.privacy_policy tienen el mismo significado que en nuestros @global.terms_and_conditions, accesibles dentro de la aplicación, a menos que se definan de otro modo en esta @global.privacy_policy.",
     "type": "data_list",
@@ -126,130 +240,16 @@
     "note": "The following strings should not be translated:\n@global.privacy_policy\n@global.privacy_policy."
   },
   {
-    "SourceText": "If you have any questions or suggestions about our @global.privacy_policy, complaints or otherwise do not hesitate to contact us at <apps@idems.international>.\n\nIf your concerns are not adequately addressed, you retain the right to file a complaint with the Information Commissioner's Office. You can reach them at 03031231113, contact them via https://ico.org.uk/global/contact-us/, or mail to the Information Commissioner’s Office, Wycliffe House, Water Lane, Wilmslow, Cheshire, SK9 5AF, England, UK.\n\n**Last updated: @global.deployment_terms_text**\n_This @global.privacy_policy page was based on a draft created at privacypolicytemplate.net and modified/generated by App Privacy Policy Generator._",
-    "text": "Si tienes alguna pregunta o sugerencia sobre nuestra política de privacidad @global.privacy_policy, quejas o cualquier otra cosa, no dudes en ponerte en contacto con nosotros en <apps@idems.international>.\n\nSi tus inquietudes no se abordan adecuadamente, conservas el derecho a presentar una queja ante la Oficina del Comisionado de Información. Puedes ponerte en contacto con ellos en 03031231113, a través de https://ico.org.uk/global/contact-us/, o por correo a la Oficina del Comisionado de Información, Wycliffe House, Water Lane, Wilmslow, Cheshire, SK9 5AF, Inglaterra, Reino Unido.\n\n**Última actualización: @global.deployment_terms_text**\n_Esta página @global.privacy_policy se basó en un borrador creado en privacypolicytemplate.net y modificado/generado por App Privacy Policy Generator._",
-    "type": "data_list",
-    "note": "The following strings should not be translated:\n@global.privacy_policy,\n<apps@idems.international>.\n@global.deployment_terms_text**\n@global.privacy_policy"
-  },
-  {
-    "SourceText": "User Agreement",
-    "text": "Acuerdo del Usuario",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "These @global.terms_and_conditions are an agreement between you and @global.app_name (or ‘the app’) which furthermore sets out the rules for your use of @global.app_name.\n\n@global.app_name is a free app, that seeks to support facilitators and other implementers in their role in delivering Parenting for Lifelong Health in-person or hybrid programmes. Within the Mexican context, the app will support facilitators of the Familias en Cambio Programme acting as a ‘guide in your pocket’ enabling facilitators to track a) parental attendance and b) co-caregivers of those registered for the project who will be using ParentText.\n\n@global.app_name is brought to you by the collaboration of partners including Parenting for Lifelong Health, University of Oxford, IDEMS International, INNODEMS and UNICEF Mexico, and the National Institute of Psychiatry (‘the @global.app_name team’).\n\nPlease read these @global.terms_and_conditions carefully. By downloading or using the app, you agree that you have read, understood, and accepted the @global.terms_and_conditions contained below.\n\nYour privacy is important to us – please also read our @global.privacy_policy, which will detail how we collect, store and use the information that you provide to us. By using @global.app_name you are confirming to us that you are further agreeing to our @global.privacy_policy, as set out separately.",
-    "text": "Estos @global.terms_and_conditions son un acuerdo entre tú y @global.app_name (o \"la app\") que además establece las normas para tu uso de @global.app_name.\n\n@global.app_name es una app gratuita, que pretende apoyar a las personas facilitadoras e implementadoras en su función de impartir programas presenciales o híbridos de Parenting for Lifelong Health. En el contexto mexicano, la app apoyará a las personas facilitadoras del Programa Crianza con Conciencia + actuando como una \"guía en tu bolsillo\" que permitirá a las personas facilitadoras hacer un seguimiento de a) la asistencia de los padres/madres y b) las personas que comparten la crianza con  las personas inscritas en el proyecto que utilizarán el chat automatizado de Crianza con Conciencia +.\n\n@global.app_name es fruto de la colaboración de socios como Parenting for Lifelong Health, Universidad de Oxford, IDEMS Internacional, INNODEMS y UNICEF México, y el Instituto Nacional de Psiquiatría Ramón de la Fuente Muñiz (\"el equipo de @global.app_name\").\n\nLee atentamente estos @global.terms_and_conditions. Al descargar o utilizar la aplicación, aceptas que has leído, entendido y aceptado los @global.terms_and_conditions contenidos a continuación.\n\nTu privacidad es importante para nosotros; lee también nuestra política de privacidad @global.privacy_policy, en la que se detalla cómo recopilamos, almacenamos y utilizamos la información que nos proporcionas. Al utilizar @global.app_name nos confirmas que aceptas nuestra @global.privacy_policy, tal y como se establece por separado.",
-    "type": "data_list",
-    "note": "The following strings should not be translated:\n@global.terms_and_conditions\n@global.app_name\n@global.app_name.\n@global.app_name\n@global.app_name\n@global.app_name\n@global.terms_and_conditions\n@global.terms_and_conditions\n@global.privacy_policy,\n@global.app_name\n@global.privacy_policy,"
-  },
-  {
-    "SourceText": "Rules of Usage",
-    "text": "Normas de Uso",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "@global.app_name is open-source, which means that its codebase can be found on GitHub for the wider software developer community. However, it's against the terms of use to alter the existing application or its materials, or to replicate any trademarks from the @global.app_name team. Although open source, refrain from translating the software into other languages or creating alternate versions without crediting the @global.app_name team. Unauthorised access to confidential user data is forbidden. It's not acceptable to provide false information about yourself when using the app, make unfounded claims of affiliation, or inaccurately report the app's behaviour. Ensure that your usage of the app adheres to all local rules and laws. Finally in accessing and using the app, we believe you not to be a minor in your country of residence.",
-    "text": "@global.app_name es de código abierto, lo que significa que su código base puede encontrarse en GitHub para la comunidad de desarrolladores de software en general. Sin embargo, va en contra de las condiciones de uso alterar la aplicación existente o sus materiales, o replicar cualquier marca registrada del equipo de @global.app_name. Aunque es de código abierto, abstente de traducir el software a otros idiomas o de crear versiones alternativas sin acreditar al equipo de @global.app_name. Está prohibido el acceso no autorizado a datos confidenciales de los usuarios. No es aceptable proporcionar información falsa sobre ti mismo cuando utilices la app, hacer afirmaciones infundadas sobre tu afiliación o informar de forma inexacta sobre el comportamiento de la app. Asegúrate de que tu uso de la aplicación cumple todas las normas y leyes locales. Por último, al acceder y utilizar la app, consideramos que no eres menor de edad en tu país de residencia.",
-    "type": "data_list",
-    "note": "The following strings should not be translated:\n@global.app_name\n@global.app_name\n@global.app_name"
-  },
-  {
-    "SourceText": "Content Changes",
-    "text": "Cambios en el Contenido",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "The @global.app_name team is committed to ensuring that the app is as useful and user friendly as possible. For that reason, we reserve the right to make changes to the app which will be delivered through updates. At present the app is free of charge and our intention is for it to stay that way.\n\nIn the future it is possible that some services may be offered that would incur a cost. We will never charge you for the app or its services without clearly making known to you first any access charges applicable.",
-    "text": "El equipo de @global.app_name se compromete a garantizar que la aplicación sea lo más útil y fácil de usar posible. Por ese motivo, nos reservamos el derecho a realizar cambios en la aplicación, que se comunicarán mediante actualizaciones. Actualmente la aplicación es gratuita y nuestra intención es que siga siéndolo.\n\nEn el futuro es posible que se ofrezcan algunos servicios que supongan un costo. Nunca te cobraremos por la aplicación o sus servicios sin informarte antes claramente de cualquier coste de acceso aplicable.",
-    "type": "data_list",
-    "note": "The string @global.app_name should not be translated."
-  },
-  {
-    "SourceText": "Intellectual property",
-    "text": "Propiedad intelectual",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "The app itself, the trademarks, copyright, database rights and other intellectual property rights related to it, belong to or are licensed to the various applicable collaborators of the @global.app_name team (noting that code is covered under GPL 3 and content by CC BY licence). The use of names and emblems/logos of collaborating institutions are the exclusive property of those institutions and are protected under international and national laws. Unauthorised use is prohibited. Logos may not be copied or reproduced in any way without the prior written permission of said institution.",
-    "text": "La aplicación en sí, las marcas registradas, los derechos de autor, los derechos sobre la base de datos y otros derechos de propiedad intelectual relacionados con ella, pertenecen o están licenciados a los diversos colaboradores aplicables del equipo @global.app_name (señalando que el código está cubierto por la licencia GPL 3 y el contenido por la licencia CC BY). El uso de nombres y emblemas/logos de las instituciones colaboradoras son propiedad exclusiva de dichas instituciones y están protegidos por las leyes internacionales y nacionales. Queda prohibido su uso no autorizado. Los logotipos no pueden copiarse ni reproducirse de ninguna manera sin el permiso previo por escrito de dicha institución.",
-    "type": "data_list",
-    "note": "The string @global.app_name should not be translated."
-  },
-  {
-    "SourceText": "Submissions",
-    "text": "Envíos",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Your feedback on the app is appreciated. So that we can improve, any comments are not considered confidential and will become available for further lawful use without additional approval or compensation. We shall therefore own exclusive rights and believe any feedback that you have made is original by you.",
-    "text": "Agradecemos tus comentarios sobre la aplicación. Para que podamos mejorar, cualquier comentario no se considerará confidencial y estará disponible para su uso legal posterior sin necesidad de aprobación o compensación adicional. Por lo tanto, tendremos derechos exclusivos y consideraremos que cualquier comentario que hayas hecho es original de tu autoría.",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Security",
-    "text": "Seguridad",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Our app stores and processes personal data that you have provided to us, in order to offer our services. It is your responsibility to keep your phone and access to the app secure. Removal of software restrictions and limitations imposed by the official operating system of your device is therefore not recommended. Doing so could make your phone vulnerable to malware, viruses, malicious programs as well as compromise your phone’s security features and could mean that the app will not work properly or at all.\n\nTo see how we handle your personal information, please see our @global.privacy_policy.",
-    "text": "Nuestra app almacena y procesa los datos personales que nos has proporcionado, con el fin de ofrecerte nuestros servicios. Es tu responsabilidad mantener tu teléfono y el acceso a la app seguros. Por lo tanto, no se recomienda eliminar las restricciones y limitaciones de software impuestas por el sistema operativo oficial de tu dispositivo. Hacerlo podría hacer que tu teléfono fuera vulnerable a malware, virus, programas maliciosos, así como comprometer las funciones de seguridad de tu teléfono, y podría significar que la app no funcionara correctamente o no funcionara en absoluto.\n\nPara saber cómo tratamos tu información personal, consulta nuestra política de privacidad @global.privacy_policy.",
-    "type": "data_list",
-    "note": "The string @global.privacy_policy. should not be translated."
-  },
-  {
-    "SourceText": "External links and resources",
-    "text": "Enlaces y recursos externos",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "The app uses third party services that declare their own @global.terms_and_conditions and may link to other websites and resources that are not under the app's control.\n\nLinks to @global.terms_and_conditions of third party service providers used by the app include:\n\n-   [Google Play Services](https://policies.google.com/terms)\n-   [Google Analytics for Firebase](https://firebase.google.com/terms/analytics)\n-   [Sentry](https://sentry.io/terms/)\n-   [Matomo](https://matomo.org/matomo-cloud-terms-of-service/)\n-   [GlitchTip](https://glitchtip.com/legal/tos)\n\nThe inclusion of such links does not imply an endorsement or approval by the app and/or its partners of any website, product, or service. Similarly, the app and the @global.app_name team affiliated developers and collaborators do not assume any responsibility or liability in respect of such websites, product, or service, including, for example, responsibility or liability for the accuracy or reliability of any information, data, opinions, advice or statements made on those web sites.",
-    "text": "La aplicación utiliza servicios de terceros que declaran sus propios términos y condiciones @global.terms_and_conditions y pueden enlazar con otros sitios web y recursos que no están bajo el control de la aplicación.\n\nLos enlaces a @global.terms_and_conditions de proveedores de servicios de terceros utilizados por la app incluyen:\n\n- [Google Play Services](https://policies.google.com/terms)\n- [Google Analytics para Firebase](https://firebase.google.com/terms/analytics)\n- [Sentry](https://sentry.io/terms/)\n- [Matomo](https://matomo.org/matomo-cloud-terms-of-service/)\n- [GlitchTip](https://glitchtip.com/legal/tos)\n\nLa inclusión de dichos enlaces no implica la aprobación o respaldo por parte de la app y/o sus socios de ningún sitio web, producto o servicio. Del mismo modo, la app y los desarrolladores y colaboradores afiliados al equipo @global.app_name no asumen ninguna responsabilidad u obligación con respecto a dichos sitios web, producto o servicio, incluyendo, por ejemplo, la responsabilidad u obligación por la exactitud o fiabilidad de cualquier información, datos, opiniones, consejos o declaraciones realizadas en dichos sitios web.",
-    "type": "data_list",
-    "note": "The following strings should not be translated:\n@global.terms_and_conditions\n@global.terms_and_conditions\n@global.app_name"
-  },
-  {
-    "SourceText": "Disclaimer",
-    "text": "Exención de responsabilidad",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Please be aware that the @global.app_name team exclude responsibility for the following:\n\n1. Certain functions of the app will require the app to have an active internet connection. The @global.app_name team cannot take responsibility for the app not working at full functionality if you do not have access to Wi-Fi, or you do not have any of your data allowance left.\n\n2. Using the app outside of an area with Wi-Fi, will mean that your terms of agreement with your mobile network provider will still apply. As a result, you may be charged by your mobile provider for the cost of data for the duration of the connection while accessing the app, or other third party charges. In using the app, you accept responsibility for any such charges, including roaming data charges if you use the app outside of your home territory (i.e. region or country) without turning off data roaming. If you are not the bill payer for the device on which you are using the app, please be aware that we assume that you have received permission from the bill payer for using the app.\n\n3. Although we endeavour to ensure that the app is updated and its content accurate, we do rely on third parties to provide information to us so that we can make it available to you. We do not regularly check out all of the external sites and cannot guarantee that they are always accurate or reliable.\n\n4. The @global.app_name team accepts no liability for any damage or loss, direct or indirect, you experience as a result of using the app, or arising from any reliance you may place on advice or information provided from the app. You should always exercise your own discretion and judgement appropriate to your own circumstances in relation to any advice or information provided from the app.\n\n5. Any instances of software bugs, viruses or other malicious material transmitted by a third party through our site are a regret, but we are devoid of responsibility.\n\n6. Updates to the app occur regularly in order to improve performance and content. The app is available on Android -- the requirements for this system (and for any additional systems we decide to extend the availability of the app to) may change. It is your responsibility to download app updates to keep using the app. The @global.app_name team does not promise that it will always update the app so that it is relevant to you and/or works with the Android version that you have installed on your device. However, you agree to always accept updates to the application when offered to you.\n\n7. The app site might not be available at all times for reasons of maintenance or trouble with associated software or hardware. Whilst we apologise for inconveniences, we are not liable for any loss you may incur should the site not be accessible or is withdrawn. Equally, we have the right and choice to terminate your access and use of the app (including availability of captured data) at any time, without warning. Unless we tell you otherwise, upon any termination, (a) the rights and licences granted to you in these terms will end; (b) you must stop using the app, and (if needed) delete it from your device.\n\n8. You agree to indemnify, at your own expense, the @global.app_name, its officials, employees, consultants and agents, against any claims, including your costs and expenses, by any third party, resulting from your use of the app.\n\n9. Companies or products associated with the app should not be interpreted as endorsement by the app or the @global.app_name team or demonstrate an intention to infringe proprietary rights.",
-    "text": "Considera que el equipo de @global.app_name excluye la responsabilidad de lo siguiente:\n\n1. Ciertas funciones de la aplicación requerirán que esta tenga una conexión activa a Internet. El equipo de @global.app_name no puede responsabilizarse de que la aplicación no funcione a pleno rendimiento si no tienes acceso a Wi-Fi o si no te queda saldo de datos.\n\n2. Si utilizas la aplicación fuera de una zona con Wi-Fi, se seguirán aplicando las condiciones del contrato con tu proveedor de red móvil. Como resultado, es posible que tu proveedor de telefonía móvil te cobre el costo de los datos durante el tiempo que dure la conexión mientras accedes a la aplicación, u otros cargos de terceros. Al utilizar la aplicación, aceptas la responsabilidad de dichos cargos, incluidos los cargos por datos en roaming si utilizas la aplicación fuera de tu territorio nacional (es decir, región o país) sin desactivar el roaming de datos. Si tú no pagas la factura del dispositivo en el que utilizas la aplicación, considera que asumimos que has recibido permiso de la persona que paga la factura para utilizar la aplicación.\n\n3. Aunque nos esforzamos por garantizar la actualización de la aplicación y la exactitud de su contenido, dependemos de terceros que nos proporcionan información para que podamos ponerla a tu disposición. No verificamos regularmente todos los sitios externos y no podemos garantizar que sean siempre exactos o confiables.\n\n4. El equipo de @global.app_name no acepta ninguna responsabilidad por cualquier daño o pérdida, directa o indirecta, que experimentes como resultado del uso de la aplicación, o que se derive de la confianza que puedas depositar en los consejos o la información facilitados desde la aplicación. Siempre debes ejercer tu propia discreción y juicio adecuados a tus propias circunstancias en relación con cualquier consejo o información proporcionados desde la aplicación.\n\n5. Lamentamos cualquier caso de errores de software, virus u otro material malicioso transmitido por terceros a través de nuestro sitio, pero no asumimos ninguna responsabilidad.\n\n6. La aplicación se actualiza regularmente para mejorar su rendimiento y contenido. La app está disponible en Android -- los requisitos para este sistema (y para cualquier sistema adicional al que decidamos ampliar la disponibilidad de la app) pueden cambiar. Es tu responsabilidad descargar las actualizaciones de la aplicación para seguir utilizándola. El equipo de @global.app_name no promete que siempre actualizará la aplicación para que sea relevante para ti y/o funcione con la versión de Android que tengas instalada en tu dispositivo. Sin embargo, te comprometes a aceptar siempre las actualizaciones de la aplicación cuando se te ofrezcan.\n\n7. El sitio de la aplicación podría no estar disponible en todo momento por motivos de mantenimiento o problemas con el software o hardware asociados. Aunque te pedimos disculpas por los inconvenientes, no nos hacemos responsables de ninguna pérdida en la que puedas incurrir en caso de que el sitio no esté accesible o sea retirado. Del mismo modo, tenemos el derecho y la opción de poner fin a tu acceso y uso de la aplicación (incluida la disponibilidad de los datos capturados) en cualquier momento, sin previo aviso. A menos que te indiquemos lo contrario, después de cualquier terminación, (a) finalizarán los derechos y licencias que se te conceden en estas condiciones; (b) deberás dejar de utilizar la app y (si es necesario) borrarla de tu dispositivo.\n\n8. Aceptas indemnizar, a tu cargo, a @global.app_name, sus funcionarios, empleados, consultores y agentes, por cualquier reclamación, incluidos tus costes y gastos, por parte de cualquier tercero, que resulte de tu uso de la aplicación.\n\n9. Las empresas o productos asociados con la app no deben interpretarse como un respaldo de la app o del equipo de @global.app_name ni demostrar una intención de infringir derechos de propiedad.",
-    "type": "data_list",
-    "note": "The following strings should not be translated:\n@global.app_name\n@global.app_name\n@global.app_name\n@global.app_name\n@global.app_name,\n@global.app_name"
-  },
-  {
-    "SourceText": "Changes to the @global.terms_and_conditions",
-    "text": "Cambios en @global.terms_and_conditions",
-    "type": "data_list",
-    "note": "The string @global.terms_and_conditions should not be translated."
-  },
-  {
-    "SourceText": "We may update our @global.terms_and_conditions from time to time. You waive your right to be notified directly of changes and are advised to review this page periodically for any updates. Your continued use of the app suggests you agree to subsequent revisions of the @global.terms_and_conditions.",
-    "text": "Podemos actualizar nuestros @global.terms_and_conditions de vez en cuando. Renuncias a tu derecho a ser notificado directamente de los cambios y se te aconseja que revises esta página periódicamente para conocer las actualizaciones. Tu uso continuo de la aplicación sugiere que estás de acuerdo con las revisiones posteriores de los @global.terms_and_conditions.",
-    "type": "data_list",
-    "note": "The following strings should not be translated:\n@global.terms_and_conditions\n@global.terms_and_conditions."
-  },
-  {
     "SourceText": "Contact Us",
     "text": "Contáctanos",
     "type": "data_list",
     "note": ""
   },
   {
-    "SourceText": "If you have any questions or suggestions about our @global.terms_and_conditions, do not hesitate to contact us at <apps@idems.international>.\n\n**Last updated: @global.deployment_terms_text**",
-    "text": "Si tienes alguna pregunta o sugerencia sobre nuestros @global.terms_and_conditions, no dudes en ponerte en contacto con nosotros en <apps@idems.international>.\n\n**Última actualización: @global.deployment_terms_text**",
+    "SourceText": "If you have any questions or suggestions about our @global.privacy_policy, complaints or otherwise do not hesitate to contact us at <apps@idems.international>.\n\nIf your concerns are not adequately addressed, you retain the right to file a complaint with the Information Commissioner's Office. You can reach them at 03031231113, contact them via https://ico.org.uk/global/contact-us/, or mail to the Information Commissioner’s Office, Wycliffe House, Water Lane, Wilmslow, Cheshire, SK9 5AF, England, UK.\n\n**Last updated: @global.deployment_terms_text**\n_This @global.privacy_policy page was based on a draft created at privacypolicytemplate.net and modified/generated by App Privacy Policy Generator._",
+    "text": "Si tienes alguna pregunta o sugerencia sobre nuestra política de privacidad @global.privacy_policy, quejas o cualquier otra cosa, no dudes en ponerte en contacto con nosotros en <apps@idems.international>.\n\nSi tus inquietudes no se abordan adecuadamente, conservas el derecho a presentar una queja ante la Oficina del Comisionado de Información. Puedes ponerte en contacto con ellos en 03031231113, a través de https://ico.org.uk/global/contact-us/, o por correo a la Oficina del Comisionado de Información, Wycliffe House, Water Lane, Wilmslow, Cheshire, SK9 5AF, Inglaterra, Reino Unido.\n\n**Última actualización: @global.deployment_terms_text**\n_Esta página @global.privacy_policy se basó en un borrador creado en privacypolicytemplate.net y modificado/generado por App Privacy Policy Generator._",
     "type": "data_list",
-    "note": "The following strings should not be translated:\n@global.terms_and_conditions,\n<apps@idems.international>.\n@global.deployment_terms_text**"
+    "note": "The following strings should not be translated:\n@global.privacy_policy,\n<apps@idems.international>.\n@global.deployment_terms_text**\n@global.privacy_policy"
   },
   {
     "SourceText": "Terms & Conditions",
@@ -261,6 +261,12 @@
     "SourceText": "Privacy Policy",
     "text": "Política de Privacidad",
     "type": "global",
+    "note": ""
+  },
+  {
+    "SourceText": "You can only move on and access the app if you provide your consent.",
+    "text": "Solo podrás seguir adelante y acceder a la aplicación si das tu consentimiento.",
+    "type": "template",
     "note": ""
   },
   {
@@ -294,50 +300,74 @@
     "note": "The string @global.deployment_terms_text should not be translated."
   },
   {
-    "SourceText": "You can only move on and access the app if you provide your consent.",
-    "text": "Solo podrás seguir adelante y acceder a la aplicación si das tu consentimiento.",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "@global.app_name is an app designed by IDEMS International and Parenting for Lifelong Health to support the scale up of Crianza con Conciencia + in Mexico. The content herein is available under an open source Creative Commons International 4.0 license. It was developed in collaboration with key partners:",
-    "text": "@global.app_name es una aplicación diseñada por IDEMS Internacional y Parenting for Lifelong Health para apoyar la ampliación del Programa Crianza con Conciencia + (CC+) en México. Su contenido está disponible bajo una licencia Creative Commons Internacional 4.0 de código abierto. Se desarrolló en colaboración con socios clave:",
-    "type": "data_list",
-    "note": "The string @global.app_name should not be translated."
-  },
-  {
-    "SourceText": "Sessions",
-    "text": "Sesiones",
+    "SourceText": "Getting to know each other",
+    "text": "Conociéndonos",
     "type": "data_list",
     "note": ""
   },
   {
-    "SourceText": "Welcome to the @global.app_name. Each week you should select your weekly topic, share the message to your @global.share_groups, and report attendance.",
-    "text": "Te damos la bienvenida a @global.app_name. Cada semana debes seleccionar tu tema, compartir el mensaje en tu @global.share_groups y hacer el informe de asistencia.",
-    "type": "data_list",
-    "note": "The following strings should not be translated:\n@global.app_name.\n@global.share_groups,"
-  },
-  {
-    "SourceText": "Report",
-    "text": "Reportes",
+    "SourceText": "Overview of the programme",
+    "text": "Resumen general del programa",
     "type": "data_list",
     "note": ""
   },
   {
-    "SourceText": "Library",
-    "text": "Biblioteca",
+    "SourceText": "Getting Started with the chatbot",
+    "text": "Cómo Usar el Chat Automatizado",
     "type": "data_list",
     "note": ""
   },
   {
-    "SourceText": "Settings",
-    "text": "Ajustes",
+    "SourceText": "Introduction to Phone Use",
+    "text": "Introducción al uso del teléfono",
     "type": "data_list",
     "note": ""
   },
   {
-    "SourceText": "Your profile provides your facilitator ID and is also where you can edit the list of parents attending your groups.",
-    "text": "En tu perfil podrás ver tu identificación de persona facilitadora y también puedes editar la lista de las personas cuidadoras que asisten a tus grupos.",
+    "SourceText": "Chatbot onboarding",
+    "text": "Integración al Chat Automatizado",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Resolving Challenges with the chatbot",
+    "text": "Resolver Retos con el Chat Automatizado",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Moving forward",
+    "text": "Logística y cierre",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Setting up Ground Rules",
+    "text": "Acordar Reglas Generales",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Facilitator’s Role",
+    "text": "Función de la Persona Facilitadora",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Questions",
+    "text": "Preguntas",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Connecting Formando Conciencia+ and Parent ID",
+    "text": "Conectar Formando Conciencia +  con el Número de registro de la madre, padre o persona cuidadora.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Closing Activity",
+    "text": "Despedida",
     "type": "data_list",
     "note": ""
   },
@@ -367,7 +397,7 @@
   },
   {
     "SourceText": "This week, we will catch up at [INSERT TIME] on [INSERT DAY] to chat about our @global.programme_name journey. \n\n👋Please join to share how things are going. Every little step matters. Share what works when you practise, reflections about the topic, any challenges you experience, or just say hi! 😊\n\n⏰Does this time and day work for everyone?",
-    "text": "Esta semana, nos volveremos a reunir el [INSERTAR DÍA] a las [INSERTAR HORA] para ponernos al día y platicar sobre cómo va nuestra experiencia en @global.programme_name. \n\n👋 Únanse para que nos compartan cómo va todo. Cada paso es importante aunque sea pequeño. Nos pueden compartir lo que les funciona al hacer las actividades, reflexiones sobre el tema, cualquier reto que estén pasando, ¡o simplemente entrar para saludar! 😊\n\n⏰¿El día y la hora que propongo les parece bien?",
+    "text": "Esta semana, nos volveremos a reunir el [INSERTAR DÍA] a las [INSERTAR HORA] para ponernos al día y hablar sobre cómo va nuestra experiencia en @global.programme_name. \n\n👋 Únanse para que nos compartan cómo va todo. Cada paso es importante aunque sea pequeño. Nos pueden compartir lo que les funciona al hacer las actividades, reflexiones sobre el tema, cualquier reto que estén pasando, ¡o simplemente entrar para saludar! 😊\n\n⏰¿El día y la hora que propongo les parece bien?",
     "type": "data_list",
     "note": "The string @global.programme_name should not be translated."
   },
@@ -388,132 +418,6 @@
     "text": "😃¡Muchas gracias por formar parte de nuestra Comunidad a través del grupo de WhatsApp! \n\nComo ejercicio en casa, intenten pasar al menos 5 minutos de Tiempo Uno a Uno con tu niña, niño o  adolescente todos los días. \n\nLa próxima sesión de reflexión podemos compartir cómo nos fue. \n\n👋Nos vemos pronto.",
     "type": "data_list",
     "note": ""
-  },
-  {
-    "SourceText": "Message 2: Welcome and Check-in",
-    "text": "Mensaje 2: Bienvenida y Seguimiento",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Hello, everyone! 😃\nWelcome to our second chat session! 💡\n\nToday, we are talking about feeling stressed. Feeling stressed is a normal part of being human, and parenting can add an extra layer of challenges. \n\nIt’s important to manage our stress. Otherwise, it can build up and affect our health and relationships!\n\nHow is everyone’s stress level today? \n\nUse a number from 1 to 10 to share your stress level:\n1 - No Stress \n2 to 5 - Some Stress \n6 to 9 - Feeling Stressed \n10 - Extremely Stressed \n\nFeel free to share your number with the group. We're all in this together!",
-    "text": "¡Hola querida comunidad! 😃\n¡Les damos la bienvenida a nuestra segunda sesión de reflexión! 💡\n\nHoy hablaremos sobre el sentimiento de estrés. Sentir estrés es una parte normal del ser humano y la crianza de nuestras niñas, niños y  adolescentes puede añadir una capa extra de desafíos. \n\nEs importante controlar nuestro estrés. De lo contrario, puede acumularse y afectar nuestra salud y nuestras relaciones.\n\n¿Cómo está su nivel de estrés  el día de hoy? \n\nUsen un número del 1 al 10 para compartirnos su nivel de estrés:\n1 - No me siento estresado \n2 a 5 - Me siento un poco estresado \n6 a 9 - Me siento estresado \n10 - Me siento extremadamente estresado \n\nNo duden en compartir su número con el grupo. ¡Estamos juntas y juntos en esto!",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Allow time for parents to share how they are feeling. You should also share how you are feeling. For example, “Today, I'm at a 5 stress level, my teen has been sick for a few days but happy to be part of the chat today.”",
-    "text": "Da tiempo para que las personas participantes compartan cómo se sienten. Tú también compárteles cómo te sientes. Por ejemplo: \"Mi nivel de estrés de hoy es 5, mi adolescente ha estado enfermo unos días pero estoy feliz de poder participar en el chat de hoy con ustedes.\"",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Message 3: Understanding Self Talk",
-    "text": "Mensaje 3: Comprendiendo el Diálogo Interno",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Thank you all for sharing your honest responses! 🎉\n💡 Today, we're going to practise a skill to manage stress: self-talk.\n🎤 Self-talk is the way we talk to ourselves in our head or out loud during stressful situations. It’s the things we say to ourselves out loud and the thoughts in our minds.\nIt's easy to be unkind to ourselves, especially when we're tired or upset.\nCan anyone share a time when they said something negative to themselves?",
-    "text": "¡Gracias a todas y todos por su sinceridad y compartir sus respuestas! 🎉\n💡 Hoy vamos a practicar una habilidad para controlar el estrés: la importancia de tener diálogos internos.\n🎤 El diálogo interno es la forma en que nos hablamos a nosotros mismos en nuestra cabeza o en voz alta durante las situaciones estresantes. Son las cosas que nos decimos a nosotros mismos en voz alta y nuestros pensamientos.\nEs fácil ser crueles con nosotros mismos, sobre todo cuando tenemos cansancio o molestia.\n¿Alguien nos puede compartir un momento en el que se hayan dicho algo negativo a sí mismos?",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Allow parents to respond. You can reply to the parents with an emoji ⭐ or words of encouragement, like “That is a good example! I am sure a lot of us have felt that way”.",
-    "text": "Permite que las personas participantes contesten. Puedes responderles con un emoji ⭐ o palabras de ánimo, como \"¡Ese es un buen ejemplo! Seguramente la mayoría nos hemos sentido así\".",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Message 4: Positive Self-Talk",
-    "text": "Mensaje 4: El Diálogo Interno Positivo",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Thanks for sharing that example! \nParenting can be challenging. But you can reduce your overall stress when you think about what you’re doing well and speak kindly to yourself. \n\n1️⃣ The first step for practising self-talk is to notice when a negative thought comes.\n2️⃣Then, ask yourself: How can I change this thought into something kind or caring? You can: \n😃 Look for small parenting accomplishments or efforts. \n✅ Consider what you’ve learned from the negative situation. \n📝Come up with a few ways to help you act differently next time. Remember, this is temporary, and you have the chance to be better in the future.",
-    "text": "¡Gracias por compartir ese ejemplo! \nEstar a cargo de un ser humano puede ser un reto. Pero pueden reducir su estrés en general si piensan en lo que hacen bien y se hablan con amabilidad. \n\n1️⃣ El primer paso para practicar el diálogo interno es darse cuenta cuando tienen un pensamiento negativo.\n2️⃣Luego, pregúntense: ¿Cómo puedo cambiar este pensamiento por algo más amable o compasivo? Pueden: \n😃 Identificar sus esfuerzos o logros pequeños relacionados con la crianza. \n✅ Considerar lo que han aprendido de la situación negativa. \n📝Idear alguna forma que les ayude a actuar diferente para la próxima vez. Recuerden que esto es temporal y que tienen la oportunidad de ser mejores en el futuro.",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Practice Activity: Re-wording Negative Self-Talk",
-    "text": "Práctica: Reformular el Diálogo Interno Negativo",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "📝 Let's notice negative self-talk when it happens, and turn it around. For example, \n**Negative Self-Talk:** \"I was a bad parent today. I yelled at my teen for an honest mistake.\"\n**Positive Self-Talk:** \"Today was tough because I've been overwhelmed. I yelled at my teen, knowing it was an honest mistake. Next time, I'll pause before responding, ensuring I'm calm and in control.\"\n💡 See how the positive self-talk is more supportive? 🏠 Now, your turn! Share a time you talked negatively to yourself, and let’s find and turn it into positive self-talk. Try doing this three times by the week’s end and feel the difference! \nHow parents talk to themselves teaches their kids how to talk to themselves. Girls, boys,  and teens learn from watching their parents. 🌱",
-    "text": "📝 Tenemos que estar alertas para poder identificar el diálogo interno negativo y darle la vuelta. Por ejemplo, \n**Diálogo Interno Negativo** \"Hoy estuve mal, no soy bueno conviviendo con mi adolescente. Le grité por un accidente.\"\n**Diálogo Interno Positivo** \"Hoy fue un día difícil y siento una sobrecarga. Le grité a mi adolescente sabiendo que fue un accidente. La próxima vez, haré una pausa antes de responder para asegurarme de que el ambiente esté tranquilo y de que tengo el control.\"\n💡 ¿Ven cómo el diálogo interno positivo es más comprensivo? 🏠 ¡Ahora les toca a ustedes! Compartan un momento en el que se hayan hablado negativamente, identifiquenlo y conviertanlo en un diálogo interno positivo. Intenten hacer esto tres veces antes de que acabe la semana, y ¡sientan la diferencia! \nLa forma en que se hablan a ustedes mismos les modela a sus niñas, niños y adolescentes cómo deben hablarse a sí mismos. Ellas y ellos aprenden observando a sus madres, padres o personas cuidadoras.🌱",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Briefly read the participants’ responses and make sure they are not insulting themselves and generally follow the example above. Any instances of intent of self-harm or harm to girls and boys should be reported appropriately. \nThank you and react positively to all participation. Invite those who have not written their response to participate.",
-    "text": "Brevemente, lee las respuestas de las personas participantes y asegúrate de que no se insulten y que, a grandes rasgos, sigan el ejemplo anterior. Cualquier caso en donde se manifieste un intento de autolesión o daño hacia niñas, niños y adolescentes debe reportarse adecuadamente.\nAgradece toda participación y reacciona de manera positiva. Invita a aquellas personas que no han escrito su respuesta a que participen en la actividad.",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Message 1: Reminder",
-    "text": "Mensaje 1: Recordatorio",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Hello! Our last chat session will be later today at [INSERT TIME]. See you then! 👋",
-    "text": "¡Hola! Nuestra última sesión de reflexión será hoy más tarde a las [INSERTAR HORA]. ¡Nos vemos en un rato! 👋",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Send this message in the morning on the day of the chat session. Insert the time for the chat before sending the message.",
-    "text": "Envía este mensaje por la mañana del día de la sesión de reflexión. Introduce la hora de la sesión antes de enviar el mensaje.",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Message 2: Welcome",
-    "text": "Mensaje 2: Bienvenida",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "👋Hi everyone, congratulations on completing the course on improving your relationship with your girl, boy or teen on @global.programme_name! \n✨ Take a moment to think back to the beginning of the programme. You should be so proud of yourself. How was your experience in @global.programme_name?",
-    "text": "👋 Hola a todas y todos, ¡les felicito por haber completado el curso para Mejorar la Relación con su Niña, Niño o Adolescente en @global.programme_name! \n✨ Tómense un momento para recordar cómo iniciamos el programa. Deberían de sentir orgullo por lo que han logrado. ¿Cómo fue su experiencia en @global.programme_name?",
-    "type": "data_list",
-    "note": "The following strings should not be translated:\n@global.programme_name!\n@global.programme_name?"
-  },
-  {
-    "SourceText": "Allow parents to share their experience during the programme. You can give brief words of encouragement like “Wonderful!” or “I am happy to hear that!” or even share celebration emojis like 🎉or ⭐.",
-    "text": "Permite que las personas participantes compartan su experiencia durante el programa. Puedes dar breves palabras de ánimo como \"¡Maravilloso!\" o \"¡Me alegra oírlo!\" o incluso compartir emojis de celebración como 🎉o ⭐.",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Message 3: Thank You",
-    "text": "Mensaje 3: Agradecimiento",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Thank you for sharing your experiences. It is wonderful to hear from you about the programme. Remember that your parenting journey continues! 💚\n\nOn @global.programme_name, we will be adding more courses soon. So stay tuned for exciting learning opportunities! 💡",
-    "text": "Gracias por compartir sus experiencias. Nos alegra escuchar cómo les fue en el programa. ¡Recuerden que la crianza de sus niñas, niños y adolescentes es una viaje con algunos kilómetros por recorrer! 💚\n\nPronto agregaremos más cursos a @global.programme_name. ¡Así que manténganse atentos a las emocionantes oportunidades de aprendizaje por venir! 💡",
-    "type": "data_list",
-    "note": "The string @global.programme_name, should not be translated."
-  },
-  {
-    "SourceText": "Message 4: Goodbye",
-    "text": "Mensaje 4: Despedida",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "It's been wonderful being part of this amazing parent program with all of you! Saying goodbye makes me a bit sad. \n\nAs I shared with you during the onboarding session, I will now be exiting this WhatsApp Group. 👋\n\nYou are the best parents to your boys, girls, and teens.  *You can still complete your final @global.programme_name lessons if you have not done so yet*. 🌱\n\nWe all face difficult situations sometimes, and these final parts of @global.programme_name will help you and your girl, boy or teen to get through them well. \n\nYou’ve got this! ⭐You are doing a wonderful job as a parent. It has been a pleasure to be on this journey with you!",
-    "text": "¡Ser parte de este gran programa de crianza con ustedes ha sido maravilloso! Me pone un poco triste tener que despedirme. \n\nComo les compartí al principio, durante la sesión de integración, me saldré este Grupo de Reflexión. 👋\n\nRecuerden que ustedes son las mejores madres, padres y personas cuidadoras para sus niñas, niños y adolescentes.  *Todavía estás a tiempo de completar las últimas sesiones de @global.programme_name si aún no lo has hecho*. 🌱\n\nTodas y todos nos enfrentamos a situaciones difíciles de vez en cuando, y estas últimas sesiones de @global.programme_name les ayudarán, tanto a ustedes como a sus niñas, niños o adolescentes, a superarlas con éxito. \n\n⭐ Están haciendo un gran trabajo en la crianza de su niña, niño o adolescente. ¡Ha sido un placer compartir este viaje con ustedes!rt",
-    "type": "data_list",
-    "note": "The following strings should not be translated:\n@global.programme_name\n@global.programme_name"
   },
   {
     "SourceText": "Message 1: Chat Reminder",
@@ -541,7 +445,7 @@
   },
   {
     "SourceText": "Hello, everyone! 😃\nWelcome to our second chat session! 💡\n\nLet’s chat about how your home activities are going with your girl, boy, or teen. Please share what went well or if you found anything difficult.",
-    "text": "¡Hola querida comunidad! 😃\n¡Les damos la bienvenida a nuestra segunda sesión de reflexión! 💡\n\nVamos a platicar sobre cómo van sus actividades y ejercicios para casa con sus niñas, niños y adolescentes. Por favor, compartan qué cosas han hecho que hayan dado resultados positivos o si han encontrado alguna dificultad en el camino.",
+    "text": "¡Hola querida comunidad! 😃\n¡Les damos la bienvenida a nuestra segunda sesión de reflexión! 💡\n\nVamos a hablar sobre cómo van sus actividades y ejercicios para casa con sus niñas, niños y adolescentes. Por favor, compartan qué cosas han hecho que hayan dado resultados positivos o si han encontrado alguna dificultad en el camino.",
     "type": "data_list",
     "note": ""
   },
@@ -972,128 +876,86 @@
     "note": ""
   },
   {
-    "SourceText": "Remember to add the ground rules to the WhatsApp Group Description. \n\n​​To add the ground rules to the Group Description:\n \nOpen the WhatsApp group chat. \n\nTap the group name. \n\nTap the existing description, or tap Add Group Description. \nPaste the ground rules. \n\nTap Save.",
-    "text": "Recuerda agregar las Reglas Generales a la Descripción del Grupo de WhatsApp.\n\nPara añadir las Reglas Generales a la Descripción del Grupo de WhatssApp:\n\nAbre el chat del Grupo de WhatsApp.\n\nToca el nombre del Grupo.\n\nPulsa la descripción existente o pulsa Añadir descripción de Grupo.\n\nPega las Reglas Generales.\n\nDa click en Guardar.",
+    "SourceText": "Sessions",
+    "text": "Sesiones",
     "type": "data_list",
     "note": ""
   },
   {
-    "SourceText": "Add Ground Rules, previously agreed, to the WhatsApp Group Description",
-    "text": "Agrega las Reglas Generales, previamente acordadas, a la Descripción del Grupo de WhatsApp",
+    "SourceText": "Welcome to the @global.app_name. Each week you should select your weekly topic, share the message to your @global.share_groups, and report attendance.",
+    "text": "Te damos la bienvenida a @global.app_name. Cada semana debes seleccionar tu tema, compartir el mensaje en tu @global.share_groups y hacer el informe de asistencia.",
+    "type": "data_list",
+    "note": "The following strings should not be translated:\n@global.app_name.\n@global.share_groups,"
+  },
+  {
+    "SourceText": "Report",
+    "text": "Reportes",
     "type": "data_list",
     "note": ""
   },
   {
-    "SourceText": "Remember to add the ground rules to the WhatsApp Group Description. ​​To add the ground rules to the Group Description, copy the ground rules or use the ones agreed during the onboarding session. Then: \n\nOpen the WhatsApp group chat. \n\nTap the group name. \n\nTap the existing description, or tap Add Group Description. \nPaste the ground rules. \n\nTap Save.",
-    "text": "Recuerda agregar las Reglas Generales a la descripción del grupo de WhatsApp.\n\nPara añadir las Reglas Generales a la descripción del grupo de WhatssApp:\n\nAbre el chat del grupo de WhatsApp.\n\nToca el nombre del grupo.\n\nPulsa la descripción existente o pulsa Añadir descripción de grupo.\n\nPega las Reglas Generales.\n\nDa click en Guardar.",
+    "SourceText": "Library",
+    "text": "Biblioteca",
     "type": "data_list",
     "note": ""
   },
   {
-    "SourceText": "Sample Ground Rules",
-    "text": "Ejemplo de Reglas Generales",
+    "SourceText": "Settings",
+    "text": "Ajustes",
     "type": "data_list",
     "note": ""
   },
   {
-    "SourceText": "“To make this a a comfortable, empathetic and safe space for everyone, here are some ground rules:\n \n✅ What is said in the group stays in the group, both in person and online You need to know that this group is private.\n✅ Accept each other. Everyone is different and has different experiences.\n✅ Share only what you feel comfortable sharing. Avoid topics unrelated to the content of the workshop, advertisements or sales. \n✅Respect each other by paying attention and taking turns to share and listen.\n✅The conversation in the WhatsApp group will focus solely on the parenting of children.\n✅ Feel free to ask questions! \n✅ Respect privacy of personal pictures and videos that are sent to the chat group. \n✅ I AM only here as an observer. I will not respond to questions about your parenting habits in this group or personally. However, if there is a message that will benefit the entire group, then I will share a general message here.”\n✅Connect and participate in the interaction schedule with the facilitator. The schedule to interact in this chat is:[Enter schedule]",
-    "text": "Recuerda agregar las Reglas Generales a la Descripción del Grupo de WhatsApp. \r\rPara agregar las reglas generales a la descripción del grupo, copia las siguientes reglas o usa las que se acordaron durante la sesión de integración: \r\r\"Para que éste sea un espacio cómodo, empático y seguro para todas y todos, aquí tenemos algunas reglas generales:\n \n✅ Lo que se dice en el grupo, de manera presencial o virtual, se queda en el grupo. Debes saber que este grupo es privado.\n✅ Acepta a todas y todos. Cada persona es diferente y tiene experiencias distintas.\n✅ Comparte solo lo que te de paz y tranquilidad de compartir con el grupo. Evita temas no relacionados con el contenido del taller, anuncios o ventas. \n✅ Muestra respeto hacia las demás personas al prestarles atención y tomar turnos para compartir y escuchar sus opiniones y experiencias.\n✅ La conversación en el grupo de WhatsApp se enfocará solamente en la crianza de nuestras niñas, niños y adolescentes.\n✅ ¡Síentete libre de hacer todas las preguntas que quieras siempre y cuando estén relacionadas con el taller! \n✅ Respeta la privacidad en relación con las fotos y videos personales que se envíen al grupo de chat. \n✅ Yo solo estoy aquí como una persona observadora. No responderé a preguntas sobre tus hábitos de crianza en este grupo ni de manera personal. Sin embargo, si tengo un mensaje que pueda beneficiar a todo el grupo, lo compartiré como mensaje general por aquí.\"\n✅ Conéctate y participa con la persona facilitadora en los horarios de interacción. Los horarios de interacción para este chat son: [Horario] \n\n\nAbre el chat grupal de WhatsApp. \r\rPresiona el nombre del grupo. \r\rSelecciona la descripción existente, o presiona la frase \"Añadir descripción del grupo\". \nPega las reglas generales. \r\rPresiona el botón de Guardar.",
+    "SourceText": "Your profile provides your facilitator ID and is also where you can edit the list of parents attending your groups.",
+    "text": "En tu perfil podrás ver tu identificación de persona facilitadora y también puedes editar la lista de las personas cuidadoras que asisten a tus grupos.",
     "type": "data_list",
     "note": ""
   },
   {
-    "SourceText": "Facilitator Guide",
-    "text": "Guía de la Persona Facilitadora",
+    "SourceText": "SNDIF",
+    "text": "SNDIF",
     "type": "data_list",
     "note": ""
   },
   {
-    "SourceText": "Frequently Asked Questions",
-    "text": "Preguntas Frecuentes",
+    "SourceText": "SEP",
+    "text": "SEP",
     "type": "data_list",
     "note": ""
   },
   {
-    "SourceText": "Safeguarding",
-    "text": "Medidas de Salvaguarda",
+    "SourceText": "Secretaría de las Mujeres",
+    "text": "Secretaría de las Mujeres",
     "type": "data_list",
     "note": ""
   },
   {
-    "SourceText": "Common Challenges",
-    "text": "Desafíos Comunes",
+    "SourceText": "Secretaría de Salud",
+    "text": "Secretaría de Salud",
     "type": "data_list",
     "note": ""
   },
   {
-    "SourceText": "This chat session should happen on the same day or day after you complete the in-person onboarding session. As the first chat session, it offers a chance for parents to introduce themselves to the group.",
-    "text": "Esta sesión de reflexión debe llevarse a cabo el mismo día o al día siguiente de completar la sesión presencial de integración. Como será  el primer mensaje clave que envíes, las personas participantes tendrán la oportunidad de presentarse ante el grupo.",
+    "SourceText": "Fiscalía General de la República",
+    "text": "Fiscalía General de la República",
     "type": "data_list",
     "note": ""
   },
   {
-    "SourceText": "**Before conducting the chat sessions, make sure you:** \n\nCreate a WhatsApp Group during the onboarding session. \nIdentify the ground rules for the WhatsApp Group\n\nMake sure all participants are already in the WhatsApp group and know the session time.\n\n**Structure for the chat sessions**: \n\nDay  1 (immediately after the onboarding session): Welcome, introductions, and reminder of home practice. \n\nDay 3: Self-talk: WhatsApp Chat session on self-talk and stress\n\nDay 5: Saying Goodbye\n\n**When to send the messages** \n\nYou and your group will decide a time to chat during the onboarding session. \n\nEach chat session has a reminder message (Message 1) that you should send a few hours before the chat session. \n\nSend the remaining messages during the scheduled chat time.",
-    "text": "**Antes de llevar a cabo las sesiones de reflexión, asegúrate de:** \n\n☀️Crear un Grupo de WhatsApp durante la sesión de integración. \nIdentificar las reglas generales para Grupo de WhatsApp\n\n🌱Asegurarte de que todas las personas participantes forman parte del grupo de WhatsApp y conocen los horarios para la sesión.\n\n**Estructura de las sesiones de chat**: \n\nDía 1: (inmediatamente después de la sesión de integración): Bienvenida, presentaciones y un recordatorio de los ejercicios para la casa.  \n\nSesión de Reflexión Semana 1: Pensamientos, Emociones y Acciones\n\nSesión de Reflexión Semana 2: Diálogo Interno\n\nSesión de Reflexión Semana 3: Fortalezas Personales\n\nSesión de Reflexión Semana 4: Desarrollar Emociones Agradabl\n\n**Cuándo enviar los mensajes** \n\n💚Tu grupo y tú decidirán una hora para chatear durante la sesión de integración.\n\nCada sesión de reflexión tiene un mensaje recordatorio (Mensaje clave) que debes enviar unas horas antes de la sesión de chat. \n\nManda los demás mensajes durante la hora programada para la sesión.\n",
+    "SourceText": "Juconi",
+    "text": "Fundación JUCONI",
     "type": "data_list",
     "note": ""
   },
   {
-    "SourceText": "This is your final chat session with the group. You should congratulate yourself for taking the parents through the @global.programme_name journey and celebrate with them the positive changes in their lives and for their girls, boys, and teens.\n\nYou can choose to stay or leave the WhatsApp Group after the program ends.",
-    "text": "Esta es tu última sesión de reflexión con el grupo. Deberías felicitarte por haber guiado a las madres, los padres y las personas cuidadoras en la aventura de @global.programme_name. Celebren los cambios positivos en sus vidas y en las de sus niñas, niños y adolescentes.💚\n\nPuedes optar por quedarte o abandonar el Grupo de WhatsApp una vez terminado el programa.",
+    "SourceText": "@global.app_name is an app designed by IDEMS International and Parenting for Lifelong Health to support the scale up of Crianza con Conciencia + in Mexico. Illustrations are adaptations of original work by Orli Setton, created by Nicole Colixto for Parenting for Lifelong Health. The content herein is shared under a CC BY-SA 4.0 International licence. It was developed in collaboration with key partners:",
+    "text": "@global.app_name es una aplicación diseñada por IDEMS Internacional y Parenting for Lifelong Health para apoyar la implementación de Crianza con Conciencia + en México. Las ilustraciones son adaptaciones de la obra original de Orli Setton, creada por Nicole Calixto para Parenting for Lifelong Health. El contenido se comparte bajo la licencia internacional CC BY-SA 4.0. Se ha desarrollado en colaboración con socios clave:",
     "type": "data_list",
-    "note": "The string @global.programme_name should not be translated."
-  },
-  {
-    "SourceText": "On the morning of your chat session, send the following message as a reminder:",
-    "text": "La mañana de tu sesión de reflexión correspondiente, envía el siguiente mensaje como recordatorio:",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "This chat session will help parents understand the connection between thoughts, feelings, and actions. \nThe goal is for caregivers to identify how emotions, feelings, and actions impact their and their girls’, boys’, and teen’s well-being.",
-    "text": "Esta sesión de chat ayudará a las madres, los padres y las personas cuidadoras a comprender la conexión entre los pensamientos, las emociones y las acciones. 💚\nEl objetivo es que las madres, los padres y las personas cuidadoras identifiquen cómo los pensamientos, las emociones y las acciones impactan en su bienestar y en el de sus niñas, niños y adolescentes.",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "In this chat, caregivers will learn how the way they talk to themselves can change how they feel. \n\nThey will also practise identifying unkind self-talk and replacing it with kind self-talk.",
-    "text": "En esta sesión, las madres, los padres y las personas cuidadoras aprenderán cómo es que la forma en que se hablan a ellas y ellos mismos puede cambiar cómo se sienten. 💚\n\nTambién practicarán la identificación del diálogo interno desagradable y su sustitución por el diálogo interno amable.",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "This chat session will help caregivers understand how to identify strengths in themselves. They will learn about the connection between strengths and well-being and practice identifying how to incorporate strengths into their daily lives.",
-    "text": "Esta sesión de reflexión ayudará a las madres, los padres y las personas cuidadoras a entender cómo identificar sus fortalezas. Aprenderán sobre la conexión entre sus fortalezas y el bienestar, y practicarán cómo incorporar dichas fortalezas en su vida cotidiana.💚",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "This is your final chat session with the group.You should congratulate yourself for taking the parents through the Crianza con Conciencia+ journey and celebrate with them the positive changes in their lives and for their girls, boys, and teens.\n\nIn this chat session, you will also help parents understand how they can use pleasant emotions to improve the well-being of themselves and their child or teen. \n\nYou can choose to stay or leave the WhatsApp Group after the program ends.",
-    "text": "Esta es tu última sesión de reflexión con tu grupo. Deberías felicitarte por haber guiado a las madres, los padres y las personas cuidadoras en este viaje llamado Crianza con Conciencia +. Celebra, con todo el grupo, el impacto y los cambios positivos en sus vidas y en las de sus niñas, niños y adolescentes.💚\n\nEn esta sesión de reflexión, les ayudarás a las madres, los padres y las personas cuidadoras a entender cómo pueden usar las emociones agradables para mejorar su bienestar y el de sus niñas, niños y adolescentes también.\n\nPuedes optar por quedarte o abandonar el Grupo de WhatsApp una vez terminado el programa.",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Parents play an important role in supporting children during a crisis. If tough times come for your community, consider sharing these 16 tips to help parents in their moment of need.",
-    "text": "Las personas cuidadoras desempeñan un papel importante a la hora de apoyar a sus niñas, niños y adolescentes durante una crisis. Si su comunidad atraviesa momentos difíciles, considere compartir estos 16 consejos para ayudarles en  momentos complejos.💚",
-    "type": "data_list",
-    "note": ""
+    "note": "The string @global.app_name should not be translated."
   },
   {
     "SourceText": "After Onboarding Session",
     "text": "Después de la Sesión de Integración al programa",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Day 3: Self-Talk",
-    "text": "Día 3: El Diálogo Interno",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Day 5: Final Chat Session",
-    "text": "Día 5: Sesión final de chat",
     "type": "data_list",
     "note": ""
   },
@@ -1110,12 +972,6 @@
     "note": ""
   },
   {
-    "SourceText": "Partners",
-    "text": "Socios",
-    "type": "data_list",
-    "note": ""
-  },
-  {
     "SourceText": "Overview of the Crianza con Conciencia+ Programme",
     "text": "Descripción General del Programa Crianza con Conciencia+",
     "type": "data_list",
@@ -1124,6 +980,24 @@
   {
     "SourceText": "Programme Details",
     "text": "Detalles del Programa",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Female",
+    "text": "Femenino",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Male",
+    "text": "Masculino",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Prefer not to say",
+    "text": "Prefiero no decirlo",
     "type": "data_list",
     "note": ""
   },
@@ -1176,6 +1050,48 @@
     "note": ""
   },
   {
+    "SourceText": "Remember to add the ground rules to the WhatsApp Group Description. \n\n​​To add the ground rules to the Group Description:\n \nOpen the WhatsApp group chat. \n\nTap the group name. \n\nTap the existing description, or tap Add Group Description. \nPaste the ground rules. \n\nTap Save.",
+    "text": "Recuerda agregar las Reglas Generales a la Descripción del Grupo de WhatsApp.\n\nPara añadir las Reglas Generales a la Descripción del Grupo de WhatssApp:\n\nAbre el chat del Grupo de WhatsApp.\n\nToca el nombre del Grupo.\n\nPulsa la descripción existente o pulsa Añadir descripción de Grupo.\n\nPega las Reglas Generales.\n\nDa click en Guardar.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Add Ground Rules, previously agreed, to the WhatsApp Group Description",
+    "text": "Agrega las Reglas Generales, previamente acordadas, a la Descripción del Grupo de WhatsApp",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Remember to add the ground rules to the WhatsApp Group Description. ​​To add the ground rules to the Group Description, copy the ground rules or use the ones agreed during the onboarding session. Then: \n\nOpen the WhatsApp group chat. \n\nTap the group name. \n\nTap the existing description, or tap Add Group Description. \nPaste the ground rules. \n\nTap Save.",
+    "text": "Recuerda agregar las Reglas Generales a la descripción del grupo de WhatsApp.\n\nPara añadir las Reglas Generales a la descripción del grupo de WhatssApp:\n\nAbre el chat del grupo de WhatsApp.\n\nToca el nombre del grupo.\n\nPulsa la descripción existente o pulsa Añadir descripción de grupo.\n\nPega las Reglas Generales.\n\nDa click en Guardar.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Sample Ground Rules",
+    "text": "Ejemplo de Reglas Generales",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "“To make this a a comfortable, empathetic and safe space for everyone, here are some ground rules:\n \n✅ What is said in the group stays in the group, both in person and online You need to know that this group is private.\n✅ Accept each other. Everyone is different and has different experiences.\n✅ Share only what you feel comfortable sharing. Avoid topics unrelated to the content of the workshop, advertisements or sales. \n✅Respect each other by paying attention and taking turns to share and listen.\n✅The conversation in the WhatsApp group will focus solely on the parenting of children.\n✅ Feel free to ask questions! \n✅ Respect privacy of personal pictures and videos that are sent to the chat group. \n✅ I AM only here as an observer. I will not respond to questions about your parenting habits in this group or personally. However, if there is a message that will benefit the entire group, then I will share a general message here.”\n✅Connect and participate in the interaction schedule with the facilitator. The schedule to interact in this chat is:[Enter schedule]",
+    "text": "Recuerda agregar las Reglas Generales a la Descripción del Grupo de WhatsApp. \r\rPara agregar las reglas generales a la descripción del grupo, copia las siguientes reglas o usa las que se acordaron durante la sesión de integración: \r\r\"Para que éste sea un espacio cómodo, empático y seguro para todas y todos, aquí tenemos algunas reglas generales:\n \n✅ Lo que se dice en el grupo, de manera presencial o virtual, se queda en el grupo. Debes saber que este grupo es privado.\n✅ Acepta a todas y todos. Cada persona es diferente y tiene experiencias distintas.\n✅ Comparte solo lo que te de paz y tranquilidad de compartir con el grupo. Evita temas no relacionados con el contenido del taller, anuncios o ventas. \n✅ Muestra respeto hacia las demás personas al prestarles atención y tomar turnos para compartir y escuchar sus opiniones y experiencias.\n✅ La conversación en el grupo de WhatsApp se enfocará solamente en la crianza de nuestras niñas, niños y adolescentes.\n✅ ¡Síentete libre de hacer todas las preguntas que quieras siempre y cuando estén relacionadas con el taller! \n✅ Respeta la privacidad en relación con las fotos y videos personales que se envíen al grupo de chat. \n✅ Yo solo estoy aquí como una persona observadora. No responderé a preguntas sobre tus hábitos de crianza en este grupo ni de manera personal. Sin embargo, si tengo un mensaje que pueda beneficiar a todo el grupo, lo compartiré como mensaje general por aquí.\"\n✅ Conéctate y participa con la persona facilitadora en los horarios de interacción. Los horarios de interacción para este chat son: [Horario] \n\n\nAbre el chat grupal de WhatsApp. \r\rPresiona el nombre del grupo. \r\rSelecciona la descripción existente, o presiona la frase \"Añadir descripción del grupo\". \nPega las reglas generales. \r\rPresiona el botón de Guardar.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Partners",
+    "text": "Socios",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "test",
+    "text": "prueba",
+    "type": "data_list",
+    "note": ""
+  },
+  {
     "SourceText": "Onboarding",
     "text": "Integración",
     "type": "data_list",
@@ -1212,74 +1128,86 @@
     "note": ""
   },
   {
-    "SourceText": "Getting to know each other",
-    "text": "Conociéndonos",
+    "SourceText": "Coach",
+    "text": "Persona Asesora",
     "type": "data_list",
     "note": ""
   },
   {
-    "SourceText": "Overview of the programme",
-    "text": "Resumen general del programa",
+    "SourceText": "Facilitator",
+    "text": "Persona Facilitadora",
     "type": "data_list",
     "note": ""
   },
   {
-    "SourceText": "Getting Started with the chatbot",
-    "text": "Cómo Usar el Chat Automatizado",
+    "SourceText": "System tester",
+    "text": "Evaluador de Sistema",
     "type": "data_list",
     "note": ""
   },
   {
-    "SourceText": "Introduction to Phone Use",
-    "text": "Introducción al uso del teléfono",
+    "SourceText": "Social worker",
+    "text": "Trabajadora o Trabajador Social",
     "type": "data_list",
     "note": ""
   },
   {
-    "SourceText": "Chatbot onboarding",
-    "text": "Integración al Chat Automatizado",
+    "SourceText": "Psychologist",
+    "text": "Psicóloga o Psicólogo",
     "type": "data_list",
     "note": ""
   },
   {
-    "SourceText": "Resolving Challenges with the chatbot",
-    "text": "Resolver Retos con el Chat Automatizado",
+    "SourceText": "Educator",
+    "text": "Educadora o Educador",
     "type": "data_list",
     "note": ""
   },
   {
-    "SourceText": "Moving forward",
-    "text": "Logística y cierre",
+    "SourceText": "Other",
+    "text": "Otro",
     "type": "data_list",
     "note": ""
   },
   {
-    "SourceText": "Setting up Ground Rules",
-    "text": "Acordar Reglas Generales",
+    "SourceText": "This chat session should happen on the same day or day after you complete the in-person onboarding session. As the first chat session, it offers a chance for parents to introduce themselves to the group.",
+    "text": "Esta sesión de reflexión debe llevarse a cabo el mismo día o al día siguiente de completar la sesión presencial de integración. Como será  el primer mensaje clave que envíes, las personas participantes tendrán la oportunidad de presentarse ante el grupo.",
     "type": "data_list",
     "note": ""
   },
   {
-    "SourceText": "Facilitator’s Role",
-    "text": "Función de la Persona Facilitadora",
+    "SourceText": "On the morning of your chat session, send the following message as a reminder:",
+    "text": "La mañana de tu sesión de reflexión correspondiente, envía el siguiente mensaje como recordatorio:",
     "type": "data_list",
     "note": ""
   },
   {
-    "SourceText": "Questions",
-    "text": "Preguntas",
+    "SourceText": "This chat session will help parents understand the connection between thoughts, feelings, and actions. \nThe goal is for caregivers to identify how emotions, feelings, and actions impact their and their girls’, boys’, and teen’s well-being.",
+    "text": "Esta sesión de chat ayudará a las madres, los padres y las personas cuidadoras a comprender la conexión entre los pensamientos, las emociones y las acciones. 💚\nEl objetivo es que las madres, los padres y las personas cuidadoras identifiquen cómo los pensamientos, las emociones y las acciones impactan en su bienestar y en el de sus niñas, niños y adolescentes.",
     "type": "data_list",
     "note": ""
   },
   {
-    "SourceText": "Connecting Formando Conciencia+ and Parent ID",
-    "text": "Conectar Formando Conciencia +  con el Número de registro de la madre, padre o persona cuidadora.",
+    "SourceText": "In this chat, caregivers will learn how the way they talk to themselves can change how they feel. \n\nThey will also practise identifying unkind self-talk and replacing it with kind self-talk.",
+    "text": "En esta sesión, las madres, los padres y las personas cuidadoras aprenderán cómo es que la forma en que se hablan a ellas y ellos mismos puede cambiar cómo se sienten. 💚\n\nTambién practicarán la identificación del diálogo interno desagradable y su sustitución por el diálogo interno amable.",
     "type": "data_list",
     "note": ""
   },
   {
-    "SourceText": "Closing Activity",
-    "text": "Despedida",
+    "SourceText": "This chat session will help caregivers understand how to identify strengths in themselves. They will learn about the connection between strengths and well-being and practice identifying how to incorporate strengths into their daily lives.",
+    "text": "Esta sesión de reflexión ayudará a las madres, los padres y las personas cuidadoras a entender cómo identificar sus fortalezas. Aprenderán sobre la conexión entre sus fortalezas y el bienestar, y practicarán cómo incorporar dichas fortalezas en su vida cotidiana.💚",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "This is your final chat session with the group.You should congratulate yourself for taking the parents through the Crianza con Conciencia+ journey and celebrate with them the positive changes in their lives and for their girls, boys, and teens.\n\nIn this chat session, you will also help parents understand how they can use pleasant emotions to improve the well-being of themselves and their child or teen. \n\nYou can choose to stay or leave the WhatsApp Group after the program ends.",
+    "text": "Esta es tu última sesión de reflexión con tu grupo. Deberías felicitarte por haber guiado a las madres, los padres y las personas cuidadoras en este viaje llamado Crianza con Conciencia +. Celebra, con todo el grupo, el impacto y los cambios positivos en sus vidas y en las de sus niñas, niños y adolescentes.💚\n\nEn esta sesión de reflexión, les ayudarás a las madres, los padres y las personas cuidadoras a entender cómo pueden usar las emociones agradables para mejorar su bienestar y el de sus niñas, niños y adolescentes también.\n\nPuedes optar por quedarte o abandonar el Grupo de WhatsApp una vez terminado el programa.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Parents play an important role in supporting children during a crisis. If tough times come for your community, consider sharing these 16 tips to help parents in their moment of need.",
+    "text": "Las personas cuidadoras desempeñan un papel importante a la hora de apoyar a sus niñas, niños y adolescentes durante una crisis. Si su comunidad atraviesa momentos difíciles, considere compartir estos 16 consejos para ayudarles en  momentos complejos.💚",
     "type": "data_list",
     "note": ""
   },
@@ -1304,6 +1232,30 @@
   {
     "SourceText": "Which of the parents in this group attended your in-person session?",
     "text": "¿Quiénes asistieron a la sesión presencial de integración?",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Facilitator Guide",
+    "text": "Guía de la Persona Facilitadora",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Frequently Asked Questions",
+    "text": "Preguntas Frecuentes",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Safeguarding",
+    "text": "Medidas de Salvaguarda",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Common Challenges",
+    "text": "Desafíos Comunes",
     "type": "data_list",
     "note": ""
   },
@@ -1950,6 +1902,18 @@
     "note": "The string @global.programme_name should not be translated."
   },
   {
+    "SourceText": "Overview Guide",
+    "text": "Guía General",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Know more about the programme",
+    "text": "Más información sobre el programa",
+    "type": "data_list",
+    "note": ""
+  },
+  {
     "SourceText": "Welcome",
     "text": "Te damos la bienvenida",
     "type": "data_list",
@@ -2016,18 +1980,6 @@
     "note": ""
   },
   {
-    "SourceText": "Overview Guide",
-    "text": "Guía General",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Know more about the programme",
-    "text": "Más información sobre el programa",
-    "type": "data_list",
-    "note": ""
-  },
-  {
     "SourceText": "Guide for In-Person Onboarding",
     "text": "Guía para la Sesión de Integración",
     "type": "data_list",
@@ -2038,6 +1990,12 @@
     "text": "La Sesión de Integración sienta las bases para el programa de @global.programme_name. Es importante crear un espacio empático, acogedor y seguro para que las personas participantes se sientan a gusto y se familiaricen con el programa.",
     "type": "data_list",
     "note": "The string @global.programme_name should not be translated."
+  },
+  {
+    "SourceText": "Onboarding Guide",
+    "text": "Guía para la Sesión de Integración",
+    "type": "data_list",
+    "note": ""
   },
   {
     "SourceText": "Trigger Words",
@@ -2066,12 +2024,6 @@
   {
     "SourceText": "Type ID in the chatbot",
     "text": "Escribe ID en el chat",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Onboarding Guide",
-    "text": "Guía para la Sesión de Integración",
     "type": "data_list",
     "note": ""
   },
@@ -2407,7 +2359,7 @@
   },
   {
     "SourceText": "✨Thank you for sharing. It can be hard to find time, especially when you have work, chores, and other responsibilities to do.🙂 You could try finding a chore to do together.",
-    "text": "✨ Gracias por compartirlo. Puede ser difícil encontrar tiempo, sobre todo cuando tienes trabajo, cosas que hacer en la casa y otras responsabilidades. 🙂 Tal vez puedas encontrar una tarea del hogar que puedan hacer entre ustedes para aprovechar su tiempo a solas.",
+    "text": "✨ Gracias por compartirlo. Puede ser difícil encontrar tiempo, sobre todo cuando tienes trabajo, cosas que hacer en la casa y otras responsabilidades. 🙂 Tal vez puedas encontrar una tarea del hogar que puedan hacer entre ustedes para aprovechar su tiempo uno a uno.",
     "type": "data_list",
     "note": ""
   },
@@ -2461,25 +2413,25 @@
   },
   {
     "SourceText": "Praising your girl, boy, or teen",
-    "text": "Reconocer y halagar a tu niña, niño o adolescente",
+    "text": "Reconocer a tu niña, niño o adolescente",
     "type": "data_list",
     "note": ""
   },
   {
     "SourceText": "It is normal for caregivers to feel uncomfortable or have challenges when praising their boys, girls, and teens. They may at first think that praise will either inflate their girls, boys, or teens or is not part of what they were taught. \n\nIt is important to remember that there are many different ways to praise boys, girls, and teens. @global.programme_name focuses mainly on praise as a method to reinforce positive behaviour. We praise the behaviour more than just the girl, boy, or teen! With practice it will become easier and more comfortable.\n\nHere are some common challenges and possible solutions for praising your girl, boy, or teen. \n\nYou can share the following messages as responses during your weekly chat when parents share challenges with this topic.",
-    "text": "Es normal que a las madres, los padres y las personas cuidadoras les incomode o les resulte difícil halagar a sus niñas, niños y adolescentes. Al principio, puede que piensen que el halago no es parte de su rutina o que, simplemente, no es algo que sepan hacer. \n\nEs importante recordar que hay muchas formas distintas de reconocer y halagar a las niñas, niños y adolescentes. @global.programme_name se centra principalmente en el halago como método para reforzar el comportamiento positivo. Lo que se reconoce y se halaga es el comportamiento más que a la niña, el niño o el adolescente. Con el tiempo y la práctica, se hará más fácil y se sentirán bien haciéndolo.\n\nAquí tienes algunos desafíos comunes y posibles soluciones para halagar a tu niña, niño o adolescente. \n\rPuedes compartir los siguientes mensajes como respuestas durante tu sesión de chat semanal cuando las madres, los padres o las personas cuidadoras compartan sus retos con este tema.",
+    "text": "Es normal que a las madres, los padres y las personas cuidadoras les incomode o les resulte difícil reconocer a sus niñas, niños y adolescentes. Al principio, puede que piensen que el reconocimiento no es parte de su rutina o que, simplemente, no es algo que sepan hacer. \n\nEs importante recordar que hay muchas formas distintas de reconocer a las niñas, niños y adolescentes. @global.programme_name se centra principalmente en el reconocimiento como método para reforzar el comportamiento positivo. Lo que se reconoce y se Reconoce es el comportamiento más que a la niña, el niño o el adolescente. Con el tiempo y la práctica, se hará más fácil y se sentirán bien haciéndolo.\n\nAquí tienes algunos desafíos comunes y posibles soluciones para reconocer a tu niña, niño o adolescente. \n\rPuedes compartir los siguientes mensajes como respuestas durante tu sesión de chat semanal cuando las madres, los padres o las personas cuidadoras compartan sus retos con este tema.",
     "type": "data_list",
     "note": "The string @global.programme_name should not be translated."
   },
   {
     "SourceText": "I forgot to praise my boy, girl, or teen.",
-    "text": "Olvidé halagar a mi niña, niño o  adolescente.",
+    "text": "Olvidé reconocer a mi niña, niño o  adolescente.",
     "type": "data_list",
     "note": ""
   },
   {
     "SourceText": "💚It can be difficult to juggle all the different things we need to do. \n\n🌱Next time you spend one-on-one time, try and think of one thing you can praise them for. \n\n☀️You can even say, “Thank you for spending time with me!”",
-    "text": "💚 Puede ser difícil malabarear todas las cosas que tenemos que hacer. \n\n🌱La próxima vez que pases Tiempo Uno a Uno, intenten identificar alguna cosa pequeña que tu niña, niño o adolescente haya hecho bien y que puedas halagar. \n\n☀️Incluso le puedes decir: \"¡Gracias por pasar tiempo conmigo!\"",
+    "text": "💚 Puede ser difícil malabarear todas las cosas que tenemos que hacer. \n\n🌱La próxima vez que pases Tiempo Uno a Uno, intenten identificar alguna cosa pequeña que tu niña, niño o adolescente haya hecho bien y que puedas reconocer. \n\n☀️Incluso le puedes decir: \"¡Gracias por pasar tiempo conmigo!\"",
     "type": "data_list",
     "note": ""
   },
@@ -2491,19 +2443,19 @@
   },
   {
     "SourceText": "⭐It’s normal to feel uneasy about doing new things.\n\n🌷This is especially true of praise when we are not used to hearing it ourselves. \n\n👀But it will get easier with practice, I promise!",
-    "text": "⭐Es normal sentir incomodidad al hacer cosas nuevas.\n\n🌷Esto es algo común, especialmente en el caso de los halagos, cuando nosotros mismos no estamos acostumbrados a oírlos. \n\n👀  Con la práctica se hará más fácil, ¡te lo aseguro! ¡sigue intentando!",
+    "text": "⭐Es normal sentir incomodidad al hacer cosas nuevas.\n\n🌷Esto es algo común, especialmente en el caso de los reconocimientos, cuando nosotros mismos no estamos acostumbrados a oírlos. \n\n👀  Con la práctica se hará más fácil, ¡te lo aseguro! ¡sigue intentando!",
     "type": "data_list",
     "note": ""
   },
   {
     "SourceText": "I can’t think of anything to praise my girl, boy, or teen.",
-    "text": "No se me ocurre nada que pueda halagarle a mi niña, niño o adolescente.",
+    "text": "No se me ocurre nada que pueda reconocerle a mi niña, niño o adolescente.",
     "type": "data_list",
     "note": ""
   },
   {
     "SourceText": "🔔Start small! You don’t have to select anything big to praise. \n\n💡Find a simple behaviour that your girl, boy, or teen does that you are happy about and tell them. Even something that they already do. \n\n♥️ It will make a difference!",
-    "text": "🔔 ¡Empieza poco a poco! No tienes que escoger algo grande para poder halagar. \n\n💡Encuentra un comportamiento sencillo (Por ejemplo: saludar, usar un tono de voz bajo, caminar cerca del adulto, escuchar) que tu niña, niño o adolescente haga. También pueden ser cosas de las que sientas orgullo, felicidad o incluso algo que ya hagan con regularidad. ¡Identifícalo y comunícaselo! \n\n♥️ ¡Hará la diferencia!",
+    "text": "🔔 ¡Empieza poco a poco! No tienes que escoger algo grande para poder reconocer. \n\n💡Encuentra un comportamiento sencillo (Por ejemplo: saludar, usar un tono de voz bajo, caminar cerca del adulto, escuchar) que tu niña, niño o adolescente haga. También pueden ser cosas de las que sientas orgullo, felicidad o incluso algo que ya hagan con regularidad. ¡Identifícalo y comunícaselo! \n\n♥️ ¡Hará la diferencia!",
     "type": "data_list",
     "note": ""
   },
@@ -2611,7 +2563,7 @@
   },
   {
     "SourceText": "I get that it's challenging when your girl, boy, or teen isn't following the routine you set. 😔\n\nThink about your routine – is it fair and realistic? What can your girl, boy, or teen actually do? Adjust the routine if necessary. \n\nPraise your boy, girl, or teen when they do follow the routine.",
-    "text": "Entiendo que es un reto cuando tu niña, niño o adolescente no sigue la rutina que se ha establecido. 😔\n\nPiensa en tu rutina: ¿es justa y realista? ¿Qué es lo que realmente puede hacer tu niña, niño o adolescente? Ajusta la rutina si es necesario. \n\nReconoce y halaga a tu niña, niño o  adolescente cuando siga la rutina.",
+    "text": "Entiendo que es un reto cuando tu niña, niño o adolescente no sigue la rutina que se ha establecido. 😔\n\nPiensa en tu rutina: ¿es justa y realista? ¿Qué es lo que realmente puede hacer tu niña, niño o adolescente? Ajusta la rutina si es necesario. \n\nreconoce a tu niña, niño o  adolescente cuando siga la rutina.",
     "type": "data_list",
     "note": ""
   },
@@ -2779,7 +2731,7 @@
   },
   {
     "SourceText": "🌱 Next time, try to catch the misbehaviour early on, before it sets in or gets worse.\n\n👂 Talk to them about this behaviour when both of you feel calmer.\n\n⭐ Remember to praise your girl or boy when they behave well.",
-    "text": "🌱 La próxima vez, intenta detectar el comportamiento que no quieres que se repita desde un principio, antes de que se arraigue o empeore.\n\n👂 Habla con tu niña o niño de ese comportamiento cuando la situación se haya tranquilizado y todas las personas involucradas estén más calmadas.\n\n⭐ Acuérdate de halagar a tu niña o niño cuando se porte bien.",
+    "text": "🌱 La próxima vez, intenta detectar el comportamiento que no quieres que se repita desde un principio, antes de que se arraigue o empeore.\n\n👂 Habla con tu niña o niño de ese comportamiento cuando la situación se haya tranquilizado y todas las personas involucradas estén más calmadas.\n\n⭐ Acuérdate de reconocer a tu niña o niño cuando se porte bien.",
     "type": "data_list",
     "note": ""
   },
@@ -2851,7 +2803,7 @@
   },
   {
     "SourceText": "📺 It must be exhausting to always tell girl or boy to turn off or put away the gadgets.\n\n📝 Set rules with girl or boy. Tell them that they cannot be on gadgets when you are busy. Your busy time is your child’s quiet play time with toys or reading time with books.\n\n🌷 Tell your child that sharing what they watch on T.V. or what they do on gadgets is a rule. \n\n👂 Be patient and kind while listening to them. Manage your anger if you find that they did something wrong online. Take a deep breath.\n\n💛 Praise girl or boy when they follow the rules!",
-    "text": "📺 Debe de ser agotador pasar todo el tiempo diciéndole a tu niña o niño que apague o guarde sus aparatos electrónicos.\n\n📝 Establece reglas con tu niña o niño. Dile que no puede estar con los aparatos cuando estás haciendo algo o cuando tienes mucho trabajo. Tu tiempo de trabajo es el tiempo de juego tranquilo de tu niña o niño con juguetes o su tiempo de lectura.\n\n🌷 Dile a tu niña o niño que, como regla, debe de compartirte lo que ve en la tele o lo que hace en sus aparatos. \n\n👂 Sé paciente y amable mientras le escuchas. Controla tu enojo si descubres que ha hecho algo que no te gusta al navegar en internet. Respira profundo.\n\n💛 ¡Reconoce y halaga a tu niña o niño cuando siga las instrucciones!",
+    "text": "📺 Debe de ser agotador pasar todo el tiempo diciéndole a tu niña o niño que apague o guarde sus aparatos electrónicos.\n\n📝 Establece reglas con tu niña o niño. Dile que no puede estar con los aparatos cuando estás haciendo algo o cuando tienes mucho trabajo. Tu tiempo de trabajo es el tiempo de juego tranquilo de tu niña o niño con juguetes o su tiempo de lectura.\n\n🌷 Dile a tu niña o niño que, como regla, debe de compartirte lo que ve en la tele o lo que hace en sus aparatos. \n\n👂 Sé paciente y amable mientras le escuchas. Controla tu enojo si descubres que ha hecho algo que no te gusta al navegar en internet. Respira profundo.\n\n💛 ¡reconoce a tu niña o niño cuando siga las instrucciones!",
     "type": "data_list",
     "note": ""
   },
@@ -2863,7 +2815,7 @@
   },
   {
     "SourceText": "🍅 It is common for children to refuse vegetables and fruits, especially when tastier but less healthy food options are available all around us.\n\n🌱 You could encourage your child to eat slightly sweeter fruits and vegetables for a start, such as mango childs and sweet potatoes. You can gradually introduce other vegetables and fruits.\n\n🎈 Praise you child even when they take one mouthful of vegetables or fruits!",
-    "text": "🍅 Es común que las niñas y los niños rechacen las frutas y las verduras, sobre todo cuando tenemos tantas opciones deliciosas, aunque menos saludables, a nuestro alrededor.\n\n🌱 Para empezar, puedes animar a tu niña o niño a comer frutas y verduras ligeramente más dulces, como mangos y camotes. Puedes ir agregando, gradualmente, otras frutas y verduras.\n\n🎈 ¡Halaga a tu niña o niño incluso cuando se coma un solo bocado de frutas o verduras!",
+    "text": "🍅 Es común que las niñas y los niños rechacen las frutas y las verduras, sobre todo cuando tenemos tantas opciones deliciosas, aunque menos saludables, a nuestro alrededor.\n\n🌱 Para empezar, puedes animar a tu niña o niño a comer frutas y verduras ligeramente más dulces, como mangos y camotes. Puedes ir agregando, gradualmente, otras frutas y verduras.\n\n🎈 ¡Reconoce a tu niña o niño incluso cuando se coma un solo bocado de frutas o verduras!",
     "type": "data_list",
     "note": ""
   },
@@ -2904,44 +2856,158 @@
     "note": ""
   },
   {
-    "SourceText": "SNDIF Capacitación Nacional",
-    "text": "SNDIF Capacitación Nacional",
+    "SourceText": "Crianza con Conciencia +",
+    "text": "Crianza con Conciencia +",
     "type": "data_list",
     "note": ""
   },
   {
-    "SourceText": "CC+ Baja California",
-    "text": "CC+ Baja California",
+    "SourceText": "Crianza Afectiva",
+    "text": "Crianza Afectiva",
     "type": "data_list",
     "note": ""
   },
   {
-    "SourceText": "CA Chihuahua",
-    "text": "CA Chihuahua",
+    "SourceText": "Demo",
+    "text": "Demo",
     "type": "data_list",
     "note": ""
   },
   {
-    "SourceText": "CC+ Ciudad de México",
-    "text": "CC+ Ciudad de México",
-    "type": "data_list",
+    "SourceText": "Your name",
+    "text": "Tu nombre",
+    "type": "global",
     "note": ""
   },
   {
-    "SourceText": "CC+ Michoacan",
-    "text": "CC+ Michoacán",
-    "type": "data_list",
+    "SourceText": "[INSERT NAME]",
+    "text": "[INSERTAR NOMBRE]",
+    "type": "global",
     "note": ""
   },
   {
-    "SourceText": "CC+ Guerrero",
-    "text": "CC+ Guerrero",
-    "type": "data_list",
+    "SourceText": "Which state do you live in?",
+    "text": "¿En qué estado vives?",
+    "type": "global",
     "note": ""
   },
   {
-    "SourceText": "Share",
-    "text": "Compartir",
+    "SourceText": "Which region of @global.deployment_country do you live in?",
+    "text": "¿En qué región de @global.deployment_country vives?",
+    "type": "global",
+    "note": "The string @global.deployment_country should not be translated."
+  },
+  {
+    "SourceText": "User ID",
+    "text": "ID de usuario",
+    "type": "global",
+    "note": ""
+  },
+  {
+    "SourceText": "Create an account",
+    "text": "Crear una cuenta",
+    "type": "global",
+    "note": ""
+  },
+  {
+    "SourceText": "Excited to have you here! Let’s keep going.",
+    "text": "¡Me alegro de tenerte aquí! Sigamos adelante.",
+    "type": "global",
+    "note": ""
+  },
+  {
+    "SourceText": "Excited to have you here @fields._auth_user_given_name! Let’s keep going.",
+    "text": "¡Que gusto tenerte aquí @fields._auth_user_given_name! Sigamos adelante.",
+    "type": "global",
+    "note": "The string @fields._auth_user_given_name! should not be translated."
+  },
+  {
+    "SourceText": "You are signed in.",
+    "text": "Sesión iniciada.",
+    "type": "global",
+    "note": ""
+  },
+  {
+    "SourceText": "Welcome",
+    "text": "Te damos la bienvenida ",
+    "type": "global",
+    "note": ""
+  },
+  {
+    "SourceText": "Your Content Package",
+    "text": "Tu Paquete de Contenidos",
+    "type": "global",
+    "note": ""
+  },
+  {
+    "SourceText": "parent groups",
+    "text": "grupos de madres, padres y personas cuidadoras",
+    "type": "global",
+    "note": ""
+  },
+  {
+    "SourceText": "Tap and type",
+    "text": "Toca y escribe",
+    "type": "global",
+    "note": ""
+  },
+  {
+    "SourceText": "Tap and select",
+    "text": "Toca y selecciona",
+    "type": "global",
+    "note": ""
+  },
+  {
+    "SourceText": "About @global.app_name",
+    "text": "Acerca de @global.app_name",
+    "type": "global",
+    "note": "The string @global.app_name should not be translated."
+  },
+  {
+    "SourceText": "your DIF supervisor",
+    "text": "tu persona asesora o supervisora",
+    "type": "global",
+    "note": ""
+  },
+  {
+    "SourceText": "Parent Group",
+    "text": "Grupo de madres, padres y personas cuidadoras",
+    "type": "global",
+    "note": ""
+  },
+  {
+    "SourceText": "Parent Text ID",
+    "text": "ID de Parent Text",
+    "type": "global",
+    "note": ""
+  },
+  {
+    "SourceText": "Language",
+    "text": "Idioma",
+    "type": "global",
+    "note": ""
+  },
+  {
+    "SourceText": "Copied to clipboard",
+    "text": "Copiado en el portapapeles",
+    "type": "global",
+    "note": ""
+  },
+  {
+    "SourceText": "This profile is incomplete. Open to complete the missing details.",
+    "text": "Este perfil está incompleto. Abre para completar los datos que faltan.",
+    "type": "global",
+    "note": ""
+  },
+  {
+    "SourceText": "Embedded PDFs are not supported in this browser, please use an up-to-date version of Google Chrome to view or open in external app",
+    "text": "Los PDF incorporados no son compatibles con este navegador; utiliza una versión actualizada de Google Chrome para verlos o abrirlos en una aplicación externa.",
+    "type": "global",
+    "note": ""
+  },
+  {
+    "SourceText": "Open with...",
+    "text": "Abrir con...",
     "type": "global",
     "note": ""
   },
@@ -2976,8 +3042,8 @@
     "note": ""
   },
   {
-    "SourceText": "No Parent Groups Found. Click on ➕ to add a parent group.",
-    "text": "No se encontraron grupos. Haz clic en ➕ para agregar un grupo.",
+    "SourceText": "Chat Sessions will load after you select a parent group",
+    "text": "Las sesiones de reflexión se mostrarán después de que selecciones un grupo",
     "type": "global",
     "note": ""
   },
@@ -3018,32 +3084,8 @@
     "note": ""
   },
   {
-    "SourceText": "You successfully completed this session!",
-    "text": "¡Completaste esta sesión!",
-    "type": "global",
-    "note": ""
-  },
-  {
-    "SourceText": "You successfully completed the report for this session!",
-    "text": "¡Completaste con éxito el reporte de esta sesión!",
-    "type": "global",
-    "note": ""
-  },
-  {
-    "SourceText": "Review Report",
-    "text": "Revisar Reporte",
-    "type": "global",
-    "note": ""
-  },
-  {
     "SourceText": "Submit Report",
     "text": "Enviar informe ",
-    "type": "global",
-    "note": ""
-  },
-  {
-    "SourceText": "Frequently Asked Questions",
-    "text": "Preguntas Frecuentes",
     "type": "global",
     "note": ""
   },
@@ -3054,62 +3096,74 @@
     "note": ""
   },
   {
-    "SourceText": "Sign in",
-    "text": "Ingresar",
+    "SourceText": "Choose your role:",
+    "text": "Escoge tu rol:",
+    "type": "global",
+    "note": ""
+  },
+  {
+    "SourceText": "your supervisor",
+    "text": "tu supervisor",
+    "type": "global",
+    "note": ""
+  },
+  {
+    "SourceText": "Would you like to create an account? This will allow you to retrieve your data if you lose your device.",
+    "text": "¿Quieres crear una cuenta? Esto te permitirá recuperar tus datos si cambias de dispositivo.",
+    "type": "global",
+    "note": ""
+  },
+  {
+    "SourceText": "Sign in with Apple",
+    "text": "Iniciar sesión con Apple",
     "type": "global",
     "note": ""
   },
   {
     "SourceText": "Sign in with Google",
-    "text": "Acceder con Google",
+    "text": "Acceder con una cuenta de Google",
     "type": "global",
     "note": ""
   },
   {
-    "SourceText": "Sign out",
-    "text": "Cerrar sesión",
-    "type": "global",
-    "note": ""
-  },
-  {
-    "SourceText": "Create an account",
-    "text": "Crear una cuenta",
-    "type": "global",
-    "note": ""
-  },
-  {
-    "SourceText": "Creating an account allows you to save your progress across devices. It is optional.",
-    "text": "Crear una cuenta te permite guardar tu progreso en diferentes equipos. Es opcional.",
-    "type": "global",
-    "note": ""
-  },
-  {
-    "SourceText": "Skip",
-    "text": "Saltar",
-    "type": "global",
-    "note": ""
-  },
-  {
-    "SourceText": "Continue without an account",
-    "text": "Continuar sin una cuenta",
-    "type": "global",
-    "note": ""
-  },
-  {
-    "SourceText": "Excited to have you here! Let’s keep going.",
-    "text": "¡Me alegro de tenerte aquí! Sigamos adelante.",
-    "type": "global",
-    "note": ""
-  },
-  {
-    "SourceText": "Excited to have you here @fields._auth_user_given_name! Let’s keep going.",
-    "text": "¡Que gusto tenerte aquí @fields._auth_user_given_name! Sigamos adelante.",
-    "type": "global",
-    "note": "The string @fields._auth_user_given_name! should not be translated."
-  },
-  {
-    "SourceText": "You are signed in.",
+    "SourceText": "You are logged in.",
     "text": "Sesión iniciada.",
+    "type": "global",
+    "note": ""
+  },
+  {
+    "SourceText": "Account",
+    "text": "Cuenta",
+    "type": "global",
+    "note": ""
+  },
+  {
+    "SourceText": "Delete account",
+    "text": "Eliminar cuenta",
+    "type": "global",
+    "note": ""
+  },
+  {
+    "SourceText": "Are you sure you want to delete your account?",
+    "text": "¿Confirmas que deseas eliminar tu cuenta?",
+    "type": "global",
+    "note": ""
+  },
+  {
+    "SourceText": "This action is permanent and cannot be undone. You will lose all your progress.",
+    "text": "Esta acción es permanente y no puede deshacerse. Perderás todo tu progreso.",
+    "type": "global",
+    "note": ""
+  },
+  {
+    "SourceText": "Yes",
+    "text": "Sí",
+    "type": "global",
+    "note": ""
+  },
+  {
+    "SourceText": "No",
+    "text": "No",
     "type": "global",
     "note": ""
   },
@@ -3126,8 +3180,152 @@
     "note": ""
   },
   {
-    "SourceText": "Welcome",
-    "text": "Te damos la bienvenida ",
+    "SourceText": "Frequently Asked Questions",
+    "text": "Preguntas Frecuentes",
+    "type": "global",
+    "note": ""
+  },
+  {
+    "SourceText": "View Module from Start",
+    "text": "Ver módulo desde el inicio",
+    "type": "global",
+    "note": ""
+  },
+  {
+    "SourceText": "Please make sure messages have been shared before completing session",
+    "text": "Asegúrate de que se han compartido los mensajes antes de finalizar la sesión",
+    "type": "global",
+    "note": ""
+  },
+  {
+    "SourceText": "Mark Session as Delivered",
+    "text": "Marcar Sesión como Realizada",
+    "type": "global",
+    "note": ""
+  },
+  {
+    "SourceText": "You successfully completed this session! Please complete the report",
+    "text": "¡Has completado con éxito esta sesión! Por favor, completa el reporte",
+    "type": "global",
+    "note": ""
+  },
+  {
+    "SourceText": "Add Report",
+    "text": "Agregar reporte",
+    "type": "global",
+    "note": ""
+  },
+  {
+    "SourceText": "You successfully completed the report for this session!",
+    "text": "¡Completaste con éxito el reporte de esta sesión!",
+    "type": "global",
+    "note": ""
+  },
+  {
+    "SourceText": "Review Report",
+    "text": "Revisar Reporte",
+    "type": "global",
+    "note": ""
+  },
+  {
+    "SourceText": "You successfully completed this session!",
+    "text": "¡Completaste esta sesión!",
+    "type": "global",
+    "note": ""
+  },
+  {
+    "SourceText": "Mark Session as Delivered and add report",
+    "text": "Marcar sesión como realizada y agregar reporte",
+    "type": "global",
+    "note": ""
+  },
+  {
+    "SourceText": "Please share your message with the parent group before marking this module as delivered.",
+    "text": "Por favor, comparte tu mensaje con tu Grupo de Reflexión antes de marcar este módulo como realizado.",
+    "type": "global",
+    "note": ""
+  },
+  {
+    "SourceText": "Share",
+    "text": "Compartir",
+    "type": "global",
+    "note": ""
+  },
+  {
+    "SourceText": "Skip",
+    "text": "Saltar",
+    "type": "global",
+    "note": ""
+  },
+  {
+    "SourceText": "Welcome to \n@global.app_name!",
+    "text": "¡Bienvenido a \n@global.app_name!",
+    "type": "global",
+    "note": "The string @global.app_name! should not be translated."
+  },
+  {
+    "SourceText": "Sign in",
+    "text": "Ingresar",
+    "type": "global",
+    "note": ""
+  },
+  {
+    "SourceText": "Creating an account allows you to save your progress across devices. It is optional.",
+    "text": "Crear una cuenta te permite guardar tu progreso en diferentes equipos. Es opcional.",
+    "type": "global",
+    "note": ""
+  },
+  {
+    "SourceText": "Continue with Apple",
+    "text": "Continuar con Apple",
+    "type": "global",
+    "note": ""
+  },
+  {
+    "SourceText": "Continue with Google",
+    "text": "Continuar con Google",
+    "type": "global",
+    "note": ""
+  },
+  {
+    "SourceText": "Continue without an account",
+    "text": "Continuar sin una cuenta",
+    "type": "global",
+    "note": ""
+  },
+  {
+    "SourceText": "By continuing, you agree to our:",
+    "text": "Al continuar, aceptas:",
+    "type": "global",
+    "note": ""
+  },
+  {
+    "SourceText": "Sign out",
+    "text": "Cerrar sesión",
+    "type": "global",
+    "note": ""
+  },
+  {
+    "SourceText": "Welcome back, @fields._auth_user_given_name!",
+    "text": "¡Te damos la bienvenida de nuevo, @fields._auth_user_given_name!",
+    "type": "global",
+    "note": "The string @fields._auth_user_given_name! should not be translated."
+  },
+  {
+    "SourceText": "Welcome back!",
+    "text": "¡Te damos la bienvenida una vez más!",
+    "type": "global",
+    "note": ""
+  },
+  {
+    "SourceText": "Welcome, @fields._auth_user_given_name!",
+    "text": "¡Te damos la bienvenida, @fields._auth_user_given_name!",
+    "type": "global",
+    "note": "The string @fields._auth_user_given_name! should not be translated."
+  },
+  {
+    "SourceText": "Welcome!",
+    "text": "¡Te damos la bienvenida!",
     "type": "global",
     "note": ""
   },
@@ -3138,249 +3336,81 @@
     "note": ""
   },
   {
-    "SourceText": "Language",
-    "text": "Idioma",
+    "SourceText": "You’re all set!",
+    "text": "¡Todo listo!",
     "type": "global",
     "note": ""
   },
   {
-    "SourceText": "Your Content Package",
-    "text": "Tu Paquete de Contenidos",
+    "SourceText": "Your profile is complete, and you’re ready to begin!",
+    "text": "Tu perfil está completo, ¡todo está listo para comenzar!",
     "type": "global",
     "note": ""
   },
   {
-    "SourceText": "parent groups",
-    "text": "grupos de madres, padres y personas cuidadoras",
-    "type": "global",
-    "note": ""
-  },
-  {
-    "SourceText": "Tap and type",
-    "text": "Toca y escribe",
-    "type": "global",
-    "note": ""
-  },
-  {
-    "SourceText": "Tap and select",
-    "text": "Toca y selecciona",
-    "type": "global",
-    "note": ""
-  },
-  {
-    "SourceText": "About @global.app_name",
-    "text": "Acerca de @global.app_name",
-    "type": "global",
-    "note": "The string @global.app_name should not be translated."
-  },
-  {
-    "SourceText": "Your name",
-    "text": "Tu nombre",
-    "type": "global",
-    "note": ""
-  },
-  {
-    "SourceText": "[INSERT NAME]",
-    "text": "[INSERTAR NOMBRE]",
-    "type": "global",
-    "note": ""
-  },
-  {
-    "SourceText": "Which state do you live in?",
-    "text": "¿En qué estado vives?",
-    "type": "global",
-    "note": ""
-  },
-  {
-    "SourceText": "Which region of @global.deployment_country do you live in?",
-    "text": "¿En qué región de @global.deployment_country vives?",
-    "type": "global",
-    "note": "The string @global.deployment_country should not be translated."
-  },
-  {
-    "SourceText": "your supervisor",
-    "text": "tu supervisor",
-    "type": "global",
-    "note": ""
-  },
-  {
-    "SourceText": "your DIF supervisor",
-    "text": "tu persona asesora o supervisora",
-    "type": "global",
-    "note": ""
-  },
-  {
-    "SourceText": "Save Profile",
-    "text": "Guardar perfil",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "Save and Add New",
-    "text": "Guardar y agregar nueva persona cuidadora",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "New Parent Group",
-    "text": "Nuevo grupo",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "Developer mode",
-    "text": "Opciones de desarrollador",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "Exit developer mode",
-    "text": "Salir de opciones de desarrollador",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "Open feedback",
-    "text": "Abrir retroalimentación",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "Close feedback",
-    "text": "Cerrar retroalimentación",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "Templates",
-    "text": "Plantillas",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "Themes",
-    "text": "Temas",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "Reset app",
-    "text": "Restablecer aplicación",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "@global.app_name has downloaded an update. Please restart the app to finish installation.",
-    "text": "@global.app_name ha descargado una actualización. Reinicia la aplicación para finalizar la instalación.",
-    "type": "template",
-    "note": "The string @global.app_name should not be translated."
-  },
-  {
-    "SourceText": "Restart",
-    "text": "Reiniciar",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "Are you sure you want to archive @fields.current_group_name?",
-    "text": "¿Estás seguro de que quieres archivar el grupo @fields.current_group_name?",
-    "type": "template",
-    "note": "The string @fields.current_group_name should not be translated."
-  },
-  {
-    "SourceText": "This will archive all of @fields.current_group_name group data.",
-    "text": "Esto archivará todos los datos del grupo de @fields.current_group_name.",
-    "type": "template",
-    "note": "The string @fields.current_group_name should not be translated."
-  },
-  {
-    "SourceText": "Archive",
-    "text": "Archivo",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "Are you sure you want to delete @fields.current_group_name?",
-    "text": "¿Quieres eliminar al grupo @fields.current_group_name? Esto borrará toda su información y no se podrá deshacer",
-    "type": "template",
-    "note": "The string @fields.current_group_name should not be translated."
-  },
-  {
-    "SourceText": "This will delete all of @fields.current_group_name group data. The action cannot be undone.",
-    "text": "Esto eliminará todos los datos del grupo de @fields.current_group_name . La acción no se podrá deshacer.",
-    "type": "template",
-    "note": "The string @fields.current_group_name should not be translated."
-  },
-  {
-    "SourceText": "Are you sure you want to delete @fields.current_parent_name?",
-    "text": "¿Quieres eliminar a @fields.current_parent_name? Esto borrará toda su información y no se podrá deshacer",
-    "type": "template",
-    "note": "The string @fields.current_parent_name should not be translated."
-  },
-  {
-    "SourceText": "This will delete all of @fields.current_parent_name parent data. The action cannot be undone.",
-    "text": "Esto borrará todos los datos de la persona cuidadora @fields.current_parent_name. La acción no se podrá deshacer.",
-    "type": "template",
-    "note": "The string @fields.current_parent_name should not be translated."
-  },
-  {
-    "SourceText": "Are you sure you want to delete this report?",
-    "text": "¿Estás seguro de que quieres borrar este reporte?",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "This will delete all of your report data and entries. The action cannot be undone!",
-    "text": "Esto borrará todos los datos y entradas de tu reporte. La acción no se puede deshacer.",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "Cancel",
-    "text": "No",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "Delete",
-    "text": "Sí",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "How many minutes did it take you to prepare for this session?",
-    "text": "¿Cuántos minutos tardaste en preparar la sesión?",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "How many minutes did it take you to travel to the location where the session was delivered?",
-    "text": "¿Cuántos minutos tardaste en desplazarte al lugar donde se impartió la sesión?",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "How many minutes did it take you to deliver the sessions?",
-    "text": "¿Cuántos minutos tardaste en impartir la sesión?",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "Please check all the activities you completed during this session:",
-    "text": "Selecciona todas las actividades que hayas completado durante esta sesión:",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "First Name",
+    "SourceText": "Name",
     "text": "Nombre",
-    "type": "template",
+    "type": "global",
     "note": ""
   },
   {
-    "SourceText": "Last Name",
-    "text": "Apellidos",
-    "type": "template",
+    "SourceText": "Enter your name",
+    "text": "Introduce tu nombre",
+    "type": "global",
+    "note": ""
+  },
+  {
+    "SourceText": "Gender",
+    "text": "Género",
+    "type": "global",
+    "note": ""
+  },
+  {
+    "SourceText": "Select your gender",
+    "text": "Selecciona tu sexo",
+    "type": "global",
+    "note": ""
+  },
+  {
+    "SourceText": "Select your role",
+    "text": "Selecciona tu papel",
+    "type": "global",
+    "note": ""
+  },
+  {
+    "SourceText": "Profession",
+    "text": "Profesión",
+    "type": "global",
+    "note": ""
+  },
+  {
+    "SourceText": "Select your profession",
+    "text": "Selecciona tu profesión",
+    "type": "global",
+    "note": ""
+  },
+  {
+    "SourceText": "Organisation",
+    "text": "Organización",
+    "type": "global",
+    "note": ""
+  },
+  {
+    "SourceText": "Select your organisation",
+    "text": "Selecciona tu organización",
+    "type": "global",
+    "note": ""
+  },
+  {
+    "SourceText": "State",
+    "text": "Estado",
+    "type": "global",
+    "note": ""
+  },
+  {
+    "SourceText": "Select your state",
+    "text": "Selecciona tu Estado",
+    "type": "global",
     "note": ""
   },
   {
@@ -3390,20 +3420,26 @@
     "note": ""
   },
   {
-    "SourceText": "Group Name",
-    "text": "Nombre del grupo",
+    "SourceText": "minutes",
+    "text": "minutos",
     "type": "template",
     "note": ""
   },
   {
-    "SourceText": "Very Poorly",
+    "SourceText": "**Which of the parents in your group participated?**\n*Participation is defined as any parent who posts a comment, question, reply or reaction (such as a thumbs up) within the chat since you shared the first message from the weekly discussion.*",
+    "text": "**¿Quiénes fueron las madres, padres y personas cuidadoras de tu grupo que participaron?**\n*La Participación se entiende como cualquier miembro del grupo que publique un comentario, pregunta, respuesta o reacción (como un pulgar hacia arriba) dentro del chat desde que compartiste el primer mensaje para la conversación semanal.*",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Parent",
+    "text": "Madre, Padre o Persona Cuidadora",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Very poorly",
     "text": "Muy Mal",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "Which of the parents in this group attended your in-person session?",
-    "text": "¿Quiénes fueron las y los miembros de tu grupo que asistieron a la sesión presencial de integración?",
     "type": "template",
     "note": ""
   },
@@ -3438,50 +3474,26 @@
     "note": ""
   },
   {
-    "SourceText": "Import user",
-    "text": "Importar usuario",
+    "SourceText": "@global.app_name has downloaded an update. Please restart the app to finish installation.",
+    "text": "@global.app_name ha descargado una actualización. Reinicia la aplicación para finalizar la instalación.",
+    "type": "template",
+    "note": "The string @global.app_name should not be translated."
+  },
+  {
+    "SourceText": "Restart",
+    "text": "Reiniciar",
     "type": "template",
     "note": ""
   },
   {
-    "SourceText": "Facilitator ID",
-    "text": "Número de Identificación de la Persona Facilitadora",
+    "SourceText": "New Parent Group",
+    "text": "Nuevo grupo",
     "type": "template",
     "note": ""
   },
   {
-    "SourceText": "Paste the @local.facilitator_id of a user to import their account data.",
-    "text": "Pega la @local.facilitator_id de un usuario para importar los datos de su cuenta.",
-    "type": "template",
-    "note": "The string @local.facilitator_id should not be translated."
-  },
-  {
-    "SourceText": "Import data",
-    "text": "Importar datos",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "Validation",
-    "text": "Validación",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "User name (on the current account)",
-    "text": "Nombre de usuario (en la cuenta actual)",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "Clear user name",
-    "text": "Borrar el nombre de usuario",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "If you had set a user name on your old account and the data was imported succesfully, the user name above should update.",
-    "text": "Si configuraste un nombre de usuario en tu cuenta anterior y los datos se importaron correctamente, el nombre de usuario anterior debería de actualizarse.",
+    "SourceText": "Group Name",
+    "text": "Nombre del grupo",
     "type": "template",
     "note": ""
   },
@@ -3492,32 +3504,8 @@
     "note": ""
   },
   {
-    "SourceText": "Choose which content you want to see.",
-    "text": "Escoge qué contenido quieres ver.",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "Continue",
-    "text": "Continúa",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "test",
-    "text": "prueba",
-    "type": "template",
-    "note": ""
-  },
-  {
     "SourceText": "Add Parent to Group",
     "text": "Agregar persona cuidadora\n",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "parents",
-    "text": "madre, padre o persona cuidadora",
     "type": "template",
     "note": ""
   },
@@ -3528,172 +3516,10 @@
     "note": "The string @item.co_parent_name should not be translated."
   },
   {
-    "SourceText": "Parent profile",
-    "text": "Perfil de la madre, padre o persona cuidadora ",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "First name",
-    "text": "Nombre",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "Last name",
-    "text": "Apellidos",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "ParentText ID",
-    "text": "Número de registro(ID)",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "Make sure that the ParentText ID consists of 6 numerical characters.",
-    "text": "Asegúrate de que el número de Identificación del Programa Crianza con Conciencia + (CC+) conste de 6 caracteres numéricos.",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "This ParentText ID has already been assigned to another parent.",
-    "text": "Este número de Identificación del Programa Crianza con Conciencia + (CC+) ya ha sido asignado a otra madre, padre o persona cuidadora.",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "Co-parenting with",
-    "text": "Agregar persona con quien comparte la crianza",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "pdf",
-    "text": "pdf",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "Settings",
-    "text": "Ajustes",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "Profile",
-    "text": "Perfil",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "Switch language",
-    "text": "Cambiar de idioma",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "Your Facilitator Code",
-    "text": "Tu Código de Persona Facilitadora",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "Your Content Package",
-    "text": "Tu Paquete de Contenidos",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "Parent Actions",
-    "text": "Acciones de las madres, padres y personas cuidadoras",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "Your Parent Groups",
-    "text": "Tus Grupos",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "Save",
-    "text": "Guardar",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "Syncing...",
-    "text": "Sincronizando...",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "Copy code",
-    "text": "Copiar código",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "Copied!",
-    "text": "¡Copiado!",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "Last sync at: @local.sync_latest",
-    "text": "Última sincronización: @local.sync_latest",
-    "type": "template",
-    "note": "The string @local.sync_latest should not be translated."
-  },
-  {
-    "SourceText": "This device has never been synced. Sync to reveal your code.",
-    "text": "Este dispositivo nunca se ha sincronizado. Sincronízalo para revelar tu código.",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "Sync now",
-    "text": "Sincronizar ahora",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "Your Reports",
-    "text": "Tus Reportes",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "Parent Group",
-    "text": "Grupo de madres, padres y personas cuidadoras",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "minutes",
-    "text": "minutos",
-    "type": "template",
-    "note": ""
-  },
-  {
     "SourceText": "How many minutes did you spend facilitating your parent @global.share_medium group over the last week?",
     "text": "¿Cuántos minutos de la semana pasada dedicaste a moderar en WhatsApp tu grupo de madres, padres y personas cuidadoras?",
     "type": "template",
     "note": "The string @global.share_medium should not be translated."
-  },
-  {
-    "SourceText": "**Which of the parents in your group participated?**\n*Participation is defined as any parent who posts a comment, question, reply or reaction (such as a thumbs up) within the chat since you shared the first message from the weekly discussion.*",
-    "text": "**¿Quiénes fueron las madres, padres y personas cuidadoras de tu grupo que participaron?**\n*La Participación se entiende como cualquier miembro del grupo que publique un comentario, pregunta, respuesta o reacción (como un pulgar hacia arriba) dentro del chat desde que compartiste el primer mensaje para la conversación semanal.*",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "Parent",
-    "text": "Madre, Padre o Persona Cuidadora",
-    "type": "template",
-    "note": ""
   },
   {
     "SourceText": "I was able to send...",
@@ -3750,14 +3576,404 @@
     "note": ""
   },
   {
-    "SourceText": "Very poorly",
+    "SourceText": "Very Poorly",
     "text": "Muy Mal",
     "type": "template",
     "note": ""
   },
   {
-    "SourceText": "Create New Group",
-    "text": "Crea un nuevo grupo",
+    "SourceText": "Which of the parents in this group attended your @global.virtual_session_platform group session?",
+    "text": "¿Quiénes de las personas cuidadoras de este grupo asistieron a la sesión @global.virtual_session_platform?",
+    "type": "template",
+    "note": "The string @global.virtual_session_platform should not be translated."
+  },
+  {
+    "SourceText": "Are you sure you want to delete @fields.current_group_name?",
+    "text": "¿Quieres eliminar al grupo @fields.current_group_name? Esto borrará toda su información y no se podrá deshacer",
+    "type": "template",
+    "note": "The string @fields.current_group_name should not be translated."
+  },
+  {
+    "SourceText": "This will delete all of @fields.current_group_name group data. The action cannot be undone.",
+    "text": "Esto eliminará todos los datos del grupo de @fields.current_group_name . La acción no se podrá deshacer.",
+    "type": "template",
+    "note": "The string @fields.current_group_name should not be translated."
+  },
+  {
+    "SourceText": "Unsaved values",
+    "text": "Valores no guardados",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Are you sure you want to exit without saving?",
+    "text": "¿Confirmas que quieres salir sin guardar?",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Exit without saving",
+    "text": "Salir sin guardar",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Settings",
+    "text": "Ajustes",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Profile",
+    "text": "Perfil",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Switch language",
+    "text": "Cambiar de idioma",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Your Facilitator Code",
+    "text": "Tu Código de Persona Facilitadora",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Your Content Package",
+    "text": "Tu Paquete de Contenidos",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Parent Actions",
+    "text": "Acciones de las madres, padres y personas cuidadoras",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Your Parent Groups",
+    "text": "Tus Grupos",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "App Details & Terms",
+    "text": "Detalles y condiciones de la aplicación",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Choose which content you want to see.",
+    "text": "Escoge qué contenido quieres ver.",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Save Profile",
+    "text": "Guardar perfil",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Save and Add New",
+    "text": "Guardar y agregar nueva persona cuidadora",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Are you sure you want to delete @fields.current_parent_name?",
+    "text": "¿Quieres eliminar a @fields.current_parent_name? Esto borrará toda su información y no se podrá deshacer",
+    "type": "template",
+    "note": "The string @fields.current_parent_name should not be translated."
+  },
+  {
+    "SourceText": "This will delete all of @fields.current_parent_name parent data. The action cannot be undone.",
+    "text": "Esto borrará todos los datos de la persona cuidadora @fields.current_parent_name. La acción no se podrá deshacer.",
+    "type": "template",
+    "note": "The string @fields.current_parent_name should not be translated."
+  },
+  {
+    "SourceText": "First Name",
+    "text": "Nombre",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Last Name",
+    "text": "Apellidos",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "ParentText ID",
+    "text": "Número de registro(ID)",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Make sure that the ParentText ID consists of 6 numerical characters.",
+    "text": "Asegúrate de que el número de Identificación del Programa Crianza con Conciencia + (CC+) conste de 6 caracteres numéricos.",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "This ParentText ID has already been assigned to another parent.",
+    "text": "Este número de Identificación del Programa Crianza con Conciencia + (CC+) ya ha sido asignado a otra madre, padre o persona cuidadora.",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Are you sure you want to archive @fields.current_group_name?",
+    "text": "¿Estás seguro de que quieres archivar el grupo @fields.current_group_name?",
+    "type": "template",
+    "note": "The string @fields.current_group_name should not be translated."
+  },
+  {
+    "SourceText": "Archiving this group will remove it from your active list.\nYou can still view its data later if needed.",
+    "text": "Archivar este grupo lo eliminará de tu lista activa.\nSi lo necesitas, podrás seguir viendo sus datos más adelante.",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Archive",
+    "text": "Archivo",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Are you sure you want to delete this report?",
+    "text": "¿Estás seguro de que quieres borrar este reporte?",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "This will delete all of your report data and entries. The action cannot be undone!",
+    "text": "Esto borrará todos los datos y entradas de tu reporte. La acción no se puede deshacer.",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Cancel",
+    "text": "No",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Delete",
+    "text": "Sí",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "test",
+    "text": "prueba",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Facilitator ID",
+    "text": "Número de Identificación de la Persona Facilitadora",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Paste the @local.facilitator_id of a user to import their account data.",
+    "text": "Pega la @local.facilitator_id de un usuario para importar los datos de su cuenta.",
+    "type": "template",
+    "note": "The string @local.facilitator_id should not be translated."
+  },
+  {
+    "SourceText": "Import data",
+    "text": "Importar datos",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Validation",
+    "text": "Validación",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "User name (on the current account)",
+    "text": "Nombre de usuario (en la cuenta actual)",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Clear user name",
+    "text": "Borrar el nombre de usuario",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "If you had set a user name on your old account and the data was imported succesfully, the user name above should update.",
+    "text": "Si configuraste un nombre de usuario en tu cuenta anterior y los datos se importaron correctamente, el nombre de usuario anterior debería de actualizarse.",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Co-parenting with",
+    "text": "Agregar persona con quien comparte la crianza",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "How many minutes did it take you to prepare for this session?",
+    "text": "¿Cuántos minutos tardaste en preparar la sesión?",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "How many minutes did it take you to travel to the location where the session was delivered?",
+    "text": "¿Cuántos minutos tardaste en desplazarte al lugar donde se impartió la sesión?",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "How many minutes did it take you to deliver the sessions?",
+    "text": "¿Cuántos minutos tardaste en impartir la sesión?",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Which of the parents in this group attended your in-person session?",
+    "text": "¿Quiénes fueron las y los miembros de tu grupo que asistieron a la sesión presencial de integración?",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "parents",
+    "text": "madre, padre o persona cuidadora",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Please check all the activities you completed during this session:",
+    "text": "Selecciona todas las actividades que hayas completado durante esta sesión:",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Templates",
+    "text": "Plantillas",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Dynamic data",
+    "text": "Datos dinámicos",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Reset app",
+    "text": "Restablecer aplicación",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Open feedback",
+    "text": "Abrir retroalimentación",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Close feedback",
+    "text": "Cerrar retroalimentación",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Import user",
+    "text": "Importar usuario",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Themes",
+    "text": "Temas",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Developer mode",
+    "text": "Opciones de desarrollador",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Exit developer mode",
+    "text": "Salir de opciones de desarrollador",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Save",
+    "text": "Guardar",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Your Reports",
+    "text": "Tus Reportes",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Parent Group",
+    "text": "Grupo de madres, padres y personas cuidadoras",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "pdf",
+    "text": "pdf",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Continue",
+    "text": "Continúa",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Copy code",
+    "text": "Copiar código",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Copied!",
+    "text": "¡Copiado!",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Last sync at: @local.sync_latest",
+    "text": "Última sincronización: @local.sync_latest",
+    "type": "template",
+    "note": "The string @local.sync_latest should not be translated."
+  },
+  {
+    "SourceText": "This device has never been synced. Sync to reveal your code.",
+    "text": "Este dispositivo nunca se ha sincronizado. Sincronízalo para revelar tu código.",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Sync now",
+    "text": "Sincronizar ahora",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Syncing...",
+    "text": "Sincronizando...",
     "type": "template",
     "note": ""
   }
