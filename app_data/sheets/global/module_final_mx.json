@@ -1,0 +1,219 @@
+{
+  "flow_type": "global",
+  "flow_name": "module_final_mx",
+  "status": "released",
+  "rows": [
+    {
+      "type": "declare_global_constant",
+      "name": "module_final_title"
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "support_button",
+      "value": "Frequently Asked Questions",
+      "_translations": {
+        "value": {
+          "mx_es": true
+        }
+      }
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "go_to_start",
+      "value": "View Module from Start",
+      "_translations": {
+        "value": {
+          "mx_es": true
+        }
+      }
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "reviewer_lottie",
+      "exclude_from_translation": true
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "reviewer_image",
+      "exclude_from_translation": true
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "reviewer_text"
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "module_not_complete_lottie",
+      "exclude_from_translation": true
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "module_not_complete_image",
+      "exclude_from_translation": true
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "module_not_complete_text",
+      "value": "Please make sure messages have been shared before completing session",
+      "_translations": {
+        "value": {
+          "mx_es": true
+        }
+      }
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "module_not_complete_report_lottie",
+      "exclude_from_translation": true
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "module_not_complete_report_image",
+      "exclude_from_translation": true
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "module_not_complete_report_text",
+      "value": "Please make sure messages have been shared before completing session",
+      "_translations": {
+        "value": {
+          "mx_es": true
+        }
+      }
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "mark_delivered",
+      "value": "Mark Session as Delivered",
+      "_translations": {
+        "value": {
+          "mx_es": true
+        }
+      }
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "report_to_do_lottie",
+      "value": "lottie/checkmark.json",
+      "_translations": {
+        "value": {}
+      },
+      "exclude_from_translation": true
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "report_to_do_image",
+      "exclude_from_translation": true
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "report_to_do_text",
+      "value": "You successfully completed this session! Please complete the report",
+      "_translations": {
+        "value": {
+          "mx_es": true
+        }
+      }
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "submit_report",
+      "value": "Add Report",
+      "_translations": {
+        "value": {
+          "mx_es": true
+        }
+      }
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "report_complete_lottie",
+      "value": "lottie/checkmark.json",
+      "_translations": {
+        "value": {}
+      },
+      "exclude_from_translation": true
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "report_complete_image",
+      "exclude_from_translation": true
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "report_complete_text",
+      "value": "You successfully completed the report for this session!",
+      "_translations": {
+        "value": {
+          "mx_es": true
+        }
+      }
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "review_report",
+      "value": "Review Report",
+      "_translations": {
+        "value": {
+          "mx_es": true
+        }
+      }
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "no_report_lottie",
+      "value": "lottie/checkmark.json",
+      "_translations": {
+        "value": {}
+      },
+      "exclude_from_translation": true
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "no_report_image",
+      "exclude_from_translation": true
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "no_report_text",
+      "value": "You successfully completed this session!",
+      "_translations": {
+        "value": {
+          "mx_es": true
+        }
+      }
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "mark_delivered_report",
+      "value": "Mark Session as Delivered and add report",
+      "_translations": {
+        "value": {
+          "mx_es": true
+        }
+      }
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "message_not_sharede_lottie",
+      "exclude_from_translation": true
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "message_not_shared_image",
+      "exclude_from_translation": true
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "message_not_shared_text",
+      "value": "Please share your message with the parent group before marking this module as delivered.",
+      "_translations": {
+        "value": {
+          "mx_es": true
+        }
+      }
+    }
+  ],
+  "_xlsxPath": "data/deployment_data_mx.xlsx",
+  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1rFg8qsmb3xSOXw_9Iwxk8RgSmyjqiao9"
+}

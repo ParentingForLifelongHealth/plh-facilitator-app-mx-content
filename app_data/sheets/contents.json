@@ -799,6 +799,12 @@
       "_xlsxPath": "data/deployment_data.xlsx",
       "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1Jo1-q7KOE4gC2XRKEMcU9bXnrwB5oCRC"
     },
+    "module_final_mx": {
+      "flow_type": "global",
+      "flow_name": "module_final_mx",
+      "_xlsxPath": "data/deployment_data_mx.xlsx",
+      "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1rFg8qsmb3xSOXw_9Iwxk8RgSmyjqiao9"
+    },
     "navigation_global": {
       "flow_type": "global",
       "flow_name": "navigation_global",

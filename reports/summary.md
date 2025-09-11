@@ -12,14 +12,14 @@
 | button | 112 |
 | carousel | 2 |
 | combo_box | 14 |
-| data_items | 47 |
+| data_items | 48 |
 | debug_toggle | 1 |
 | display_grid | 2 |
-| display_group | 135 |
+| display_group | 139 |
 | drawer | 1 |
 | google_sign_in_button | 3 |
 | image | 21 |
-| items | 21 |
+| items | 20 |
 | lottie_animation | 8 |
 | navigation_bar | 2 |
 | pdf | 1 |
@@ -28,11 +28,11 @@
 | round_button | 32 |
 | select_text | 2 |
 | set_field | 4 |
-| set_variable | 619 |
+| set_variable | 623 |
 | simple_checkbox | 2 |
 | task_card | 6 |
 | task_progress_bar | 2 |
-| template | 104 |
+| template | 106 |
 | test | 1 |
 | text | 183 |
 | text_area | 4 |
@@ -94,7 +94,7 @@ Assets that appear in app-data but do not have references within sheets
 | android/icon-foreground.png | 31.1 |
 | android/icon.png | 108.2 |
 | android/splash.png | 290.4 |
-| contents.json | 2.7 |
+| contents.json | 2.8 |
 | images/backgrounds/library_bottom_left.svg | 2.3 |
 | images/backgrounds/library_top_right.svg | 0.3 |
 | images/backgrounds/report_edit.svg | 0.2 |
@@ -232,7 +232,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/pcc_9.png | 158.4 | 1 |
 | images/talk_feelings_challenges.svg | 19.3 | 1 |
 | images/thoughts_feelings.png | 87.6 | 1 |
-| lottie/checkmark.json | 23.6 | 1 |
+| lottie/checkmark.json | 23.6 | 4 |
 | pdf/manual.pdf | 1107.6 | 1 |
 | pdf/overview_guide_study.pdf | 1996.8 | 1 |
 | pdf/peas.pdf | 590.3 | 1 |
@@ -251,7 +251,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | data_list | lifecycle_actions | 1 |
 | data_pipe |  | 1 |
 | generator |  | 6 |
-| global |  | 15 |
+| global |  | 16 |
 | global | legal_terms | 2 |
 | global | onboarding | 2 |
 | template |  | 86 |
