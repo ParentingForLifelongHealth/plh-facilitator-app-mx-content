@@ -39,7 +39,7 @@
       },
       {
         "type": "data_items",
-        "count": 47
+        "count": 48
       },
       {
         "type": "debug_toggle",
@@ -51,7 +51,7 @@
       },
       {
         "type": "display_group",
-        "count": 135
+        "count": 139
       },
       {
         "type": "drawer",
@@ -67,7 +67,7 @@
       },
       {
         "type": "items",
-        "count": 21
+        "count": 20
       },
       {
         "type": "lottie_animation",
@@ -103,7 +103,7 @@
       },
       {
         "type": "set_variable",
-        "count": 619
+        "count": 623
       },
       {
         "type": "simple_checkbox",
@@ -119,7 +119,7 @@
       },
       {
         "type": "template",
-        "count": 104
+        "count": 106
       },
       {
         "type": "test",
@@ -289,7 +289,7 @@
       },
       {
         "path": "contents.json",
-        "size_kb": 2.7
+        "size_kb": 2.8
       },
       {
         "path": "images/backgrounds/library_bottom_left.svg",
@@ -855,7 +855,7 @@
       },
       {
         "path": "lottie/checkmark.json",
-        "count": 1,
+        "count": 4,
         "size_kb": 23.6
       },
       {
@@ -920,7 +920,7 @@
       {
         "type": "global",
         "subtype": null,
-        "total": 15
+        "total": 16
       },
       {
         "type": "global",
