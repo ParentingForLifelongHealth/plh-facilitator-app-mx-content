@@ -3,7 +3,7 @@
   "flow_name": "programme_name_chih",
   "status": "released",
   "override_target": "programme_name",
-  "override_condition": "@fields.current_package == \"study_dif_chih\"",
+  "override_condition": "@fields.user_state == \"chihuahua\"",
   "rows": [
     {
       "type": "declare_global_constant",

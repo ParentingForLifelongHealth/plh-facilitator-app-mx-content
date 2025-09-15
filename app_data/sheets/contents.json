@@ -841,7 +841,7 @@
       "flow_type": "global",
       "flow_name": "programme_name_chih",
       "override_target": "programme_name",
-      "override_condition": "@fields.current_package == \"study_dif_chih\"",
+      "override_condition": "@fields.user_state == \"chihuahua\"",
       "_xlsxPath": "data/dynamic_global_mx.xlsx",
       "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1rFg8qsmb3xSOXw_9Iwxk8RgSmyjqiao9"
     },
