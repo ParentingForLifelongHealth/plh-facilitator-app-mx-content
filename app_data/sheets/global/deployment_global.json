@@ -285,14 +285,6 @@
           "mx_es": true
         }
       }
-    },
-    {
-      "type": "declare_global_constant",
-      "name": "close_stack_icon",
-      "value": "images/icons/cancel.svg",
-      "_translations": {
-        "value": {}
-      }
     }
   ],
   "_xlsxPath": "data/deployment_data.xlsx",
