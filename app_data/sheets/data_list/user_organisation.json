@@ -93,6 +93,21 @@
           "eng": "Juconi"
         }
       }
+    },
+    {
+      "id": "other",
+      "name": "other",
+      "text": "Other",
+      "_translations": {
+        "text": {
+          "mx_es": true
+        }
+      },
+      "_translatedFields": {
+        "text": {
+          "eng": "Other"
+        }
+      }
     }
   ],
   "_xlsxPath": "data/deployment_data_mx.xlsx",
