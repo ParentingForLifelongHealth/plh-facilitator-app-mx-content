@@ -519,7 +519,7 @@
       "_translations": {
         "value": {}
       },
-      "exclude_from_translation": true,
+      "exclude_from_translation": false,
       "type": "set_variable",
       "_nested_name": "no_of_parent_groups",
       "_dynamicFields": {
