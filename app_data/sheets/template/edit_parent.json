@@ -23,7 +23,9 @@
           "name": "title",
           "value": "Edit Parent",
           "_translations": {
-            "value": {}
+            "value": {
+              "mx_es": true
+            }
           },
           "exclude_from_translation": false,
           "type": "set_variable",

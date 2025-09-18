@@ -3084,12 +3084,6 @@
     "note": ""
   },
   {
-    "SourceText": "Submit Report",
-    "text": "Enviar informe ",
-    "type": "global",
-    "note": ""
-  },
-  {
     "SourceText": "GUIDE",
     "text": "GUÍA",
     "type": "global",
@@ -3259,7 +3253,7 @@
   },
   {
     "SourceText": "Welcome to \n@global.app_name!",
-    "text": "¡Bienvenido a \n@global.app_name!",
+    "text": "¡Te damos la bienvenida a \n@global.app_name!",
     "type": "global",
     "note": "The string @global.app_name! should not be translated."
   },
@@ -3271,7 +3265,7 @@
   },
   {
     "SourceText": "Creating an account allows you to save your progress across devices. It is optional.",
-    "text": "Crear una cuenta te permite guardar tu progreso en diferentes equipos. Es opcional.",
+    "text": "Crear una cuenta te permite guardar tu progreso y poder acceder desde diferentes dispositivos. Es opcional.",
     "type": "global",
     "note": ""
   },
@@ -3672,6 +3666,12 @@
     "note": ""
   },
   {
+    "SourceText": "Add Parent",
+    "text": "Agregar persona cuidadora",
+    "type": "template",
+    "note": ""
+  },
+  {
     "SourceText": "Save Profile",
     "text": "Guardar perfil",
     "type": "template",
@@ -3694,6 +3694,12 @@
     "text": "Esto borrará todos los datos de la persona cuidadora @fields.current_parent_name. La acción no se podrá deshacer.",
     "type": "template",
     "note": "The string @fields.current_parent_name should not be translated."
+  },
+  {
+    "SourceText": "Edit Parent",
+    "text": "Editar persona cuidadora",
+    "type": "template",
+    "note": ""
   },
   {
     "SourceText": "First Name",
@@ -3740,6 +3746,12 @@
   {
     "SourceText": "Archive",
     "text": "Archivo",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Create New Group",
+    "text": "Crea un nuevo grupo",
     "type": "template",
     "note": ""
   },
