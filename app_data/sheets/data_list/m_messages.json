@@ -697,7 +697,7 @@
     {
       "id": "message_26",
       "foreign_key": "pcc",
-      "asset_type": "images/pcc_1.png",
+      "asset": "images/pcc_1.png",
       "title": "Tip 1",
       "_translations": {
         "title": {
@@ -713,7 +713,7 @@
     {
       "id": "message_27",
       "foreign_key": "pcc_2",
-      "asset_type": "images/pcc_2.png",
+      "asset": "images/pcc_2.png",
       "title": "Tip 2",
       "_translations": {
         "title": {
@@ -729,7 +729,7 @@
     {
       "id": "message_28",
       "foreign_key": "pcc_3",
-      "asset_type": "images/pcc_3.png",
+      "asset": "images/pcc_3.png",
       "title": "Tip 3",
       "_translations": {
         "title": {
@@ -745,7 +745,7 @@
     {
       "id": "message_29",
       "foreign_key": "pcc_4",
-      "asset_type": "images/pcc_4.png",
+      "asset": "images/pcc_4.png",
       "title": "Tip 4",
       "_translations": {
         "title": {
@@ -761,7 +761,7 @@
     {
       "id": "message_30",
       "foreign_key": "pcc_5",
-      "asset_type": "images/pcc_5.png",
+      "asset": "images/pcc_5.png",
       "title": "Tip 5",
       "_translations": {
         "title": {
@@ -777,7 +777,7 @@
     {
       "id": "message_31",
       "foreign_key": "pcc_6",
-      "asset_type": "images/pcc_6.png",
+      "asset": "images/pcc_6.png",
       "title": "Tip 6",
       "_translations": {
         "title": {
@@ -793,7 +793,7 @@
     {
       "id": "message_32",
       "foreign_key": "pcc_7",
-      "asset_type": "images/pcc_7.png",
+      "asset": "images/pcc_7.png",
       "title": "Tip 7",
       "_translations": {
         "title": {
@@ -809,7 +809,7 @@
     {
       "id": "message_33",
       "foreign_key": "pcc_8",
-      "asset_type": "images/pcc_8.png",
+      "asset": "images/pcc_8.png",
       "title": "Tip 8",
       "_translations": {
         "title": {
@@ -825,7 +825,7 @@
     {
       "id": "message_34",
       "foreign_key": "pcc_9",
-      "asset_type": "images/pcc_9.png",
+      "asset": "images/pcc_9.png",
       "title": "Tip 9",
       "_translations": {
         "title": {
@@ -841,7 +841,7 @@
     {
       "id": "message_35",
       "foreign_key": "pcc_10",
-      "asset_type": "images/pcc_10.png",
+      "asset": "images/pcc_10.png",
       "title": "Tip 10",
       "_translations": {
         "title": {
@@ -857,7 +857,7 @@
     {
       "id": "message_36",
       "foreign_key": "pcc_11",
-      "asset_type": "images/pcc_11.png",
+      "asset": "images/pcc_11.png",
       "title": "Tip 11",
       "_translations": {
         "title": {
@@ -873,7 +873,7 @@
     {
       "id": "message_37",
       "foreign_key": "pcc_12",
-      "asset_type": "images/pcc_12.png",
+      "asset": "images/pcc_12.png",
       "title": "Tip 12",
       "_translations": {
         "title": {
@@ -889,7 +889,7 @@
     {
       "id": "message_38",
       "foreign_key": "pcc_13",
-      "asset_type": "images/pcc_13.png",
+      "asset": "images/pcc_13.png",
       "title": "Tip 13",
       "_translations": {
         "title": {
@@ -905,7 +905,7 @@
     {
       "id": "message_39",
       "foreign_key": "pcc_14",
-      "asset_type": "images/pcc_14.png",
+      "asset": "images/pcc_14.png",
       "title": "Tip 14",
       "_translations": {
         "title": {
@@ -921,7 +921,7 @@
     {
       "id": "message_40",
       "foreign_key": "pcc_15",
-      "asset_type": "images/pcc_15.png",
+      "asset": "images/pcc_15.png",
       "title": "Tip 15",
       "_translations": {
         "title": {
@@ -937,7 +937,7 @@
     {
       "id": "message_41",
       "foreign_key": "pcc_16",
-      "asset_type": "images/pcc_16.png",
+      "asset": "images/pcc_16.png",
       "title": "Tip 16",
       "_translations": {
         "title": {
